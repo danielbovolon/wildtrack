@@ -1,7 +1,7 @@
 # Wildtrack
 
 The sister of Talkback, for people who make sound. In film sound, a wildtrack is sound recorded without picture, free to become anything. It covers sound design, composition, field recording, sound art and every craft that meets audio.
-Every morning: one seed (a word, a few words, a sentence or an image) with a generated plate, a short prompt, something to listen to, a lesson from another profession, and 14–22 verified news stories.
+Every morning: one seed taken from the real world (a photograph, a quotation, a concept or a word, always with its source), something to listen to, a lesson from another profession, and 14–22 verified news stories.
 
 It's a static site built the same way as Talkback: one `index.html`, a few images, and JSON files in `data/`. No build step, no server, no accounts.
 
@@ -74,7 +74,19 @@ python3 -m http.server 8000
 
 ## Seed file format
 
-Each `seed-YYYY-MM-DD.json` holds `key`, `label`, `range`, `generated`, `seed` (`kind`, `text`, `gloss`, `ways`), `visual` (`form`, `seed`, `palette`, `ground`, `caption`), `exercise`, `listen`, `crossover`, `headline`, `lead`, `items` and `radar`. See `data/seeds/seed-2026-10-04.json` for a complete example.
+Each `seed-YYYY-MM-DD.json` holds `key`, `label`, `range`, `generated`, `seed`, `visual`, `listen`, `crossover`, `headline`, `lead`, `items` and `radar`. See `data/seeds/seed-2026-10-04.json` for a complete example.
+
+The `seed` is always real material with a source, never invented:
+
+- `kind`: `photo`, `quote`, `concept` or `word`
+- `text`: the photo's subject, the quotation, the term or the word
+- `note`: a short factual note
+- `source`: `{ label, url }` (required except for photos)
+- `by`, `work`, `year`: who said or wrote a quotation
+- `lang`: language of a foreign word
+- `photo`: `{ src, title, alt, credit, licence, page }`, for example from Wikimedia Commons; `page` links to where the photo and its licence are shown
+
+`visual` describes the generated pattern shown when there is no photo (or when a viewer can't load it).
 
 Sections for `items[].cat`: `sounddesign`, `music`, `field`, `synthesis`, `tools`, `film`, `games`, `art`, `space`, `stage`, `radio`, `visual`, `design`, `nature`, `access`, `calls`.
 

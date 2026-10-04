@@ -1,7 +1,7 @@
 {
   "name": "Wildtrack",
   "short_name": "Wildtrack",
-  "description": "One seed a day for people who make sound.",
+  "description": "One real seed a day for people who make sound.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

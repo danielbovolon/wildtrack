@@ -12,7 +12,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 CATS = {"sounddesign","music","field","synthesis","tools","film","games","art",
         "space","stage","radio","visual","design","nature","access","calls"}
-KINDS = {"word","words","sentence","image"}
+KINDS = {"word","concept","quote","photo"}
 FORMS = {"strata","rings","grain","lissajous","score","orbits"}
 
 def load(p):
@@ -26,7 +26,12 @@ def check_seed(p, d):
         if k not in d: sys.exit(f"{p.name}: missing '{k}'")
     sp = d["seed"]
     if not sp.get("text"): sys.exit(f"{p.name}: seed needs 'text'")
-    if sp.get("kind") not in KINDS: print(f"warning: {p.name} seed kind '{sp.get('kind')}' is not one of {sorted(KINDS)}")
+    if sp.get("kind") not in KINDS: sys.exit(f"{p.name}: seed kind '{sp.get('kind')}' must be one of {sorted(KINDS)}")
+    if sp["kind"] == "quote" and not sp.get("by"): sys.exit(f"{p.name}: a quote needs 'by' (who said or wrote it)")
+    if sp["kind"] == "photo":
+        ph = sp.get("photo") or {}
+        if not (ph.get("src") and ph.get("page")): sys.exit(f"{p.name}: a photo needs photo.src and photo.page (where it comes from)")
+    elif not (sp.get("source") or {}).get("url"): sys.exit(f"{p.name}: seed needs source.url so it can be checked")
     v = d.get("visual") or {}
     if v.get("form") and v["form"] not in FORMS: print(f"warning: {p.name} visual form '{v['form']}' is unknown")
     for i, it in enumerate(d.get("items", [])):

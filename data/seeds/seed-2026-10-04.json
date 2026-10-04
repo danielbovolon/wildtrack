@@ -2,16 +2,22 @@
   "key": "2026-10-04",
   "label": "Sun 4 Oct 2026",
   "range": "16 Sep – 4 Oct 2026",
-  "generated": "2026-10-04T13:20:00+02:00",
+  "generated": "2026-10-04T14:20:00+02:00",
   "seed": {
-    "kind": "words",
-    "text": "Glass that remembers breath",
-    "gloss": "A surface that keeps a trace of what touched it for a moment, then lets it go. Think of fogged glass, a wine glass still ringing, a window that hums when a truck passes. Today is about short memory: sounds that hold on briefly and fade.",
-    "ways": [
-      "Breathe across the rim of a bottle or jar and record only the decay after the breath stops.",
-      "Use a short, bright impulse response as an instrument: feed it whispers and let the tail do the work.",
-      "Build a piece where each event leaves a faint copy of itself that the next event erases."
-    ]
+    "kind": "photo",
+    "text": "Sea Organ, Zadar",
+    "note": "Architect Nikola Bašić turned a post-war concrete seawall in Zadar, Croatia, into white marble steps that run down into the Adriatic. Under the steps sit polyethylene tubes and a resonating cavity: the waves push air through them, so the sea plays the steps with no score and no performer.\n\nIt opened on 15 April 2005 as part of the city's new waterfront and shared the 2006 European Prize for Urban Public Space.",
+    "source": {
+      "label": "Wikipedia, Sea organ",
+      "url": "https://en.wikipedia.org/wiki/Sea_organ"
+    },
+    "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sea_organ_Zadar_1.jpg",
+      "title": "The Sea Organ steps, Zadar",
+      "alt": "White marble steps leading down into the sea at Zadar, with small openings where the organ's pipes breathe",
+      "credit": "via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File:Sea_organ_Zadar_1.jpg"
+    }
   },
   "visual": {
     "form": "rings",
@@ -24,24 +30,17 @@
     "ground": "#0B0E14",
     "caption": "Plate 001 · interference rings · #1004"
   },
-  "exercise": {
-    "title": "One glass, three distances",
-    "minutes": 25,
-    "body": "Pick one glass object: a drinking glass, a jar, a window pane. Record it three ways: a contact mic or a mic almost touching it, a mic at about 30 cm, and a mic across the room. Tap it, rub it with a wet finger, breathe on it.\n\nLine the three takes up and listen to how distance changes the sound more than any plugin would. If you want to go further, export the cleanest tap as an impulse response and run your own voice through it.",
-    "constraint": "No EQ. Only distance, level and editing."
-  },
   "listen": {
     "artist": "Alvin Lucier",
     "work": "I Am Sitting in a Room",
     "year": 1969,
-    "why": "Lucier records a short spoken text, plays it back into the room and re-records it, over and over, until the room's resonances swallow the words and only pitch is left. It is the plainest demonstration there is that a space is an instrument, and that repetition is a form of processing. Listen with today's seed in mind: the room remembers the voice a little more each pass, until memory is all that remains.",
+    "why": "Lucier records himself reading a short text, plays the recording back into the room and records it again, over and over. With each pass the room's own resonances build up until the words dissolve and only pitch is left. Like the Sea Organ, the space is the instrument.",
     "url": "https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room"
   },
   "crossover": {
     "field": "Product & UX design",
     "title": "Dieter Rams, rewritten for sound",
-    "body": "Karsten Kjems, who runs the Copenhagen audio branding agency Sonic Minds, has reworked Dieter Rams' ten principles of good design for sound. His version argues that a sound should do a job, such as confirming or warning, and that it should be honest about what the product is, be built to survive thousands of repeats, and stay silent when it has nothing to say.\n\nFor anyone making UI sounds, installations or even film effects that repeat, the useful idea is that repetition is the real test. A sound that is charming once can become noise pollution by the hundredth play.",
-    "takeaway": "Before adding a sound, write in one sentence what it is for. If you can't, leave it out.",
+    "body": "Karsten Kjems, who runs the Copenhagen audio branding agency Sonic Minds, has reworked Dieter Rams' ten principles of good design for sound. His version argues that a sound should do a job, such as confirming or warning, and that it should be honest about what the product is, be built to survive thousands of repeats, and stay silent when it has nothing to say.",
     "source": "A Sound Effect",
     "url": "https://www.asoundeffect.com/10-principles-for-good-sound-design/"
   },
