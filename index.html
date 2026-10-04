@@ -1,0 +1,794 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Wildtrack</title>
+<meta name="description" content="A daily creative brief for people who make sound: one seed to work from, a prompt, something to listen to, a lesson from another craft, and news from every discipline that meets audio.">
+<meta name="theme-color" content="#E5E7EB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121520" media="(prefers-color-scheme: dark)">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Wildtrack">
+<meta property="og:title" content="Wildtrack">
+<meta property="og:description" content="One seed a day for people who make sound. A prompt, something to hear, and news from every craft that meets audio.">
+<meta property="og:image" content="assets/og-image.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<style>:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Fredoka:wdth,wght@75..125,500..700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: the control room edition's meter bridge, moved into the live room — the same switches, scribble-strip tape and channel-strip top stories, in cooler night-session colours with a cyan "glow" and a magenta record light. Today's seed leads as a generated plate under a rounded headline; the app name and the seed share one soft, rounded face. */
+:root {
+  --bg: #E5E7EB;
+  --panel: #F4F5F7;
+  --panel-2: #D9DCE2;
+  --ink: #1A1E27;
+  --muted: #5A6170;
+  --line: #C3C8D1;
+  --link: #3346B8;
+  --glow: #0C8F9B;
+  --glow-ink: #FFFFFF;
+  --rec: #C42A6B;
+  --plate: #0C0E15;
+  --c-sounddesign: #3346B8;
+  --c-music: #8A2D84;
+  --c-field: #3B6E1F;
+  --c-synthesis: #A86E00;
+  --c-tools: #2F6FA3;
+  --c-film: #B3243F;
+  --c-games: #5B3FC4;
+  --c-art: #B24A12;
+  --c-space: #4B5A6B;
+  --c-stage: #A3367A;
+  --c-radio: #8A5A2B;
+  --c-visual: #0C8F9B;
+  --c-design: #56606A;
+  --c-nature: #2B8455;
+  --c-access: #0F7A7A;
+  --c-calls: #C42A6B;
+  --tape-ink: #FFFFFF;
+  --shadow: 0 1px 0 rgba(255,255,255,.75) inset, 0 1px 2px rgba(20,24,40,.13);
+  --f-display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --f-round: "Fredoka", "Nunito", "Arial Rounded MT Bold", "Varela Round", system-ui, sans-serif;
+  --f-body: "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121520; --panel: #1A1E2A; --panel-2: #242938; --ink: #E4E6EE; --muted: #9097A8;
+    --line: #2C3242; --link: #93A2FF; --glow: #3FD0DC; --glow-ink: #062326; --rec: #FF5C93; --plate: #07080D;
+    --c-sounddesign: #93A2FF; --c-music: #DA86D3; --c-field: #96CF6E; --c-synthesis: #E2BE48; --c-tools: #5D9BD0;
+    --c-film: #FF7A92; --c-games: #A99BFF; --c-art: #F0905A; --c-space: #A9B4C2; --c-stage: #E27BBE; --c-radio: #D29A62;
+    --c-visual: #3FD0DC; --c-design: #A7B1BA; --c-nature: #4DB47D; --c-access: #3FB8B8; --c-calls: #FF5C93;
+    --tape-ink: #0B0D14;
+    --shadow: 0 1px 0 rgba(255,255,255,.04) inset, 0 1px 2px rgba(0,0,0,.45);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121520; --panel: #1A1E2A; --panel-2: #242938; --ink: #E4E6EE; --muted: #9097A8;
+  --line: #2C3242; --link: #93A2FF; --glow: #3FD0DC; --glow-ink: #062326; --rec: #FF5C93; --plate: #07080D;
+  --c-sounddesign: #93A2FF; --c-music: #DA86D3; --c-field: #96CF6E; --c-synthesis: #E2BE48; --c-tools: #5D9BD0;
+  --c-film: #FF7A92; --c-games: #A99BFF; --c-art: #F0905A; --c-space: #A9B4C2; --c-stage: #E27BBE; --c-radio: #D29A62;
+  --c-visual: #3FD0DC; --c-design: #A7B1BA; --c-nature: #4DB47D; --c-access: #3FB8B8; --c-calls: #FF5C93;
+  --tape-ink: #0B0D14;
+  --shadow: 0 1px 0 rgba(255,255,255,.04) inset, 0 1px 2px rgba(0,0,0,.45);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; }
+a { color: var(--link); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--glow); outline-offset: 2px; }
+
+.wrap { max-width: 660px; margin: 0 auto; padding: 0 16px; padding-block: 0 48px; }
+
+/* Meter bridge */
+.bridge { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 14px 10px; border-bottom: 1px solid var(--line); }
+.brand { display: flex; align-items: center; gap: 12px; }
+.logo { flex: none; height: 64px; width: auto; display: block; }
+:root[data-theme="dark"] .logo { filter: invert(1) hue-rotate(180deg) brightness(1.05); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .logo { filter: invert(1) hue-rotate(180deg) brightness(1.05); } }
+.wordmark { font-family: var(--f-round); font-weight: 700; font-stretch: 88%; font-variation-settings: "wdth" 88; font-size: 33px; line-height: .9; letter-spacing: -.01em; margin: 0; }
+.wordmark span { color: var(--glow); }
+.tagline { font-family: var(--f-mono); font-size: 11px; color: var(--muted); letter-spacing: .06em; text-transform: uppercase; }
+.brand .tc { margin-left: auto; font-family: var(--f-mono); font-size: 12px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+.brand .tc b { display: block; color: var(--ink); font-size: 15px; font-weight: 600; }
+.brand .tc .rec { display: inline-flex; align-items: center; gap: 5px; color: var(--rec); letter-spacing: .1em; }
+.brand .tc .rec::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--rec); box-shadow: 0 0 6px var(--rec); }
+
+.switches { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 5px; margin-top: 12px; }
+.sw { appearance: none; border: 1px solid var(--line); background: var(--panel); border-radius: 6px; padding: 7px 4px 6px; cursor: pointer;
+  display: flex; flex-direction: column; align-items: center; gap: 4px; box-shadow: var(--shadow); }
+.sw .led { width: 8px; height: 8px; border-radius: 50%; background: var(--panel-2); border: 1px solid var(--line); }
+.sw .k { font-family: var(--f-display); font-weight: 800; font-size: 15px; line-height: 1; text-transform: uppercase; letter-spacing: .02em; }
+.sw .s { font-family: var(--f-mono); font-size: 9.5px; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
+@media (max-width: 400px) { .sw .k { font-size: 13.5px; letter-spacing: 0; } .sw .s { font-size: 8.5px; } }
+.sw[aria-selected="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.sw[aria-selected="true"] .s { color: var(--bg); opacity: .7; }
+.sw[aria-selected="true"] .led { background: var(--glow); border-color: var(--glow); box-shadow: 0 0 8px var(--glow); }
+
+/* Slate */
+.slate { margin-top: 20px; display: grid; gap: 6px; }
+.slate .row { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; font-family: var(--f-mono); font-size: 12px; color: var(--muted); letter-spacing: .03em; font-variant-numeric: tabular-nums; }
+.slate h2 { font-family: var(--f-display); font-weight: 800; font-size: clamp(30px, 8vw, 42px); line-height: .98; margin: 2px 0 0; text-transform: uppercase; text-wrap: balance; overflow-wrap: anywhere; }
+.slate h2.seed { font-family: var(--f-round); font-weight: 650; font-stretch: 90%; font-variation-settings: "wdth" 90; letter-spacing: -.02em; text-transform: none; }
+.slate h2.seed.word { font-size: clamp(64px, 19vw, 124px); line-height: .9; font-weight: 700; }
+.slate h2.seed.words { font-size: clamp(44px, 11.5vw, 74px); line-height: .95; }
+.slate h2.seed.sentence, .slate h2.seed.image { font-weight: 500; font-size: clamp(30px, 8vw, 44px); line-height: 1.08; }
+.slate .kind { color: var(--glow); font-weight: 600; }
+.meter { display: flex; align-items: center; gap: 8px; }
+.meter .bars { display: flex; gap: 2px; }
+.meter .bars i { width: 5px; height: 12px; border-radius: 1px; background: var(--panel-2); display: block; }
+.meter .bars i.on { background: var(--glow); }
+.meter .bars i.on.hot { background: var(--c-synthesis); }
+.meter .bars i.on.clip { background: var(--rec); }
+.archive { margin-left: auto; }
+.archive select { font: inherit; font-family: var(--f-mono); font-size: 12px; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 4px 6px; max-width: 46vw; }
+
+.lead { margin-top: 16px; font-size: 18px; line-height: 1.5; max-width: 62ch; }
+.lead::first-line { font-weight: 700; }
+
+/* Plate: today's generated image, framed like a scope */
+.plate { margin: 16px 0 0; background: var(--plate); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; position: relative; box-shadow: var(--shadow); }
+.plate canvas { display: block; width: 100%; max-width: 100%; aspect-ratio: 3 / 2; }
+.plate figcaption { position: absolute; left: 10px; right: 10px; bottom: 8px; display: flex; gap: 8px; align-items: center; font-family: var(--f-mono); font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.75); text-shadow: 0 1px 2px rgba(0,0,0,.7); }
+.plate figcaption::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: #3FD0DC; box-shadow: 0 0 6px #3FD0DC; flex: none; }
+
+/* Boxes */
+.kbox { margin-top: 14px; border: 1px solid var(--line); background: var(--panel); border-radius: 6px; padding: 12px 14px; display: grid; gap: 6px; box-shadow: var(--shadow); }
+.kbox .lbl { font-family: var(--f-mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.kbox h3 { margin: 0; font-family: var(--f-display); font-weight: 800; font-size: 24px; line-height: 1.02; text-transform: uppercase; text-wrap: balance; }
+.kbox p { margin: 0; max-width: 62ch; }
+.kbox ol { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
+.kbox.glow { border-left: 3px solid var(--glow); }
+.kbox.rec { border-left: 3px solid var(--rec); }
+.pill { justify-self: start; display: inline-flex; gap: 8px; align-items: baseline; font-family: var(--f-mono); font-size: 12px; border: 1px solid var(--line); border-radius: 4px; padding: 4px 8px; background: var(--bg); max-width: 100%; }
+.pill b { color: var(--glow); font-weight: 600; letter-spacing: .08em; text-transform: uppercase; font-size: 11px; flex: none; }
+.btnrow { margin-top: 12px; display: flex; gap: 6px; flex-wrap: wrap; }
+
+/* Scribble strip filters */
+.strip { display: flex; gap: 6px; overflow-x: auto; margin-top: 18px; padding-bottom: 4px; scrollbar-width: none; }
+.strip::-webkit-scrollbar { display: none; }
+.chip { flex: none; border: 1px solid var(--line); background: var(--panel); border-radius: 3px; padding: 4px 9px; cursor: pointer;
+  font-family: var(--f-mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; display: flex; align-items: center; gap: 6px; }
+.chip .dot { width: 8px; height: 8px; border-radius: 2px; background: var(--cat, var(--muted)); }
+.chip[aria-pressed="true"] { background: var(--cat, var(--ink)); color: var(--tape-ink); border-color: transparent; }
+.chip[aria-pressed="true"] .dot { background: var(--tape-ink); }
+.chip .n { opacity: .65; }
+.chip.top { --cat: var(--glow); }
+.chip.fr { --cat: var(--c-nature); }
+.btag.free { color: var(--c-nature); border-color: var(--c-nature); }
+
+/* Section labels */
+.sect { margin: 22px 0 0; display: flex; align-items: center; gap: 10px; font-family: var(--f-mono); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+.sect::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.sect.grp { color: var(--ink); font-weight: 600; }
+.sect.grp::before { content: ""; width: 8px; height: 8px; border-radius: 2px; background: var(--cat); flex: none; }
+.newshead { margin-top: 30px; padding-top: 16px; border-top: 2px solid var(--ink); }
+
+/* Log entries */
+.log { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 0; }
+.entry { padding-block: 16px; border-top: 1px solid var(--line); display: grid; grid-template-columns: minmax(0, 1fr); gap: 6px; }
+.entry:first-child { border-top: 0; }
+.entry .meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.tape { display: inline-block; background: var(--cat); color: var(--tape-ink); font-family: var(--f-display); font-weight: 800; font-size: 13px; letter-spacing: .08em;
+  text-transform: uppercase; padding: 2px 8px 1px; border-radius: 2px; transform: rotate(1deg); }
+.btag { font-family: var(--f-mono); font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--rec); border: 1px solid var(--rec); border-radius: 2px; padding: 1px 6px; }
+.entry .date { font-family: var(--f-mono); font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.sig { font-family: var(--f-mono); font-size: 11px; color: var(--muted); display: flex; gap: 2px; align-items: center; }
+.sig i { width: 4px; height: 10px; background: var(--panel-2); display: block; border-radius: 1px; }
+.sig i.on { background: var(--glow); }
+.entry h3 { margin: 0; font-size: 19px; line-height: 1.3; font-weight: 700; text-wrap: balance; }
+.entry .take { margin: 0; color: var(--ink); max-width: 62ch; }
+.entry .take::before { content: "Creative take — "; font-family: var(--f-mono); font-size: 11px; letter-spacing: .06em; color: var(--muted); text-transform: uppercase; }
+
+/* Top stories: a full channel strip */
+.entry.top { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 16px 16px 14px; margin-top: 10px; box-shadow: var(--shadow); }
+.entry.top + .entry.top { margin-top: 12px; }
+.entry.top h3 { font-family: var(--f-display); font-weight: 800; font-size: clamp(24px, 6vw, 30px); line-height: 1.02; text-transform: uppercase; letter-spacing: .01em; }
+.entry.top .take { font-size: 17px; }
+.deep { display: grid; gap: 10px; margin-top: 4px; max-width: 62ch; }
+.deep p { margin: 0; }
+.deep .lbl { font-family: var(--f-mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.todo { margin-top: 2px; border-left: 3px solid var(--cat); padding: 6px 0 6px 12px; max-width: 62ch; }
+.todo b { display: block; font-family: var(--f-mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+.more { justify-self: start; background: none; border: 0; padding: 2px 0; cursor: pointer; font-family: var(--f-mono); font-size: 12px; color: var(--link); letter-spacing: .03em; }
+
+.entry .foot { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; font-size: 14px; }
+.entry .src { font-family: var(--f-mono); font-size: 12px; overflow-wrap: anywhere; }
+.act { margin-left: auto; display: flex; gap: 6px; }
+.btn { border: 1px solid var(--line); background: var(--panel); border-radius: 5px; padding: 4px 10px; cursor: pointer; font-family: var(--f-mono); font-size: 11.5px; letter-spacing: .04em; box-shadow: var(--shadow); }
+.entry.top .btn, .kbox .btn { background: var(--bg); }
+.btn[aria-pressed="true"] { background: var(--glow); color: var(--glow-ink); border-color: var(--glow); }
+.btn:disabled { opacity: .5; cursor: default; }
+.answer { margin-top: 4px; background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--glow); border-radius: 4px; padding: 10px 12px; font-size: 15px; white-space: pre-wrap; overflow-wrap: anywhere; }
+.answer .note { display: block; margin-top: 6px; font-family: var(--f-mono); font-size: 11px; color: var(--muted); }
+
+/* On the radar */
+.radar { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 0; }
+.radar li { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 12px; padding-block: 10px; border-top: 1px dashed var(--line); }
+.radar li:first-child { border-top: 0; }
+.radar .d { font-family: var(--f-mono); font-size: 12px; color: var(--ink); font-variant-numeric: tabular-nums; font-weight: 600; }
+.radar .t { font-weight: 700; }
+.radar .n { color: var(--muted); font-size: 15px; }
+
+/* Prompt: the desk note */
+.craft { margin-top: 22px; background: var(--ink); color: var(--bg); border-radius: 6px; padding: 18px 18px 16px; display: grid; gap: 8px; }
+.craft .lbl { font-family: var(--f-mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; opacity: .7; }
+.craft h3 { font-family: var(--f-display); font-weight: 800; font-size: 28px; line-height: 1; margin: 0; text-transform: uppercase; text-wrap: balance; }
+.craft p { margin: 0; max-width: 62ch; }
+.craft .pill { background: transparent; border-color: currentColor; color: inherit; }
+.craft .pill b { color: var(--glow); }
+
+.empty { margin-top: 28px; padding: 22px 18px; border: 1px dashed var(--line); border-radius: 6px; color: var(--muted); }
+.empty b { color: var(--ink); font-family: var(--f-display); font-size: 22px; text-transform: uppercase; display: block; margin-bottom: 4px; }
+.about { margin-top: 40px; padding-top: 18px; border-top: 1px solid var(--line); display: flex; gap: 14px; align-items: flex-start; }
+.about img { flex: none; height: 48px; width: auto; }
+:root[data-theme="dark"] .about img { filter: invert(1) hue-rotate(180deg); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .about img { filter: invert(1) hue-rotate(180deg); } }
+.about b { font-family: var(--f-round); font-weight: 700; font-stretch: 88%; font-variation-settings: "wdth" 88; font-size: 22px; }
+.about p { margin: 4px 0 0; color: var(--muted); font-size: 14.5px; max-width: 60ch; }
+.about .fine { font-family: var(--f-mono); font-size: 11px; letter-spacing: .02em; }
+.sources { margin-top: 30px; font-family: var(--f-mono); font-size: 11px; color: var(--muted); letter-spacing: .03em; }
+
+/* Archive */
+.plates { margin-top: 16px; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.pcard { appearance: none; text-align: left; padding: 0; cursor: pointer; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; display: grid; box-shadow: var(--shadow); }
+.pcard canvas { display: block; width: 100%; aspect-ratio: 3 / 2; background: var(--plate); }
+.pcard .ct { padding: 8px 10px 10px; display: grid; gap: 3px; min-width: 0; }
+.pcard .ct b { font-family: var(--f-display); font-weight: 800; font-size: 19px; line-height: 1; text-transform: uppercase; overflow-wrap: anywhere; }
+.pcard .ct span { font-family: var(--f-mono); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.pcard .ct .ok { color: var(--c-nature); }
+
+/* Journal */
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(96px, 1fr)); gap: 8px; margin-top: 14px; }
+.tile { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 10px; display: grid; gap: 2px; }
+.tile b { font-family: var(--f-display); font-weight: 800; font-size: 30px; line-height: 1; font-variant-numeric: tabular-nums; }
+.tile span { font-family: var(--f-mono); font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.days { display: grid; grid-template-columns: repeat(14, minmax(0, 1fr)); gap: 4px; margin-top: 14px; }
+.days i { aspect-ratio: 1; max-width: 100%; border-radius: 3px; background: var(--panel-2); border: 1px solid var(--line); display: block; }
+.days i.made { background: var(--glow); border-color: var(--glow); }
+.days i.note { background: var(--c-synthesis); border-color: var(--c-synthesis); opacity: .7; }
+.days i.today { outline: 2px solid var(--rec); outline-offset: 1px; }
+.cap { font-family: var(--f-mono); font-size: 11px; color: var(--muted); letter-spacing: .04em; }
+.respond textarea { width: 100%; min-height: 96px; resize: vertical; font: inherit; font-size: 15px; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 4px; padding: 8px 10px; }
+.jlist { list-style: none; margin: 8px 0 0; padding: 0; display: grid; }
+.jlist li { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 12px; padding-block: 12px; border-top: 1px solid var(--line); }
+.jlist li:first-child { border-top: 0; }
+.jlist .d { font-family: var(--f-mono); font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.jlist .w { font-family: var(--f-display); font-weight: 800; font-size: 18px; line-height: 1.05; text-transform: uppercase; }
+.jlist p { margin: 4px 0 0; font-size: 15px; white-space: pre-wrap; overflow-wrap: anywhere; }
+
+@media (max-width: 420px) {
+  .radar li, .jlist li { grid-template-columns: 1fr; gap: 2px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .sw[aria-selected="true"] .led { animation: blink 2.4s ease-in-out infinite; }
+  .brand .tc .rec::before { animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .5; } }
+  .entry { animation: in .35s ease both; }
+  @keyframes in { from { transform: translateY(4px); opacity: .4; } }
+}
+</style>
+
+<div class="wrap">
+  <header class="bridge">
+    <div class="brand">
+      <img class="logo" src="assets/logo.png" alt="Wildtrack logo: a human nervous system drawn as branching roots" width="43" height="64">
+      <div>
+        <h1 class="wordmark">Wild<span>track</span></h1>
+        <div class="tagline">Daily seed · for sound makers</div>
+      </div>
+      <div class="tc" aria-label="Current time"><b id="clock">--:--:--</b><span class="rec">Rec</span></div>
+    </div>
+    <div class="switches" role="tablist" aria-label="Sections">
+      <button class="sw" role="tab" id="sw-today" data-p="today" aria-selected="true"><span class="led"></span><span class="k">Seed</span><span class="s">today</span></button>
+      <button class="sw" role="tab" id="sw-archive" data-p="archive" aria-selected="false"><span class="led"></span><span class="k">Plates</span><span class="s">archive</span></button>
+      <button class="sw" role="tab" id="sw-journal" data-p="journal" aria-selected="false"><span class="led"></span><span class="k">Journal</span><span class="s">made</span></button>
+      <button class="sw" role="tab" id="sw-saved" data-p="saved" aria-selected="false"><span class="led"></span><span class="k">Saved</span><span class="s">pins</span></button>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="empty"><b>Patching in…</b>Loading today's seed.</div>
+  </main>
+  <footer class="about">
+    <img src="assets/logo.png" alt="" width="33" height="48">
+    <div>
+      <b>Wildtrack</b>
+      <p>A daily brief for people who make sound: one seed to work from, a short prompt, something to listen to, a lesson from another craft, and news from every discipline that meets audio.</p>
+      <p class="fine">Made in Bolzano, Italy. The sister of Talkback, the control room edition. In film sound, a wildtrack is sound recorded without picture, free to become anything. Briefs are researched and written with AI and linked to their sources.</p>
+    </div>
+  </footer>
+</div>
+
+<script>
+(() => {
+  // Menu order: making sound first, then the crafts that meet it, then opportunities.
+  const CATS = {
+    sounddesign: "Sound Design", music: "Composition & Music", field: "Field Recording",
+    synthesis: "Synths & Instruments", tools: "Creative Tools", film: "Film & Picture",
+    games: "Game & Interactive", art: "Sound Art", space: "Architecture & Space",
+    stage: "Theatre & Dance", radio: "Radio & Voice", visual: "Visual & AV",
+    design: "Product Sound", nature: "Nature & Science", access: "Access & Health",
+    calls: "Calls & Residencies"
+  };
+  const KIND = { word: "One word", words: "A few words", sentence: "A sentence", image: "An image" };
+
+  const store = {
+    get(k, d) { try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? d : v; } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  };
+  const state = {
+    period: "today", docs: [], selected: null, cat: "all", hot: false, open: {}, loaded: false,
+    saved: store.get("tbc.saved", {}), journal: store.get("tbc.journal", {}),
+    journalRef: null, journalSource: "device", riff: null, riffBusy: false
+  };
+  let sampleFn = null;
+  { const p = store.get("tbc.period", null); if (["today", "archive", "journal", "saved"].includes(p)) state.period = p; }
+  if (location.hash && ["today", "archive", "journal", "saved"].includes(location.hash.slice(1))) state.period = location.hash.slice(1);
+
+  const $ = (s, r = document) => r.querySelector(s);
+  const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; };
+
+  function tick() { $("#clock").textContent = new Date().toLocaleTimeString("en-GB", { hour12: false }); }
+  tick(); setInterval(tick, 1000);
+
+  document.querySelectorAll(".sw").forEach(b => b.addEventListener("click", () => {
+    state.period = b.dataset.p; state.cat = "all"; state.hot = false; state.open = {};
+    store.set("tbc.period", state.period); render(); window.scrollTo({ top: 0 });
+  }));
+
+  function romeKey(d) {
+    try { return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Rome", year: "numeric", month: "2-digit", day: "2-digit" }).format(d); }
+    catch (e) { return d.toISOString().slice(0, 10); }
+  }
+  function fmtDate(s) { if (!s) return ""; const d = new Date(s + (s.length === 10 ? "T12:00:00" : "")); return isNaN(d) ? s : d.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" }); }
+  function fmtShort(s) { if (!s) return ""; const d = new Date(s + (s.length === 10 ? "T12:00:00" : "")); return isNaN(d) ? s : d.toLocaleDateString("en-GB", { day: "2-digit", month: "short" }); }
+  function fmtStamp(s) { const d = new Date(s); return isNaN(d) ? "" : d.toLocaleString("en-GB", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", hour12: false }); }
+  function paras(t) { return String(t || "").split(/\n\s*\n/).map(s => s.trim()).filter(Boolean); }
+  function sorted() { return state.docs.slice().sort((a, b) => String(b.key).localeCompare(String(a.key))); }
+  function current() { const l = sorted(); return l.find(d => d.key === state.selected) || l[0] || null; }
+
+  function meter(n) {
+    const wrap = el("span", "meter"), bars = el("span", "bars");
+    for (let i = 0; i < 12; i++) { const b = el("i"); if (i < Math.min(12, n)) b.className = "on" + (i >= 8 ? " hot" : "") + (i >= 11 ? " clip" : ""); bars.appendChild(b); }
+    wrap.append(bars, el("span", null, n + " stories")); return wrap;
+  }
+
+  /* ---------- generated plate ---------- */
+  function rng(seed) { let a = (seed >>> 0) || 1; return () => { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+  function hashStr(s) { let h = 2166136261; for (const ch of String(s)) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); } return h >>> 0; }
+  function draw(canvas, v, key) {
+    const vis = v || {};
+    const W = canvas.clientWidth || 600, H = Math.round(W * 2 / 3), dpr = Math.min(window.devicePixelRatio || 1, 2);
+    canvas.width = W * dpr; canvas.height = H * dpr;
+    const g = canvas.getContext("2d"); g.setTransform(dpr, 0, 0, dpr, 0, 0);
+    const r = rng(Number.isFinite(vis.seed) ? vis.seed : hashStr(key || "x"));
+    const pal = Array.isArray(vis.palette) && vis.palette.length ? vis.palette : ["#E8E4D8", "#5B7CFA", "#3FD0DC"];
+    g.fillStyle = vis.ground || "#0C0E15"; g.fillRect(0, 0, W, H);
+    const pick = () => pal[Math.floor(r() * pal.length)];
+    const form = vis.form || ["strata", "rings", "grain", "lissajous", "score", "orbits"][Math.floor(r() * 6)];
+    g.lineCap = "round";
+    // faint scope graticule
+    g.globalAlpha = .07; g.strokeStyle = "#FFFFFF"; g.lineWidth = 1;
+    for (let i = 1; i < 10; i++) { g.beginPath(); g.moveTo(W * i / 10, 0); g.lineTo(W * i / 10, H); g.stroke(); }
+    for (let i = 1; i < 8; i++) { g.beginPath(); g.moveTo(0, H * i / 8); g.lineTo(W, H * i / 8); g.stroke(); }
+    if (form === "strata") {
+      const bands = 18 + Math.floor(r() * 22);
+      for (let i = 0; i < bands; i++) {
+        const y0 = H * (i / bands), amp = 4 + r() * H * .06, f = 1 + r() * 5, ph = r() * 6.28;
+        g.beginPath(); g.moveTo(0, H);
+        for (let x = 0; x <= W; x += 4) g.lineTo(x, y0 + Math.sin(x / W * f * 6.28 + ph) * amp + (r() - .5) * 3);
+        g.lineTo(W, H); g.closePath(); g.globalAlpha = .18 + r() * .5; g.fillStyle = pick(); g.fill();
+      }
+    } else if (form === "rings") {
+      const n = 2 + Math.floor(r() * 3);
+      for (let k = 0; k < n; k++) {
+        const cx = W * (.2 + r() * .6), cy = H * (.2 + r() * .6), step = 5 + r() * 9; g.strokeStyle = pick(); g.globalAlpha = .55;
+        for (let rad = step; rad < W; rad += step) { g.lineWidth = .6 + r() * 1.2; g.beginPath(); g.arc(cx, cy, rad, 0, 6.283); g.stroke(); }
+      }
+    } else if (form === "grain") {
+      const clusters = 3 + Math.floor(r() * 5);
+      for (let c = 0; c < clusters; c++) {
+        const cx = W * r(), cy = H * r(), sp = 20 + r() * W * .22; g.fillStyle = pick();
+        for (let i = 0; i < 900; i++) { const a = r() * 6.283, d = Math.pow(r(), 1.7) * sp, s = .6 + r() * 2.2; g.globalAlpha = .2 + r() * .7; g.fillRect(cx + Math.cos(a) * d, cy + Math.sin(a) * d * .7, s, s); }
+      }
+    } else if (form === "lissajous") {
+      const n = 3 + Math.floor(r() * 4);
+      for (let k = 0; k < n; k++) {
+        const a = 1 + Math.floor(r() * 6), b = 1 + Math.floor(r() * 6), d = r() * 3.14, sc = .28 + r() * .16;
+        g.strokeStyle = pick(); g.globalAlpha = .75; g.lineWidth = .8 + r() * 1.6; g.beginPath();
+        for (let t = 0; t <= 6.2832 + .01; t += .006) { const x = W / 2 + Math.sin(a * t + d) * W * sc, y = H / 2 + Math.sin(b * t) * H * (sc + .08); t ? g.lineTo(x, y) : g.moveTo(x, y); }
+        g.stroke();
+      }
+    } else if (form === "score") {
+      const rows = 7 + Math.floor(r() * 6), gap = H / (rows + 1);
+      g.globalAlpha = .25; g.strokeStyle = pal[0]; g.lineWidth = 1;
+      for (let i = 1; i <= rows; i++) { g.beginPath(); g.moveTo(W * .05, gap * i); g.lineTo(W * .95, gap * i); g.stroke(); }
+      for (let i = 0; i < 70; i++) {
+        const row = 1 + Math.floor(r() * rows), x = W * (.05 + r() * .8), len = 6 + Math.pow(r(), 2) * W * .3, bend = (r() - .5) * gap * 1.4;
+        g.globalAlpha = .5 + r() * .5; g.strokeStyle = pick(); g.lineWidth = 2 + r() * 7;
+        g.beginPath(); g.moveTo(x, gap * row); g.quadraticCurveTo(x + len / 2, gap * row + bend, Math.min(x + len, W * .95), gap * row + bend * .4); g.stroke();
+      }
+    } else {
+      const cx = W * (.3 + r() * .4), cy = H * (.3 + r() * .4);
+      for (let i = 0; i < 46; i++) {
+        const rad = 10 + r() * W * .55, a0 = r() * 6.283, sweep = .2 + r() * 2.4;
+        g.strokeStyle = pick(); g.globalAlpha = .3 + r() * .6; g.lineWidth = .7 + r() * 5;
+        g.beginPath(); g.arc(cx, cy, rad, a0, a0 + sweep); g.stroke();
+      }
+    }
+    g.globalAlpha = 1;
+  }
+
+  /* ---------- journal ---------- */
+  function saveJournal() {
+    store.set("tbc.journal", state.journal);
+    if (state.journalRef) state.journalRef.set({ v: 1, entries: state.journal }).catch(() => {});
+  }
+  function toggleMade(doc) {
+    const e = state.journal[doc.key] || {};
+    state.journal[doc.key] = { ...e, done: !e.done, word: doc.seed && doc.seed.text, at: new Date().toISOString() };
+    saveJournal(); render();
+  }
+  function runs() {
+    const made = Object.keys(state.journal).filter(k => state.journal[k] && state.journal[k].done).sort();
+    let best = 0, run = 0, prev = null;
+    made.forEach(k => { const t = new Date(k + "T12:00:00Z").getTime(); run = prev != null && Math.round((t - prev) / 864e5) === 1 ? run + 1 : 1; best = Math.max(best, run); prev = t; });
+    let cur = 0, cursor = new Date(romeKey(new Date()) + "T12:00:00Z");
+    const done = k => state.journal[k] && state.journal[k].done;
+    if (!done(cursor.toISOString().slice(0, 10))) cursor = new Date(cursor.getTime() - 864e5);
+    while (done(cursor.toISOString().slice(0, 10))) { cur++; cursor = new Date(cursor.getTime() - 864e5); }
+    return { total: made.length, cur, best, notes: Object.values(state.journal).filter(e => e && e.note).length };
+  }
+
+  /* ---------- entries ---------- */
+  function itemId(doc, i, it) { return (doc.id || doc.key) + "::" + (it.title || i); }
+  function entryNode(doc, it, i, top) {
+    const id = itemId(doc, i, it);
+    const li = el("li", "entry" + (top ? " top" : ""));
+    li.style.setProperty("--cat", `var(--c-${CATS[it.cat] ? it.cat : "design"})`);
+    const meta = el("div", "meta");
+    meta.appendChild(el("span", "tape", CATS[it.cat] || it.cat || "News"));
+    if (it.free) meta.appendChild(el("span", "btag free", "Free"));
+    if (it.date) meta.appendChild(el("span", "date", fmtDate(it.date)));
+    const sig = el("span", "sig"); sig.title = "Signal: how much this matters creatively today";
+    for (let k = 1; k <= 3; k++) { const b = el("i"); if (k <= (it.signal || 1)) b.className = "on"; sig.appendChild(b); }
+    meta.appendChild(sig); li.appendChild(meta);
+    li.appendChild(el("h3", null, it.title));
+    if (it.take) li.appendChild(el("p", "take", it.take));
+    const tryText = it.try || it.todo;
+    if (it.deep || tryText) {
+      const expanded = top || state.open[id];
+      if (expanded) {
+        if (it.deep) { const box = el("div", "deep"); box.appendChild(el("span", "lbl", "Full take")); paras(it.deep).forEach(p => box.appendChild(el("p", null, p))); li.appendChild(box); }
+        if (tryText) { const t = el("div", "todo"); t.append(el("b", null, "Try this"), document.createTextNode(tryText)); li.appendChild(t); }
+      }
+      if (!top) {
+        const m = el("button", "more", expanded ? "Show less ▴" : "Read the full take ▾"); m.type = "button";
+        m.setAttribute("aria-expanded", String(!!expanded));
+        m.addEventListener("click", () => { state.open[id] = !state.open[id]; render(); });
+        li.appendChild(m);
+      }
+    }
+    const foot = el("div", "foot");
+    if (it.url) { const a = el("a", "src", (it.source || "Source") + " ↗"); a.href = it.url; a.target = "_blank"; a.rel = "noopener"; foot.appendChild(a); }
+    else if (it.source) foot.appendChild(el("span", "src", it.source));
+    const act = el("div", "act");
+    const pin = el("button", "btn", state.saved[id] ? "Pinned" : "Pin"); pin.type = "button";
+    pin.setAttribute("aria-pressed", String(!!state.saved[id]));
+    pin.addEventListener("click", () => {
+      if (state.saved[id]) delete state.saved[id]; else state.saved[id] = { ...it, from: doc.label || doc.key, pinnedAt: new Date().toISOString() };
+      store.set("tbc.saved", state.saved); render();
+    });
+    act.appendChild(pin);
+    if (sampleFn) { const ask = el("button", "btn", "Dig deeper"); ask.type = "button"; ask.addEventListener("click", () => digDeeper(it, li, ask)); act.appendChild(ask); }
+    foot.appendChild(act); li.appendChild(foot);
+    return li;
+  }
+
+  async function digDeeper(it, li, btn) {
+    let box = li.querySelector(".answer"); if (!box) { box = el("div", "answer"); li.appendChild(box); }
+    btn.disabled = true; box.textContent = "Thinking…";
+    const prompt =
+`You brief a working sound designer, field recordist and electroacoustic musician based in Italy. Go one level deeper on this news item in under 170 words, plain text, no headings, no markdown.
+Say what is genuinely new or interesting about it creatively, what it could open up for sound design, composition, installation or field recording work, and one concrete idea to try with it. If something is uncertain or not stated, say so briefly. Don't invent facts or prices.
+
+Section: ${CATS[it.cat] || it.cat}
+Headline: ${it.title}
+Summary: ${it.take || ""}
+Detail: ${it.deep || ""}
+Source: ${it.source || ""} ${it.url || ""}
+Date: ${it.date || ""}`;
+    try {
+      const { text, truncated } = await sampleFn(prompt, { onText: ({ text }) => { box.textContent = text; } });
+      box.textContent = text; if (truncated) box.appendChild(el("span", "note", "Answer was cut short."));
+    } catch (e) {
+      box.textContent = e && e.text ? e.text : "";
+      const msg = { not_granted: "Dig deeper needs your permission to ask Claude. Reload the page to be asked again.", rate_limited: "Too many questions at once. Wait a minute and try again.", cancelled: "Stopped." }[e && e.code] || "Couldn't get an answer right now. Try again in a moment.";
+      box.appendChild(el("span", "note", msg)); if (e && e.code === "not_granted") sampleFn = null;
+    } finally { btn.disabled = false; }
+  }
+
+  async function anotherAngle(doc) {
+    if (!sampleFn || state.riffBusy) return;
+    state.riffBusy = true; state.riff = { key: doc.key, text: "" }; render();
+    const sp = doc.seed || {};
+    const prompt = `You help a working sound designer and electroacoustic musician find a way into a daily creative prompt. Today's seed (${sp.kind || "phrase"}): "${sp.text}". Context: ${sp.gloss || ""}. Give three new, concrete ways to turn it into sound today, different from these: ${(sp.ways || []).join(" / ")}. One using field recording or Foley, one using synthesis or processing, one using structure, space or silence. One or two plain sentences each with a specific technique. Number them 1–3. No preamble, no markdown.`;
+    try {
+      const res = await sampleFn(prompt, { modelTier: "quick", cache: false, onText: ({ text }) => { state.riff = { key: doc.key, text }; const b = $("#riff"); if (b) b.textContent = text; } });
+      state.riff = { key: doc.key, text: res.text };
+    } catch (e) {
+      state.riff = e && e.code === "not_granted" ? null : { key: doc.key, text: "Couldn't get another angle right now. Try again in a minute." };
+      if (e && e.code === "not_granted") sampleFn = null;
+    }
+    state.riffBusy = false; render();
+  }
+
+  /* ---------- views ---------- */
+  function renderToday(main) {
+    const list = sorted();
+    if (!state.loaded) { const e = el("div", "empty"); e.append(el("b", null, "Patching in…"), document.createTextNode("Loading today's seed.")); main.appendChild(e); return; }
+    if (!list.length) { const e = el("div", "empty"); e.append(el("b", null, "No seed yet"), document.createTextNode("A new seed, prompt and creative brief arrive every morning (Rome time).")); main.appendChild(e); return; }
+    const doc = current(), sp = doc.seed || {}, items = doc.items || [];
+
+    const slate = el("section", "slate");
+    const row = el("div", "row");
+    row.append(el("span", null, "DAILY SEED"), el("span", "kind", (KIND[sp.kind] || "Seed").toUpperCase()));
+    if (sp.lang) row.appendChild(el("span", null, sp.lang));
+    if (list.length > 1) {
+      const wrapSel = el("label", "archive"); const sel = el("select"); sel.id = "archive-day"; sel.setAttribute("aria-label", "Earlier seeds");
+      list.forEach(b => { const o = el("option", null, (b.label || b.key) + " · " + ((b.seed && b.seed.text) || "").slice(0, 28)); o.value = b.key; if (b.key === doc.key) o.selected = true; sel.appendChild(o); });
+      sel.addEventListener("change", () => { state.selected = sel.value; state.cat = "all"; state.open = {}; state.riff = null; render(); });
+      wrapSel.appendChild(sel); row.appendChild(wrapSel);
+    }
+    slate.appendChild(row);
+    slate.appendChild(el("h2", "seed " + (KIND[sp.kind] ? sp.kind : "sentence"), sp.text || ""));
+    const r2 = el("div", "row");
+    if (doc.label) r2.appendChild(el("span", null, doc.label));
+    if (doc.generated) r2.appendChild(el("span", null, "Set " + fmtStamp(doc.generated)));
+    slate.appendChild(r2);
+    main.appendChild(slate);
+
+    const fig = el("figure", "plate"); const cv = el("canvas");
+    cv.setAttribute("role", "img"); cv.setAttribute("aria-label", "Generated image for today's seed");
+    fig.appendChild(cv); if (doc.visual && doc.visual.caption) fig.appendChild(el("figcaption", null, doc.visual.caption));
+    main.appendChild(fig); requestAnimationFrame(() => draw(cv, doc.visual, doc.key));
+
+    if (sp.gloss) main.appendChild(el("p", "lead", sp.gloss));
+    if (Array.isArray(sp.ways) && sp.ways.length) {
+      const k = el("div", "kbox glow"); k.appendChild(el("span", "lbl", "Three ways in"));
+      const ol = el("ol"); sp.ways.forEach(w => ol.appendChild(el("li", null, w))); k.appendChild(ol);
+      if (state.riff && state.riff.key === doc.key) { const a = el("div", "answer"); a.id = "riff"; a.textContent = state.riff.text || "Thinking…"; k.appendChild(a); }
+      main.appendChild(k);
+    }
+    const br = el("div", "btnrow");
+    const made = state.journal[doc.key] && state.journal[doc.key].done;
+    const mk = el("button", "btn", made ? "Made something ✓" : "I made something"); mk.type = "button"; mk.setAttribute("aria-pressed", String(!!made));
+    mk.addEventListener("click", () => toggleMade(doc)); br.appendChild(mk);
+    const cp = el("button", "btn", "Copy seed"); cp.type = "button";
+    cp.addEventListener("click", () => { try { navigator.clipboard.writeText(sp.text || "").then(() => { cp.textContent = "Copied"; setTimeout(() => { cp.textContent = "Copy seed"; }, 1400); }, () => {}); } catch (e) {} });
+    br.appendChild(cp);
+    if (sampleFn) { const an = el("button", "btn", state.riffBusy ? "Thinking…" : "Another angle"); an.type = "button"; an.disabled = state.riffBusy; an.addEventListener("click", () => anotherAngle(doc)); br.appendChild(an); }
+    main.appendChild(br);
+
+    if (doc.exercise) {
+      const x = doc.exercise, c = el("section", "craft");
+      c.append(el("div", "lbl", "Today's prompt" + (x.minutes ? " · " + x.minutes + " min" : "")), el("h3", null, x.title || "Today's prompt"));
+      paras(x.body).forEach(p => c.appendChild(el("p", null, p)));
+      if (x.constraint) { const pl = el("div", "pill"); pl.append(el("b", null, "Rule"), document.createTextNode(x.constraint)); c.appendChild(pl); }
+      main.appendChild(c);
+    }
+    if (doc.listen) {
+      const L = doc.listen, k = el("section", "kbox");
+      k.append(el("span", "lbl", "Listen" + (L.year ? " · " + L.year : "")), el("h3", null, [L.artist, L.work].filter(Boolean).join(" — ")));
+      paras(L.why).forEach(p => k.appendChild(el("p", null, p)));
+      if (L.url) { const a = el("a", "src", "Find it ↗"); a.href = L.url; a.target = "_blank"; a.rel = "noopener"; a.style.fontFamily = "var(--f-mono)"; a.style.fontSize = "12px"; k.appendChild(a); }
+      main.appendChild(k);
+    }
+    if (doc.crossover) {
+      const C = doc.crossover, k = el("section", "kbox rec");
+      k.append(el("span", "lbl", "Crossover" + (C.field ? " · " + C.field : "")), el("h3", null, C.title || ""));
+      paras(C.body).forEach(p => k.appendChild(el("p", null, p)));
+      if (C.takeaway) { const pl = el("div", "pill"); pl.append(el("b", null, "Steal this"), document.createTextNode(C.takeaway)); k.appendChild(pl); }
+      if (C.url) { const a = el("a", "src", (C.source || "Source") + " ↗"); a.href = C.url; a.target = "_blank"; a.rel = "noopener"; a.style.fontFamily = "var(--f-mono)"; a.style.fontSize = "12px"; k.appendChild(a); }
+      main.appendChild(k);
+    }
+
+    if (!items.length) return;
+    const nh = el("section", "slate newshead");
+    const nr = el("div", "row"); nr.appendChild(el("span", null, "ACROSS THE CRAFTS")); if (doc.range) nr.appendChild(el("span", null, doc.range)); nr.appendChild(meter(items.length));
+    nh.appendChild(nr); if (doc.headline) nh.appendChild(el("h2", null, doc.headline));
+    main.appendChild(nh);
+    if (doc.lead) main.appendChild(el("p", "lead", doc.lead));
+
+    const counts = {}; let fr = 0;
+    items.forEach(it => { counts[it.cat] = (counts[it.cat] || 0) + 1; if (it.free) fr++; });
+    const strip = el("div", "strip"); strip.setAttribute("role", "toolbar"); strip.setAttribute("aria-label", "Filter by section");
+    const chip = (key, label, n, cls) => {
+      const c = el("button", "chip" + (cls ? " " + cls : "")); c.type = "button";
+      if (key !== "all" && key !== "free") c.style.setProperty("--cat", `var(--c-${key})`);
+      c.setAttribute("aria-pressed", String(state.cat === key));
+      if (key !== "all") c.appendChild(el("span", "dot"));
+      c.append(el("span", null, label), el("span", "n", String(n)));
+      c.addEventListener("click", () => { state.cat = state.cat === key ? "all" : key; render(); });
+      return c;
+    };
+    strip.appendChild(chip("all", "All", items.length));
+    const topN = items.filter(it => (it.signal || 1) >= 3).length;
+    if (topN) { const tc = el("button", "chip top"); tc.type = "button"; tc.setAttribute("aria-pressed", String(state.hot)); tc.append(el("span", "dot"), el("span", null, "Top stories"), el("span", "n", String(topN))); tc.addEventListener("click", () => { state.hot = !state.hot; render(); }); strip.appendChild(tc); }
+    if (fr) strip.appendChild(chip("free", "Free", fr, "fr"));
+    Object.keys(CATS).forEach(k => { if (counts[k]) strip.appendChild(chip(k, CATS[k], counts[k])); });
+    main.appendChild(strip);
+
+    const shown = items.map((it, i) => [it, i])
+      .filter(([it]) => state.cat === "all" || (state.cat === "free" ? it.free : it.cat === state.cat))
+      .filter(([it]) => !state.hot || (it.signal || 1) >= 3);
+    const tops = shown.filter(([it]) => (it.signal || 1) >= 3), rest = shown.filter(([it]) => (it.signal || 1) < 3);
+    if (tops.length) { main.appendChild(el("div", "sect", "Top of the session")); const ul = el("ol", "log"); tops.forEach(([it, i]) => ul.appendChild(entryNode(doc, it, i, true))); main.appendChild(ul); }
+    if (rest.length) {
+      if (!(state.cat === "all" && rest.length > 6)) {
+        if (tops.length) main.appendChild(el("div", "sect", "Also in the room"));
+        const ul = el("ol", "log"); rest.forEach(([it, i]) => ul.appendChild(entryNode(doc, it, i, false))); main.appendChild(ul);
+      } else {
+        const order = Object.keys(CATS), rank = k => { const r = order.indexOf(k); return r < 0 ? order.length : r; }, groups = {};
+        rest.forEach(p => { const k = CATS[p[0].cat] ? p[0].cat : "other"; (groups[k] = groups[k] || []).push(p); });
+        Object.keys(groups).sort((a, b) => rank(a) - rank(b)).forEach(k => {
+          const s = el("div", "sect grp", (CATS[k] || "More") + " · " + groups[k].length); s.style.setProperty("--cat", `var(--c-${CATS[k] ? k : "design"})`); main.appendChild(s);
+          const ul = el("ol", "log"); groups[k].forEach(([it, i]) => ul.appendChild(entryNode(doc, it, i, false))); main.appendChild(ul);
+        });
+      }
+    }
+    if (!shown.length) { const ul = el("ol", "log"), e = el("li", "entry"); e.appendChild(el("p", null, state.hot ? "No top stories in this view. Turn off Top stories to see everything." : "Nothing in this section.")); ul.appendChild(e); main.appendChild(ul); }
+
+    const radar = Array.isArray(doc.radar) ? doc.radar.filter(r => r && r.title) : [];
+    if (radar.length && state.cat === "all" && !state.hot) {
+      main.appendChild(el("div", "sect", "On the radar"));
+      const ul = el("ul", "radar");
+      radar.forEach(r => {
+        const li = el("li"); li.appendChild(el("span", "d", r.when || fmtShort(r.date) || ""));
+        const body = el("div"), t = el("div", "t");
+        if (r.url) { const a = el("a", null, r.title); a.href = r.url; a.target = "_blank"; a.rel = "noopener"; t.appendChild(a); } else t.textContent = r.title;
+        body.appendChild(t); if (r.note) body.appendChild(el("div", "n", r.note)); li.appendChild(body); ul.appendChild(li);
+      });
+      main.appendChild(ul);
+    }
+    main.appendChild(el("p", "sources", "Each story links to its source. Briefs are researched and written with AI, then checked against the linked sources. Seeds, prompts and crossovers are original writing."));
+  }
+
+  function renderArchive(main) {
+    const list = sorted();
+    const slate = el("section", "slate"); const row = el("div", "row"); row.append(el("span", null, "PLATES · every seed so far"), el("span", null, list.length + " days"));
+    slate.append(row, el("h2", null, "The archive")); main.appendChild(slate);
+    if (!list.length) { const e = el("div", "empty"); e.append(el("b", null, "Nothing here yet"), document.createTextNode("Each day's seed is kept here with its plate.")); main.appendChild(e); return; }
+    const grid = el("div", "plates");
+    list.forEach(d => {
+      const c = el("button", "pcard"); c.type = "button"; const cv = el("canvas"); cv.setAttribute("aria-hidden", "true");
+      const ct = el("div", "ct"); ct.append(el("b", null, ((d.seed && d.seed.text) || "").slice(0, 60)), el("span", null, d.label || d.key));
+      if (state.journal[d.key] && state.journal[d.key].done) ct.appendChild(el("span", "ok", "Made something"));
+      c.append(cv, ct);
+      c.addEventListener("click", () => { state.selected = d.key; state.period = "today"; state.riff = null; store.set("tbc.period", "today"); render(); window.scrollTo({ top: 0 }); });
+      grid.appendChild(c); requestAnimationFrame(() => draw(cv, d.visual, d.key));
+    });
+    main.appendChild(grid);
+  }
+
+  function renderJournal(main) {
+    const s = runs();
+    const slate = el("section", "slate"); const row = el("div", "row"); row.append(el("span", null, "JOURNAL"), el("span", null, state.journalSource === "account" ? "private · follows you" : "private · this device"));
+    slate.append(row, el("h2", null, "What you made")); main.appendChild(slate);
+    const tiles = el("div", "tiles");
+    const tile = (v, l) => { const t = el("div", "tile"); t.append(el("b", null, String(v)), el("span", null, l)); return t; };
+    tiles.append(tile(s.total, "Days made"), tile(s.cur, "Current run"), tile(s.best, "Best run"), tile(s.notes, "Notes"));
+    main.appendChild(tiles);
+    const strip = el("div", "days"); strip.setAttribute("aria-label", "Last 14 days");
+    const today = new Date(romeKey(new Date()) + "T12:00:00Z");
+    for (let k = 13; k >= 0; k--) {
+      const key = new Date(today.getTime() - k * 864e5).toISOString().slice(0, 10), e = state.journal[key], c = el("i");
+      c.className = (e && e.done ? "made" : e && e.note ? "note" : "") + (k === 0 ? " today" : "");
+      c.title = key + (e && e.done ? " · made something" : e && e.note ? " · note" : ""); strip.appendChild(c);
+    }
+    main.append(strip, el("div", "cap", "Last 14 days · cyan made something · amber note only · red ring today"));
+
+    const doc = current();
+    if (doc) {
+      const e = state.journal[doc.key] || {};
+      const k = el("section", "kbox respond glow");
+      const lab = el("label", "lbl", "Your response · " + ((doc.seed && doc.seed.text) || "")); lab.htmlFor = "jr-note";
+      const ta = el("textarea"); ta.id = "jr-note"; ta.value = e.note || ""; ta.placeholder = "What did you record, patch or write? A file name, a sentence, what surprised you.";
+      const br = el("div", "btnrow"); br.style.marginTop = "0";
+      const sv = el("button", "btn", "Save note"); sv.type = "button";
+      const note = el("span", "cap", "");
+      sv.addEventListener("click", () => { const cur = state.journal[doc.key] || {}; state.journal[doc.key] = { ...cur, note: ta.value, word: doc.seed && doc.seed.text, at: new Date().toISOString() }; saveJournal(); note.textContent = "Saved"; });
+      const mk = el("button", "btn", e.done ? "Made something ✓" : "I made something"); mk.type = "button"; mk.setAttribute("aria-pressed", String(!!e.done));
+      mk.addEventListener("click", () => { const cur = state.journal[doc.key] || {}; state.journal[doc.key] = { ...cur, note: ta.value }; toggleMade(doc); });
+      br.append(sv, mk, note); k.append(lab, ta, br); main.appendChild(k);
+    }
+    const keys = Object.keys(state.journal).filter(k => state.journal[k] && (state.journal[k].note || state.journal[k].done)).sort().reverse();
+    if (keys.length) {
+      main.appendChild(el("div", "sect", "Log"));
+      const ul = el("ul", "jlist");
+      keys.forEach(k => { const e = state.journal[k], li = el("li"); li.appendChild(el("span", "d", fmtShort(k))); const b = el("div"); b.style.minWidth = "0"; b.appendChild(el("div", "w", e.word || "")); if (e.note) b.appendChild(el("p", null, e.note)); li.appendChild(b); ul.appendChild(li); });
+      main.appendChild(ul);
+    }
+  }
+
+  function renderSaved(main) {
+    const ids = Object.keys(state.saved).sort((a, b) => String(state.saved[b].pinnedAt).localeCompare(String(state.saved[a].pinnedAt)));
+    const slate = el("section", "slate"); const row = el("div", "row"); row.append(el("span", null, "PINS · this device"), meter(ids.length));
+    slate.append(row, el("h2", null, "Saved for later")); main.appendChild(slate);
+    if (!ids.length) { const e = el("div", "empty"); e.append(el("b", null, "No pins yet"), document.createTextNode("Tap Pin on any story to keep it here. Pins stay on this device.")); main.appendChild(e); return; }
+    const ul = el("ol", "log");
+    ids.forEach((id, i) => {
+      const it = state.saved[id], node = entryNode({ id: "saved", key: "saved" }, it, i, false);
+      const old = node.querySelector(".act .btn"), nb = old.cloneNode(true); old.replaceWith(nb);
+      nb.textContent = "Unpin"; nb.setAttribute("aria-pressed", "true");
+      nb.addEventListener("click", () => { delete state.saved[id]; store.set("tbc.saved", state.saved); render(); });
+      if (it.from) node.querySelector(".meta").appendChild(el("span", "date", "· " + it.from));
+      ul.appendChild(node);
+    });
+    main.appendChild(ul);
+  }
+
+  function render() {
+    document.querySelectorAll(".sw").forEach(b => b.setAttribute("aria-selected", String(b.dataset.p === state.period)));
+    try { if (location.hash.slice(1) !== state.period) history.replaceState(null, "", "#" + state.period); } catch (e) {}
+    const main = $("#main"); main.replaceChildren();
+    if (state.period === "archive") return renderArchive(main);
+    if (state.period === "journal") return renderJournal(main);
+    if (state.period === "saved") return renderSaved(main);
+    renderToday(main);
+  }
+  let rt; window.addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { if (state.period === "today" || state.period === "archive") render(); }, 250); });
+
+  render();
+
+  // Loader: inside the Claude app the page reads its own database; as a static site it reads data/index.json.
+  async function loadStatic() {
+    const get = async p => { const r = await fetch(p, { cache: "no-cache" }); if (!r.ok) throw new Error(p + " " + r.status); return r.json(); };
+    try {
+      const idx = await get("data/index.json");
+      const docs = await Promise.all((idx.seeds || []).map(f => get("data/seeds/" + f).then(d => ({ id: f.replace(/\.json$/, ""), ...d })).catch(() => null)));
+      state.docs = docs.filter(d => d && d.key && d.seed);
+      state.loaded = true; render();
+    } catch (e) {
+      state.loaded = true; render();
+      const box = el("div", "empty"); box.append(el("b", null, "Archive offline"), document.createTextNode("The seeds couldn't load. Check your connection and reload the page."));
+      $("#main").prepend(box);
+    }
+  }
+  (async () => {
+    if (!window.claude || !window.claude.use) return loadStatic();
+    claude.use("sample").then(s => { if (s) { sampleFn = s; render(); } }).catch(() => {});
+    let db = null; try { db = await claude.use("db"); } catch (e) { db = null; }
+    if (!db) return loadStatic();
+    claude.use("user").then(async u => {
+      const id = u ? await u.id() : null; if (!id) return;
+      const ref = db.collection("data/users/" + id).doc("journal");
+      try {
+        const snap = await ref.get(), remote = snap.exists ? (snap.data().entries || {}) : {}, merged = { ...remote };
+        Object.keys(state.journal).forEach(k => { const a = state.journal[k], b = remote[k]; if (!b || (a.at || "") > (b.at || "")) merged[k] = a; });
+        state.journal = merged; state.journalRef = ref; state.journalSource = "account"; store.set("tbc.journal", merged);
+        if (JSON.stringify(merged) !== JSON.stringify(remote)) ref.set({ v: 1, entries: merged }).catch(() => {});
+        render();
+      } catch (e) {}
+    }).catch(() => {});
+    db.collection("seeds").onSnapshot(snap => {
+      state.docs = snap.docs.filter(x => x.exists).map(x => ({ id: x.id, ...x.data() })).filter(x => x.key && x.seed);
+      state.loaded = true; render();
+    }, () => { state.loaded = true; render(); });
+  })();
+})();
+</script>
+</body>
+</html>
