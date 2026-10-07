@@ -1,209 +1,209 @@
 {
+  "crossover": {
+    "body": "Karsten Kjems, who runs the Copenhagen audio branding agency Sonic Minds, has reworked Dieter Rams' ten principles of good design for sound. His version argues that a sound should do a job, such as confirming or warning, and that it should be honest about what the product is, be built to survive thousands of repeats, and stay silent when it has nothing to say.",
+    "field": "Product & UX design",
+    "source": "A Sound Effect",
+    "title": "Dieter Rams, rewritten for sound",
+    "url": "https://www.asoundeffect.com/10-principles-for-good-sound-design/"
+  },
+  "generated": "2026-10-04T14:20:00+02:00",
+  "headline": "Open-source instruments and glass rooms",
+  "items": [
+    {
+      "cat": "tools",
+      "date": "2026-10-02",
+      "deep": "Discontinued hardware usually just disappears. Here the maker released the firmware under an open-source licence together with the Chompi Club community and then had it rebuilt as a plugin, so the instrument's character survives inside a DAW.\n\nFor sound design work, Nibbi is a quick way to turn a field recording into a playable, degraded instrument: record a phrase, play it across the keys and let the tape-style wobble and saturation smear it. Because the firmware is open, expect community forks and variants over the coming months.",
+      "free": true,
+      "signal": 3,
+      "source": "Synthtopia",
+      "take": "Chase Bliss stopped making the Chompi sampling keyboard in July 2026. It has now open-sourced the firmware and, with TemeculaDSP, released Nibbi, a free VST3, AU and AAX plugin that records, samples and plays back across a keyboard with lo-fi saturation, wow and flutter, delay, reverb and filters.",
+      "title": "Chase Bliss turns its discontinued Chompi sampler into a free plugin, Nibbi",
+      "try": "Load a glass tap or breath recording into Nibbi and play it as a melody with heavy wow and flutter.",
+      "url": "https://www.synthtopia.com/content/2026/10/02/chompi-sampling-keyboard-lives-on-as-free-nibbi-plugin/"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-01",
+      "deep": "Convolution is usually treated as a way to put a sound in a real room. This tool treats the impulse response as raw material instead: anything you load, a door slam or a breath, becomes the 'space' your source is played through.\n\nThat makes it a good sketchpad for creature voices, unreal spaces and textural pads before you build them properly in your DAW. The visual displays also make it a useful teaching tool for seeing what a response does to the spectrum over time.",
+      "free": true,
+      "signal": 3,
+      "source": "Synthtopia",
+      "take": "Ziv Eliraz (Loopop) has released a browser app that turns any audio file into a convolution effect. It offers ten design methods, including reversed responses, echoes, filter sweeps and reverb simulation, with waveform, frequency-response and waterfall views. Using it is free; exporting needs a paid Patreon membership.",
+      "title": "Convolution Playground: a free browser tool for designing with impulse responses",
+      "try": "Use a short glass tap as the impulse and run dialogue through it. Then reverse the impulse and compare.",
+      "url": "https://www.synthtopia.com/content/2026/10/01/new-convolution-play-application-lets-you-explore-the-sound-designs-possibilities-of-impulse-responses/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-02",
+      "deep": "Pd has been the free, open patching environment behind countless installations and live electroacoustic sets for decades. This release is about everyday comfort and multichannel work rather than a new direction.\n\nThe [snake~] tools make multichannel patching (for 8-channel installations or ambisonic work) far less fiddly. Patches now also keep curly braces, which opens the door to JSON-style data in patches; the ELSE library developer has already said he plans to use it.",
+      "free": true,
+      "signal": 3,
+      "source": "CDM",
+      "take": "Test builds of Pd 0.57 are available from Miller Puckette's site; 0.56-5 remains the stable release. New objects include [siginfo~] for querying sample rate and channels, [snake~] variants for picking, splitting and summing multichannel signals, and list foreach, join and unjoin. Zoom has been reworked and keyboard shortcuts can now be configured.",
+      "title": "Pure Data 0.57 enters testing with new multichannel and list tools",
+      "try": "If you run live Pd sets, test your patches on the 0.57 build now, before the stable release, and report anything that breaks.",
+      "url": "https://cdm.link/pd-0-57-inbound/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-09-28",
+      "free": true,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Audacity 4 moves to a new Qt-based interface with clip trim and stretch handles, per-track metering, customisable workspaces and native LV2, VST3 and AU plugin support. It stays free and open source on macOS, Windows and Linux and still opens Audacity 3 projects.",
+      "title": "Audacity 4 is a full rebuild of the free editor",
+      "url": "https://www.synthtopia.com/content/2026/09/28/audacity-4-brings-new-tools-new-look-to-free-audio-editor/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-09-29",
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "You drop keywords such as 'rain', 'strings' or 'thunder' onto a canvas and Backgrounds assembles an evolving atmosphere from a library of more than 22,000 recorded audio cells. It retrieves samples rather than generating audio with AI, and runs locally. Standalone, VST3 and AU for macOS and Windows; $39 introductory, $59 regular.",
+      "title": "Sampleson Backgrounds builds soundscapes from words you drag onto a canvas",
+      "url": "https://www.synthtopia.com/content/2026/09/29/backgrounds-creates-evolving-soundscapes-from-your-keyword-prompts/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-09-28",
+      "signal": 2,
+      "source": "CDM",
+      "take": "OPMZ emulates the Yamaha OPM (YM2151), OPP (YM2164) and OPZ (YM2414) chips used in 1980s synths and arcade boards. It works both as a synth and as a player for game-music files, with MPE, Scala and MTS-ESP tuning, a step sequencer and SysEx librarian support. CDM's Peter Kirn calls it close to perfect and praises the hardware research behind it.",
+      "title": "Plogue's chipsynth OPMZ recreates Yamaha's 1980s FM chips",
+      "url": "https://cdm.link/chipsynth-opmz-review/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-09-29",
+      "signal": 1,
+      "source": "Synthtopia",
+      "take": "Three voltage-controlled delay taps (two at 1–20 ms, one at 9–42 ms), a sweepable band-pass filter and an oscillator give chorus, flanging, phase cancellation, doubling and ADT. Verbos cites the Marshall Time Modulator as an influence. About $800, available now.",
+      "title": "Verbos Haas Zone: a Eurorack module built around very short delays",
+      "url": "https://www.synthtopia.com/content/2026/09/29/verbos-intros-haas-zone-processor/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-09-23",
+      "signal": 2,
+      "source": "CDM",
+      "take": "Elektron says a surge of custom firmware, much of it apparently made with AI help, risked damaging devices and its IP. Sharing new mod files and instructions on Elektronauts is now banned, though discussion is allowed and long-standing projects such as the Machinedrum X firmware and MCL stay approved. Unofficial Digitakt mods continue to appear elsewhere.",
+      "title": "Elektron stops the sharing of firmware mods on its forum, citing AI-assisted hacks",
+      "url": "https://cdm.link/elektron-on-hacks-and-mods/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-09-30",
+      "deep": "The interview is a useful reminder that a personal sound library is a long-term instrument. Twelve years of collected recordings gave her a palette no sample pack could match.\n\nHer method is iterative: short sessions, time away, then returning with fresh ears. She also argues that current plugins can deliver as much physicality as hardware when the source material is strong.",
+      "signal": 2,
+      "source": "CDM",
+      "take": "Her album on Intercept Records names each track after an animal and keeps a dance pulse under detailed sound design. She built it from recordings gathered over twelve years, including magpie song, hydraulic machinery and breaking glass, and worked entirely in software, shaping small sounds into large textures.",
+      "title": "Anastasia Kristensen's Bestiarium Sombre: magpies, hydraulics and broken glass",
+      "url": "https://cdm.link/anastasia-kristensen-bestiarium-sombre-interview/"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-09-29",
+      "signal": 1,
+      "source": "A Sound Effect",
+      "take": "A Sound Effect's latest round-up covers new independent libraries including creature vocals, glass breaks and post-apocalyptic ambiences. Useful for spotting what other designers are recording, and for gaps you could fill with your own library.",
+      "title": "37 new sound effects libraries, from creature vocals to breaking glass",
+      "url": "https://www.asoundeffect.com/37-new-sound-effects-libraries-creature-vocals-glass/"
+    },
+    {
+      "cat": "games",
+      "date": "2026-09-16",
+      "signal": 2,
+      "source": "A Sound Effect",
+      "take": "House House's co-op game Big Walk sold over a million copies in six days. Em Halberstadt and Nicholas Zhang of A Shell in the Pit talk about handling unpredictable proximity voice chat, recording props and ambiences on a trip to Australia, diegetic music and surface-specific footsteps, in a podcast recorded largely in the game.",
+      "title": "How Big Walk's sound was made, discussed inside the game itself",
+      "try": "When players' own voices are part of the mix, leave space for them: check your ambiences with a voice-chat track running over them.",
+      "url": "https://www.asoundeffect.com/big-walk-game-audio/"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-09-25",
+      "signal": 2,
+      "source": "CDM",
+      "take": "The VJ software now includes human segmentation and depth estimation from ordinary 2D video, running locally. New effects include background removal, depth blur, depth displacement and a blend mode that mixes layers by depth. Version 7.29 is expected to add audio-spectrum tools to Wire, Resolume's patching environment.",
+      "title": "Resolume 7.28 adds depth and body tracking for live visuals",
+      "url": "https://cdm.link/resolume-7-28-computer-vision/"
+    },
+    {
+      "cat": "space",
+      "date": "2026-09-23",
+      "signal": 1,
+      "source": "Dezeen",
+      "take": "Yont Studio built 'Passenger', a booth of six salvaged leather car seats and over 140 cassettes, with Telekom Electronic Beats and the brand Namilia. Visitors listened on headphones to tapes including rare techno sets. It ran until 27 September and is a good example of designing a slow, physical listening ritual in a busy retail space.",
+      "title": "A cassette listening booth made of car seats in Berlin's KaDeWe",
+      "url": "https://www.dezeen.com/2026/09/23/kadewe-yont-studio-namilia-passenger-kadewe/"
+    },
+    {
+      "cat": "access",
+      "date": "2026-09-16",
+      "signal": 2,
+      "source": "Dezeen",
+      "take": "Loughborough graduate Gargi Agrawalla, a cochlear implant user, designed a portable device that recognises sounds such as door knocks, doorbells and fire alarms with an on-device AI model trained on over 500 samples, then alerts with vibration and light. A separate vibration sensor behind the door cuts false alarms. The award comes with £5,000.",
+      "title": "SIVO.GO, a sound alert for deaf users, wins the UK James Dyson Award",
+      "url": "https://www.dezeen.com/2026/09/16/gargi-agrawalla-sivogo-james-dyson-award/"
+    }
+  ],
   "key": "2026-10-04",
   "label": "Sun 4 Oct 2026",
+  "lead": "The first edition covers the last two weeks. The biggest creative news is free: Chase Bliss turned its discontinued Chompi sampler into a free plugin, Pure Data 0.57 is in testing, Audacity 4 is out, and a browser tool lets you design with impulse responses. Elsewhere, Elektron drew a line on AI-assisted firmware mods, Resolume added depth-aware video effects for live AV, and Tarek Atoui's glass and water instruments open in Tate Modern's Turbine Hall on 13 October.",
+  "listen": {
+    "artist": "Alvin Lucier",
+    "url": "https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room",
+    "why": "Lucier records himself reading a short text, plays the recording back into the room and records it again, over and over. With each pass the room's own resonances build up until the words dissolve and only pitch is left. Like the Sea Organ, the space is the instrument.",
+    "work": "I Am Sitting in a Room",
+    "year": 1969
+  },
+  "radar": [
+    {
+      "date": "2026-10-13",
+      "note": "Invented instruments of glass, water and ceramic, played by touch, breath and motors, fill the Turbine Hall until 11 April 2027.",
+      "title": "Tarek Atoui, Hyundai Commission, Tate Modern",
+      "url": "https://www.timeout.com/london/news/tate-moderns-turbine-hall-has-announced-its-next-major-new-artwork-for-autumn-2026-012726"
+    },
+    {
+      "date": "2026-10-30",
+      "note": "30 October – 1 November.",
+      "title": "AES Show Nashville",
+      "url": "https://aes.org/events-calendar/aesshownashville/"
+    },
+    {
+      "note": "Test builds are out now; stable date not announced.",
+      "title": "Pure Data 0.57 stable release",
+      "url": "https://msp.ucsd.edu/software.html",
+      "when": "Pending"
+    }
+  ],
   "range": "16 Sep – 4 Oct 2026",
-  "generated": "2026-10-04T14:20:00+02:00",
   "seed": {
     "kind": "photo",
-    "text": "Sea Organ, Zadar",
     "note": "Architect Nikola Bašić turned a post-war concrete seawall in Zadar, Croatia, into white marble steps that run down into the Adriatic. Under the steps sit polyethylene tubes and a resonating cavity: the waves push air through them, so the sea plays the steps with no score and no performer.\n\nIt opened on 15 April 2005 as part of the city's new waterfront and shared the 2006 European Prize for Urban Public Space.",
+    "photo": {
+      "alt": "White marble steps leading down into the sea at Zadar, with small openings where the organ's pipes breathe",
+      "credit": "via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File:Sea_organ_Zadar_1.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sea_organ_Zadar_1.jpg",
+      "title": "The Sea Organ steps, Zadar"
+    },
     "source": {
       "label": "Wikipedia, Sea organ",
       "url": "https://en.wikipedia.org/wiki/Sea_organ"
     },
-    "photo": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sea_organ_Zadar_1.jpg",
-      "title": "The Sea Organ steps, Zadar",
-      "alt": "White marble steps leading down into the sea at Zadar, with small openings where the organ's pipes breathe",
-      "credit": "via Wikimedia Commons",
-      "page": "https://commons.wikimedia.org/wiki/File:Sea_organ_Zadar_1.jpg"
-    }
+    "text": "Sea Organ, Zadar"
   },
   "visual": {
+    "caption": "Plate 001 · interference rings · #1004",
     "form": "rings",
-    "seed": 1004,
+    "ground": "#0B0E14",
     "palette": [
       "#BFE3E6",
       "#7F95FF",
       "#F2E9D8"
     ],
-    "ground": "#0B0E14",
-    "caption": "Plate 001 · interference rings · #1004"
-  },
-  "listen": {
-    "artist": "Alvin Lucier",
-    "work": "I Am Sitting in a Room",
-    "year": 1969,
-    "why": "Lucier records himself reading a short text, plays the recording back into the room and records it again, over and over. With each pass the room's own resonances build up until the words dissolve and only pitch is left. Like the Sea Organ, the space is the instrument.",
-    "url": "https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room"
-  },
-  "crossover": {
-    "field": "Product & UX design",
-    "title": "Dieter Rams, rewritten for sound",
-    "body": "Karsten Kjems, who runs the Copenhagen audio branding agency Sonic Minds, has reworked Dieter Rams' ten principles of good design for sound. His version argues that a sound should do a job, such as confirming or warning, and that it should be honest about what the product is, be built to survive thousands of repeats, and stay silent when it has nothing to say.",
-    "source": "A Sound Effect",
-    "url": "https://www.asoundeffect.com/10-principles-for-good-sound-design/"
-  },
-  "headline": "Open-source instruments and glass rooms",
-  "lead": "The first edition covers the last two weeks. The biggest creative news is free: Chase Bliss turned its discontinued Chompi sampler into a free plugin, Pure Data 0.57 is in testing, Audacity 4 is out, and a browser tool lets you design with impulse responses. Elsewhere, Elektron drew a line on AI-assisted firmware mods, Resolume added depth-aware video effects for live AV, and Tarek Atoui's glass and water instruments open in Tate Modern's Turbine Hall on 13 October.",
-  "items": [
-    {
-      "cat": "tools",
-      "signal": 3,
-      "free": true,
-      "date": "2026-10-02",
-      "title": "Chase Bliss turns its discontinued Chompi sampler into a free plugin, Nibbi",
-      "take": "Chase Bliss stopped making the Chompi sampling keyboard in July 2026. It has now open-sourced the firmware and, with TemeculaDSP, released Nibbi, a free VST3, AU and AAX plugin that records, samples and plays back across a keyboard with lo-fi saturation, wow and flutter, delay, reverb and filters.",
-      "deep": "Discontinued hardware usually just disappears. Here the maker released the firmware under an open-source licence together with the Chompi Club community and then had it rebuilt as a plugin, so the instrument's character survives inside a DAW.\n\nFor sound design work, Nibbi is a quick way to turn a field recording into a playable, degraded instrument: record a phrase, play it across the keys and let the tape-style wobble and saturation smear it. Because the firmware is open, expect community forks and variants over the coming months.",
-      "try": "Load a glass tap or breath recording into Nibbi and play it as a melody with heavy wow and flutter.",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/10/02/chompi-sampling-keyboard-lives-on-as-free-nibbi-plugin/"
-    },
-    {
-      "cat": "sounddesign",
-      "signal": 3,
-      "free": true,
-      "date": "2026-10-01",
-      "title": "Convolution Playground: a free browser tool for designing with impulse responses",
-      "take": "Ziv Eliraz (Loopop) has released a browser app that turns any audio file into a convolution effect. It offers ten design methods, including reversed responses, echoes, filter sweeps and reverb simulation, with waveform, frequency-response and waterfall views. Using it is free; exporting needs a paid Patreon membership.",
-      "deep": "Convolution is usually treated as a way to put a sound in a real room. This tool treats the impulse response as raw material instead: anything you load, a door slam or a breath, becomes the 'space' your source is played through.\n\nThat makes it a good sketchpad for creature voices, unreal spaces and textural pads before you build them properly in your DAW. The visual displays also make it a useful teaching tool for seeing what a response does to the spectrum over time.",
-      "try": "Use a short glass tap as the impulse and run dialogue through it. Then reverse the impulse and compare.",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/10/01/new-convolution-play-application-lets-you-explore-the-sound-designs-possibilities-of-impulse-responses/"
-    },
-    {
-      "cat": "tools",
-      "signal": 3,
-      "free": true,
-      "date": "2026-10-02",
-      "title": "Pure Data 0.57 enters testing with new multichannel and list tools",
-      "take": "Test builds of Pd 0.57 are available from Miller Puckette's site; 0.56-5 remains the stable release. New objects include [siginfo~] for querying sample rate and channels, [snake~] variants for picking, splitting and summing multichannel signals, and list foreach, join and unjoin. Zoom has been reworked and keyboard shortcuts can now be configured.",
-      "deep": "Pd has been the free, open patching environment behind countless installations and live electroacoustic sets for decades. This release is about everyday comfort and multichannel work rather than a new direction.\n\nThe [snake~] tools make multichannel patching (for 8-channel installations or ambisonic work) far less fiddly. Patches now also keep curly braces, which opens the door to JSON-style data in patches; the ELSE library developer has already said he plans to use it.",
-      "try": "If you run live Pd sets, test your patches on the 0.57 build now, before the stable release, and report anything that breaks.",
-      "source": "CDM",
-      "url": "https://cdm.link/pd-0-57-inbound/"
-    },
-    {
-      "cat": "tools",
-      "signal": 2,
-      "free": true,
-      "date": "2026-09-28",
-      "title": "Audacity 4 is a full rebuild of the free editor",
-      "take": "Audacity 4 moves to a new Qt-based interface with clip trim and stretch handles, per-track metering, customisable workspaces and native LV2, VST3 and AU plugin support. It stays free and open source on macOS, Windows and Linux and still opens Audacity 3 projects.",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/09/28/audacity-4-brings-new-tools-new-look-to-free-audio-editor/"
-    },
-    {
-      "cat": "tools",
-      "signal": 2,
-      "date": "2026-09-29",
-      "title": "Sampleson Backgrounds builds soundscapes from words you drag onto a canvas",
-      "take": "You drop keywords such as 'rain', 'strings' or 'thunder' onto a canvas and Backgrounds assembles an evolving atmosphere from a library of more than 22,000 recorded audio cells. It retrieves samples rather than generating audio with AI, and runs locally. Standalone, VST3 and AU for macOS and Windows; $39 introductory, $59 regular.",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/09/29/backgrounds-creates-evolving-soundscapes-from-your-keyword-prompts/"
-    },
-    {
-      "cat": "synthesis",
-      "signal": 2,
-      "date": "2026-09-28",
-      "title": "Plogue's chipsynth OPMZ recreates Yamaha's 1980s FM chips",
-      "take": "OPMZ emulates the Yamaha OPM (YM2151), OPP (YM2164) and OPZ (YM2414) chips used in 1980s synths and arcade boards. It works both as a synth and as a player for game-music files, with MPE, Scala and MTS-ESP tuning, a step sequencer and SysEx librarian support. CDM's Peter Kirn calls it close to perfect and praises the hardware research behind it.",
-      "source": "CDM",
-      "url": "https://cdm.link/chipsynth-opmz-review/"
-    },
-    {
-      "cat": "synthesis",
-      "signal": 1,
-      "date": "2026-09-29",
-      "title": "Verbos Haas Zone: a Eurorack module built around very short delays",
-      "take": "Three voltage-controlled delay taps (two at 1–20 ms, one at 9–42 ms), a sweepable band-pass filter and an oscillator give chorus, flanging, phase cancellation, doubling and ADT. Verbos cites the Marshall Time Modulator as an influence. About $800, available now.",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/09/29/verbos-intros-haas-zone-processor/"
-    },
-    {
-      "cat": "synthesis",
-      "signal": 2,
-      "date": "2026-09-23",
-      "title": "Elektron stops the sharing of firmware mods on its forum, citing AI-assisted hacks",
-      "take": "Elektron says a surge of custom firmware, much of it apparently made with AI help, risked damaging devices and its IP. Sharing new mod files and instructions on Elektronauts is now banned, though discussion is allowed and long-standing projects such as the Machinedrum X firmware and MCL stay approved. Unofficial Digitakt mods continue to appear elsewhere.",
-      "source": "CDM",
-      "url": "https://cdm.link/elektron-on-hacks-and-mods/"
-    },
-    {
-      "cat": "music",
-      "signal": 2,
-      "date": "2026-09-30",
-      "title": "Anastasia Kristensen's Bestiarium Sombre: magpies, hydraulics and broken glass",
-      "take": "Her album on Intercept Records names each track after an animal and keeps a dance pulse under detailed sound design. She built it from recordings gathered over twelve years, including magpie song, hydraulic machinery and breaking glass, and worked entirely in software, shaping small sounds into large textures.",
-      "deep": "The interview is a useful reminder that a personal sound library is a long-term instrument. Twelve years of collected recordings gave her a palette no sample pack could match.\n\nHer method is iterative: short sessions, time away, then returning with fresh ears. She also argues that current plugins can deliver as much physicality as hardware when the source material is strong.",
-      "source": "CDM",
-      "url": "https://cdm.link/anastasia-kristensen-bestiarium-sombre-interview/"
-    },
-    {
-      "cat": "sounddesign",
-      "signal": 1,
-      "date": "2026-09-29",
-      "title": "37 new sound effects libraries, from creature vocals to breaking glass",
-      "take": "A Sound Effect's latest round-up covers new independent libraries including creature vocals, glass breaks and post-apocalyptic ambiences. Useful for spotting what other designers are recording, and for gaps you could fill with your own library.",
-      "source": "A Sound Effect",
-      "url": "https://www.asoundeffect.com/37-new-sound-effects-libraries-creature-vocals-glass/"
-    },
-    {
-      "cat": "games",
-      "signal": 2,
-      "date": "2026-09-16",
-      "title": "How Big Walk's sound was made, discussed inside the game itself",
-      "take": "House House's co-op game Big Walk sold over a million copies in six days. Em Halberstadt and Nicholas Zhang of A Shell in the Pit talk about handling unpredictable proximity voice chat, recording props and ambiences on a trip to Australia, diegetic music and surface-specific footsteps, in a podcast recorded largely in the game.",
-      "try": "When players' own voices are part of the mix, leave space for them: check your ambiences with a voice-chat track running over them.",
-      "source": "A Sound Effect",
-      "url": "https://www.asoundeffect.com/big-walk-game-audio/"
-    },
-    {
-      "cat": "visual",
-      "signal": 2,
-      "date": "2026-09-25",
-      "title": "Resolume 7.28 adds depth and body tracking for live visuals",
-      "take": "The VJ software now includes human segmentation and depth estimation from ordinary 2D video, running locally. New effects include background removal, depth blur, depth displacement and a blend mode that mixes layers by depth. Version 7.29 is expected to add audio-spectrum tools to Wire, Resolume's patching environment.",
-      "source": "CDM",
-      "url": "https://cdm.link/resolume-7-28-computer-vision/"
-    },
-    {
-      "cat": "space",
-      "signal": 1,
-      "date": "2026-09-23",
-      "title": "A cassette listening booth made of car seats in Berlin's KaDeWe",
-      "take": "Yont Studio built 'Passenger', a booth of six salvaged leather car seats and over 140 cassettes, with Telekom Electronic Beats and the brand Namilia. Visitors listened on headphones to tapes including rare techno sets. It ran until 27 September and is a good example of designing a slow, physical listening ritual in a busy retail space.",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/09/23/kadewe-yont-studio-namilia-passenger-kadewe/"
-    },
-    {
-      "cat": "access",
-      "signal": 2,
-      "date": "2026-09-16",
-      "title": "SIVO.GO, a sound alert for deaf users, wins the UK James Dyson Award",
-      "take": "Loughborough graduate Gargi Agrawalla, a cochlear implant user, designed a portable device that recognises sounds such as door knocks, doorbells and fire alarms with an on-device AI model trained on over 500 samples, then alerts with vibration and light. A separate vibration sensor behind the door cuts false alarms. The award comes with £5,000.",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/09/16/gargi-agrawalla-sivogo-james-dyson-award/"
-    }
-  ],
-  "radar": [
-    {
-      "date": "2026-10-13",
-      "title": "Tarek Atoui, Hyundai Commission, Tate Modern",
-      "note": "Invented instruments of glass, water and ceramic, played by touch, breath and motors, fill the Turbine Hall until 11 April 2027.",
-      "url": "https://www.timeout.com/london/news/tate-moderns-turbine-hall-has-announced-its-next-major-new-artwork-for-autumn-2026-012726"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "AES Show Nashville",
-      "note": "30 October – 1 November.",
-      "url": "https://aes.org/events-calendar/aesshownashville/"
-    },
-    {
-      "when": "Pending",
-      "title": "Pure Data 0.57 stable release",
-      "note": "Test builds are out now; stable date not announced.",
-      "url": "https://msp.ucsd.edu/software.html"
-    }
-  ]
+    "seed": 1004
+  }
 }

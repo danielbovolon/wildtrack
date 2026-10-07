@@ -1,0 +1,276 @@
+{
+  "crossover": {
+    "body": "For Expo 2000 in Hanover, Peter Zumthor built the Swiss pavilion as a “Klangkörper”, a sounding body: about 3,000 cubic metres of Swiss larch and spruce held together by steel wires, with no nails or screws. Composer Daniel Ott wrote the music that ran through it for the whole Expo, played by hundreds of rotating musicians on instruments such as accordion and dulcimer, so the timber maze worked as both architecture and resonator. Bruno Moll's 52-minute documentary Klangkörper (2000) records the project.",
+    "field": "Architecture",
+    "source": "Swiss Films",
+    "title": "Peter Zumthor's Swiss Sound Box",
+    "url": "https://swissfilms.ch/en/movie/klangkoerper/60e36b4f717e4019a6be3670ed770da1"
+  },
+  "generated": "2026-10-06T06:50:00+02:00",
+  "headline": "Drawn rooms and bent models",
+  "items": [
+    {
+      "cat": "film",
+      "date": "2026-10-04",
+      "deep": "The conversation, from the Field & Foley podcast, is practical: radio-mic strategy for scenes where young actors run, boom placement against surf, and how he chose overnight spots to record the island's natural ambience. He also recorded ambisonic ambiences, naming the Sennheiser Ambeo and the Zoom H3-VR.\n\nHis main point is that reading the room matters more than technical knowledge. For anyone recording on location in humid or remote places, it is a useful list of problems met and solved on a real shoot, and a reminder that location ambiences gathered by the production mixer can feed straight into post.",
+      "free": true,
+      "signal": 3,
+      "source": "A Sound Effect",
+      "take": "Singapore-based production sound mixer Ande Schurr talks through the Netflix/BBC Lord of the Flies, shot in the Langkawi archipelago. He covers rain, storms and keeping gear dry, hiding mics in costumes, and booming beach and wave scenes. Credits also include Monkey Man and Hunt for the Wilderpeople.",
+      "title": "Ande Schurr on recording Lord of the Flies on a tropical island",
+      "url": "https://www.asoundeffect.com/lord-of-the-flies-sound/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-05",
+      "deep": "Beyond the room designer there are six algorithms (Space, Steel Plate, Spring, Gated, Reverse, Bloom), a Match IR function that analyses real locations, consonance and tension controls, shimmer intervals, per-octave decay, ducking, freeze layers and four morphable scenes.\n\nThe interesting part is that the reverb is shaped by geometry, materials and harmony rather than by abstract decay parameters. That makes it closer to designing a space than picking a preset, and the Linux build makes it usable on installation machines. Arswerk released it alongside Harmonia, a paid dynamic and spectral EQ.",
+      "free": true,
+      "signal": 3,
+      "source": "Bedroom Producers Blog",
+      "take": "Nyx lets you draw a space, set its size in metres and choose from 38 wall and floor materials. A harmonic section lets notes that fit the chord ring longer and clashing notes fade sooner. It is free with an email signup, in VST3, CLAP and AU for macOS, Windows and Linux.",
+      "title": "Arswerk Nyx: a free reverb where you draw the room",
+      "url": "https://bedroomproducersblog.com/2026/10/05/arswerk-nyx-reverb/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-01",
+      "deep": "The hardware has eight knobs, 16 step buttons, an LCD, MIDI and CV sync, a stereo line input and an onboard mic for sampling and voice control. The models run offline with no app or subscription, and King says they were trained only on small, commercially licensed datasets. Swappable user-trained or community models are planned.\n\nThe idea is to treat machine learning as a material to misuse rather than a way to generate finished music. Whether the sounds hold up is still unknown, as it is a prototype, but the framing echoes how earlier instruments were found by abusing circuits and tape.",
+      "free": false,
+      "signal": 3,
+      "source": "Gearnews",
+      "take": "Thoughtful Things, led by developer Evan King, launched Engram on Kickstarter. The groovebox runs small neural audio models on the device and is designed to push them past their limits, which King compares to circuit bending. It costs $770 and is due to ship in May 2027.",
+      "title": "Engram: a sampler built for bending neural audio models",
+      "url": "https://www.gearnews.com/thoughtful-things-engram-synth/"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-03",
+      "deep": "The season opens on 31 October with KaKa's Beijing Opera Yabi at MAO. Later dates include Liu Zhuyang's Speakers installation and Corin Ileto's audiovisual Diwa at OGR (14 Feb), Alex Zhang Hungtai improvising (4 Mar), Flora Yin Wong (4 Apr), Charmaine Lee's voice performance (6 May) and a calligraphy-and-sound piece by Sheng Jie and Qian Geng (10 Jun).\n\nIt is a rare regular programme of this kind in northern Italy, a few hours from Bolzano, and it mixes voice, installation and traditional forms with electronics. Tickets range from free to €10.",
+      "free": false,
+      "signal": 3,
+      "source": "Mondo Japan",
+      "take": "Turin's Museum of Oriental Art has announced the fourth edition of Evolving Soundscapes, curated by Chiara Lee and freddie Murphy, focused on experimental sound and performance by Asian and diaspora artists. It runs at MAO, COMBO and OGR Torino from 31 October 2026 to 10 June 2027. Several events are free.",
+      "title": "MAO Torino announces Evolving Soundscapes 4, from October to June",
+      "url": "https://www.mondojapan.net/mao-torino-evolving-soundscapes-4-dal-31-ottobre-2026/"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-05",
+      "free": false,
+      "signal": 2,
+      "source": "A Sound Effect",
+      "take": "Sound designer Mattia Cellotto's NOVA takes recordings of the lyrebird, a bird known for mimicry, and transforms them with synthesis and recordings of aluminium welders, laser cutters and press brakes. It launches on 13 October. Early sign-ups before 12 October receive three bonus libraries.",
+      "title": "NOVA: a sci-fi library built from lyrebird calls and factory machines",
+      "url": "https://www.asoundeffect.com/nova/"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-05",
+      "free": false,
+      "signal": 2,
+      "source": "A Sound Effect",
+      "take": "This week's releases include Audio Field's General Room Tones (102 files in stereo, LRC and 5.0, $89), Audio Packs' Antique Phones and Australia Nature, and SoundMorph's Tortured Flutes ($7), bamboo flute layers turned into drones. In Motion Audio's Raw Data builds electrical noise from data conversion, and Horror Sound's Metropolis has over 500 feedback-based effects.",
+      "title": "14 new SFX libraries: room tones, antique phones and tortured flutes",
+      "url": "https://www.asoundeffect.com/14-new-sound-effects-libraries-medieval-archery-jets/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-05",
+      "free": true,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Audio Wanderer's free DMGo! runs on the 1989 Game Boy and uses its own sound chip: two pulse channels, a wave channel and a noise channel. Each has a 16-step sequencer with per-step tuning, filter and envelope, plus pattern chaining and generative modes. It syncs over the Game Boy link cable and can send clock to other hardware.",
+      "title": "DMGo! turns an original Game Boy into a drum machine",
+      "url": "https://www.synthtopia.com/content/2026/10/05/turn-your-nintendo-game-boy-into-a-drum-machine-with-dm-go/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-04",
+      "free": false,
+      "signal": 2,
+      "source": "CDM",
+      "take": "Madrona Labs has put its playable Aaltoverb ($35) into Linux beta, tested on Ubuntu and Mint through its Discord. Aalto 2, the West Coast-style patchable synth, is due this autumn for macOS, Windows and Linux with CLAP support, as a free upgrade for Aalto 1 owners. The company calls this a CLAP-first approach.",
+      "title": "Madrona Labs goes to Linux and CLAP with Aalto 2",
+      "url": "https://cdm.link/aalto2-aaltoverb-linux/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-05",
+      "free": false,
+      "signal": 2,
+      "source": "Bandcamp Daily",
+      "take": "Bandcamp Daily's guide covers the hurdy-gurdy in folk, drone and electronic settings. Picks include Adrià Grandia's Gràcies, a single unedited take in a Catalan cistern, Uwalmassa and Yann Gourdon pairing the instrument with Indonesian electronic gamelan, and Jem Finer's Hrdy Grdy with small electronic devices. The trio France use a church's echo on Do den Haag Church.",
+      "title": "Eight hurdy-gurdy records, from cistern takes to electronic gamelan",
+      "url": "https://daily.bandcamp.com/lists/hurdy-gurdy-album-guide"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-03",
+      "free": false,
+      "signal": 2,
+      "source": "Bora.La",
+      "take": "Scenasonica runs six concerts of electronic music and sound research between 10 October and 19 December at Auditorium Aquavitae in Precenicco and Ex Convento in Pordenone. It opens with Plaid's A/V set on 10 October, followed by Scanner (24 Oct), Nosaj Thing (14 Nov), Nusantara Beat (28 Nov), Bella Wakame (12 Dec) and Death in Vegas (19 Dec).",
+      "title": "Scenasonica brings Plaid, Scanner and Death in Vegas to Friuli",
+      "url": "https://bora.la/2026/10/03/scenasonica-sei-appuntamenti-internazionali-tra-elettronica-e-ricerca-sonora/"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-01",
+      "free": false,
+      "signal": 2,
+      "source": "Mix",
+      "take": "Mix's second report from its 13th Sound for Film & TV event at Sony Pictures Studios covers panels with the sound teams of The Odyssey, Spider-Man: Brand New Day and Avatar: Fire and Ash. Google, with Samsung, presented Eclipsa, a system for live-streaming full-bandwidth immersive audio to homes with tools for 7.1.4 work. Nuno Fonseca demonstrated Sound Particles.",
+      "title": "Mix Sound for Film & TV: The Odyssey, Avatar and Google's Eclipsa",
+      "url": "https://www.mixonline.com/business/seen-on-the-scene-mix-sound-for-film-tv-2026-part-ii"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-09-12",
+      "free": true,
+      "signal": 2,
+      "source": "The New Museum of Networked Art",
+      "take": "The New Museum of Networked Art and Torrance Art Museum invite up to three sound works per artist, made 2020–2026, as MP3s of 1–15 minutes. There is no fee or age limit. Selected works become an online interactive installation shown with a video exhibition in Los Angeles (27 Mar–8 May 2027) and Cologne (9 May–31 Jul 2027); no artist fee is mentioned.",
+      "title": "The Sound of Future: free call for sound works, deadline 1 November",
+      "url": "https://netex.nmartproject.net/?p=13084"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-02",
+      "free": false,
+      "signal": 1,
+      "source": "Il Sole 24 Ore",
+      "take": "Friars at the Sacred Convent in Assisi commissioned Patti Smith to write the poem Where Francis Walked for the 800th anniversary of St Francis's death. She tours it as Words and Music, mixing songs, poetry and personal stories, opening the Italian dates at Transart in Bolzano on 29 November before Salerno, San Severino and Rome.",
+      "title": "Patti Smith brings Where Francis Walked to Transart Bolzano",
+      "url": "https://en.ilsole24ore.com/art/a-bridge-between-rock-music-and-spirituality-in-the-eighth-centenary-of-the-saint-AJpAJUVB"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-01",
+      "free": false,
+      "signal": 1,
+      "source": "TechCrunch",
+      "take": "Legato's hearing glasses for adults with up to moderate hearing loss use on-device AI to separate voices from background noise, with no cameras or recording. Open-ear speakers in the arms cancel escaping sound, which the company says cuts leakage by 99% a few inches from the ear. They weigh 34 g, cost from $999 and are sold in the US.",
+      "title": "Legato Frames put hearing assistance into glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-02",
+      "free": false,
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "Dutch maker AnalogFX's Larynx, inspired by the Dutch Synton Syrinx, has three CEM3350 filters, one lowpass and two resonant bandpass, with 16 preset human-voice formant settings. It is duophonic with two CEM3340 oscillators, 37 keys with aftertouch, a stereo delay, arpeggiator and sequencer. A first batch of 50 costs €1,124.09.",
+      "title": "AnalogFX Larynx: an analog keyboard synth built around vocal formants",
+      "url": "https://synthanatomy.com/2026/10/analogfx-larynx-the-ser-2020-formant-analog-keyboard-synthesizer-with-extras.html"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-05",
+      "free": false,
+      "signal": 1,
+      "source": "Synthtopia",
+      "take": "Alessandro Guardascione's monophonic PLICATA has a morphing oscillator, an interval sub-oscillator and a 28-socket patch field for audio, CV and event signals. It adds a microtonal XY keyboard and a 32-step arpeggiator with scenes and mutation. It runs standalone or as AUv3 and costs $7.99.",
+      "title": "PLICATA: a patchable microtonal synth for iPhone and iPad",
+      "url": "https://www.synthtopia.com/content/2026/10/05/plicata-is-a-patchable-microtonal-synth-for-ios/"
+    },
+    {
+      "cat": "games",
+      "date": "2026-10-05",
+      "free": false,
+      "signal": 1,
+      "source": "Game Developer",
+      "take": "The Hellblade studio is cutting jobs after attempts to find a buyer outside Xbox fell through. Among those posting about redundancy on LinkedIn was a technical sound designer with 12 years at the studio. No headcount has been given.",
+      "title": "Ninja Theory lays off staff after its Xbox spin-off fails",
+      "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-01",
+      "free": true,
+      "signal": 1,
+      "source": "Tonebenders",
+      "take": "Episode 378, recorded on Stage 2 at Formosa Hollywood, gathers Lindsey Alvarez, Anna Behlmer, Laura Wiest and Karen Baker Landers. They talk about how they built careers in post sound, their mentors, mentoring others and how the industry has changed.",
+      "title": "Tonebenders: four women in audio post on careers and mentoring",
+      "url": "https://tonebenderspodcast.com/378-women-in-audio-post-roundtable/"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-09-30",
+      "free": false,
+      "signal": 1,
+      "source": "Unsound",
+      "take": "Unsound presented Arca's AIRDOLL at SEKTOR 6D in Warsaw on 3 October, with a hybrid DJ/live set, a back-to-back with Bobby Beethoven, and sets by Mica Levi, KAVARI and 2K88. Arca's team built a visual environment that ran through the whole night.",
+      "title": "Unsound's AIRDOLL night: Arca with a continuous visual environment",
+      "url": "https://www.unsound.pl/en/news/unsound-festival-presents-arca-s-airdoll-with-bobby-beethoven-kavari-mica-levi-and-2k88-at-sektor-6d-on-saturday-october-3"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-06",
+      "free": false,
+      "signal": 1,
+      "source": "e-flux",
+      "take": "Oakville Galleries in Ontario shows Aideen Barry from 24 October to 23 January. It includes Oblivion (2021), made with Inuit throat singer Riit and Irish harpist Aisling Lyons, bringing together two musical traditions once suppressed under colonial rule, and the premiere of a new film.",
+      "title": "Aideen Barry's Silent Songs: throat singing and harp as cultural memory",
+      "url": "https://www.e-flux.com/announcements/6788266/aideen-barrysilent-songs"
+    }
+  ],
+  "key": "2026-10-06",
+  "label": "Tue 6 Oct 2026",
+  "lead": "A production sound mixer explained how he recorded Lord of the Flies on a storm-hit tropical island, including ambisonic ambiences. Arswerk released Nyx, a free reverb where you draw the room and choose the wall materials. Thoughtful Things launched Engram, a sampler that deliberately breaks small neural audio models the way circuit benders break toys. In Italy, MAO Torino announced a season-long series of Asian and diaspora sound performance, and Scenasonica brings Plaid and Scanner to Friuli.",
+  "listen": {
+    "artist": "Halim El-Dabh",
+    "url": "https://en.wikipedia.org/wiki/Halim_El-Dabh",
+    "why": "El-Dabh borrowed a wire recorder from Middle East Radio in Cairo and recorded a public zaar ceremony. In the radio studios he used echo chambers, reverberation and a re-recording room with movable walls, filtering out the fundamentals so that only the high overtones of the voices remained. The 20–25 minute result was presented at a Cairo gallery in 1944 and is one of the earliest known works of tape music, four years before Pierre Schaeffer's first études.",
+    "work": "The Expression of Zaar",
+    "year": "1944"
+  },
+  "radar": [
+    {
+      "date": "2026-10-09",
+      "note": "Modus Arts brings Francisco López, Lee Patterson, Nik Colk Void and others to mills, warehouses and Brutalist buildings, with soundwalks and spatial audio.",
+      "title": "Auris, Manchester's first sound art festival (9–11 Oct)",
+      "url": "https://mag-north.com/posts/turn-it-up-manchesters-first-sound-art-festival-is-asking-the-city-to-listen-differently"
+    },
+    {
+      "date": "2026-10-12",
+      "note": "One-minute 16:9 videos for a call curated by Daryna Mamaisur; selected open-call works receive €150.",
+      "title": "Deadline: The One Minutes, language at play, language at fault",
+      "url": "https://theoneminutes.org/participate"
+    },
+    {
+      "date": "2026-11-25",
+      "note": "Fully funded composer-conductor workshop in New York and Grafenegg for up to five composers, no fees and no age limit.",
+      "title": "Deadline: Ink Still Wet 2027 with Steve Reich",
+      "url": "https://www.soundandmusic.org/opportunities/listing/ink-still-wet-2027-composer-conductor-workshop-with-steve-reich/"
+    },
+    {
+      "date": "2026-11-29",
+      "note": "Words and Music performance at Transart, the first of four Italian dates.",
+      "title": "Patti Smith, Where Francis Walked, Transart Bolzano",
+      "url": "https://en.ilsole24ore.com/art/a-bridge-between-rock-music-and-spirituality-in-the-eighth-centenary-of-the-saint-AJpAJUVB"
+    }
+  ],
+  "range": "29 Sep – 6 Oct 2026",
+  "seed": {
+    "by": "Pauline Oliveros",
+    "kind": "quote",
+    "note": "Pauline Oliveros (1932–2016) was an American composer and accordionist. Sonic Meditations is her set of text pieces from the early 1970s. They are written as short instructions for listening and sounding rather than as notated music, and they led to the practice she later called Deep Listening.\n\nThe American Scholar quotes this line as one of the Sonic Meditations in a 2017 essay on Oliveros. The same essay records a motto she repeated to students: listen to everything all the time, and notice when you are not listening.",
+    "source": {
+      "label": "The American Scholar — Sudip Bose, “Music at 14 Below: Pauline Oliveros's Deep Listening” (2017)",
+      "url": "https://theamericanscholar.org/?p=31944"
+    },
+    "text": "Take a walk at night. Walk so silently that the bottoms of your feet become ears.",
+    "work": "Sonic Meditations"
+  },
+  "visual": {
+    "caption": "Plate 003 · orbiting points · #337872",
+    "form": "orbits",
+    "ground": "#0e1014",
+    "palette": [
+      "#e8b86a",
+      "#7fb8c9",
+      "#c98a9e"
+    ],
+    "seed": 867042
+  }
+}

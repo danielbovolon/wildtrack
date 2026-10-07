@@ -1,0 +1,256 @@
+{
+  "crossover": {
+    "body": "In their long collaboration, John Cage and the choreographer Merce Cunningham made the music and the dance separately. The two works shared only agreed time points or an overall duration, and the dancers often heard the score for the first time in performance. Cage summed it up as music and dance being independent but coexistent. The method removed the usual rule that sound accompanies or illustrates movement, and left the audience to relate the two.",
+    "field": "Choreography",
+    "source": "Northwestern University, Cage and Dance",
+    "title": "Cage and Cunningham: music and dance made apart",
+    "url": "https://sites.northwestern.edu/cageanddance/jcmc-late"
+  },
+  "generated": "2026-10-07T06:46:24+02:00",
+  "headline": "Buchla rooms, modal lumps and quieter propellers",
+  "items": [
+    {
+      "cat": "synthesis",
+      "date": "2026-10-05",
+      "deep": "The video is a hands-on look at three generations of Buchla design in one place, and Hainbach describes moving between them as travelling through time. Instead of a gear review, it shows how the instruments behave when you patch them, and what each era of the design made easy or hard.\n\nEMS is one of the historic public electronic music studios that still offers residencies, and this is a reminder that the instruments can be booked and played. Buchla Stories serves as the listening companion: pieces made under the limits of those specific systems rather than with software emulations.",
+      "signal": 3,
+      "source": "Synthtopia",
+      "take": "Hainbach made a video essay on Don Buchla's modular systems during a residency at EMS Elektronenmusikstudio in Stockholm. He worked on an exact replica of the System 100, an original System 200 and the later 200e. He has also put out Buchla Stories, a pay-what-you-want album made on these instruments.",
+      "title": "Hainbach plays Buchla's System 100 and 200 at EMS Stockholm",
+      "url": "https://www.synthtopia.com/content/2026/10/05/the-modular-synthesizers-of-don-buchla/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-06",
+      "deep": "In BLOT the shape on screen is the patch. Drawing tendrils gives plucked-string behaviour, dents act like formant filters, cutting a piece splits its modes, and pieces close to each other ring-modulate and fuse when they touch. A pause function freezes the matter while the sound keeps going.\n\nAfter the resonators come a 4× oversampled multiband saturator with a feedback comb and an eight-line feedback delay network, with a clean and a driven engine. For anyone working with physical modelling, it is an unusual, gestural way into inharmonic resonance. The article does not list supported operating systems.",
+      "free": true,
+      "signal": 3,
+      "source": "Synthtopia",
+      "take": "Laboratory 0 released BLOT for free on Gumroad. Each lump on screen is a modal resonator with eight damped oscillators, and its size sets the pitch on just-intonation ratios of the MIDI root. Sound is excited by a slow breathing noise, by strikes, or by friction as you sweep across the matter.",
+      "title": "BLOT: a free modal synth you play by shaping virtual matter",
+      "url": "https://www.synthtopia.com/content/2026/10/06/free-experimental-modal-synthesizer-blot/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-03",
+      "deep": "Cavitation, the formation and collapse of bubbles behind a spinning propeller, is a major source of underwater noise, and shipping noise overlaps the roughly 10–300 Hz range that whales use. Popular Science reports claimed reductions of 3–24 dB across 10 Hz to 20 kHz and up to 20 dB at the helm. Greg Sharrow, a classically trained composer and broadcast executive, first developed the tipless design while trying to make silent drones for recording orchestras.\n\nThe article also notes that humpbacks in 2020 used more complex calls when lockdowns emptied the sea lanes. Researchers quoted say slower ships and changed routes are needed as well as quieter hardware. It is a clear case of studio noise-floor thinking applied to an ocean soundscape.",
+      "signal": 3,
+      "source": "Popular Science",
+      "take": "Sharrow Marine's propeller uses looped, ribbon-like blades with no free tips, which reduces tip vortices and cavitation. Lab tests claim up to 7 dB less noise in the band whales use to communicate. The conservation group Ocean Alliance has tried the propellers on its research boats.",
+      "title": "Looped propeller blades tested to cut ship noise in the whale band",
+      "url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-04",
+      "deep": "Styles describes audience members covering their ears at HORNFUCKERS, where the scale of the sound far exceeded what was happening on stage. Of MoonJar she says the sound was high quality but felt disconnected from the bodies in the space. Her point is that sound should widen the world of a piece, not stand in for weak visual design.\n\nShe calls for choreographers and sound designers to work together from the start of a production. For sound designers in dance and theatre, it is a reviewer's view of how loudness and scale are received, and how easily a strong score can be read as compensation.",
+      "signal": 3,
+      "source": "The Berliner",
+      "take": "The Berliner's stage editor Rhyannon Styles argues that sound design in Berlin theatre and dance often overwhelms the staging instead of serving it. She cites HORNFUCKERS at Radialsystem and The Choreography of Water from Tanz im August, and MoonJar by Kat Válastur with Aho Ssan.",
+      "title": "Is sound design overpowering Berlin's dance stages?",
+      "url": "https://www.the-berliner.com/stage/sound-design-on-berlin-stage"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-05",
+      "signal": 2,
+      "source": "Pink Loudspeaker",
+      "take": "The first Auris festival runs 9–11 October along Manchester's Oxford Road Corridor. Francisco López plays a quadraphonic set for a blindfolded audience in total darkness, and Vicky Clarke and Kamila Narysheva's T½ (Half-Life) uses field recordings from the Semipalatinsk nuclear test site. Wajid Yaseen's Seven Sisters lets visitors play seven vintage analogue test oscillators; Ryoko Akama also performs, and Resonance FM is streaming.",
+      "title": "Auris programme: López in darkness, Semipalatinsk soil, seven test oscillators",
+      "url": "https://pinkloudspeaker.substack.com/p/pink-loudspeaker-issue-152"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-02",
+      "free": true,
+      "signal": 2,
+      "source": "steiermark1.at",
+      "take": "Moreth Anhuman H1N4 is a sound installation by Anke Eckardt in Space04 at Kunsthaus Graz. Three amorphous creatures fade in colour while their voices move from hopeful to mournful, as a speculative picture of biodiversity loss. It opens on 8 October at 18:00, entry is free, and it is presented by ORF musikprotokoll as Eckardt's inaugural lecture as a professor at KUG.",
+      "title": "Anke Eckardt's voiced creatures at Kunsthaus Graz, 8–11 October",
+      "url": "https://www.steiermark1.at/anke-eckardt-moreth-anhuman-kunsthaus-graz-2026/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-06",
+      "signal": 2,
+      "source": "Bandcamp Daily",
+      "take": "Bandcamp Daily traces Gengras from his first Moog Rogue to modular synthesis, which became his main instrument around 2011 while he made The Empty Space. The guide covers a Jamaica field-recording diary, sounds of st. catherine, and QUIK-MELT, built on Roland Sound Canvas presets to push composition over sound sculpting. The new Guest List assembles contributions from other musicians into patchworks.",
+      "title": "M. Geddes Gengras in nine albums, from a Moog Rogue to Guest List",
+      "url": "https://daily.bandcamp.com/lists/m-geddes-gengras-album-guide"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-06",
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Hermetic Modular's 12HP Capicola turns incoming stereo audio into keyframes of peaks and valleys, which it calls Extrema Sampling, so pitch and time can be changed separately in real time. It adds transient slicing, ±12 semitone shift, saturation with feedback, two envelope followers and 16 presets. It costs US$389.99 and the project is open source.",
+      "title": "Capicola: open-source real-time time-stretching for Eurorack",
+      "url": "https://www.synthtopia.com/content/2026/10/06/hermetic-modular-capicola-brings-real-time-time-stretching-to-eurorack/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-06",
+      "signal": 2,
+      "source": "CDM",
+      "take": "CDM revisits a clip from Eric Lippmann's 1984 documentary I Love Quincy, in which Herbie Hancock edits on a Fairlight CMI and plays a Rhodes Chroma. He compares a synthesizer to an axe, a tool that can help or harm depending on who holds it, and says the machine does nothing until someone plugs it in.",
+      "title": "Herbie Hancock on the Fairlight in 1984: a tool like an axe",
+      "url": "https://cdm.link/watch-what-herbie-hancock-had-to-say-about-technology-in-1984/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-19",
+      "signal": 2,
+      "source": "On the Move",
+      "take": "A residency in Maribor, Slovenia, from 19 to 27 November on the meeting of nature, technology and art, with ecology and energy in the region as themes. It pays a €1,300 gross fee, up to €300 travel, accommodation, studio and production support. Sound is named as welcome, and applicants must live in an EU or Creative Europe country, which includes Italy.",
+      "title": "KIBLA OASis residency in Maribor on nature and technology: deadline 19 October",
+      "url": "https://www.on-the-move.org/news/oasis-kibla-residence-artistic-intelligence-nature-and-technology-2026-slovenia"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-01",
+      "signal": 2,
+      "source": "ALPACA",
+      "take": "The Algorithmic Patterns in the Creative Arts festival runs 6–9 May 2027 in Sheffield, with online parts. It seeks performances, workshops and talks; this year's talk theme is languages and notations for making patterns. Performers get an artist fee and national travel, with limited European train costs, and all submissions must be human-authored.",
+      "title": "ALPACA 2027 wants algorithmic-pattern performances and talks: deadline 1 November",
+      "url": "https://alpaca.cc/call/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-09-29",
+      "signal": 2,
+      "source": "WBUR",
+      "take": "Jeff Podos and João Menezes at UMass Amherst measured song amplitude in 123 species in Brazil and Massachusetts, published in Evolution. The bare-throated bellbird and the red-legged seriema both exceed 120 dB, joining the white bellbird at 125 dB. The seriema lives in open pasture and is monogamous, which weakens the dense-forest and mate-attraction explanations for extreme loudness.",
+      "title": "Two more birds pass 120 dB, and one breaks the theory",
+      "url": "https://www.wbur.org/news/2026/09/29/umass-amherst-worlds-loudest-birds-bellbird-seriema"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-01",
+      "signal": 2,
+      "source": "RadioToday",
+      "take": "At the tenth British Podcast Awards in London, Hold or Fold from the Prison Radio Association won Podcast of the Year and Best Factual. RadioToday describes it as conversations about modern masculinity. The Guardian's The Birth Keepers won Best Documentary and Bill Nighy was named Best Host.",
+      "title": "Prison Radio's Hold or Fold is UK Podcast of the Year",
+      "url": "https://www.radiotoday.uk/2026/10/prison-radio-takes-top-prize-at-british-podcast-awards-2026/"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-06",
+      "signal": 1,
+      "source": "ANSA",
+      "take": "The 13th Cinematica festival runs in Ancona on 22–25 October and 1 November, and in Osimo on 30–31 October, with 27 events and 76 artists. This edition shifts from body and image to body and sound, with the premiere of Simona Lisi's Soundness, interactive audio installations and sound workshops for children.",
+      "title": "Cinematica in Ancona turns to body and sound",
+      "url": "https://www.ansa.it/marche/notizie/2026/10/06/danza-installazioni-laboratori-e-film-27-eventi-tra-ancona-e-osimo-a-cinematica_7a846a61-40ba-4cca-8df1-1431ab15de38.html"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-02",
+      "signal": 1,
+      "source": "Lendhafen",
+      "take": "Lendhauer invites site-specific projects for the Lendhafen in Klagenfurt from June to September 2027 on the theme Coexistence and Control. Each project can get up to €4,000 production, €2,500 fee and €1,000 travel, all gross. Artists, performers, designers and architects from anywhere can apply with one PDF by email.",
+      "title": "Lendhauer 2027 in Klagenfurt, Urban Ecologies: deadline 2 November",
+      "url": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-06",
+      "free": true,
+      "signal": 1,
+      "source": "KVR Audio",
+      "take": "Leit Audio's free Places reverb offers twelve algorithms, six conventional halls, rooms and plates and six imagined spaces such as Gravity Void and Infinite Elevator. Each has one tuned Reverb control plus mix and 0–500 ms pre-delay. It comes as VST3 for Windows, macOS and Linux, and AU.",
+      "title": "Places: a free reverb with six imagined spaces",
+      "url": "https://www.kvraudio.com/news/leit-audio-releases-places---free-algorithmic-reverb-plugin-with-twelve-distinct-spaces-vst3-and-au-68808"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-06",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "Idle Foundry's free CA-72 models the 1972–73 Minimoog Model D with the CA3046 oscillator board and adds 2–10 voice polyphony, stereo spread and voice variation. It is GPLv3, in VST3 and CLAP for macOS, Windows and Linux. The developer says he built it with help from Claude, starting from the schematics and service manual.",
+      "title": "CA-72: an open-source polyphonic model of the 1972 Minimoog",
+      "url": "https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/"
+    },
+    {
+      "cat": "games",
+      "date": "2026-09-30",
+      "signal": 1,
+      "source": "G.A.N.G.",
+      "take": "The Game Audio Network Guild extended its 25th Awards entry deadline to 11 October at 23:59 PDT; the ceremony is on 3 March 2027 at GDC. Demo Derby entries for voice, music and sound design close on 16 October. GameSoundCon follows on 20–21 October in Burbank and online.",
+      "title": "Game audio deadlines: G.A.N.G. Awards 11 October, Demo Derby 16 October",
+      "url": "https://www.audiogang.org/g-a-n-g-newsletter-9-29-26/"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-02",
+      "signal": 1,
+      "source": "ThePrint",
+      "take": "Researchers at Case Western Reserve University, publishing in Current Biology, found hundreds of hair cells across squid bodies that sense water movement much like inner-ear cells. The bundles vary in height and tune to different frequencies. Because they sit on the surface, they are far easier to study than cells deep in the human cochlea.",
+      "title": "Squid skin hair cells could help hearing-loss research",
+      "url": "https://theprint.in/science/squid-hair-cells-hearing-loss-human-ears/3060370"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-05",
+      "signal": 1,
+      "source": "ArtReview",
+      "take": "ArtReview lists a group show at Museo de Arte Miguel Urrutia, Bogotá, from 29 October to 18 January. It starts from two Colombian pioneers of the 1960s, the electroacoustic composer Jacqueline Nova and the kinetic sculptor Feliza Bursztyn, and adds contemporary artists working with sound and material.",
+      "title": "Noise: Sound Plasticity, Jacqueline Nova and Feliza Bursztyn in Bogotá",
+      "url": "https://artreview.com/the-13-exhibitions-to-see-in-october-2026/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-04",
+      "signal": 1,
+      "source": "Nordest24",
+      "take": "A practical guide to Caterina Barbieri's Biennale Musica in Venice, 10–24 October, across the Arsenale, Teatro Goldoni, San Marco and Forte Marghera. Concerts cost €25 (€16 under 26) and installations €5. Dates include a free concert in the Pineta di Sant'Elena on 11 October and a four-hour closing event at the Tese on 24 October.",
+      "title": "Biennale Musica opens Saturday: tickets and key dates",
+      "url": "https://www.nordest24.it/biennale-musica-2026-venezia-biglietti-programma-guida"
+    }
+  ],
+  "key": "2026-10-07",
+  "label": "Wed 7 Oct 2026",
+  "lead": "Hainbach released a video and an album from a residency with Buchla systems at EMS Stockholm. A free synth called BLOT replaces knobs with lumps of virtual matter that ring as modal resonators. A former composer's looped propeller blades are being tested to cut ship noise in the band whales use. In Berlin, The Berliner's stage editor argues that dance sound design too often overpowers the stage it should be serving.",
+  "listen": {
+    "artist": "Jacqueline Nova",
+    "url": "https://www.soundohm.com/product/creacion-de-la-tierra",
+    "why": "A tape piece of about 19 minutes that the Colombian composer made in 1972 in Buenos Aires, where she had studied at CLAEM on a scholarship. Nova built it with musique concrète techniques from recordings of chanting by members of the U'wa people of north-eastern Colombia, layering and processing the voices so that they emerge from obscurity over the course of the work. It first appeared on the 1976 LP Tres composiciones electroacústicas and was reissued by Buh Records in 2023.",
+    "work": "Creación de la tierra",
+    "year": "1972"
+  },
+  "radar": [
+    {
+      "date": "2026-10-14",
+      "note": "Sound design finalists span ads, film, series and games, from a record number of entries.",
+      "title": "Music+Sound Awards winners announced",
+      "url": "https://www.televisual.com/news/musicsound-awards-reveals-2026-finalists/"
+    },
+    {
+      "date": "2026-10-20",
+      "note": "Sessions include field recording for Battlefield 6 and adaptive music in Ghost of Yōtei; online tickets $99 with 12 months of recordings.",
+      "title": "GameSoundCon, Burbank and online (20–21 Oct)",
+      "url": "https://www.soundonsound.com/news/gamesoundcon-2026"
+    }
+  ],
+  "range": "29 Sep – 7 Oct 2026",
+  "seed": {
+    "kind": "word",
+    "lang": "Japanese (さわり)",
+    "note": "Sawari is the name for a deliberate buzzing timbre expected of some traditional Japanese stringed instruments. On the shamisen, the lowest string is laid lower than the others at the nut so it touches and buzzes against the neck; modern instruments have a small device that lets the player raise or lower it. On the satsuma biwa, the strings are pulled down between tall raised frets, which produces sawari at each position. The technique began on the biwa and was later taken up by shamisen players.\n\nThe composer Tōru Takemitsu wrote that the word means both \"to touch\" and \"obstacle\", and read it as a built-in inconvenience that becomes part of the sound's expressiveness.",
+    "source": {
+      "label": "Wikipedia: Sawari",
+      "url": "https://en.wikipedia.org/wiki/Sawari"
+    },
+    "text": "sawari"
+  },
+  "visual": {
+    "caption": "Plate 004 · grain field · #280016",
+    "form": "grain",
+    "ground": "#0C0B0F",
+    "palette": [
+      "#D9B26F",
+      "#8EC1B4",
+      "#C47E8E"
+    ],
+    "seed": 943368
+  }
+}
