@@ -217,6 +217,26 @@
     "work": "Creación de la tierra",
     "year": "1972"
   },
+  "photo": {
+    "alt": "A late 19th-century sitar, the instrument whose flat bridge produces the buzzing sawari (jivari) tone",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Sitar,_late_19th_Century.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Sitar,_late_19th_Century.jpg",
+    "title": "Sitar, late 19th century"
+  },
+  "poem": {
+    "author": "Emily Dickinson",
+    "lang": "English",
+    "note": "Written around 1862 and first printed after Dickinson's death in Poems, Third Series (1896), where the editors titled it \"Dying\" and regularised her dashes and capitals. This is that 1896 text. The poem is in the public domain.",
+    "source": {
+      "label": "Representative Poetry Online, University of Toronto",
+      "url": "https://rpo.library.utoronto.ca/poems/dying"
+    },
+    "text": "I heard a fly buzz when I died;\nThe stillness round my form\nWas like the stillness in the air\nBetween the heaves of storm.\n\nThe eyes beside had wrung them dry,\nAnd breaths were gathering sure\nFor that last onset, when the king\nBe witnessed in his power.\n\nI willed my keepsakes, signed away\nWhat portion of me I\nCould make assignable, -- and then\nThere interposed a fly,\n\nWith blue, uncertain, stumbling buzz,\nBetween the light and me;\nAnd then the windows failed, and then\nI could not see to see.",
+    "title": "Dying",
+    "work": "Poems, Third Series",
+    "year": "1896"
+  },
   "radar": [
     {
       "date": "2026-10-14",
@@ -241,16 +261,5 @@
       "url": "https://en.wikipedia.org/wiki/Sawari"
     },
     "text": "sawari"
-  },
-  "visual": {
-    "caption": "Plate 004 · grain field · #280016",
-    "form": "grain",
-    "ground": "#0C0B0F",
-    "palette": [
-      "#D9B26F",
-      "#8EC1B4",
-      "#C47E8E"
-    ],
-    "seed": 943368
   }
 }

@@ -13,7 +13,6 @@ DATA = ROOT / "data"
 CATS = {"sounddesign","music","field","synthesis","tools","film","games","art",
         "space","stage","radio","visual","design","nature","access","calls"}
 KINDS = {"word","concept","quote","photo"}
-FORMS = {"strata","rings","grain","lissajous","score","orbits"}
 
 def load(p):
     try:
@@ -32,8 +31,13 @@ def check_seed(p, d):
         ph = sp.get("photo") or {}
         if not (ph.get("src") and ph.get("page")): sys.exit(f"{p.name}: a photo needs photo.src and photo.page (where it comes from)")
     elif not (sp.get("source") or {}).get("url"): sys.exit(f"{p.name}: seed needs source.url so it can be checked")
-    v = d.get("visual") or {}
-    if v.get("form") and v["form"] not in FORMS: print(f"warning: {p.name} visual form '{v['form']}' is unknown")
+    ph = d.get("photo") or sp.get("photo") or {}
+    if not (ph.get("src") and ph.get("page")): print(f"warning: {p.name} has no real photograph (photo.src + photo.page)")
+    po = d.get("poem")
+    if po:
+        if not (po.get("text") and po.get("author")): sys.exit(f"{p.name}: a poem needs 'text' and 'author'")
+        if not (po.get("source") or {}).get("url"): sys.exit(f"{p.name}: a poem needs source.url so it can be checked")
+    elif d.get("key", "") >= "2026-10-08": print(f"warning: {p.name} has no poem")
     for i, it in enumerate(d.get("items", [])):
         for k in ("cat","title","url"):
             if k not in it: sys.exit(f"{p.name}: item {i} missing '{k}'")
