@@ -1,0 +1,293 @@
+{
+  "crossover": {
+    "body": "The bouba/kiki effect, also called the takete–maluma phenomenon, is a non-arbitrary link between speech sounds and visual shapes. Dimitri Uznadze first observed it in 1924, and Wolfgang Köhler described it in Gestalt Psychology (1929) using the made-up words 'takete' and 'maluma'. In 2001 V. S. Ramachandran and Edward Hubbard reported that about 95% of people call a curvy shape 'bouba' and a jagged one 'kiki', and a 2022 study of 917 people speaking 25 languages found the match above chance. For sound designers it is one of the clearest documented cases of cross-modal mapping between timbre, articulation and form.",
+    "field": "Psychology",
+    "source": "Wikipedia: Bouba/kiki effect",
+    "title": "Bouba and kiki: sound that has a shape",
+    "url": "https://en.wikipedia.org/wiki/Bouba/kiki_effect"
+  },
+  "generated": "2026-10-21T07:20:00+02:00",
+  "headline": "Listening at scale, from whales to halls",
+  "items": [
+    {
+      "cat": "film",
+      "date": "2026-10-19",
+      "deep": "The conversation treats a superhero film as a set of listening problems rather than a wall of effects. The team split the webs into two distinct sound families and worked out how they move in the pan field, and used the mask as a listening position the audience can ride along with. Other chapters deal with the scorpion's mechanical tail, production dialogue and fitting a large score into the mix.\n\nThe most useful point for anyone working on drama is the claim that the quiet boat scenes were harder than the action. Low-level scenes expose every edit, room tone and level decision. The episode also covers how the four arrived in the job: Blank from ballet, Russell from music, Wood from New Zealand and Whittaker from runner to supervisor.",
+      "free": false,
+      "signal": 3,
+      "source": "A Sound Effect",
+      "take": "A Sound Effect presents episode 74 of The AMPS Podcast, in which Martyn Harries talks to re-recording mixers Onnalee Blank and Greg P. Russell and supervising sound editors Katy Wood and Jack Whittaker. Chapters cover two kinds of web sounds, a point-of-view idea of riding inside the mask, and why the quiet boat scenes were the hardest to mix.",
+      "title": "The sound team behind Spider-Man: Brand New Day",
+      "url": "https://www.asoundeffect.com/spider-man-brand-new-day-film-sound/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-20",
+      "deep": "Omura's whale was only recognised as a separate species in 2003 and is rarely seen; the IUCN lists it as Data Deficient. This study built a habitat picture almost entirely by listening. Presence rose with warmer sea surface temperature, stronger winds and higher chlorophyll-a, and peaked about a month after chlorophyll peaks, which points to feeding conditions.\n\nFor field recordists the interest is in the method. A long-term hydrophone archive, gathered over almost two decades for other purposes, became the main evidence for a conservation baseline. It is a strong case for keeping long recordings well documented, with dates, positions and equipment noted, because their value can arrive years later.",
+      "free": false,
+      "signal": 3,
+      "source": "Scimex",
+      "take": "Curtin University's Centre for Marine Science and Technology analysed passive acoustic recordings from 35 sites along about 1,800 km of north-west Australian coast, collected between 2005 and 2023. Calls were heard all year, with presence more likely from September to May and in waters above 27.5°C. The study is in Marine Mammal Science.",
+      "title": "Eighteen years of recordings map Omura's whale habitat",
+      "url": "https://www.scimex.org/newsfeed/listen-up-18-years-of-whale-calls-reveal-key-habitat-of-mysterious-species"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-16",
+      "deep": "Some of the horns were developed with Arthur Mamou-Mani from sugar resin and bamboo dust, and the textiles, supplied by Satoshi Kondo, are coated with conductive paint so that airflow and humidity shift bass tones. The work is partly played by performers and partly by the building's own air and ambient sound, with technicians mixing from desks behind a plinth. Opening sessions featured Emptyset, Mazen Kerbaj, Kenichi Iwasa and Aya Metwalli.\n\nCritics are split. A round-up in The Week lists praise in the Guardian and Telegraph and a negative review in The Times, which called the music muted. The gap between 'immersive' and 'too quiet' in a hall of this size is itself a useful lesson in how sound art reads at institutional scale.",
+      "free": false,
+      "signal": 3,
+      "source": "hube magazine",
+      "take": "Hold, this year's Hyundai Commission, runs from 13 October 2026 to 11 April 2027. Atoui built an ensemble of suspended bamboo pipes, Korean drums, gongs, karnai horns, vibrating floor stones and conductive textiles wired to a synthesiser. Microphones pick up the instruments and the hall, and custom software keeps reshaping the result.",
+      "title": "Tarek Atoui fills Tate Modern's Turbine Hall with Hold",
+      "url": "https://hubemag.com/tarek-atoui-composes-a-new-language-of-sound-for-tate-moderns-turbine-hall"
+    },
+    {
+      "cat": "space",
+      "date": "2026-10-19",
+      "deep": "ArchDaily describes the main hall's sculptural interior surfaces as shaped by the acoustic needs of opera, which makes this a case where room acoustics drove the visible architecture rather than being added afterwards. The Open Stage has adaptable stage and seating, aimed at more experimental formats.\n\nThe opening season, Born to Sing, runs until 20 February 2027, and the opening concert also launched the 25th Shanghai International Arts Festival. For sound designers working in theatre and spatial audio, three halls of different size and flexibility under one roof is a notable new set of rooms.",
+      "free": false,
+      "signal": 3,
+      "source": "ArchDaily",
+      "take": "The opera house opened on 17 October on the Huangpu River with 4,200 seats in three halls: the 2,000-seat Harmony Hall, the 1,200-seat Soar Theatre and the 1,000-seat Open Stage. Snøhetta designed it with ECADI and Theatre Projects, with Nagata Acoustics among the collaborators.",
+      "title": "Snøhetta's Shanghai Grand Opera House opens",
+      "url": "https://www.archdaily.com/1187067/snohettas-shanghai-grand-opera-house-opens-with-a-sweeping-roof-and-panoramic-river-views"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-20",
+      "free": false,
+      "signal": 2,
+      "source": "Gearnews",
+      "take": "Ambrio's Spatial Performance Mixer has five channels and outputs for up to 8.1 speakers, and lets each channel and its reverb and delay be placed anywhere in 360°. It takes MIDI, OSC, CV sync and expression pedals. It ships in 2027, with no price yet, and is demonstrated at ADE on 23–24 October.",
+      "title": "Ambrio mixer puts spatial diffusion in a DJ booth",
+      "url": "https://www.gearnews.com/ambrio-spatial-performance-mixer-dj/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-18",
+      "free": false,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "The ODD-1 works on samples and incoming audio rather than oscillators. Its LIVE mode keeps a 60-second rolling buffer of the input to play as an instrument, and each of its eight playheads can run forward, backward or frozen, with a filter acting on individual grains. It costs $999 including the ODD-1v plugin.",
+      "title": "Oddment ODD-1, a granular instrument for live input",
+      "url": "https://www.synthtopia.com/content/2026/10/18/oddment-odd-1-combines-granular-synthesis-live-processing-and-looping/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-16",
+      "free": false,
+      "signal": 2,
+      "source": "PRIX EUROPA",
+      "take": "Europe's broadcast festival named Candour (BBC) Audio Fiction of the Year and 30 Acres: 30 Acres Says No (RTÉ) best fiction series. Camp Guard (HRT) won Audio Documentary of the Year and ARTE Radio's My Heroin(e): All My Mother's Lives the documentary series award. The list is a ready-made listening list for current audio drama.",
+      "title": "PRIX EUROPA 2026 audio winners",
+      "url": "https://www.prixeuropa.eu/news/2026winner-kflyr"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-15",
+      "free": true,
+      "signal": 2,
+      "source": "A Sound Effect",
+      "take": "Daniel Jewel's documentary about Foley artists Pete Burgis and Sue Harding and supervising sound editor Glen Gathard is free to stream for a limited time. A Sound Effect reports Burgis's recent death. A second film, Inside the Pinewood Foley Studio, is linked alongside.",
+      "title": "The Secret World of Foley free to watch",
+      "url": "https://www.asoundeffect.com/the-secret-world-of-foley-26/"
+    },
+    {
+      "cat": "design",
+      "date": "2026-10-18",
+      "free": false,
+      "signal": 2,
+      "source": "Wallpaper*",
+      "take": "Wallpaper surveys designed listening spaces and brand sound installations, from Silence Please's hi-fi sculpture in a SoHo store to Bang & Olufsen's residence and Sigur Rós's Ára listening event with spatial audio by Loss Gain. It maps where commissioned sound work for brands and spaces is going.",
+      "title": "Audio installations as a design market",
+      "url": "https://www.wallpaper.com/tech/new-world-of-audio-installations"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-19",
+      "free": true,
+      "signal": 2,
+      "source": "Synth Anatomy",
+      "take": "The free, open-source OS for the Raspberry Pi based Zynthian instrument adds a launcher view with chains as columns and phrases as rows, an audio-clip engine with beat slicing, and a CC automation editor. New LV2 plugins include OB-Xf and Vaporizer2, plus updated Neural Amp Modeler support and Airwindows effects.",
+      "title": "Zynthian Vangelis OS adds a launcher and clip engine",
+      "url": "https://synthanatomy.com/2026/10/zynthian-vangelis-open-synth-platform-gets-new-os-with-launcher-view-new-plugins-and-more.html"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-20",
+      "free": false,
+      "signal": 2,
+      "source": "CP24 / The Canadian Press",
+      "take": "Ontario's health minister Sylvia Jones announced plans to allow hearing aids for mild hearing loss to be sold without a prescription. The change is expected in the province's fall economic update and is not yet in force. Earbuds already licensed by Health Canada with hearing-aid features could then have those features switched on.",
+      "title": "Ontario plans over-the-counter hearing aids",
+      "url": "https://www.cp24.com/politics/queens-park/2026/10/20/ontario-to-allow-over-the-counter-hearing-aids-for-sale-in-the-province/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-19",
+      "free": false,
+      "signal": 2,
+      "source": "Pink Loudspeaker",
+      "take": "Pink Loudspeaker's issue 154 lists the Cities and Memory Autumn Project, an open call to rework recordings from its global field-recording archive. The deadline is 13 December 2026. The same issue lists Annette Vande Gorne's diffusion workshop in Birmingham on 25 October.",
+      "title": "Cities and Memory Autumn Project call",
+      "url": "https://pinkloudspeaker.substack.com/p/pink-loudspeaker-issue-154"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-15",
+      "free": true,
+      "signal": 1,
+      "source": "Tonebenders",
+      "take": "Part two of a roundtable with Greg King, Jon Greasley, Brittany Ellis, Nikola Simikic and Ben Cook on where the line between sound editor and re-recording mixer now falls in film and series post.",
+      "title": "Tonebenders: editors who mix, mixers who edit",
+      "url": "https://tonebenderspodcast.com/380-sound-editors-that-mix-mixers-that-edit-part-2/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-19",
+      "free": false,
+      "signal": 1,
+      "source": "Production Expert",
+      "take": "Relativity is an offline speed and pitch processor for Pro Tools (AudioSuite) and REAPER, with separate algorithms for pitch shift, time stretch, pitch bends and speed changes, plus a real-time version. It costs $499, $379 until 23 October, with a 30-day trial.",
+      "title": "The Cargo Cult releases Relativity",
+      "url": "https://www.production-expert.com/production-expert-1/the-cargo-cult-launches-relativity-a-speed-and-pitch-processor-for-pro-tools-and-reaper"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-18",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "The free TDR Nova dynamic EQ now has its first official Linux build, VST2 and VST3 on x86-64, tested in REAPER and Bitwig. It installs manually with no account.",
+      "title": "TDR Nova dynamic EQ arrives on Linux",
+      "url": "https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-15",
+      "free": true,
+      "signal": 1,
+      "source": "Production Expert",
+      "take": "NoiseWorks Audio's free plugin detects plosives by shape and reduces content below about 250 Hz only during each pop, with a delta control to hear what is removed. It works up to 7.1 in VST3, AU and AAX.",
+      "title": "PloseAssist, a free plosive remover",
+      "url": "https://www.production-expert.com/production-expert-1/noiseworks-audio-ploseassist-a-free-plugin-that-automatically-removes-plosives"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-18",
+      "free": false,
+      "signal": 1,
+      "source": "CDM",
+      "take": "CDM interviews a 20-year-old Palestinian producer who has kept making bass-heavy beats in FL Studio after his home was destroyed, at one point working from a tent. He started on a phone and learned from YouTube. The piece links a fundraiser that helps cover his family's needs and electricity.",
+      "title": "Abed Eyad, making beats in Gaza",
+      "url": "https://cdm.link/abed-eyad-gaza-interview/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-20",
+      "free": false,
+      "signal": 1,
+      "source": "A-Z Animals",
+      "take": "Scripps researchers played recordings of a healthy reef in Kāneʻohe Bay, Hawaiʻi, at night during spawning. Coral settlement rose nearest the speaker, and the speaker site drew 4 to 14 times more fish larvae than a silent control. The papers appeared earlier this month in Communications Biology and Scientific Reports.",
+      "title": "Reef sound playback draws more coral and fish",
+      "url": "https://a-z-animals.com/blog/underwater-speakers-drew-14-times-more-baby-fish-to-a-reef/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-14",
+      "free": false,
+      "signal": 1,
+      "source": "ScienceAlert",
+      "take": "A University of Parma study of 70 dogs in Proceedings of the Royal Society B found they tended to match 'bouba' with round shapes and 'kiki' with spiky ones, even when owners wore headphones to avoid cueing them. The authors say more work is needed.",
+      "title": "Dogs show the bouba/kiki effect",
+      "url": "https://www.sciencealert.com/?p=224075"
+    },
+    {
+      "cat": "design",
+      "date": "2026-10-15",
+      "free": false,
+      "signal": 1,
+      "source": "DJ Mag",
+      "take": "CEO Jesper Kouthoofd told Highsnobiety the company will stop making synthesisers, including the OP-1, as part of a reorganisation. The studio is also known for singing dolls, a portable vinyl cutter and an IKEA collaboration.",
+      "title": "Teenage Engineering to stop making synths",
+      "url": "https://djmag.com/tech/teenage-engineering-announces-plans-stop-making-synthesisers"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-01",
+      "free": true,
+      "signal": 1,
+      "source": "River Margin",
+      "take": "A free, worldwide call for a single field recording of up to 20 minutes from one location, or a spoken nature observation, sent as an MP3. Phone recordings are accepted, contributors keep their rights, and there is no fee paid. The first round closes 1 November 2026.",
+      "title": "River Margin Ecological Listening Project",
+      "url": "https://www.river-margin.com/elp-submit"
+    }
+  ],
+  "key": "2026-10-21",
+  "label": "Wed 21 Oct 2026",
+  "lead": "A quiet news week was dominated by sound at large scale. Tarek Atoui's Hold opened in Tate Modern's Turbine Hall, Snøhetta's Shanghai Grand Opera House opened with acoustics shaping its main hall, and an 18-year hydrophone archive mapped where Omura's whales live off Australia. In film sound, the Spider-Man: Brand New Day team discussed web sounds and why quiet scenes are hardest to mix.",
+  "listen": {
+    "artist": "Roger and Katharine Payne, Frank Watlington",
+    "url": "https://en.wikipedia.org/wiki/Songs_of_the_Humpback_Whale_(album)",
+    "why": "An LP of humpback whale song released in 1970, produced by Roger and Katy Payne. Some of the recordings were made by Frank Watlington, a Navy engineer who had picked up the songs years earlier at a hydrophone station off Bermuda that listened for submarines. The album became a best-selling environmental record, helped start the Save the Whales movement and was added to the US National Recording Registry in 2010.",
+    "work": "Songs of the Humpback Whale",
+    "year": "1970"
+  },
+  "photo": {
+    "alt": "A researcher, Michelle Modest, holding an underwater hydrophone at Anacapa Island in California's Channel Islands.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Michelle_Modest_Holding_Underwater_Hydrophone_at_Anacapa_Island_(36688110533).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Michelle_Modest_Holding_Underwater_Hydrophone_at_Anacapa_Island_(36688110533).jpg",
+    "title": "Michelle Modest holding an underwater hydrophone at Anacapa Island"
+  },
+  "poem": {
+    "author": "Giovanni Pascoli",
+    "lang": "Italian",
+    "note": "First published in the Florentine magazine Il Marzocco in 1897, then included in the 'In campagna' section of the fourth edition of Myricae. Pascoli died in 1912 and the poem is in the public domain; the assiuolo is the Eurasian scops owl, whose call is the 'chiù'.",
+    "source": {
+      "label": "Liber Liber: Giovanni Pascoli, Myricae (PDF)",
+      "url": "https://linux.studenti.polito.it/static_resources/liberliber/biblioteca/p/pascoli/myricae/pdf/myrica_p.pdf"
+    },
+    "text": "Dov'era la luna? ché il cielo\nnotava in un'alba di perla,\ned ergersi il mandorlo e il melo\nparevano a meglio vederla.\nVenivano soffi di lampi\nda un nero di nubi laggiù;\nveniva una voce dai campi:\nchiù...\n\nLe stelle lucevano rare\ntra mezzo alla nebbia di latte:\nsentivo il cullare del mare,\nsentivo un fru fru tra le fratte;\nsentivo nel cuore un sussulto,\ncom'eco d'un grido che fu.\nSonava lontano il singulto:\nchiù...\n\nSu tutte le lucide vette\ntremava un sospiro di vento:\nsquassavano le cavallette\nfinissimi sistri d'argento\n(tintinni a invisibili porte\nche forse non s'aprono più?...);\ne c'era quel pianto di morte...\nchiù...",
+    "title": "L'assiuolo",
+    "work": "Myricae (In campagna)",
+    "year": "1897"
+  },
+  "radar": [
+    {
+      "date": "2026-10-23",
+      "note": "Demonstration on 23 October with masterclasses on 24 October.",
+      "title": "Ambrio spatial mixer demo at ADE, Amsterdam",
+      "url": "https://www.gearnews.com/ambrio-spatial-performance-mixer-dj/"
+    },
+    {
+      "date": "2026-10-25",
+      "note": "A sound diffusion workshop with the BEAST system at the University of Birmingham.",
+      "title": "Annette Vande Gorne diffusion workshop, Birmingham",
+      "url": "https://pinkloudspeaker.substack.com/p/pink-loudspeaker-issue-154"
+    },
+    {
+      "date": "2026-12-13",
+      "note": "Open call to rework recordings from the Cities and Memory archive.",
+      "title": "Cities and Memory Autumn Project deadline",
+      "url": "https://pinkloudspeaker.substack.com/p/pink-loudspeaker-issue-154"
+    },
+    {
+      "note": "The festival's 2027 edition runs under the theme Process...ing.",
+      "title": "CTM Festival 2027, Berlin",
+      "url": "https://ra.co/news/86029",
+      "when": "22–31 Jan 2027"
+    }
+  ],
+  "range": "14–21 October 2026",
+  "seed": {
+    "kind": "concept",
+    "note": "An acousmonium is an orchestra of loudspeakers for projecting electroacoustic and acousmatic music in concert. François Bayle defined the term and the concept in 1974 at INA-GRM in Paris, and the first acousmonium was presented at the Espace Pierre Cardin on 12 February 1974.\n\nAccording to French Wikipedia, an acousmonium usually has forty to a hundred loudspeakers of different sizes and characters, connected to a diffusion console with 24 to 72 channels. A core of reference speakers is surrounded by others chosen for their particular colour, and the performer shapes the fixed-media piece in the room by moving it between them.",
+    "source": {
+      "label": "Wikipédia (fr): Acousmonium; INA GRM on Google Arts & Culture",
+      "url": "https://fr.wikipedia.org/wiki/Acousmonium"
+    },
+    "text": "Acousmonium"
+  }
+}

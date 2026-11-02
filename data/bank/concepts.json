@@ -1,0 +1,370 @@
+[
+ {
+  "text": "Acousmatic music",
+  "title": "Acousmatic music"
+ },
+ {
+  "text": "Musique concrète",
+  "title": "Musique concrète"
+ },
+ {
+  "text": "Precedence effect",
+  "title": "Precedence effect"
+ },
+ {
+  "text": "Doppler effect",
+  "title": "Doppler effect"
+ },
+ {
+  "text": "Shepard tone",
+  "title": "Shepard tone"
+ },
+ {
+  "text": "Binaural recording",
+  "title": "Binaural recording"
+ },
+ {
+  "text": "Ambisonics",
+  "title": "Ambisonics"
+ },
+ {
+  "text": "Wave field synthesis",
+  "title": "Wave field synthesis"
+ },
+ {
+  "text": "Head-related transfer function",
+  "title": "Head-related transfer function"
+ },
+ {
+  "text": "Cocktail party effect",
+  "title": "Cocktail party effect"
+ },
+ {
+  "text": "Auditory masking",
+  "title": "Auditory masking"
+ },
+ {
+  "text": "Equal-loudness contour",
+  "title": "Equal-loudness contour"
+ },
+ {
+  "text": "Timbre",
+  "title": "Timbre"
+ },
+ {
+  "text": "Overtone",
+  "title": "Overtone"
+ },
+ {
+  "text": "Harmonic series",
+  "title": "Harmonic series (music)"
+ },
+ {
+  "text": "Inharmonicity",
+  "title": "Inharmonicity"
+ },
+ {
+  "text": "Just intonation",
+  "title": "Just intonation"
+ },
+ {
+  "text": "Spectral music",
+  "title": "Spectral music"
+ },
+ {
+  "text": "Granular synthesis",
+  "title": "Granular synthesis"
+ },
+ {
+  "text": "Wavetable synthesis",
+  "title": "Wavetable synthesis"
+ },
+ {
+  "text": "Frequency modulation synthesis",
+  "title": "Frequency modulation synthesis"
+ },
+ {
+  "text": "Additive synthesis",
+  "title": "Additive synthesis"
+ },
+ {
+  "text": "Physical modelling synthesis",
+  "title": "Physical modelling synthesis"
+ },
+ {
+  "text": "Karplus–Strong string synthesis",
+  "title": "Karplus–Strong string synthesis"
+ },
+ {
+  "text": "Vocoder",
+  "title": "Vocoder"
+ },
+ {
+  "text": "Ring modulation",
+  "title": "Ring modulation"
+ },
+ {
+  "text": "Comb filter",
+  "title": "Comb filter"
+ },
+ {
+  "text": "Flanging",
+  "title": "Flanging"
+ },
+ {
+  "text": "Audio feedback",
+  "title": "Audio feedback"
+ },
+ {
+  "text": "Reverberation",
+  "title": "Reverberation"
+ },
+ {
+  "text": "Echo chamber",
+  "title": "Echo chamber"
+ },
+ {
+  "text": "Plate reverb",
+  "title": "Plate reverb"
+ },
+ {
+  "text": "Spring reverb",
+  "title": "Spring reverb"
+ },
+ {
+  "text": "Anechoic chamber",
+  "title": "Anechoic chamber"
+ },
+ {
+  "text": "Standing wave",
+  "title": "Standing wave"
+ },
+ {
+  "text": "Helmholtz resonance",
+  "title": "Helmholtz resonance"
+ },
+ {
+  "text": "Sympathetic resonance",
+  "title": "Sympathetic resonance"
+ },
+ {
+  "text": "Infrasound",
+  "title": "Infrasound"
+ },
+ {
+  "text": "Pink noise",
+  "title": "Pink noise"
+ },
+ {
+  "text": "Brownian noise",
+  "title": "Brownian noise"
+ },
+ {
+  "text": "Noise music",
+  "title": "Noise music"
+ },
+ {
+  "text": "Drone music",
+  "title": "Drone music"
+ },
+ {
+  "text": "Minimal music",
+  "title": "Minimal music"
+ },
+ {
+  "text": "Tape loop",
+  "title": "Tape loop"
+ },
+ {
+  "text": "Field recording",
+  "title": "Field recording"
+ },
+ {
+  "text": "Acoustic ecology",
+  "title": "Acoustic ecology"
+ },
+ {
+  "text": "Soundwalk",
+  "title": "Soundwalk"
+ },
+ {
+  "text": "Sound art",
+  "title": "Sound art"
+ },
+ {
+  "text": "Sound sculpture",
+  "title": "Sound sculpture"
+ },
+ {
+  "text": "Sound installation",
+  "title": "Sound installation"
+ },
+ {
+  "text": "Sound map",
+  "title": "Sound map"
+ },
+ {
+  "text": "Foley",
+  "title": "Foley (filmmaking)"
+ },
+ {
+  "text": "Wilhelm scream",
+  "title": "Wilhelm scream"
+ },
+ {
+  "text": "Mickey Mousing",
+  "title": "Mickey Mousing"
+ },
+ {
+  "text": "Leitmotif",
+  "title": "Leitmotif"
+ },
+ {
+  "text": "Diegesis",
+  "title": "Diegesis"
+ },
+ {
+  "text": "Sonification",
+  "title": "Sonification"
+ },
+ {
+  "text": "Earcon",
+  "title": "Earcon"
+ },
+ {
+  "text": "Whispering gallery",
+  "title": "Whispering gallery"
+ },
+ {
+  "text": "Animal echolocation",
+  "title": "Animal echolocation"
+ },
+ {
+  "text": "Soundscape ecology",
+  "title": "Soundscape ecology"
+ },
+ {
+  "text": "Dawn chorus",
+  "title": "Dawn chorus (birds)"
+ },
+ {
+  "text": "Singing sand",
+  "title": "Singing sand"
+ },
+ {
+  "text": "Cymatics",
+  "title": "Cymatics"
+ },
+ {
+  "text": "Overtone singing",
+  "title": "Overtone singing"
+ },
+ {
+  "text": "Yodeling",
+  "title": "Yodeling"
+ },
+ {
+  "text": "Talking drum",
+  "title": "Talking drum"
+ },
+ {
+  "text": "Graphic notation",
+  "title": "Graphic notation (music)"
+ },
+ {
+  "text": "Indeterminacy",
+  "title": "Indeterminacy (music)"
+ },
+ {
+  "text": "Aleatoric music",
+  "title": "Aleatoric music"
+ },
+ {
+  "text": "Live coding",
+  "title": "Live coding"
+ },
+ {
+  "text": "Circuit bending",
+  "title": "Circuit bending"
+ },
+ {
+  "text": "Prepared piano",
+  "title": "Prepared piano"
+ },
+ {
+  "text": "Extended technique",
+  "title": "Extended technique"
+ },
+ {
+  "text": "Glitch",
+  "title": "Glitch (music)"
+ },
+ {
+  "text": "Plunderphonics",
+  "title": "Plunderphonics"
+ },
+ {
+  "text": "Radio drama",
+  "title": "Radio drama"
+ },
+ {
+  "text": "Loudness war",
+  "title": "Loudness war"
+ },
+ {
+  "text": "Critical band",
+  "title": "Critical band"
+ },
+ {
+  "text": "Auditory scene analysis",
+  "title": "Auditory scene analysis"
+ },
+ {
+  "text": "Sound localization",
+  "title": "Sound localization"
+ },
+ {
+  "text": "McGurk effect",
+  "title": "McGurk effect"
+ },
+ {
+  "text": "Tritone paradox",
+  "title": "Tritone paradox"
+ },
+ {
+  "text": "Combination tone",
+  "title": "Combination tone"
+ },
+ {
+  "text": "Beat",
+  "title": "Beat (acoustics)"
+ },
+ {
+  "text": "Wolf tone",
+  "title": "Wolf tone"
+ },
+ {
+  "text": "Aeolian harp",
+  "title": "Aeolian harp"
+ },
+ {
+  "text": "Lowercase",
+  "title": "Lowercase (music)"
+ },
+ {
+  "text": "Sampling",
+  "title": "Sampling (music)"
+ },
+ {
+  "text": "Hörspiel",
+  "title": "Hörspiel"
+ },
+ {
+  "text": "Microtonal music",
+  "title": "Microtonal music"
+ },
+ {
+  "text": "Gamelan",
+  "title": "Gamelan"
+ }
+]

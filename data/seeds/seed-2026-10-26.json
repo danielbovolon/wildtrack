@@ -1,0 +1,271 @@
+{
+  "crossover": {
+    "body": "The Swiss designer Adolphe Appia (1862–1928) trained as a musician at the Leipzig Conservatory and in Dresden before turning to the stage, and is best known for his designs for Wagner's operas, including Tristan und Isolde in Milan in 1923 and parts of the Ring in Basel in 1924–25. He rejected flat painted scenery in favour of three-dimensional sets, and treated light as the element that joins actor, space and score: it should change from moment to moment with the music, and shadow mattered as much as light. His call to synchronise sound, light and movement shaped later opera staging, especially after 1950.",
+    "field": "Theatre lighting",
+    "source": "Wikipedia, Adolphe Appia",
+    "title": "Adolphe Appia: light that moves with the music",
+    "url": "https://en.wikipedia.org/wiki/Adolphe_Appia"
+  },
+  "generated": "2026-10-26T07:05:00+01:00",
+  "headline": "A furnace in the score",
+  "items": [
+    {
+      "cat": "stage",
+      "date": "2026-10-21",
+      "deep": "The performers are soprano Sabina von Walther, De Felice on oboe, Giulio Garbin on piano and Ichos Percussion, an ensemble of former students of the Bolzano conservatory, conducted by Gianmaria Romanenghi. The furnace recording is played through the hall as an instrument, alongside images of the furnace, the steelworks and the control room, and the lighting colour changes with each of the four sections. The piece lasts about 40 minutes without an interval.\n\nThe project is produced by the Faculty of Engineering at the Free University of Bozen-Bolzano with the Conservatorio Monteverdi and the Danieli Group. For sound work, it is a local case of industrial recording treated as tuned score material rather than background, in a former industrial hall. The report does not say whether tickets are needed.",
+      "signal": 3,
+      "source": "L'Epoca Culturale",
+      "take": "Arnaldo De Felice's chamber opera Il suono del calore (Fuoco, Acqua, Terra, Aria), with a libretto by Antonello Mordeglia, has its European premiere in a second version on Thursday 5 November at 20:00 in the Sala Carroponte at NOI Techpark. Recordings of Danieli's Q-One electric arc furnace, made during production and tuned, are written into the score. The first version was performed at the Italy Pavilion at Expo Osaka in August 2025.",
+      "title": "Bolzano: an electric arc furnace becomes a part in a chamber opera",
+      "url": "https://www.lepocaculturale.it/2026/10/21/il-suono-del-calore-prima-europea-bolzano-noi-techpark/"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-25",
+      "deep": "In the filing, each sound is analysed before playback. Volume, pitch and speech content then set the brightness, colour, size or transparency of an on-screen icon or word, and the cue can also appear as directional LEDs on the DualSense controller, as vibration patterns, or as lights around the display. Stereo gives left and right placement; 5.1 and 7.1 mixes give finer direction. Each icon or vibration is meant to keep one meaning every time.\n\nFor game audio, the interesting part is that the system reads the purpose of a sound, not only its level. If something like this ships, the way a sound designer separates warning, mood and dialogue in a mix would decide what hard-of-hearing players are shown. The application was filed in July 2026 as a continuation of a 2023 filing, and a patent application does not mean a product.",
+      "signal": 3,
+      "source": "Notebookcheck",
+      "take": "Sony Interactive Entertainment's application US 2026/0329526 A1, published on 22 October, describes classifying each game sound by its intended effect on the player and turning it into a visual or haptic cue. Categories include alerts, dialogue, ambient mood and tension, with labels such as friendly, neutral or aggressive. No product has been announced.",
+      "title": "Sony patent sorts game sounds by intent to cue deaf players",
+      "url": "https://www.notebookcheck.net/Sony-patent-could-let-deaf-gamers-see-the-sounds-they-cannot-hear.1433493.0.html"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-24",
+      "deep": "The starting point was a failure: BatDetect2 found no calls from high-frequency horseshoe and leaf-nosed bats in Malaysian recordings, probably because it stops listening near 120 kHz. On sites the model had not heard, accuracy drops to 63% for species and 82% for genus. Training on several sites rather than one, with the same amount of data, raised results at a new site by 18 points. It cannot yet flag species it has never heard, and most test files are clean, close-range library recordings, so field accuracy will be lower.\n\nThe tool finds bat passes, measures calls, groups similar calls for batch labelling, learns from your own reference library and exports CSVs. Kiss asks for testers on real survey nights and for identified recordings from Thailand, Laos, Cambodia and the Philippines. The code is on GitHub; the post does not name a licence.",
+      "free": true,
+      "signal": 3,
+      "source": "WILDLABS",
+      "take": "Antal Kiss of WildWard has posted early results for WildWard Listen, a free tool that runs on your own computer and identifies South-East Asian bats. It slows calls twelve times so Google's bird-trained Perch 2.0 model can process them, then trains a small classifier on top. On 855 recordings of 91 species it is right 78% of the time at species level and 90% at genus level.",
+      "title": "A free offline tool for South-East Asian bat calls, with its limits stated",
+      "url": "https://wildlabs.net/en/discussion/free-offline-tool-southeast-asian-bat-calls-early-results-honest-limits-looking-test"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-25",
+      "signal": 2,
+      "source": "Production Expert",
+      "take": "Russ Hughes at Production Expert reports that people in post, scoring, music and sound design are turning down work for the first time in years, with calendars filling into 2027. He links it to production: Los Angeles feature shoot days rose 52.3% in Q1 2026, and California's expanded tax credit has gone to 170 projects. Budgets have not recovered, and the evidence is informal; a proper survey is planned later this year.",
+      "title": "Post and music freelancers are busy again, but rates are not",
+      "url": "https://www.production-expert.com/production-expert-1/audio-pros-are-turning-down-work-again-is-2026-different"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-25",
+      "signal": 2,
+      "source": "Wallpaper*",
+      "take": "Thom Yorke reworked all 14 songs of Hail to the Thief to score a cut-down Hamlet, co-directed by Christine Jones and choreographer Steven Hoggett, which runs at the Barbican Theatre from 31 October to 23 January. Songs are slowed, sped up or moved to other instruments, and one wordless scene is scored by a reworked track with two singers in a corner. Jones based the set on NASA research into resonant acoustic chambers, and Hoggett describes the speakers on stage as potentially menacing objects.",
+      "title": "Hamlet Hail to the Thief: a Radiohead album rebuilt as a theatre score",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/radiohead-thom-yorke-on-hamlet-hail-to-the-thief-interview"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-24",
+      "signal": 2,
+      "source": "KVR Audio",
+      "take": "AudioBrain's ChimeBrain calculates the vibration of up to 36 suspended metal bars in real time instead of playing samples, with each bar's size, material and register set separately. Five virtual microphone models can be placed and angled, and room acoustics are optional. It is macOS only (VST3/AU), US$19, or US$9.50 until 27 October.",
+      "title": "ChimeBrain models wind chimes and the microphones that record them",
+      "url": "https://www.kvraudio.com/news/audiobrain-releases-chimebrain---physically-modeled-wind-chime-instrument-for-macos-69287"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-23",
+      "free": true,
+      "signal": 2,
+      "source": "KVR Audio",
+      "take": "SXP Plugins has made Choir free for a limited time, with no end date given. It is an eight-voice synth built around a five-band formant filter, with adjustable vowels, five voice types and a fast LFO. VST3 and AU for Windows and Mac.",
+      "title": "SXP Choir, a formant-filter synth, is free for now",
+      "url": "https://www.kvraudio.com/news/sxp-plugins-releases-choir---formant-filtering-synth-free-for-a-limited-time-69329"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-23",
+      "signal": 2,
+      "source": "Bandcamp Daily",
+      "take": "Bandcamp Daily's Essential Releases picks Jeremiah Chiu's Edge Conditions on International Anthem, which combines modular synth with acoustic instruments, field recordings, polyrhythmic percussion, saxophone and viola. Metoronori's forgot reef number sets synths, woodwinds and voice over dense recordings of the Chiba coastline.",
+      "title": "Modular, field recordings and acoustic players: Jeremiah Chiu and Metoronori",
+      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-10-23",
+      "signal": 2,
+      "source": "CreativeApplications.Net",
+      "take": "atomless's That Light Breeze, a Macromedia Director piece from 2003, has been ported to modern browsers with the DirPlayer emulator. It loops a sample of a BBC Radio 4 broadcast, then plays it as four layers whose playheads change position, speed and length on every pass. The images were made from a spectral analysis of the sound and edited by hand, frame by frame.",
+      "title": "A 2003 Shockwave piece built from a radio loop runs again in the browser",
+      "url": "https://www.creativeapplications.net/member/that-light-breeze-atomless-2003/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-07",
+      "signal": 2,
+      "source": "Provincia di Bolzano, Cultura italiana",
+      "take": "The Italian culture department of the Province of Bolzano is taking applications on myCIVIS for ordinary cultural activity in 2027. Deadlines are 10 November 2026 and 2 February 2027 at 12:00, and the province says they are strict. Applications are made by cultural organisations, which need a one-time myCIVIS delegation.",
+      "title": "Provincia di Bolzano: 2027 funding for cultural activity, first deadline 10 November",
+      "url": "https://cultura-italiana.provincia.bz.it/it/news/al-via-le-domande-per-i-contributi-alle-attivita-culturali-ordinarie-2027"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-26",
+      "signal": 1,
+      "source": "On the Move",
+      "take": "Busan Metropolitan City seeks a site-responsive work for Eulsukdo, an estuary island and bird habitat. The commission offers KRW 380 million for production and installation and a KRW 20 million artist fee, open to individuals or teams in art, landscape, architecture, design and related fields. No application fee is listed; sound is not named among the disciplines.",
+      "title": "Busan: land and ecological art commission on Eulsukdo island, deadline 22 November",
+      "url": "https://on-the-move.org/news/busan-metropolitan-city-land-and-ecological-art-south-korea"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-26",
+      "signal": 1,
+      "source": "On the Move",
+      "take": "The foundation's competition buys work from each winner for €15,000 (€8,000 for editioned photo or video) and shows it in Wattwiller, France. Installation proposals can receive up to €50,000 for production. Open to adult artists of any nationality, with no fee listed; sound is not named, so check eligibility for sound installation.",
+      "title": "Fondation François Schneider: Talents Contemporains on the theme of water, deadline 22 November",
+      "url": "https://on-the-move.org/news/francois-schneider-foundation-talents-contemporains-competition-water-france"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-23",
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "Elf Audio's mobile sampler and effects app are now VST3/AU plugins for macOS, with Windows planned. The sampler has 64 pads, mic recording, resampling and eight outputs; Koala FX has 16 one-touch effects and an XY pad for blending scenes. The bundle is €20 until 31 October, with a seven-day trial.",
+      "title": "Koala Sampler and Koala FX move from phones to the desktop",
+      "url": "https://synthanatomy.com/2026/10/koala-sampler-and-koala-fx-are-now-available-as-vst-plugins.html"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-24",
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "Shown at SynthFest UK, Series 700 copies the size and layout of Roland's 1976 modular, with circuits rebuilt from the original schematics and MIDI-to-CV as the one addition. It is sold only as complete systems or blocks, at £33,000 before delivery and tax, with shipping expected late 2026.",
+      "title": "Analogue Solutions rebuilds the Roland System 700",
+      "url": "https://synthanatomy.com/2026/10/analogue-solutions-series-700-the-roland-700-modular-synthesizer-reborn.html"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-21",
+      "signal": 1,
+      "source": "Production Expert",
+      "take": "Luke Goddard's craft piece compares spaced and coincident stereo recording, explains using the stereo recording angle to make a narrow source fill the field, and gives mono-safe fixes for hard-panned doubles. A sidebar lists free width and mid-side tools.",
+      "title": "Stereo width from the microphone up",
+      "url": "https://www.production-expert.com/production-expert-1/stereo-imaging-tools-and-techniques-for-better-width"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-20",
+      "signal": 1,
+      "source": "WILDLABS",
+      "take": "Wildlife Acoustics has built BirdNET species identification into its Kaleidoscope software, so recordists can find candidate sounds, classify them with confidence scores and review them beside spectrograms in one program. A location and season model favours species likely at the site. The article gives no price.",
+      "title": "BirdNET identification now runs inside Kaleidoscope",
+      "url": "https://wildlabs.net/en/article/introducing-kaleidoscoper-birdnet"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-23",
+      "signal": 1,
+      "source": "Hearing Health & Technology Matters",
+      "take": "A study in JAMA Otolaryngology finds that between 2008 and 2023 the share of children with mandated hearing-aid coverage rose from 34.1% to 52.5%, while for adults over 65 it fell from 18.5% to 16.9%. Prescription aids cost about $2,000 to $7,000 a pair out of pocket.",
+      "title": "US study: mandated hearing-aid coverage grew for children, fell for over-65s",
+      "url": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearing-aid-coverage-insurance/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-24",
+      "signal": 1,
+      "source": "RadioToday",
+      "take": "The tenth UK Community Radio Awards gave prizes in 20 categories. In Arts & Creative Radio, gold went to The Wandsworth Way on Riverside Radio, and Radio LaB was named station of the year. The 2027 ceremony is set for 23 October in Birmingham.",
+      "title": "Community Radio Awards mark ten years",
+      "url": "https://www.radiotoday.uk/2026/10/community-radio-awards-celebrate-ten-years/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-25",
+      "free": true,
+      "signal": 1,
+      "source": "Gearnews",
+      "take": "Gearnews picks DYMAI Sound's Gluecomp-3B, a free multiband compressor run from one Adapt control, and Raytown's Hardstop, a free clipper and true-peak limiter. Both are VST3/AU.",
+      "title": "Free plugins of the week: an adaptive multiband compressor and a clipper",
+      "url": "https://www.gearnews.com/gluecomp-3b-free-plugins/"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-24",
+      "signal": 1,
+      "source": "e-flux",
+      "take": "Dora García's Dialogue of Dogs at the Museo Casa de Cervantes gathers about 30 works including sound pieces, tactile actions and performed texts, among them a sound adaptation of Kafka's Odradek by composer Jan Mech. Drama students perform as part of the show, which runs until 17 January.",
+      "title": "Dora García stages voices and sound at Cervantes's house in Valladolid",
+      "url": "https://www.e-flux.com/announcements/6788496/dora-garc-iacute-a-dialogue-of-dogs"
+    },
+    {
+      "cat": "space",
+      "date": "2026-10-24",
+      "signal": 1,
+      "source": "e-flux",
+      "take": "Primary Structures / Multiple Systems, curated by Eva Brioschi, marks 60 years since the 1966 Primary Structures show in New York, with work by James Turrell, Andrea Fraser, Fabio Mauri, Mario García Torres and Nairy Baghramian on light, space and time. It runs until 30 December 2028, with a free guided tour on Saturdays at 11:00. There is no sound element listed.",
+      "title": "Bolzano: sixty years of minimalism at the Antonio Dalle Nogare Foundation",
+      "url": "https://www.e-flux.com/announcements/6788405/primary-structures-multiple-systems"
+    }
+  ],
+  "key": "2026-10-26",
+  "label": "Mon 26 Oct 2026",
+  "lead": "In Bolzano, a chamber opera uses tuned recordings of an electric arc furnace as one of its parts, with its European premiere at NOI Techpark on 5 November. A Sony patent application describes sorting every game sound by its intended effect so that deaf players get matching icons, lights and vibration. A free offline tool for South-East Asian bat calls slows calls twelve times so a bird-trained model can classify them. Production Expert reports that post and music freelancers are busy again, but that rates have not risen.",
+  "listen": {
+    "artist": "Edgard Varèse",
+    "url": "https://en.wikipedia.org/wiki/Po%C3%A8me_%C3%A9lectronique",
+    "why": "An eight-minute tape piece made for the Philips Pavilion at Expo 58 in Brussels, played inside the building with a film of black-and-white images chosen by Le Corbusier and changing coloured light. Varèse built it from bells, sirens, wood blocks, machine and animal noises, voices, organ and aircraft rumble, recorded first on three mono tapes and then combined on 35 mm perforated tape to stay in sync with the film and lights. Operators moved the sound along the walls through hundreds of loudspeakers, switching groups of speakers with rotary telephone dials.",
+    "work": "Poème électronique",
+    "year": "1958"
+  },
+  "photo": {
+    "alt": "A press photograph from the Dutch National Archives of the Philips Pavilion for the 1958 Brussels World's Fair while it was being built, showing its curved concrete shells.",
+    "credit": "Nationaal Archief, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:In_aanbouw_zijnde_Philipspaviljoen_van_architect_Le_Corbusier_op_het_terrein_van,_Bestanddeelnr_909-1104.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/In_aanbouw_zijnde_Philipspaviljoen_van_architect_Le_Corbusier_op_het_terrein_van,_Bestanddeelnr_909-1104.jpg",
+    "title": "The Philips Pavilion under construction, Expo 58, Brussels"
+  },
+  "poem": {
+    "author": "Johann Wolfgang von Goethe",
+    "lang": "German",
+    "note": "Goethe probably wrote the poem on the evening of 6 September 1780 on the wall of a wooden hut on the Kickelhahn, a hill near Ilmenau; it was first printed without his consent in 1800. This is the complete poem in the 1815 text from the first volume of his Werke; it is in the public domain.",
+    "source": {
+      "label": "Wikipedia (de), Wandrers Nachtlied",
+      "url": "https://de.wikipedia.org/wiki/Wandrers_Nachtlied"
+    },
+    "text": "Ueber allen Gipfeln\nIst Ruh',\nIn allen Wipfeln\nSpürest Du\nKaum einen Hauch;\nDie Vögelein schweigen im Walde.\nWarte nur! Balde\nRuhest du auch.",
+    "title": "Ein gleiches (Wandrers Nachtlied II)",
+    "work": "Goethes Werke, Erster Band (Cotta)",
+    "year": "1815"
+  },
+  "radar": [
+    {
+      "date": "2026-10-31",
+      "note": "Last deadline for projects starting later this year; up to 80% of costs, capped at €20,000, applied for before spending.",
+      "title": "South Tyrol grants for German-speaking-group artists",
+      "url": "https://mycivis.civis.bz.it/de/Services/ServiceDetail/?id=1095"
+    },
+    {
+      "date": "2026-11-05",
+      "note": "European premiere of the furnace opera at 20:00 in the Sala Carroponte, Bolzano.",
+      "title": "Il suono del calore, NOI Techpark",
+      "url": "https://www.lepocaculturale.it/2026/10/21/il-suono-del-calore-prima-europea-bolzano-noi-techpark/"
+    },
+    {
+      "date": "2026-11-22",
+      "note": "Both the Busan commission and the Fondation François Schneider competition close on 22 November.",
+      "title": "Eulsukdo eco-art and Talents Contemporains deadlines",
+      "url": "https://on-the-move.org/news/busan-metropolitan-city-land-and-ecological-art-south-korea"
+    }
+  ],
+  "range": "19–26 October 2026",
+  "seed": {
+    "by": "Edgard Varèse",
+    "kind": "quote",
+    "note": "Edgard Varèse (1883–1965) was a French-born composer who worked mainly in the United States. In a 1917 lecture, published in the magazine 391, he already asked for new instruments and a new world of sounds beyond the existing musical alphabet; in 1958 he made Poème électronique for tape and loudspeakers.\n\nThis line comes from an interview with the composer and conductor Gunther Schuller, published in 1965, the year Varèse died. Robert Erickson quotes it in Sound Structure in Music (1975), his study of timbre and texture in twentieth-century music.",
+    "source": {
+      "label": "Wikiquote, Edgar Varèse",
+      "url": "https://en.wikiquote.org/wiki/Edgar_Var%C3%A8se"
+    },
+    "text": "I was not influenced by composers as much as by natural objects and physical phenomena.",
+    "work": "Interview with Gunther Schuller, quoted in Robert Erickson, Sound Structure in Music (University of California Press, 1975)",
+    "year": "1965"
+  }
+}

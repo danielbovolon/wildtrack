@@ -1,0 +1,306 @@
+{
+  "crossover": {
+    "body": "The English chemist and perfumer George William Septimus Piesse (1820–1882) co-founded the firm Piesse and Lubin in London in 1855. In the 1862 edition of The Art of Perfumery he argued that scents, like sounds, act on the senses in definite degrees, and proposed an 'odaphone': a scale that ranked smells against the notes of the diatonic scale, octave by octave. Piesse is credited with introducing the idea of 'notes' to perfumery, a term the trade still uses.",
+    "field": "Perfumery",
+    "source": "Wikipedia: George William Septimus Piesse",
+    "title": "Septimus Piesse and the musical scale of scent",
+    "url": "https://en.wikipedia.org/wiki/George_William_Septimus_Piesse"
+  },
+  "generated": "2026-10-22T06:52:15+02:00",
+  "headline": "Sound you can see and touch",
+  "items": [
+    {
+      "cat": "games",
+      "date": "2026-10-21",
+      "deep": "The piece is unusually specific about sources. Lead audio designer Hanna Kubiak recorded creature voices through large tubes and silicone bottle sleeves, glass noodles served for gore, and Foley was recorded at Dreamsound Studio in Warsaw. UI tones are built from processed whale and seal vocals.\n\nThe mix section is the most transferable part. The team used mix states and sidechaining instead of Wwise's HDR system and treated dialogue as the priority, with around 40 English actors and roughly 650 hours in the booth across six voiced languages. Music is tied to rainfall, so weather becomes a musical parameter. For anyone designing creatures or interactive mixes, it is a detailed record of how a mid-size team made those choices.",
+      "free": true,
+      "signal": 3,
+      "source": "A Sound Effect",
+      "take": "A Sound Effect interviews eight members of the Rebel Wolves audio, music and localisation team about the studio's first game. The Tatzelwurm's voice morphs bird screeches with alligator and lion, and the Gargoyle's wings combine rope, creaks, pulleys and wooden gears run through a Doppler chain.",
+      "title": "The sound of The Blood of Dawnwalker",
+      "url": "https://www.asoundeffect.com/blood-of-dawnwalker-game-audio/"
+    },
+    {
+      "cat": "design",
+      "date": "2026-10-21",
+      "deep": "Fast Company reports that the team built a custom rig and software to drive the transducer, and chose mineral oil for its viscosity, which made the surface look like glass rippled by sound. Early tests showed that too many notes, or notes pitched too high, broke the image into unreadable noise, so the musicians arranged the sonic logo within those physical limits.\n\nIt is a large-scale example of sonic branding where the sound is not added to a finished visual identity but generates it. The constraint ran backwards, from image to composition: frequency and density were chosen for how they moved liquid. Wallpaper* says the identity was first shown at Apple Music Hall in London last month.",
+      "free": false,
+      "signal": 3,
+      "source": "Fast Company",
+      "take": "Apple Music's new visual identity was made by playing its sonic logo through a transducer in a bath of mineral oil, with acrylic versions of the logo and wordmark submerged in it. The ripples were filmed in camera. Fred again.. and Nest Acoustics worked on the sound with Apple's team and the agency TBWA\\Media Arts Lab.",
+      "title": "Apple Music's logo, drawn by its own sound",
+      "url": "https://www.fastcompany.com/91627164/for-the-new-apple-music-logo-designers-lean-into-the-science-of-sound"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-20",
+      "deep": "The work adapts Kleist's Prinz Friedrich von Homburg. It draws on Deutsche Grammophon's three-LP recording of Peter Stein's 1972 Schaubühne production, and performers from the new Gorki ensemble and Constanza Macras's DorkyPark wear masks scanned from a Kleist monument in a Berlin school courtyard.\n\nFusinato, a noise artist who represented Australia at the Venice Biennale, treats the theatre as an installation that runs eight hours a day for 21 days. Visitors come and go rather than sit through a show. It is a direct case of a sound artist rethinking theatre time, and of an archival recording of a stage production becoming raw material for a new one.",
+      "free": false,
+      "signal": 3,
+      "source": "e-flux",
+      "take": "Marco Fusinato's IN THE CORPSE OF THE PRESENT runs at the Maxim Gorki Theater in Berlin from 23 October to 15 November, Tuesday to Sunday, 1–9pm. It combines experimental sound, moving image and live performance across two floors, with no set start or sequence.",
+      "title": "Marco Fusinato turns the Gorki into a durational piece",
+      "url": "https://www.e-flux.com/announcements/6788288/marco-fusinato-in-the-corpse-of-the-present"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-21",
+      "free": true,
+      "signal": 2,
+      "source": "Bedroom Producers Blog",
+      "take": "Maurizio Giri's Amazing Noises released Grain Freezer, its first desktop plugin. It captures 150 ms of incoming audio and holds it as up to 64 overlapping grains, with Hold, Preload and beat-synced Auto modes. Free, with no account, for macOS (AU, VST3) and Windows (VST3).",
+      "title": "Grain Freezer: a free granular freeze",
+      "url": "https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-20",
+      "free": true,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "M-VAVE published the FM-1 groovebox firmware source on GitHub with an SDK and a browser workbench for editing sounds, patterns and projects and flashing firmware. The workbench has a preview mode that works without the hardware. The move follows a community of unofficial firmware developers.",
+      "title": "M-VAVE opens the FM-1 to developers",
+      "url": "https://www.synthtopia.com/content/2026/10/20/m-vave-officially-opens-fm-1-firmware-to-developers-with-new-workbench-sdk/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-21",
+      "free": true,
+      "signal": 2,
+      "source": "Podnews",
+      "take": "Nomono's Sound Capsule recorder includes an eight-capsule ambisonic Space Recorder that captures room sound as a separate track, rather than separating ambience from voices with AI afterwards. Editors can now ride that ambience in Nomono Studio, on all plans including the free one. The tracks stay locked together because the room mic also hears the voices.",
+      "title": "Nomono records the room as its own track",
+      "url": "https://podnews.net/press-release/nomono-ambience"
+    },
+    {
+      "cat": "field",
+      "date": "2026-10-19",
+      "free": true,
+      "signal": 2,
+      "source": "BirdsCaribbean",
+      "take": "BirdsCaribbean and Grabando Aves announced the 2026 Sound Recording Challenge results: 310 people uploaded 3,578 recordings of 376 species to eBird, 161 of them priority species. Two winners drawn at random from Puerto Rico and Cuba each received a field kit with a RØDE NTG2 and a Zoom H1 XLR.",
+      "title": "Caribbean bird recording challenge results",
+      "url": "https://birdscaribbean.org/2026/10/celebrating-the-winners-of-the-2026-sound-recording-challenge"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-19",
+      "free": true,
+      "signal": 2,
+      "source": "Biological Recording Company",
+      "take": "The Biological Recording Company summarises a webinar on BatSense, a passive acoustic monitoring service on the Wilder Sensing platform, which it says reaches about 98% accuracy after expert validation. Practical notes include placing recorders at least 1 m above water and watching for ultrasonic interference from electric fences, insects and weather stations.",
+      "title": "What bat detectors hear after dark",
+      "url": "https://biologicalrecording.co.uk/2026/10/19/batsense"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-19",
+      "free": true,
+      "signal": 2,
+      "source": "Kotaku",
+      "take": "The Japan Actors Union, representing about 2,600 voice actors, presented its first generative-AI guidelines: consent is needed at every step, including for training, and authorised AI output counts as a performance that earns pay or royalties. Masako Nozawa, the Japanese voice of Goku, told NHK an unauthorised AI copy of her voice was no different from theft.",
+      "title": "Japan's voice actors set rules for AI",
+      "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-20",
+      "free": false,
+      "signal": 2,
+      "source": "A Sound Effect",
+      "take": "A Sound Effect's weekly roundup includes Sonic Sauce's Ultrasonic Anechoic Essentials (96 files), Laurent Wermenlinger's Living Tropics ambiences (115 minutes), a 1993 Suzuki V-twin, a grassroots football match and John Bowen's Art Studio. All are paid, several at launch discounts.",
+      "title": "Seven new SFX libraries, from spells to anechoic ultrasonics",
+      "url": "https://www.asoundeffect.com/7-new-sound-effects-libraries-dark-spells-tropics/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-09",
+      "free": true,
+      "signal": 2,
+      "source": "On the Move",
+      "take": "A six-month art-and-science residency from April 2027 on the theme Energy Cultures in Transition, for internationally active artists working in media, performance, digital or cross-disciplinary forms. It pays a €3,000 net monthly fellowship plus up to €10,000 for production. Deadline: 9 November 2026.",
+      "title": "Schaufler Lab@TU Dresden residency 2027",
+      "url": "https://on-the-move.org/news/dresden-university-technologythe-schaufler-foundation-schaufler-labtu-dresden-2027-residency"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-21",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "Modulor Audio's Coalesce places filters, distortion, ring modulation, a pitch shifter and a limiter inside the feedback path, so each repeat is reprocessed. A Direction control blends forward and reversed delay. Free (name and email required) in VST3, AU and AAX.",
+      "title": "Coalesce: free delay with effects in the loop",
+      "url": "https://bedroomproducersblog.com/2026/10/21/modulor-audio-coalesce-delay/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-19",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "SnowTec's free Probe analyser measures frequency and phase response, distortion, compressor behaviour, impulse responses, latency and CPU load, and compares two six-slot plugin chains with a null test. It separates aliasing from harmonics and checks reported against measured latency.",
+      "title": "Probe measures what your plugins do",
+      "url": "https://bedroomproducersblog.com/2026/10/19/snowtec-probe-plugin-analyzer/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-21",
+      "free": true,
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "GForce relaunched with two free plugins until 1 December 2026: Axxess, an ARP Axxe emulation, and M-Tron Select 2, a set of Mellotron M400 sounds from M-Tron Pro. Downloads are yours to keep.",
+      "title": "GForce gives away Axxess and M-Tron Select 2",
+      "url": "https://synthanatomy.com/2026/10/gforce-relaunches-with-new-website-and-two-free-plugins-axxess-and-m-tron-select-2.html"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-21",
+      "free": false,
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "Atomosynth's Mochika X7 comes as a desktop unit or a 48HP Eurorack module, with a VCO and a DCO, a vactrol filter and a 32-step sequencer with modes such as drunk, worm and scrub. Waitlist prices are $399 desktop and $349 Eurorack.",
+      "title": "Mochika X7, a semi-modular synth from Peru",
+      "url": "https://synthanatomy.com/2026/10/atomosynth-mochika-x7-semi-modular-analog-synth-from-peru.html"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-20",
+      "free": false,
+      "signal": 1,
+      "source": "CDM",
+      "take": "Roland announced the Boutique JUPITER-08 and the n/vision, a two-layer wavetable synth with motion recording, each US$549.99. CDM rates the n/vision highly but notes that neither unit has a trigger out.",
+      "title": "Roland revives the Boutique line",
+      "url": "https://cdm.link/roland-boutique-jupiter-nvision/"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-21",
+      "free": false,
+      "signal": 1,
+      "source": "KVR Audio",
+      "take": "Inlet Audio's Sever for Kontakt 8 Player is built from extended, aleatoric double-bass improvisations recorded with horror scoring in mind, split into lower-intensity Unease and higher-intensity Rupture instruments. €149, with an intro discount to 3 November.",
+      "title": "Sever: double-bass textures for horror",
+      "url": "https://www.kvraudio.com/news/inlet-audio-releases-sever---double-bass-horror-textures-for-kontakt-8-player-69234"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-21",
+      "free": false,
+      "signal": 1,
+      "source": "designboom",
+      "take": "Leonardo Garza's installation Matter / Memory in Mexico City asks visitors to part a curtain of thousands of stainless-steel spheres to reveal glass fragments holding materials linked to fragrances. Moving the curtain makes a quiet metallic soundscape, with no electronics involved.",
+      "title": "A curtain of steel spheres for BYREDO",
+      "url": "https://www.designboom.com/design/steel-spheres-curved-glass-leonardo-garza-sensory-installation-byredo-matter-memory/"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-19",
+      "free": true,
+      "signal": 1,
+      "source": "News-Medical",
+      "take": "A randomised trial of 192 adults presented at ANESTHESIOLOGY 2026 found nausea and vomiting within 48 hours in 35.4% of patients who wore noise-cancelling headphones, against 52.1% without. Operating-room noise averaged about 66 dB.",
+      "title": "Noise-cancelling headphones reduce nausea after surgery",
+      "url": "https://www.news-medical.net/news/20261019/Noise-canceling-headphones-reduce-nausea-and-vomiting-after-surgery.aspx"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-20",
+      "free": true,
+      "signal": 1,
+      "source": "News-Medical",
+      "take": "An NYU Langone team reports in npj Acoustics that ten minutes of transcranial ultrasound aimed at the globus pallidus interna reduced delusion scores in ten patients, compared with a sham session. The authors call the results preliminary.",
+      "title": "Focused ultrasound in a small schizophrenia trial",
+      "url": "https://www.news-medical.net/news/20261020/Targeted-ultrasound-waves-safely-reduce-delusions-in-people-with-schizophrenia.aspx"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-05",
+      "free": true,
+      "signal": 1,
+      "source": "On the Move",
+      "take": "Three Europe-based participants with an interest in contemporary dance get online podcast mentoring from February to April 2027 and work in person at Spring Forward in Limerick, 13–17 April. Travel, accommodation and a festival pass are covered; no podcast experience needed. Deadline: 5 November 2026.",
+      "title": "Aerowaves Podcast Academy 2027",
+      "url": "https://on-the-move.org/news/aerowaves-podcast-academy-2027-ireland-online"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-18",
+      "free": true,
+      "signal": 1,
+      "source": "La Biennale di Venezia",
+      "take": "La Biennale di Venezia selects six artists aged 18–30 with concept-stage projects that combine an audiovisual element with at least two other art forms. Workshops are in Venice in February 2027 and online in April, and a €20,000 award goes to the strongest project. Deadline: 31 October 2026.",
+      "title": "Biennale College Blend for hybrid works",
+      "url": "https://www.labiennale.org/en/news/biennale-college-blend-call-open-until-31-october-2026"
+    }
+  ],
+  "key": "2026-10-22",
+  "label": "Thu 22 Oct 2026",
+  "lead": "Apple Music's new identity was filmed from ripples made by its own sonic logo, played through a transducer in a bath of mineral oil. A Sound Effect's long interview with the Rebel Wolves team on The Blood of Dawnwalker is the week's richest craft piece, from creature voices recorded through tubes to a mix built on states rather than HDR. Marco Fusinato opens an eight-hour-a-day sound and performance installation at the Gorki in Berlin tomorrow. Free tools were strong, led by Amazing Noises' Grain Freezer and an officially open M-VAVE FM-1.",
+  "listen": {
+    "artist": "Pierre Schaeffer",
+    "url": "https://en.wikipedia.org/wiki/Cinq_%C3%A9tudes_de_bruits",
+    "why": "One of the five Études de bruits that Schaeffer made in 1948 at the Studio d'Essai of French radio in Paris, built entirely from recordings of trains. It is usually counted as the first piece of musique concrète. The études were first heard as a radio broadcast, Concert de bruits, on 5 October 1948.",
+    "work": "Étude aux chemins de fer (Cinq études de bruits)",
+    "year": "1948"
+  },
+  "photo": {
+    "alt": "Black-and-white photograph of the intonarumori, the box-shaped mechanical noise instruments with large horns that Luigi Russolo built in Milan, published in his 1913 book The Art of Noises.",
+    "credit": "Luigi Russolo (photo published in The Art of Noises, 1913), via Wikimedia Commons",
+    "licence": "Public domain (PD-1923)",
+    "page": "https://commons.wikimedia.org/wiki/File:Russolointonorumori.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Russolointonorumori.jpg",
+    "title": "Luigi Russolo's intonarumori, 1913"
+  },
+  "poem": {
+    "author": "Paul Verlaine",
+    "lang": "French",
+    "note": "Published in 1866 in Verlaine's first collection, Poèmes saturniens, as the fifth poem of the section Paysages tristes. Verlaine died in 1896 and the poem is in the public domain; in 1944 the BBC's Radio Londres broadcast its opening lines as coded messages to the French Resistance before D-Day.",
+    "source": {
+      "label": "Project Gutenberg #15112: Oeuvres complètes de Paul Verlaine, Vol. 1",
+      "url": "https://www.gutenberg.org/files/15112/15112-h/15112-h.htm"
+    },
+    "text": "Les sanglots longs\nDes violons\nDe l'automne\nBlessent mon coeur\nD'une langueur\nMonotone.\n\nTout suffocant\nEt blême, quand\nSonne l'heure,\nJe me souviens\nDes jours anciens\nEt je pleure;\n\nEt je m'en vais\nAu vent mauvais\nQui m'emporte\nDeçà, delà,\nPareil à la\nFeuille morte.",
+    "title": "Chanson d'automne",
+    "work": "Poèmes saturniens (Paysages tristes)",
+    "year": "1866"
+  },
+  "radar": [
+    {
+      "date": "2026-10-23",
+      "note": "IN THE CORPSE OF THE PRESENT runs Tuesday to Sunday, 1–9pm, until 15 November.",
+      "title": "Marco Fusinato opens at the Gorki, Berlin",
+      "url": "https://www.e-flux.com/announcements/6788288/marco-fusinato-in-the-corpse-of-the-present"
+    },
+    {
+      "date": "2026-10-24",
+      "note": "Sound installation with live performance at 4pm in the courtyard of the Giudecca women's prison; free, subject to availability, on the festival's last day.",
+      "title": "Musica Libera, Biennale Musica, Venice",
+      "url": "https://www.labiennale.org/en/news/musica-libera-two-special-events-70th-festival"
+    },
+    {
+      "date": "2026-10-31",
+      "note": "Call for hybrid audiovisual projects by artists aged 18–30.",
+      "title": "Biennale College Blend deadline",
+      "url": "https://www.labiennale.org/en/news/biennale-college-blend-call-open-until-31-october-2026"
+    },
+    {
+      "date": "2026-11-09",
+      "note": "Six-month paid art-and-science residency starting April 2027.",
+      "title": "Schaufler Lab@TU Dresden deadline",
+      "url": "https://on-the-move.org/news/dresden-university-technologythe-schaufler-foundation-schaufler-labtu-dresden-2027-residency"
+    }
+  ],
+  "range": "16–22 October 2026",
+  "seed": {
+    "by": "John Cage",
+    "kind": "quote",
+    "note": "John Cage (1912–1992) wrote \"The Future of Music: Credo\" in 1937. It was later collected in Silence: Lectures and Writings, first published by Wesleyan University Press in 1961, which gathers essays and lectures he wrote between 1939 and 1961.\n\nIn Silence the Credo is printed with paragraphs from two different texts set side by side.",
+    "source": {
+      "label": "Wikiquote: John Cage (citing Silence, Wesleyan University Press, 1961)",
+      "url": "https://en.wikiquote.org/wiki/John_Cage"
+    },
+    "text": "Wherever we are, what we hear is mostly noise. When we ignore it, it disturbs us. When we listen to it, we find it fascinating.",
+    "work": "The Future of Music: Credo",
+    "year": "1937"
+  }
+}

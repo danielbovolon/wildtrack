@@ -1,0 +1,304 @@
+{
+  "crossover": {
+    "body": "Kurt Schwitters worked on the Ursonate, a sound poem in sonata form built from invented syllables, from 1922 to 1932. He had heard Raoul Hausmann recite his letter poem 'fmsbw' in Prague in 1921, and he first performed the Ursonate in Potsdam on 14 February 1925. In 1932 he published his notation for the recital as the last issue of his periodical, Merz 24: a full transcription of the final draft, with typography by Jan Tschichold. The type itself became the score for a vocal work that has no conventional notation.",
+    "field": "Typography",
+    "source": "Wikipedia, Ursonate",
+    "title": "Tschichold sets Schwitters' Ursonate",
+    "url": "https://en.wikipedia.org/wiki/Ursonate"
+  },
+  "generated": "2026-10-27T07:05:00+01:00",
+  "headline": "Hymns, drones and borrowed voices",
+  "items": [
+    {
+      "cat": "music",
+      "date": "2026-10-26",
+      "deep": "Sammour recorded his parts at Wonder Cabinet in Bethlehem, while Moussa and Kobeissy recorded theirs in the West Bank. Side B comes from Dar El Nimer in Beirut, a space that closed this year because of the war, and from Metro Al-Madina during the Beirut & Beyond festival. CDM's review describes hymn melodies stretched into dissonance by electronic drones and delays, with buzuq strings and a close, live sound.\n\nThe record is a case study in making music from rooms as much as from players. Each side keeps the character of specific spaces, two of them now under pressure or gone. It also shows remote collaboration where the musicians built the work before they ever stood in one room, and an electroacoustic treatment of sacred voice that keeps the voice at the centre.",
+      "free": false,
+      "signal": 3,
+      "source": "CDM",
+      "take": "Lawrence Sammour, choir director at the Church of the Nativity since 1970, made the album Bethlehem with Sary Moussa and Abed Kobeissy. It is out on Constellation on vinyl and digital. Side A was recorded in the West Bank and Bethlehem, side B in Beirut. The three first played live remotely and only met in person on stage at Le Guess Who? in Utrecht.",
+      "title": "Bethlehem: liturgical hymns meet drones and delays, recorded across a war",
+      "url": "https://cdm.link/bethlehem-album/"
+    },
+    {
+      "cat": "games",
+      "date": "2026-10-26",
+      "deep": "The episode goes through Unreal Engine 5 audio and SweejTech's HDR and 3D audio tools, and how the team balanced audio systems against performance budgets. Other chapters cover why players can be hit before they hear the shot (the speed of sound and bullet physics), rain and footstep design, proximity chat, mix states, spatial audio and Battlefield V's 'Project Moist'.\n\nIn a competitive shooter, sound is the main source of information about where others are. The conversation treats realism as a design choice rather than a goal, and shows how a small team ships a systemic, data-heavy mix for Early Access. Many of the ideas, such as HDR loudness management and mix states, carry over to installation and interactive work.",
+      "free": true,
+      "signal": 3,
+      "source": "A Sound Effect",
+      "take": "A two-hour Audio Logs episode, shared by A Sound Effect, talks with Sean Garavan, audio director at BULKHEAD, and Albin Jansson of SweejTech, who helped build some of the game's audio tech. The tactical shooter reportedly sold over a million copies on its first day in Steam Early Access and three million in just over two weeks.",
+      "title": "WARDOGS: how a hit shooter's audio carries information",
+      "url": "https://www.asoundeffect.com/wardogs-game-audio/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-26",
+      "deep": "Podnews reports the case from the latest Hyperfixed episode. The impostor did not just repost old material: the cloned voice said things Jones says he would never say. Podnews notes that its own editor advises RSS.com.\n\nFor anyone with a public archive of their voice, from narrators and radio makers to performers, this is a concrete example of voice theft. An inactive feed with hours of clean speech was enough to build a convincing clone. Platform account security, feed ownership and clear records of one's own work now matter as much as the audio itself.",
+      "free": false,
+      "signal": 3,
+      "source": "Podnews",
+      "take": "Sanderson Jones had stopped making his podcast. Someone hacked his account, moved the feed to RSS.com, cloned his voice and kept publishing episodes in his name, earning $1,293. After the podcast Hyperfixed investigated, RSS.com paid the money to Jones and helped return the feed to him.",
+      "title": "A hacker cloned a podcaster's voice and kept his show running",
+      "url": "https://podnews.net/update/clone-ai-voice-hack"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-22",
+      "deep": "Food disputes produced nine of the call types, five of them heard only in those disputes. A 'metallic groan' made up almost three in ten calls and could run to 43 notes. The in-egg calls continued for months after hatching and became more varied. They were recorded at Diergaarde Blijdorp, where eggs are incubated artificially.\n\nVultures are usually described as near-silent birds, so this is one of the first detailed maps of their vocal life. The species is critically endangered. For field recordists and composers it is a reminder that 'quiet' species often have rich repertoires that only show up in close, patient recording, and that some vocal behaviour starts before birth.",
+      "free": false,
+      "signal": 3,
+      "source": "Earth.com",
+      "take": "Connor Proudfoot of Utrecht University's Vulture Cognition Lab labelled about 2,500 calls from 35 Rüppell's vultures in two Dutch zoos and found 16 call types, published in PLOS One. Chicks make soft 'hmm' calls from inside the egg once they start breathing.",
+      "title": "Rüppell's vultures have 16 call types, starting inside the egg",
+      "url": "https://www.earth.com/science/vultures-have-a-secret-world-of-sounds-even-before-they-hatch/"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-25",
+      "free": true,
+      "signal": 2,
+      "source": "Tonebenders",
+      "take": "Tim Muirhead talks with supervising sound editors and re-recording mixers Steve 'Major' Giammaria and Nicholas Renbeck about Crystal Lake, the Friday the 13th prequel series. The show mixes drama, horror and comedy, and the team moved between very exaggerated and very restrained sound to guide viewers through those shifts while matching the tone of the original films.",
+      "title": "Tonebenders on the tonal swings of Crystal Lake",
+      "url": "https://tonebenderspodcast.com/381-crystal-lake/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-25",
+      "free": true,
+      "signal": 2,
+      "source": "Gearnews",
+      "take": "Gearnews picked seven odd captures for the open-source Neural Amp Modeler, all hosted on TONE3000. They include a speaker loaded with lentils, rocks and mail, a modified 1980s Sanyo answering machine, a walkie-talkie, a radiator in the next room, a clipping Focusrite Scarlett Solo and 1960s Telefunken radio amps. A free TONE3000 plugin loads them in a DAW.",
+      "title": "Free NAM captures of lentils, answering machines and radiators",
+      "url": "https://www.gearnews.com/weirdest-nam-captures-guitar/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-26",
+      "free": false,
+      "signal": 2,
+      "source": "Synth Anatomy",
+      "take": "Behringer showed a prototype sampler and groovebox laid out like the Akai MPC One, with 16 pads, a touchscreen, 4 CV/gate outputs, MIDI and a built-in camera for gesture control. The Linux-based firmware is published on GitHub so the community can build its own operating system. Price and availability are not announced.",
+      "title": "Behringer Kick: an MPC-style sampler with open-source firmware",
+      "url": "https://synthanatomy.com/2026/10/behringer-kick-an-mpc-one-clone-with-open-source-firmware.html"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-23",
+      "free": false,
+      "signal": 2,
+      "source": "Popular Science",
+      "take": "Doshisha University researchers played recorded isolation calls to four Japanese house bat mothers and tracked their heart rates by ECG, reporting in Frontiers in Ethology. Heart rates rose for their own pups' calls but not for other pups'. An adult male's call also caused a strong response, and the authors note heart rate cannot tell maternal motivation from stress.",
+      "title": "Bat mothers' hearts race at their own pups' cries",
+      "url": "https://www.popsci.com/environment/bat-mother-heart-beat-pups/"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-23",
+      "free": false,
+      "signal": 2,
+      "source": "The Stage",
+      "take": "Birmingham Rep dropped a plan to use recorded music in its new production of The Snowman, with Howard Blake's score, after talks with the Musicians' Union. Former players had said playback would harm the show's integrity. Performances began on 24 October with live musicians.",
+      "title": "Birmingham Rep restores a live band to The Snowman",
+      "url": "https://www.thestage.co.uk/news/birmingham-rep-backtracks-on-proposal-to-use-recorded-music-in-the-snowman"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-26",
+      "free": false,
+      "signal": 2,
+      "source": "Mix",
+      "take": "Production sound mixer Nadine Richardson recorded Pressure, set in the 72 hours before D-Day, with miniature lavaliers for dialogue and high-SPL capsules for shouting and explosions. Plant mics were hidden in telephones, maps and vehicles, and 32-bit float transmitters guarded against clipping. The piece is a manufacturer release from DPA and Wisycom.",
+      "title": "Hidden mics and 32-bit float on the D-Day drama Pressure",
+      "url": "https://www.mixonline.com/the-wire/dpa-microphones-and-wisycom-deliver-exceptional-production-sound-for-wwi-drama-pressure"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-26",
+      "free": true,
+      "signal": 2,
+      "source": "MacRumors",
+      "take": "With iOS 27.2, Apple's free Hearing Aid feature for AirPods Pro 2 and 3 is live in Alberta, British Columbia, New Brunswick, Prince Edward Island and Saskatchewan, for adults with perceived mild to moderate hearing loss. Ontario needs a legal change first. The five-minute Hearing Test is available across Canada.",
+      "title": "AirPods Pro hearing-aid mode reaches five Canadian provinces",
+      "url": "https://www.macrumors.com/2026/10/26/airpods-pro-hearing-aid-five-canadian-provinces/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-27",
+      "free": true,
+      "signal": 2,
+      "source": "EMS Network",
+      "take": "The Electroacoustic Music Studies Network invites fixed-media works, stereo or up to eight channels and ideally under ten minutes, for concerts on 25–26 June 2027 at Peking University in Beijing. One work per applicant; recent works preferred. No fee is mentioned. Deadline 1 February 2027.",
+      "title": "EMS27 call for works: 'The Nature of Electroacoustic Music'",
+      "url": "http://www.ems-network.org/ems27/Works.html"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-26",
+      "free": true,
+      "signal": 1,
+      "source": "KVR Audio",
+      "take": "Expetri grows sound 'cells' that split, merge and morph each other's waveforms. You shape the result by stirring, adding or removing cells with a pipette and pouring effects from beakers. VST3 and AU on macOS; a free version lacks only rare-cell generation.",
+      "title": "Expetri: a synth you play by stirring a petri dish",
+      "url": "https://www.kvraudio.com/news/expetri-experimental-software-synthesizer-released-au-and-vst3-69350"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-26",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "This free alpha plugin emulates the Lexicon 224 and 224XL reverbs. You supply the original ROMs; it runs their control firmware once on import, then processes audio with native algorithms. macOS and Windows builds are on GitHub.",
+      "title": "Cineol-X 224 rebuilds the Lexicon 224 from its own ROMs",
+      "url": "https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-26",
+      "free": false,
+      "signal": 1,
+      "source": "Synthtopia",
+      "take": "DSP Bricks recreated the Optigan, which played looped recordings from optical discs. The plugin includes all 40 original program discs, three prototypes and the spring reverb. A Flex mode separates speed from pitch, and loading a disc upside down plays it backwards.",
+      "title": "The 1971 Optigan optical-disc organ returns as a plugin",
+      "url": "https://www.synthtopia.com/content/2026/10/26/optigan-software-recreates-vintage-optical-playback-sampler/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-26",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "Sonic Cascade, founded by film composer Kevin Matley, released a free plugin with three stages, for pitch drift and hiss, tape saturation and sample-rate reduction, which can run in six orders. No account or activation is needed.",
+      "title": "THE DREAM: free drift, tape and bit-crush in any order",
+      "url": "https://bedroomproducersblog.com/2026/10/26/sonic-cascade-the-dream/"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-10-24",
+      "free": false,
+      "signal": 1,
+      "source": "Derivative",
+      "take": "Bileam Tschepe (elekktronaut) walks through AVY, a lightweight framework for live visuals with presets, MIDI mapping, audio analysis, OSC and Ableton Link. He says he built it over six to eight months, partly with AI help. An alpha is available to his Patreon supporters.",
+      "title": "AVY: a modular audio-reactive performance system in TouchDesigner",
+      "url": "https://derivative.ca/community-post/i-built-modular-performance-system-touchdesigner-avy-walkthrough/75562"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-25",
+      "free": false,
+      "signal": 1,
+      "source": "e-flux",
+      "take": "Resonance Field, the 2026 Changwon Sculpture Biennale in South Korea, runs until 15 November with 74 teams. Manal AlDowayan's Listen to Me invites visitors to strike lip-shaped brass sculptures to make them sound.",
+      "title": "Changwon Sculpture Biennale takes resonance as its theme",
+      "url": "https://www.e-flux.com/announcements/6788493/resonance-field"
+    },
+    {
+      "cat": "games",
+      "date": "2026-10-26",
+      "free": false,
+      "signal": 1,
+      "source": "Game Developer",
+      "take": "Bauza was the current voice of Bugs Bunny, Daffy Duck and other Looney Tunes characters, and voiced roles in games including Batman: Arkham City and Metal Gear Rising: Revengeance. He died suddenly on 26 October.",
+      "title": "Voice actor Eric Bauza dies at 46",
+      "url": "https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-20",
+      "free": false,
+      "signal": 1,
+      "source": "Sky Sports",
+      "take": "Sky Sports and Guinness launched a continuous, radio-style descriptive commentary for blind and partially sighted fans on selected fixtures, developed with RNIB, plus live subtitles on all front-channel matches.",
+      "title": "Sky Sports adds live audio description for Premier League games",
+      "url": "https://www.skysports.com/football/news/13595862/sky-sports-and-guinness-launch-new-accessibility-services-across-premier-league-coverage"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-26",
+      "free": true,
+      "signal": 1,
+      "source": "Fondazione Garuzzo",
+      "take": "Fondazione Garuzzo, PAV Parco Arte Vivente and BIENALSUR offer two four-week residencies in March–April 2027: Buenos Aires for an artist of Italian origin, Turin for a Latin American artist. No age limit and no restriction on medium. Deadline 1 November 2026, 23:59.",
+      "title": "Interspecies Relations residencies, Turin and Buenos Aires",
+      "url": "https://www.fondazionegaruzzo.org/interspecies-relations-open-call-residenze/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-08",
+      "free": true,
+      "signal": 1,
+      "source": "e-flux",
+      "take": "The G. & A. Mamidakis Foundation will fund a large outdoor installation, with sound installation among the eligible forms, and cover production costs. The work is made from February to May 2027 and unveiled in June. Deadline 30 December 2026, 23:59 Greek time.",
+      "title": "Mamidakis Art Prize 2027: €15,000 for a permanent outdoor work in Crete",
+      "url": "https://www.e-flux.com/announcements/6788312/open-call-for-art-prize-2027"
+    }
+  ],
+  "key": "2026-10-27",
+  "label": "Tue 27 Oct 2026",
+  "lead": "Constellation released Bethlehem, which sets a Nativity choir director's hymns against drones recorded in the West Bank and in Beirut. BULKHEAD's audio director explained how sound carries information in the hit shooter WARDOGS. A podcaster found that a hacker had cloned his voice and kept his abandoned show going for profit. Bioacoustics brought vultures that call from inside the egg and bat mothers whose hearts respond to their own pups.",
+  "listen": {
+    "artist": "Hamza El Din",
+    "url": "https://nonesuch.com/albums/nubia-escalay-water-wheel-oud-music",
+    "why": "Hamza El Din, a Nubian singer and oud player who studied in Cairo and at the Accademia di Santa Cecilia in Rome, recorded this album for Nonesuch with producer Robert Garfias. The 21-minute title track portrays a boy who keeps the ox-driven water wheel turning on the Nile and drifts into song inside its creaking drone. The second piece, 'Remind Me', is a melody by Mohammed Abdel Wahab first written for Umm Kulthum.",
+    "work": "Escalay (The Water Wheel): Oud Music from Nubia",
+    "year": "1971"
+  },
+  "photo": {
+    "alt": "An oud, the short-necked fretless lute of Arab music, on display at the Musical Instrument Museum in Phoenix, Arizona.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Oud_-_MIM_PHX.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Oud_-_MIM_PHX.jpg",
+    "title": "Oud, Musical Instrument Museum, Phoenix"
+  },
+  "poem": {
+    "author": "Rabindranath Tagore",
+    "lang": "English",
+    "note": "The complete third poem of the English Gitanjali, Tagore's own prose translations from his Bengali songs, first published in English in 1912. Tagore died in 1941 and the text is in the public domain.",
+    "source": {
+      "label": "Project Gutenberg eBook #7164, Gitanjali",
+      "url": "https://www.gutenberg.org/cache/epub/7164/pg7164-images.html"
+    },
+    "text": "I know not how thou singest, my master! I ever listen in silent amazement.\n\nThe light of thy music illumines the world. The life breath of thy music runs from sky to sky. The holy stream of thy music breaks through all stony obstacles and rushes on.\n\nMy heart longs to join in thy song, but vainly struggles for a voice. I would speak, but speech breaks not into song, and I cry out baffled. Ah, thou hast made my heart captive in the endless meshes of thy music, my master!",
+    "title": "Gitanjali 3 (I know not how thou singest, my master!)",
+    "work": "Gitanjali (Song Offerings)",
+    "year": "1912"
+  },
+  "radar": [
+    {
+      "date": "2026-11-01",
+      "note": "Applications for the Turin and Buenos Aires residencies close at 23:59.",
+      "title": "Interspecies Relations residency deadline",
+      "url": "https://www.fondazionegaruzzo.org/interspecies-relations-open-call-residenze/"
+    },
+    {
+      "date": "2026-11-25",
+      "note": "Fully funded composer-conductor workshop with Steve Reich at Grafenegg; no application fee.",
+      "title": "Ink Still Wet 2027 deadline",
+      "url": "https://soundandmusic.org/opportunities/listing/ink-still-wet-2027-composer-conductor-workshop-with-steve-reich/"
+    },
+    {
+      "date": "2026-11-26",
+      "note": "Immersive installation built from the collective's field recordings; until 7 March 2027.",
+      "title": "Soundwalk Collective & Patti Smith, Correspondences, Triennale Milano",
+      "url": "https://triennale.org/en/events/correspondences-soundwalk-patti-smith"
+    },
+    {
+      "date": "2027-02-01",
+      "note": "Fixed-media works for the Electroacoustic Music Studies concerts in Beijing.",
+      "title": "EMS27 call for works closes",
+      "url": "http://www.ems-network.org/ems27/Works.html"
+    }
+  ],
+  "range": "20–27 October 2026",
+  "seed": {
+    "kind": "word",
+    "lang": "Arabic (طرب)",
+    "note": "Tarab is an Arabic term, glossed literally as 'enchantment', for the heightened emotion or ecstasy that musicians and listeners feel together in a performance. The New Grove Dictionary treats it as central to Arab music performance. The same word also names the urban repertoire that aims to produce that state, associated with Cairo, Beirut, Aleppo and Damascus. The term appears in medieval writings and is still in use.\n\nThe ethnomusicologist Ali Jihad Racy wrote about it in Making Music in the Arab World: The Culture and Artistry of Tarab (2003). He describes it as a concept with many sides and no exact English equivalent. Umm Kulthum's concerts could run for up to five hours: she repeated lines and varied emphasis and modal scales to bring the audience into tarab. In Indian music the related word names the sympathetic strings of the sitar and sarangi.",
+    "source": {
+      "label": "Wikipedia, Tarab",
+      "url": "https://en.wikipedia.org/wiki/Tarab"
+    },
+    "text": "tarab"
+  }
+}

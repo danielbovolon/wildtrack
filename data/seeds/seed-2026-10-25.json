@@ -1,0 +1,288 @@
+{
+  "crossover": {
+    "body": "On 2 January 1911 Wassily Kandinsky attended a concert of Arnold Schoenberg's music in Munich, with string pieces played by the Rosé Quartet. Within days he painted Impression III (Concert), now in the Lenbachhaus in Munich, and on 18 January wrote his first letter to Schoenberg, starting a correspondence that ran until 1936. Kandinsky gave his paintings musical titles such as impression, improvisation and composition, and wrote of the 'inner sound' of colours and forms, which he described as arranged like notes to move the viewer.",
+    "field": "Painting",
+    "source": "Finestre sull'Arte",
+    "title": "Kandinsky hears Schoenberg",
+    "url": "https://finestresullarte.info/en/works-and-artists/art-as-music-the-encounter-between-vasily-kandinsky-and-arnold-schoenberg"
+  },
+  "generated": "2026-10-25T06:52:04+01:00",
+  "headline": "Sound as identity, space and census",
+  "items": [
+    {
+      "cat": "design",
+      "date": "2026-10-25",
+      "deep": "The piece is useful because it names the sources behind the sounds. Wood's 'sonic universe' for the Luce covers start-up, indicators and warning tones, all made from processed acoustic recordings rather than synthesis alone. National Geographic's identity, made by Syn with guitarist David Torn, uses Chris Watson's alligator recordings. Stephen Arnold Music, which has worked for Airbnb, CNN and UPS, records with orchestras and tests its logos for fit and recall with the UK firm SoundOut.\n\nFor a sound designer, the article shows where the commercial work is: electric vehicles that need a full set of functional sounds, banks and hotels that want a sound in a physical space, and brands that test recall. It also names the limits: a crowded soundscape and a 'sound-off' habit of keeping devices silent. Stephen Arnold's Russell Boiarsky says a well-made sound can take hold after about five exposures.",
+      "signal": 3,
+      "source": "The National (TN Magazine)",
+      "take": "A TN Magazine feature surveys how brands commission sound identities. Composer Nick Wood built the in-cabin sound of Ferrari's first electric car, the Luce, from recordings of piano, cello, wood struck on pipework and old Ferrari engines. Copenhagen agency Unmute, which made the IMAX sound logo, is rolling out a new identity for Danske Bank and commissioned a piano with two strings per note for its headquarters lobby.",
+      "title": "Inside sonic branding: Ferrari's electric Luce, a two-string piano for a bank",
+      "url": "https://www.thenationalnews.com/magazine/2026/10/25/what-does-luxury-sound-like-inside-the-growing-world-of-sonic-branding/"
+    },
+    {
+      "cat": "games",
+      "date": "2026-10-22",
+      "deep": "The integration covers three uses named by the companies: VR emulation, binaural rendering with Audeze's Tempest 3D AudioTech, and non-standard speaker layouts for location-based entertainment through Audiokinetic's AK Custom Panner. The headset's tracking is hardware-based and self-calibrating, so it needs no setup routine.\n\nHead-tracked monitoring changes how spatial mixes are judged on headphones. Without it, sources tend to sit inside the head and front-back confusion is common, so many designers check spatial work on a speaker array. Putting tracking directly in the authoring tool lowers the cost of checking object placement for games, VR and installations, and the custom-panner route is relevant to anyone building sound for rooms with unusual speaker positions.",
+      "signal": 3,
+      "source": "TechRadar",
+      "take": "Audeze and Audiokinetic have added native support for the Maxwell 2 ANC headset's head tracking in Wwise. Sound designers can place and audition 3D audio with real-time head movement over USB-C or the wireless dongle, with no extra software. No release date or price for the integration was given.",
+      "title": "Head tracking for the Audeze Maxwell 2 now works natively inside Wwise",
+      "url": "https://www.techradar.com/gaming/were-removing-the-friction-between-creator-vision-and-spatial-execution-audeze-and-audiokinetic-are-introducing-native-head-tracking-support-for-the-maxwell-2-anc-headset-directly-inside-wwise"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-22",
+      "deep": "Artistic director Marie du Chastel says the festival set no theme this year, but the works share a focus on air, water, ground, light and sound, using technology to make natural phenomena perceptible. Other pieces include Aérosculpture's Steel Grass, a field of sculptures close to 25 metres tall that move with the wind on Place d'Armes. Three evenings combine performance and electronic music, alongside talks for people in the creative industries.\n\nMessier is a Montreal artist who works between sound, light and machines. Astronomical Water depends on the same kind of timing as a stroboscope: when the strobe rate is locked to the drip rate, motion appears frozen or reversed. It is a clear case of an installation where sound and image come from one mechanism and one clock.",
+      "signal": 3,
+      "source": "La DH / Belga",
+      "take": "The 15th KIKK Festival of digital and creative cultures runs 22–25 October in Namur, Belgium, with about 40 works across seven sites on a €10 art trail. Martin Messier's Astronomical Water at Le Delta uses 117 synchronised water droppers and strobe lights so that drops seem to hover, stop or rise, and forms soundscapes from them.",
+      "title": "KIKK Festival 15: Martin Messier's 117 water droppers in Namur",
+      "url": "https://www.dhnet.be/dernieres-depeches/2026/10/22/le-kikk-festival-celebre-pour-la-15e-fois-les-cultures-numeriques-et-creatives-a-namur-3XPTTHBI7JCBXAG6U5ODSGZ3EQ/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-22",
+      "deep": "The recorders were attached to trees and captured 10 minutes every half hour. An AI model flagged 5,395 possible songs; researchers removed false positives, about 38 percent of detections, and used spectrograms to tell which group was singing. Twelve indri families with known locations were used to calibrate the estimate, and the average song rate was 0.358 songs per group per hour.\n\nThe indri is critically endangered, mainly through habitat loss from slash-and-burn farming. The authors suggest that recording could be a low-cost way to survey it. For field recordists the method matters: a scheduled duty cycle, a known calling rate and careful listening checks turn an archive of forest sound into a population count.",
+      "signal": 3,
+      "source": "National Geographic",
+      "take": "A study in Maromizaha, eastern Madagascar, used passive acoustic monitoring to estimate how many groups of indri, the island's largest lemur, live there. Over 13 months, 26 recorders produced a density estimate of 5.55 groups per square kilometre, close to the known 6.17.",
+      "title": "Counting Madagascar's indri by recording their songs",
+      "url": "https://www.nationalgeographic.com/animals/article/indri-acoustic-monitoring"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-24",
+      "free": true,
+      "signal": 2,
+      "source": "Production Expert",
+      "take": "Sreejesh Nair's free personal project lets S6, S4, S1, S3, Dock, Artist or Avid Control surfaces drive the Dolby Atmos Renderer's monitor level, dim and cut, speaker layouts, transport and loudness. It is not an Avid or Dolby product. It also exposes HTTP and OSC, so Stream Deck or SoundFlow can control it. Version 1.2.2 is on GitHub for macOS 13 and later.",
+      "title": "DAR Bridge: control the Dolby Atmos Renderer from an Avid surface, free",
+      "url": "https://www.production-expert.com/production-expert-1/free-dar-bridge-control-the-dolby-atmos-renderer-from-your-avid-control-surface"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-22",
+      "signal": 2,
+      "source": "Production Expert",
+      "take": "A technique article on UBERBASS, which generates new low end around a chosen frequency instead of boosting what is there. Its pitch readout snaps to notes between E0 and B2 so the low end can match the score's key, a drive stage helps weight survive on small speakers, and a gate keeps it on the hit. The author suggests printing a fully wet layer as its own LFE-style track for the mix.",
+      "title": "Weight and impact with BOOM Library's UBERBASS",
+      "url": "https://www.production-expert.com/production-expert-1/adding-weight-and-impact-to-sound-design-with-boom-library-uberbass"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-24",
+      "free": true,
+      "signal": 2,
+      "source": "Synth Anatomy",
+      "take": "Steve Duda of Xfer Records announced Shrub, a free wavetable-synth firmware for the M-VAVE FM-1. It is a cut-down port of Serum with 3D wavetables, Serum 2 filters, two envelopes, two LFOs, effects including OTT, an arpeggiator and an 8-lane motion sequencer. It is in private testing, and Duda warns it could brick a unit.",
+      "title": "Xfer's Shrub puts a small Serum on the M-VAVE FM-1",
+      "url": "https://synthanatomy.com/2026/10/xfer-records-shrub-serum-for-m-vave-fm-1-before-gta-6.html"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-24",
+      "free": true,
+      "signal": 2,
+      "source": "Synth Anatomy",
+      "take": "The Usual Suspects are emulating the Nord Modular G1, G2 and Micro Modular, each with its own patch editor, since the hardware and its editors are discontinued. Formats will include VST3, AU, LV2 and CLAP on macOS, Windows and Linux. The plugins will be free in the end; supporters get early access.",
+      "title": "Nodal Mod: free emulations of the Nord Modular range on the way",
+      "url": "https://synthanatomy.com/2026/10/the-usual-suspects-nodal-mod-emulators-for-the-nord-modular-synthesizer-range.html"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-24",
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "A look at Electrosmith's Daisy Pod, a USB-powered board for the open-source Daisy Seed with two knobs, two buttons, an encoder, stereo line in and out, MIDI in and a headphone out. It needs no soldering or breadboard and can be programmed in C++, Arduino, Pure Data via PlugData, or Max gen~.",
+      "title": "Daisy Pod: a no-solder route from Pd or gen~ to hardware",
+      "url": "https://www.synthtopia.com/content/2026/10/24/build-custom-electronic-music-gear-with-the-daisy-pod/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-24",
+      "free": true,
+      "signal": 2,
+      "source": "Bedroom Producers Blog",
+      "take": "Morningdew Media released a free DAW with a timeline and clip launcher, a 128-channel routing matrix, score view, full MPE, CLAP, VST and AU support and built-in synths. Bedroom Producers Blog found it stable but rough, with features that did not work as described. An account is needed to download.",
+      "title": "MorningDAW: a new free DAW for macOS, Windows and Linux",
+      "url": "https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-25",
+      "free": true,
+      "signal": 2,
+      "source": "NYCEMF",
+      "take": "NYCEMF, 15–21 June 2027 in New York, accepts fixed media up to 16 channels, live electronics and works with instruments up to 8 channels, video, installations, papers and curated concerts. There is no submission fee; accepted works pay about $350 registration, half for full-time students. Deadline: 31 December 2026.",
+      "title": "NYC Electroacoustic Music Festival 2027: submissions close 31 December",
+      "url": "https://nycemf.org/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-25",
+      "signal": 2,
+      "source": "MID SIDE",
+      "take": "Empirica / MID SIDE invites stereo or multichannel acousmatic works and experimental audiovisual pieces up to 20 minutes. Selected works play in the Listening Room of CLAB Studios during REF – Resilience Festival in Foggia, 27–30 December 2026. The fee is €15 per work. Deadline: 25 November 2026, 23:59 (UTC+1).",
+      "title": "MID SIDE call for acousmatic and audiovisual works, Foggia",
+      "url": "https://www.midside.it/callforworks2026"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-25",
+      "signal": 2,
+      "source": "Aristotle University of Thessaloniki",
+      "take": "Aristotle University of Thessaloniki's competition is for loudspeaker-only electroacoustic works of 7–15 minutes, up to 8 channels, with no age or nationality limit. Prizes are €600, €400 and €300, and selected pieces are performed in November 2027. The fee is €15. Deadline: 1 January 2027.",
+      "title": "6th Iannis Xenakis International Competition of Electronic Music",
+      "url": "https://xenakis.web.auth.gr/rules/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-24",
+      "free": true,
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "Temaniak's Silver-K is built on the open-source Gearmulator code and needs the original firmware ROM. It covers the K-Station's three-oscillator engine and 12-band vocoder and the four-part KS, and reads the old patch formats. Standalone, VST3 and AU for macOS and Windows, from GitHub.",
+      "title": "Silver-K: free Novation K-Station and KS emulator",
+      "url": "https://synthanatomy.com/2026/10/temaniak-silver-k-a-novation-k-station-ks-synthesizer-emulator.html"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-24",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "A free instrument sampled from a John Brinsmead & Sons baby grand donated by a school. Two macros, Low Octave and Age, push it towards lo-fi textures, wear and detune, with filter, chorus and reverb.",
+      "title": "Crow Hill's free '100 Year Old Piano'",
+      "url": "https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-22",
+      "signal": 1,
+      "source": "Gearnews",
+      "take": "Erica Synths' modular drum machine, developed with Moritz Klein of the EDU DIY series, is now sold built as well as in kit form (€490 kit, €520 without case, €640 with case). The same roundup covers Make Noise's CV Bus cases, grown from a design for Alessandro Cortini, and Doepfer's first 1U modules.",
+      "title": "Erica's KONSTRUKT-8 drum machine now ships assembled",
+      "url": "https://www.gearnews.com/synth-journal-make-noise-erica-synths/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-23",
+      "signal": 1,
+      "source": "KVR Audio",
+      "take": "Unusable Engineering's additive synth, with up to 128 partials per voice, gains detune, a Smear mode that feeds each oscillator into a delay line tuned an octave below, a ring modulator, a self-oscillating filter and glide. Paid, €79, VST3 and AU.",
+      "title": "Partials & Discrepancies 1.5 adds 'Smear' and an 'East' filter",
+      "url": "https://www.kvraudio.com/news/unusable-engineering-updates-partials-and-discrepancies-to-v1-5-0-69317"
+    },
+    {
+      "cat": "space",
+      "date": "2026-10-22",
+      "signal": 1,
+      "source": "Dezeen",
+      "take": "The seafood bar and music venue lined its walls with Autex's laser-etched PET panels to cut reverberation from concrete floors and keep chatter below the music, with a suspended grid system above the bar. Product-led coverage, light on detail, but a sign of small venues treating room acoustics as part of their identity.",
+      "title": "Acoustic panels shape the sound of Manchester's Bar Shrimp",
+      "url": "https://www.dezeen.com/2026/10/22/autex-acoustics-panels-sound-manchesters-bar-shrimp"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-22",
+      "signal": 1,
+      "source": "Podnews",
+      "take": "On Air Fest, the audio storytelling festival founded in 2017, published a list of 100 moments that shaped it. In the same issue, Podnews reports that Musixmatch Podcasts will close at the end of November, saying free AI tools now do much of what it offered.",
+      "title": "On Air Fest marks ten years; Musixmatch Podcasts to close",
+      "url": "https://podnews.net/update/onairfest-100"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-23",
+      "signal": 1,
+      "source": "Podnews",
+      "take": "A story from Tenderfoot TV's Radio Rental has been adapted as a brick animation on YouTube, timed with the new season starting 23 October. It is another example of audio-first fiction being given pictures afterwards.",
+      "title": "Horror podcast Radio Rental retold in LEGO on YouTube",
+      "url": "https://podnews.net/update/podcast-radio-rental-bricks"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-20",
+      "signal": 1,
+      "source": "Podcast News Daily",
+      "take": "In the awards' fifth year, entries in video categories nearly doubled. iHeartPodcasts was Company of the Year, Phoebe Judge receives the Audio Icon Award, and the ceremony is on 9 November in Brooklyn.",
+      "title": "Signal Awards 2026 winners announced",
+      "url": "https://www.podcastnewsdaily.com/news/signal-awards-names-2026-winners-as-video-podcasts-gain-ground/article_2bb251be-9e00-413a-a22c-8139fdc23e78.html"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-25",
+      "signal": 1,
+      "source": "Sound and Music",
+      "take": "Cryptic seeks emerging Scotland-based artists developing work built on original sound or music with performance, installation, screen or technology. The fee is £800 solo or up to £2,000 for groups, with up to two days of residency, mentoring and documentation. Deadline: 12 noon, 19 November 2026.",
+      "title": "Cryptic Nights 27/28, Glasgow (Scotland-based artists)",
+      "url": "https://soundandmusic.org/opportunities/listing/cryptic-nights-call-out-27-28/"
+    }
+  ],
+  "key": "2026-10-25",
+  "label": "Sun 25 Oct 2026",
+  "lead": "Sonic branding is moving into electric cars and physical rooms, with Ferrari's Luce and a custom piano for Danske Bank built from acoustic recordings. Audeze and Audiokinetic brought native head tracking into Wwise, making head-tracked spatial checks cheaper for games and installations. At KIKK in Namur, Martin Messier's water and strobe piece tied sound and image to one clock, and in Madagascar researchers counted endangered indri from their songs. Free tools kept coming: an Atmos Renderer bridge, Nord Modular emulations and a Serum-based firmware for the FM-1.",
+  "listen": {
+    "artist": "Bernard Parmegiani",
+    "url": "https://recollectiongrm.kudosrecords.co.uk/release/regrm009lp/bernard-parmegiani-de-natura-sonorum",
+    "why": "A suite of twelve movements in two series of six, made at the GRM in Paris and premiered at the Salle Wagram on 3 June 1975. The first series is built mainly from electronic sounds, with instrumental and occasional concrete material such as resonances, white noise and touched balloons, doumbeks and strings; the second draws mainly on concrete and electronic sources. Recollection GRM reissued all twelve movements on vinyl in 2019.",
+    "work": "De Natura Sonorum",
+    "year": "1975"
+  },
+  "photo": {
+    "alt": "The large pipes of a 32-foot Contre Bombarde, a bass reed stop of a pipe organ.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:32_foot_contre_bombarde.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/32_foot_contre_bombarde.jpg",
+    "title": "32 foot Contre Bombarde"
+  },
+  "poem": {
+    "author": "Robert Frost",
+    "lang": "English",
+    "note": "The closing poem of Frost's second collection, Mountain Interval (1916), where it appears under this title (it is often reprinted as 'The Sound of Trees'). The complete poem; it is in the public domain.",
+    "source": {
+      "label": "Project Gutenberg eBook #29345, Mountain Interval",
+      "url": "https://gutenberg.org/cache/epub/29345/pg29345-images.html"
+    },
+    "text": "I wonder about the trees.\nWhy do we wish to bear\nForever the noise of these\nMore than another noise\nSo close to our dwelling place?\nWe suffer them by the day\nTill we lose all measure of pace,\nAnd fixity in our joys,\nAnd acquire a listening air.\n\nThey are that that talks of going\nBut never gets away;\nAnd that talks no less for knowing,\nAs it grows wiser and older,\nThat now it means to stay.\n\nMy feet tug at the floor\nAnd my head sways to my shoulder\nSometimes when I watch trees sway,\nFrom the window or the door.\n\nI shall set forth for somewhere,\nI shall make the reckless choice\nSome day when they are in voice\nAnd tossing so as to scare\nThe white clouds over them on.\nI shall have less to say,\nBut I shall be gone.",
+    "title": "The Sound of the Trees",
+    "work": "Mountain Interval",
+    "year": "1916"
+  },
+  "radar": [
+    {
+      "date": "2026-11-07",
+      "note": "Barbican-commissioned surround-sound and laser performance at the Barbican Hall, London.",
+      "title": "Robert Henke, FIRST LIGHT",
+      "url": "https://www.barbican.org.uk/node/223616"
+    },
+    {
+      "date": "2026-11-20",
+      "note": "The 11th edition runs 20–23 November at MoN Takanawa: The Museum of Narratives.",
+      "title": "MUTEK.JP, Tokyo",
+      "url": "https://www.timeout.com/tokyo/news/sprawling-digital-art-music-and-tech-festival-mutek-is-returning-to-tokyo-in-november-091626"
+    },
+    {
+      "date": "2026-11-25",
+      "note": "Acousmatic and audiovisual works for REF – Resilience Festival, Foggia.",
+      "title": "MID SIDE call for works closes",
+      "url": "https://www.midside.it/callforworks2026"
+    },
+    {
+      "date": "2026-12-31",
+      "note": "Free to submit; festival 15–21 June 2027 in New York.",
+      "title": "NYCEMF 2027 submissions close",
+      "url": "https://nycemf.org/"
+    }
+  ],
+  "range": "20–25 Oct 2026",
+  "seed": {
+    "kind": "concept",
+    "note": "The missing fundamental, also called virtual pitch, is the perception of a pitch at the fundamental of a harmonic series even when that frequency is absent from the sound. It was once explained as distortion produced in the ear, but in 1954 J. C. R. Licklider showed that listeners still heard the pitch when masking noise hid any such distortion. The current view is that the brain computes the pitch from the overtones; how it does so is still debated, and sensitivity to the effect varies between listeners.\n\nThe effect is why a male voice with a fundamental around 150 Hz still sounds low on a telephone that cuts off below about 300 Hz. Some pipe organs use it as a resultant tone, so smaller bass pipes can give very low pitches. Bass processors such as Waves' MaxxBass, patented in 1999, synthesise higher harmonics so that small loudspeakers and earbuds suggest bass they cannot reproduce.",
+    "source": {
+      "label": "Wikipedia: Missing fundamental",
+      "url": "https://en.wikipedia.org/wiki/Missing_fundamental"
+    },
+    "text": "The missing fundamental"
+  }
+}

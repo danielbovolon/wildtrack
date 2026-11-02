@@ -1,0 +1,297 @@
+{
+  "crossover": {
+    "body": "In English change ringing, each row of bells is a permutation, so n bells give n! possible changes: 720 on six bells, 5040 on seven. Ringing every change exactly once is an extent; a full peal of at least 5000 changes takes about three hours. Fabian Stedman and Richard Duckworth set out rules for ringing changes in Tintinnalogia (1668), and Stedman followed with Campanalogia (1677). Mathematicians have since described ringing methods with group theory, since sets of permutations form groups.",
+    "field": "Mathematics",
+    "source": "Wikipedia",
+    "title": "Change ringing: permutations you can hear",
+    "url": "https://en.wikipedia.org/wiki/Change_ringing"
+  },
+  "generated": "2026-11-01T06:55:00+01:00",
+  "headline": "Voice actors win replica consent",
+  "items": [
+    {
+      "cat": "radio",
+      "date": "2026-10-29",
+      "deep": "The contracts set out how synthetic voices can be used in animation. A replica can only stand in for a human performer where it brings significant additional value, and dubbing a performance into another language with an actor's replica requires that actor's specific consent. If a producer licenses performances to an outside company to train a public, commercial generative AI system, it must tell the union and meet to discuss the licence, including payment to performers.\n\nFor anyone who casts, directs or edits voice work, these are now the clearest written terms on replicas and dubbing in US animation. They affect how sessions are booked, how recorded performances can be reused and what consent paperwork a production needs before audio leaves the studio.",
+      "free": false,
+      "signal": 3,
+      "source": "Voice Over Herald",
+      "take": "SAG-AFTRA members approved new TV and basic-cable animation contracts, with close to 95% voting yes. The deals run from July 2026 to June 2030 and raise minimums 3% a year, compounded. Using a digital replica to dub an actor into another language now needs their consent.",
+      "title": "Animation voice actors win AI replica rules",
+      "url": "https://www.voiceoverherald.com/sag-aftra-ratifies-tv-animation-contracts-ai-replica-dubbing-consent/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-29",
+      "deep": "Earth Species Project describes how the project finds rare wolf calls in a huge archive. Its NatureLM-audio-based encoder scored an F1 of 0.903 for howls and 0.981 for choruses, against 0.887 and 0.954 for Google DeepMind's Perch 2.0. Coyotes are the main source of false detections, and adding real-world negative examples cut false positives about fourteen-fold. Most howl sequences and choruses happen at night.\n\nFor field recordists running long unattended deployments, the project is a working example of the whole chain: recorder placement, hand labelling, detector training and honest benchmarking. The numbers also show how sparse a target sound can be in a soundscape and why negative examples matter as much as good ones.",
+      "free": false,
+      "signal": 3,
+      "source": "Earth Species Project",
+      "take": "The Cry Wolf Project records at 63 sites in Yellowstone, about 500,000 hours of sound a year, using tree-mounted recorders and collars on wolves. It has labelled 9,847 howls and 18 wolf sound types. Wolves call during only about 2% of the day.",
+      "title": "Listening to Yellowstone's wolves at scale",
+      "url": "https://earthspecies.org/2026/10/29/listening-to-the-wolves-of-yellowstone/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-30",
+      "deep": "The lowest supported device uses a Rockchip RK3326 with 1 GB of RAM. The system handles SD cards, networking, analog sticks and buttons, and supports MIDI 2.0 and USB networking, with a front-end app of the same name. Chad Beckwith (fisound) and herrprof (TOiVille) are also involved, and CDM stresses that it is not a Plogue product.\n\nIf it ships, it would give performers and field recordists a pocket-sized, battery-powered box that runs real plug-ins, including commercial ones, without a laptop. No release date has been given; updates are posted on the project's Bluesky account.",
+      "free": true,
+      "signal": 3,
+      "source": "CDM",
+      "take": "sndstation is an open-source Linux system for cheap game handhelds, around $40, that hosts CLAP plug-ins compiled for aarch64. Contributors include Audio Damage, Baconpaul of Surge and Plogue's David Viens. Nothing is downloadable yet.",
+      "title": "sndstation turns $40 handhelds into plug-in hosts",
+      "url": "https://cdm.link/sndstation-linux-distro-for-game-handhelds/"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-10-30",
+      "free": true,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Naman Soni's Infinite replaces tracks with nodes patched on a canvas. It has wavetable, FM, analog-style, granular and string-model synths, image, video and 3D tools that respond to audio, and a built-in language called Field. Free for macOS, Windows and Linux; the source is MIT, the default binary with VST3 hosting is GPLv3.",
+      "title": "Infinite: a free node-based audiovisual DAW",
+      "url": "https://www.synthtopia.com/content/2026/10/30/free-infinite-daw-combines-modular-synthesis-visuals-and-creative-coding/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-31",
+      "free": true,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Music Tribe has published the source for the IGNITE sequencer on GitHub under AGPLv3. It covers the main app, the audio engine, the hardware layer and a Buildroot Linux tree. It will not build as it stands: some third-party parts were removed and must be replaced.",
+      "title": "Behringer opens the IGNITE sequencer's code",
+      "url": "https://www.synthtopia.com/content/2026/10/31/behringer-ignite-sequencer-open-source-project-details-midi-cv-gate-internal-sound-engine/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-29",
+      "free": true,
+      "signal": 2,
+      "source": "Bedroom Producers Blog",
+      "take": "Free Decent Sampler 1.40.1 converts unprotected Kontakt 2–8 instruments, keeping mapping, round robins and envelopes but not scripts. A new Auto Sampler records a MIDI-controlled instrument, trims silence, finds loops and builds a preset. Auto Sampler runs only in the Mac and Windows standalone app.",
+      "title": "Decent Sampler imports Kontakt and samples hardware",
+      "url": "https://bedroomproducersblog.com/2026/10/29/decent-sampler-kontakt-import/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-29",
+      "free": false,
+      "signal": 2,
+      "source": "Bandcamp Daily",
+      "take": "An early-1980s cassette recorded in Addis Ababa on a Yamaha home organ with a built-in drum machine, brought in by a friend at the Saudi embassy. Makonnen recorded it the night he first played the instrument, in single improvised takes because tape was scarce under the Derg. Bandcamp Daily traces how he reworked traditional songs over a waltz pattern.",
+      "title": "Teodros Makonnen's one-night organ tape",
+      "url": "https://daily.bandcamp.com/features/teodros-makonnen-with-his-organ-feature"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-10-30",
+      "free": false,
+      "signal": 2,
+      "source": "CreativeApplications.Net",
+      "take": "Soft Cinema 2 is a new generative system that remakes Manovich's 2002 project: films are assembled in real time from a database with rules and controlled randomness, in split screens. The narrative is fixed in 28 parts, and Manovich chose the music himself. It was shown at Responsive Dreams in Catalonia.",
+      "title": "Lev Manovich rebuilds Soft Cinema",
+      "url": "https://www.creativeapplications.net/project/soft-cinema-2-interview-with-lev-manovich-at-responsive-dreams-2026/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-28",
+      "free": false,
+      "signal": 2,
+      "source": "Bioengineer.org",
+      "take": "A Curtin University study in Royal Society Open Science found pygmy blue whales in the Perth Canyon sang more at night than by day for up to three months, because they feed mostly in daylight. The authors say day-night differences in song could show when and where whales are feeding over large areas.",
+      "title": "Pygmy blue whales sing more at night",
+      "url": "https://bioengineer.org/pygmy-blue-whales-sing-less-by-day-while-feeding-study-finds/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-30",
+      "free": false,
+      "signal": 2,
+      "source": "CTV News",
+      "take": "After the humpback known as Notcho was found dead and believed struck by a ferry, BC Ferries committed to cutting the underwater noise from its operations by 50% over the next decade. It is a concrete target in a policy area acoustic ecologists have long pushed on.",
+      "title": "BC Ferries pledges to halve underwater noise",
+      "url": "https://www.ctvnews.ca/vancouver/vancouver-island/article/after-humpback-whale-death-bc-ferries-aims-to-cut-underwater-noise-by-50-per-cent/"
+    },
+    {
+      "cat": "games",
+      "date": "2026-10-26",
+      "free": true,
+      "signal": 2,
+      "source": "A Sound Effect",
+      "take": "A two-hour Audio Logs episode with BULKHEAD audio director Sean Garavan and Albin Jansson of SweejTech covers Unreal Engine 5 audio in a shooter. Topics include HDR and 3D audio, bullet speed versus the speed of sound, proximity chat, mix states and rain and footstep systems.",
+      "title": "Inside the audio of WARDOGS",
+      "url": "https://www.asoundeffect.com/wardogs-game-audio/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-01",
+      "free": false,
+      "signal": 2,
+      "source": "MID SIDE",
+      "take": "Empirica and MID SIDE invite acousmatic works (stereo or multichannel) and audiovisual works up to 20 minutes for the listening room at REF Resilience Festival in Foggia, 27–30 December 2026. The fee is €15 per work, open to any age and nationality. Deadline 25 November 2026, 23:59 CET.",
+      "title": "REF Foggia call for acousmatic works: 25 Nov",
+      "url": "https://www.midside.it/callforworks2026"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-30",
+      "free": false,
+      "signal": 1,
+      "source": "Aurahear",
+      "take": "Asolo Repertory Theatre in Sarasota is testing Auracast broadcast audio in its Cook Theatre through November, alongside its hearing loop. Patrons with Auracast hearing aids get 20% off, and a survey will decide whether it stays.",
+      "title": "A theatre pilots Auracast next to its loop",
+      "url": "https://aurahear.com/2026/10/asolo-repertory-theatre-auracast-pilot-florida"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-25",
+      "free": false,
+      "signal": 1,
+      "source": "The Portugal News",
+      "take": "Innsbruck-based MED-EL has launched TICI UNICO, a cochlear implant with an internal microphone and rechargeable battery and no external parts. Two patients in Austria received it outside clinical trials on 29 September. Larger long-term studies are still needed.",
+      "title": "MED-EL's fully implanted cochlear implant",
+      "url": "https://theportugalnews.com/news/2026-10-25/worlds-first-invisible-hearing-implant-launched/1104740"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-30",
+      "free": false,
+      "signal": 1,
+      "source": "CDM",
+      "take": "A plug-in filter modelled with deliberately miswired connections. Version 3 adds a second bend mode with heavier bass, 4x oversampling, an input gate, a multimode filter and two through-zero LFOs. Runs on macOS, Windows and Linux.",
+      "title": "Sinevibes Malfunction v3 bends a filter",
+      "url": "https://cdm.link/sinevibes-malfunction-v3/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-29",
+      "free": false,
+      "signal": 1,
+      "source": "CDM",
+      "take": "Liquid Sky's update to Zen Delay adds a modelled spring reverb with tension control. REGEN feeds the tank into itself for ringing drones, STRIKE knocks it, and a DUB mode throws echoes only while held. Both can be mapped to MIDI for live playing.",
+      "title": "XEN FX LAB: a spring tank you can strike",
+      "url": "https://cdm.link/xen-fx-lab/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-30",
+      "free": false,
+      "signal": 1,
+      "source": "Noizefield",
+      "take": "Thermo3 is a cybernetic feedback instrument plug-in for macOS and Windows. New are up to 16x oversampling, stereo or four mono outputs, new transfer functions and an independent thermal stage. £99, or £17 to upgrade from Thermo2.",
+      "title": "sonicLAB Thermo3 feedback instrument",
+      "url": "https://www.noizefield.com/news/soniclab-thermo3-cybernetic-feedback-instrument-released"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-31",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "StageBox Software's Voiks is modelled on Yamaha's VSS-30. It records up to 30 seconds through the sidechain or from dropped files, with loop, back-and-forth and reverse playback and controls for mic colour, sample rate and bit depth. Free, with an email sign-up.",
+      "title": "Voiks: a free toy-keyboard sampler",
+      "url": "https://bedroomproducersblog.com/2026/10/31/stagebox-software-voiks/"
+    },
+    {
+      "cat": "design",
+      "date": "2026-10-31",
+      "free": false,
+      "signal": 1,
+      "source": "Sound On Sound",
+      "take": "The UK company plays binaural audio over loudspeakers and already ships in Razer, Dell and Acer devices. It is working with engineer Natalya Mamcarczyk to bring binaural into early production, and describes a device that needs no multi-speaker setup or complex calibration.",
+      "title": "Audioscenic brings binaural to production",
+      "url": "https://www.soundonsound.com/news/audioscenic-binaural-technology-update"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-25",
+      "free": true,
+      "signal": 1,
+      "source": "Tonebenders",
+      "take": "Supervising sound editors and re-recording mixers Steve Giammaria and Nicholas Renbeck discuss the Friday the 13th prequel series. They talk about honouring the original films and moving between drama, horror and comedy with sound.",
+      "title": "Tonebenders on the sound of Crystal Lake",
+      "url": "https://tonebenderspodcast.com/381-crystal-lake/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-12",
+      "free": true,
+      "signal": 1,
+      "source": "Cities and Memory",
+      "take": "Choose one of about 200 field recordings from the archive and make a reimagined piece of 2–20 minutes that includes the original. AI is not allowed in the composition or the text. Deadline 13 December 2026.",
+      "title": "Cities and Memory autumn project: 13 Dec",
+      "url": "https://citiesandmemory.com/2026/10/autumn-project-2026/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-01",
+      "free": false,
+      "signal": 1,
+      "source": "NYCEMF",
+      "take": "The New York City Electroacoustic Music Festival, 15–21 June 2027, accepts fixed media up to 16 channels, live electronics, video, installations and papers. Submission is free; accepted works pay a registration fee. Deadline 31 December 2026.",
+      "title": "NYCEMF 2027 call: 31 Dec",
+      "url": "https://nycemf.org/"
+    }
+  ],
+  "key": "2026-11-01",
+  "label": "Sun 1 Nov 2026",
+  "lead": "SAG-AFTRA members ratified new animation contracts that require an actor's consent before a digital replica dubs their voice into another language. Earth Species Project published results from listening to Yellowstone's wolves with a large recorder network and open benchmarks. A group of plug-in developers showed sndstation, an open Linux system that turns cheap game handhelds into CLAP plug-in hosts. Behringer published the source code for its IGNITE sequencer, and two new open calls for electroacoustic and field-recording work opened in Italy and online.",
+  "listen": {
+    "artist": "Jonathan Harvey",
+    "url": "https://en.wikipedia.org/wiki/Mortuos_Plango,_Vivos_Voco",
+    "why": "An eight-track tape piece commissioned by the Centre Georges Pompidou and realised at IRCAM, built from two recordings: the great tenor bell of Winchester Cathedral and the voice of Harvey's son Dominic, a chorister there. Working with Stanley Haynes and Xavier Rodet, Harvey analysed and transformed the sounds in Music V. Its eight sections are each based on one of the bell's eight lowest partials, and the text comes from the bell's inscription.",
+    "work": "Mortuos Plango, Vivos Voco",
+    "year": "1980"
+  },
+  "photo": {
+    "alt": "The bell chamber (cella campanaria) of the church of San Rocco in Gabbiolo, where the bells hang.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Gabbiolo,_chiesa_di_San_Rocco_-_Cella_campanaria.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Gabbiolo,_chiesa_di_San_Rocco_-_Cella_campanaria.jpg",
+    "title": "Gabbiolo, church of San Rocco: the bell chamber"
+  },
+  "poem": {
+    "author": "Edgar Allan Poe",
+    "lang": "English",
+    "note": "Section I of four. Poe is believed to have written the poem in May 1848; it was published after his death, in the November 1849 issue of Sartain's Union Magazine. Public domain; text from the Poe Society of Baltimore's reading text based on the Sartain's printing.",
+    "source": {
+      "label": "Edgar Allan Poe Society of Baltimore",
+      "url": "https://eapoe.org/WORKS/reading/pp092r1.htm"
+    },
+    "text": "Hear the sledges with the bells —\nSilver bells!\nWhat a world of merriment their melody foretells!\nHow they tinkle, tinkle, tinkle,\nIn the icy air of night!\nWhile the stars that oversprinkle\nAll the heavens, seem to twinkle\nWith a crystalline delight;\nKeeping time, time, time,\nIn a sort of Runic rhyme,\nTo the tintinnabulation that so musically wells\nFrom the bells, bells, bells, bells,\nBells, bells, bells —\nFrom the jingling and the tinkling of the bells.",
+    "title": "The Bells (I)",
+    "work": "Sartain's Union Magazine",
+    "year": "1849"
+  },
+  "radar": [
+    {
+      "date": "2026-11-25",
+      "note": "Acousmatic and audiovisual works for the REF listening room, 23:59 CET.",
+      "title": "REF Foggia call closes",
+      "url": "https://www.midside.it/callforworks2026"
+    },
+    {
+      "note": "Bronze bells play a change-ringing score by Lily Pickett in the London gallery; free entry.",
+      "title": "Justin Caguiat: Change Ringing, Serpentine South",
+      "url": "https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/",
+      "when": "Until 10 Jan 2027"
+    },
+    {
+      "note": "This edition's theme is Process...ing, with Kali Malone and Kaitlyn Aurelia Smith among the first names.",
+      "title": "CTM Festival, Berlin",
+      "url": "https://ra.co/news/86029",
+      "when": "22–31 Jan 2027"
+    }
+  ],
+  "range": "25 October – 1 November 2026",
+  "seed": {
+    "kind": "word",
+    "lang": "Italian",
+    "note": "A masculine noun that Treccani defines as an insistent, prolonged ringing of bells. It derives from the verb scampanare, built on campana (bell) with the prefix s-; scampanare means to ring the bells a distesa, in full swing.\n\nThe Treccani entry cites Manzoni for the word, and the verb has a second, visual sense: a skirt or cape that flares into a bell shape is said to scampanare.",
+    "source": {
+      "label": "Treccani, Vocabolario: scampanìo",
+      "url": "https://www.treccani.it/vocabolario/scampanio/"
+    },
+    "text": "scampanìo"
+  }
+}

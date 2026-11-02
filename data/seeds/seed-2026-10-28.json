@@ -1,0 +1,265 @@
+{
+  "crossover": {
+    "body": "For Synchromy (1971, National Film Board of Canada, about seven and a half minutes), the animator Norman McLaren photographed cards printed with rectangles and lines directly onto the film's optical soundtrack area, arranging them in sequences that played back as notes and chords. He then copied the same shapes, in colour, into the picture area, so the image on screen is the sound being heard.",
+    "field": "Animation",
+    "source": "Wikipedia: Synchromy",
+    "title": "Norman McLaren draws the soundtrack he shows",
+    "url": "https://en.wikipedia.org/wiki/Synchromy"
+  },
+  "generated": "2026-10-28T07:05:00+01:00",
+  "headline": "Sónar declares itself dead",
+  "items": [
+    {
+      "cat": "art",
+      "date": "2026-10-27",
+      "deep": "Sónar has been owned since the KKR-backed Superstruct group took control, and its founders left in October 2025 after more than 30 years; François Jozic is now CEO. Sónar claims 150,000 visitors in 2026, down from a claimed 161,000 in 2025, though neither figure is independently verified. Shawn Reynaldo's First Floor reads the announcement as the opening of a marketing campaign for a renamed 2027 edition, but that is speculation.\n\nFor creative audio people the real question is Sónar+D, the conference strand on music technology, creative coding and AV that has been one of Europe's main meeting points for the field and one of the festival's routes to public funding. With its two curators gone and no programme statement, its shape for 2027 is unknown. The festival has promised to say more in the coming days.",
+      "signal": 3,
+      "source": "First Floor",
+      "take": "Barcelona's Sónar replaced its website and Instagram with the message that the festival had died, ran an obituary ad in La Vanguardia and opened an online condolence book. Organisers neither confirmed nor denied that a relaunch is coming. The move follows the departure of Sónar+D's Antònia Folguera and Andrea Faroppa earlier in October.",
+      "title": "Sónar posts its own obituary",
+      "url": "https://firstfloor.substack.com/p/sonar-is-dead-maybe"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-27",
+      "deep": "The meter follows the LMMG Dialog Intelligibility Implementation Agreement, a shared framework from NUGEN Audio, RTW, Steinberg and Telos Alliance developed with Fraunhofer IDMT, so readings should match other compliant meters further down the delivery chain. Thresholds for the yellow and red bands can be set to a broadcaster's spec, and loudness can be gated on programme or on dialogue.\n\nThe suggested fix for red sections is usually to lower music and effects under the dialogue rather than push the voice up, then re-run the analysis and recheck loudness. For sound designers this matters because effects and music beds are what get pulled down: once intelligibility becomes a number in a delivery spec, dense textures under speech will be measured, not just argued about in the mix room.",
+      "signal": 3,
+      "source": "Production Expert",
+      "take": "Nuendo 15's Analyzer Track measures dialogue intelligibility in DIU, a 0–100 scale based on Fraunhofer IDMT research, alongside loudness and true peak. Problem passages show as green, yellow and red blocks on the timeline, and Quick Analysis runs faster than real time. Production Expert walks through a full mixing workflow.",
+      "title": "Mixing to an intelligibility target in Nuendo 15",
+      "url": "https://www.production-expert.com/production-expert-1/mixing-to-a-dialogue-intelligibility-target-with-nuendo-15s-analyzer-track"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-25",
+      "deep": "Lužní techno, made for Czech Radio Vltava with musician Tomáš Šenkyřík and his son Prokop, turns field recordings of the floodplain forests into electronic music, a documentary form that sits between nature radio and composition. In the documentary category, first prize went to Ridina Ahmedová's Sama sebe jsem se bála (Czech Radio Plus).\n\nThe podcast category was won by Artur Janoušek's Systém Kaderka (Radiožurnál), and the audience award went to Ptačí řeči, a nature podcast from the Czech Society for Ornithology. The ceremony was broadcast live on Vltava. Prix Bohemia is one of the longer-running festivals for radio drama and documentary in Central Europe, and its winners are a useful listening list for anyone working in audio storytelling.",
+      "signal": 3,
+      "source": "Médiář",
+      "take": "The 42nd Prix Bohemia Radio in Olomouc chose from 167 entries and 37 finalists. Jiří Havelka's Tragédie Liblice (Czech Radio Vltava) won drama, and Antoni Rokicki's Poslední akce (Polish Radio) won reportage. Martina Pouchlá's Lužní techno, built from the sounds of Moravian floodplain forests, took second in documentary and the student prize.",
+      "title": "Prix Bohemia Radio 2026: floodplain techno and radio history",
+      "url": "https://www.mediar.cz/tragedie-liblice-kaderka-ptaci-polsky-hasic-prix-bohemia-radio-zna-nejlepsi-audia-roku/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-26",
+      "deep": "Virant first saw a tape-loop chanting device in a temple in the 1980s and a digital one in 1991. He showed the first prototype to Brian Eno in Beijing in March 2005; Eno asked for four units and passed the device on to others, including David Byrne. Production later reached about 2,000 units a week, the casing came out red by a manufacturing quirk, and Throbbing Gristle, Cornelius and Philip Glass commissioned their own editions.\n\nThe piece is a good history of a deliberately limited instrument: a few loops, a pitch control, a volume wheel and a small speaker. Listeners built installations from many units playing at once, and Virant says the design is returning to a single on-off volume wheel. Covid stopped production for several years.",
+      "signal": 3,
+      "source": "Bandcamp Daily",
+      "take": "Bandcamp Daily tells the story of FM3's Buddha Machine, the loop player Christiaan Virant and Zhang Jian adapted from the Taiwanese digital chanting devices handed out at Chinese temples. The first order was 500 units, funded with a loan from a friend. New units are now coming back through independent record shops.",
+      "title": "How the Buddha Machine was born",
+      "url": "https://daily.bandcamp.com/features/the-buddha-machine-feature"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-25",
+      "signal": 2,
+      "source": "Bioengineer.org",
+      "take": "A study in Ecology and Evolution presents MC-RemixIT, a self-supervised source-separation method trained on noisy field recordings without clean reference calls. It was tested on the critically endangered Hainan gibbon at Bawangling, China. Feeding the separated audio to call detectors raised ResNet50 accuracy from 80.6% to 90.8%.",
+      "title": "Separating Hainan gibbon calls from rainforest noise",
+      "url": "https://bioengineer.org/self-teaching-ai-untangles-critically-endangered-gibbon-calls-from-rainforest-noise/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-23",
+      "free": true,
+      "signal": 2,
+      "source": "MDPI Machine Learning and Knowledge Extraction",
+      "take": "Gabriel Marín Díaz groups Planck polarisation maps of the cosmic microwave background into four region types with fuzzy clustering, then maps them to sound. The open-access paper comes with 12 WAV files and the Python notebook. The author notes that how well listeners perceive the differences has not been formally tested.",
+      "title": "Sonifying the cosmic microwave background, WAVs included",
+      "url": "https://mdpi.com/2504-4990/8/11/347"
+    },
+    {
+      "cat": "space",
+      "date": "2026-10-27",
+      "signal": 2,
+      "source": "ABC News",
+      "take": "Cobar High School students performed with the Noise String Quartet and didgeridoo player Xander Jeffery inside the Cobar Sound Chapel, a 125-year-old water tank turned into a permanent sound installation in 2022 by composer Georges Lentz and architect Glenn Murcutt. In a workshop led by composer Jim Coyle, the students used sticks, stones and branches and learned how sound behaves in the tank.",
+      "title": "Students play the Cobar Sound Chapel",
+      "url": "https://www.abc.net.au/news/2026-10-27/cobar-high-school-students-perform-in-cobar-sound-chapel/107288604"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-10-26",
+      "signal": 2,
+      "source": "KVR Audio",
+      "take": "AcusMagic's Figura plug-in draws real-time cymatics from the audio passing through it, in three modes: Sand (Chladni plate patterns), Liquid (Faraday waves) and Lissajous. It exports stills up to 4096 px and 4K video with audio, and a Live version adds a projection window. Studio costs €59, Live €75, with a free demo.",
+      "title": "Figura: Chladni and Faraday patterns from any track",
+      "url": "https://www.kvraudio.com/news/acusmagic-releases-figura-a-real-time-cymatics-visualizer-plugin-69444"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-27",
+      "signal": 2,
+      "source": "CDM",
+      "take": "Peter Kirn talks to designer Hannah Lockwood and Absynth creator Brian Clevinger about the 6.2 update, which adds a per-channel Focus Mode, reusable sub-presets and MPE indicators. Their argument is that features that are hard to reach get used less, so the interface decides which sounds people actually make.",
+      "title": "Absynth 6.2 and the cost of interface friction",
+      "url": "https://cdm.link/inside-ni-absynth-6-2/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-22",
+      "signal": 2,
+      "source": "iHeart",
+      "take": "Scott Derrickson and C. Robert Cargill's nine-part audio drama plays out in real time as a fictional late-night call-in show, with strange signals hidden in the static. Ethan Hawke leads a cast including Vincent D'Onofrio and Willa Fitzgerald. New episodes arrive every Thursday through iHeartPodcasts.",
+      "title": "Midnight Radio: horror told as a live AM call-in show",
+      "url": "https://www.iheart.com/podcast/1119-13-days-of-halloween-72473749/episode/introducing-midnight-radio-a-new-horror-348153452/"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-26",
+      "signal": 2,
+      "source": "WOSU",
+      "take": "The Worthington Chamber Orchestra in Ohio now offers torso haptic vests for Deaf, hard-of-hearing and DeafBlind listeners at all its Masterworks concerts, with live projections by Lightware Labs. The next is Beethoven's Seventh on 8 November; a multisensory project with the Ohio School for the Deaf follows in April 2027.",
+      "title": "Haptic vests at every concert of a chamber orchestra",
+      "url": "https://www.wosu.org/2026-10-26/local-orchestra-makes-concerts-accessible-to-deaf-hard-of-hearing-and-deafblind-community"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-05",
+      "signal": 2,
+      "source": "Sound and Music",
+      "take": "An 18-month development programme (April 2027 to October 2028) for up to ten UK-based music creators of any genre, including sound art and installation. It pays a £1,800 bursary plus a production grant of up to £4,000, with mentoring. Deadline: Monday 2 November 2026, 23:59 GMT.",
+      "title": "Sound and Music In Motion 2027: deadline 2 November",
+      "url": "https://soundandmusic.org/opportunities/listing/in-motion-2027/"
+    },
+    {
+      "cat": "games",
+      "date": "2026-10-25",
+      "signal": 1,
+      "source": "Tech Insider",
+      "take": "At a GameSoundCon session in Burbank on 21 October, Valve composer Mike Morasky said Deadlock and an unannounced project called HLX each have their own version of HDR audio, the runtime system that decides which sounds are heard most clearly. The remark set off Half-Life speculation, but the craft point is that Valve retunes its mix prioritisation per project.",
+      "title": "Valve tunes its HDR audio for each game",
+      "url": "https://tech-insider.org/valve-hlx-half-life-3-morasky-gamesoundcon-2026/"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-26",
+      "signal": 1,
+      "source": "Production Expert",
+      "take": "Bramley Pips' toolkit keeps a PDF ADR cue sheet and Pro Tools clip groups in sync in both directions. It also scrolls the script from a transcription of the guide track and reads handwritten notes from scanned cue sheets next to each take. Launch pricing is £150 for Basic and £300 for Pro, excluding tax.",
+      "title": "BAT ADR Toolkit ties cue sheets to Pro Tools",
+      "url": "https://www.production-expert.com/production-expert-1/bat-adr-toolkit-links-pro-tools-clip-groups-to-a-live-cue-sheet"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-27",
+      "signal": 1,
+      "source": "Production Expert",
+      "take": "From the TONSTURM team, Melted Sounds' Spectral Warp moves input frequencies to new positions along a breakpoint map you draw, so different parts of the spectrum shift by different amounts. Snapshots can be morphed and modulated by LFOs or an envelope follower. $79 until 10 November, then $119.",
+      "title": "Spectral Warp remaps frequencies along a drawn curve",
+      "url": "https://www.production-expert.com/production-expert-1/melted-sounds-spectral-warp-remaps-frequencies-for-sound-design"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-27",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "Born Second's plug-in is modelled on the Old Blood Noise BL-44 Reverse pedal. Clock sets the length and tone of each reversed fragment and Speed shifts pitch in octave steps. Free with an email address.",
+      "title": "TimeTravel: a free reverse delay for Mac, Windows and Linux",
+      "url": "https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-27",
+      "signal": 1,
+      "source": "Gearnews",
+      "take": "A 16-track Eurorack sequencer, synth and sample player with stochastic and Euclidean modes, eight CV/gate output pairs, six CV inputs and 16 internal modulators. Its CV outputs can also carry audio. Listed at €629.",
+      "title": "Befaco and Tesseract's ARK sequencer ships",
+      "url": "https://www.gearnews.com/befaco-x-tesseract-ark-sequencer/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-27",
+      "signal": 1,
+      "source": "Gearnews",
+      "take": "Tracktion's assistant now generates DSP code in the open Cmajor language from a text prompt, compiles it and places it on a track, regenerating code that fails. AI profiles let it run locally without a cloud key. The update is free for Waveform Pro 14 users.",
+      "title": "Waveform Pro 14.1 writes plug-ins from a description",
+      "url": "https://www.gearnews.com/tracktion-waveform-pro-studio/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-28",
+      "signal": 1,
+      "source": "Est-Nord-Est",
+      "take": "Eight-week residencies at Saint-Jean-Port-Joli in 2027–28 with a CAD $2,080 honorarium, studio and lodging; travel is not covered. The regular programme is for visual artists, while the summer 2027 session, on the living world, is open to music and interdisciplinary practice, with priority for artists of African descent. Deadline: 8 November 2026, 11:59 p.m.",
+      "title": "Est-Nord-Est residencies in Québec: deadline 8 November",
+      "url": "https://estnordest.org/en/artist-residency/artist-residency-regular/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-22",
+      "signal": 1,
+      "source": "e-flux",
+      "take": "An applied-research programme from January to July 2027 with weekly online sessions and three in-person meetings, organised with the Museo Thyssen-Bornemisza. One of the three case studies is called Radical Soundness. Tuition is €550, with grants available.",
+      "title": "TBA21–Academy Organismo 2027: register by 15 November",
+      "url": "https://www.e-flux.com/announcements/6788378/open-call-organismo-2027"
+    }
+  ],
+  "key": "2026-10-28",
+  "label": "Wed 28 Oct 2026",
+  "lead": "Sónar announced its own death with a print obituary and a condolence book, without saying whether a relaunch follows; it comes weeks after two key Sónar+D curators left. Prix Bohemia Radio named its 2026 winners, including a documentary that turns floodplain-forest sounds into techno. Nuendo 15 now scores dialogue intelligibility on the timeline, and Bandcamp Daily traced how a Chinese chanting box became the Buddha Machine. Bioacoustics brought a self-supervised method for separating Hainan gibbon calls from rainforest noise.",
+  "listen": {
+    "artist": "Hildegard Westerkamp",
+    "url": "https://www.isea-symposium-archives.org/?p=38855",
+    "why": "A soundscape composition built from a recording made on a calm winter morning at Kits Beach in Vancouver, with waves and the tiny sounds of limpets feeding. Westerkamp's live and recorded voice guides the listener away from the city and towards the high-frequency world of the shoreline. The piece grew out of her radio programme Sound Walking; she worked with R. Murray Schafer on the World Soundscape Project at Simon Fraser University from 1973 to 1980.",
+    "work": "Kits Beach Soundwalk",
+    "year": "1989"
+  },
+  "photo": {
+    "alt": "A Chladni plate from the Matemateca collection of mathematical objects at the Institute of Mathematics and Statistics, University of São Paulo.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Chladni_plate_10.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Chladni_plate_10.jpg",
+    "title": "Chladni plate, Matemateca collection (IME-USP)"
+  },
+  "poem": {
+    "author": "Rainer Maria Rilke",
+    "lang": "German",
+    "note": "The first sonnet of the cycle, written in February 1922 at Muzot and published by Insel-Verlag, Leipzig, in 1923. Rilke died in 1926, so the text is in the public domain; it follows the Project Gutenberg Australia transcription of the 1923 edition, with one typing error in the first line ('Übersteigüng') corrected.",
+    "source": {
+      "label": "Project Gutenberg Australia: Die Sonette an Orpheus",
+      "url": "https://gutenberg.net.au/ebooks10/1000531h.html"
+    },
+    "text": "Da stieg ein Baum. O reine Übersteigung!\nO Orpheus singt! O hoher Baum im Ohr!\nUnd alles schwieg. Doch selbst in der Verschweigung\nging neuer Anfang, Wink und Wandlung vor.\n\nTiere aus Stille drangen aus dem klaren\ngelösten Wald von Lager und Genist;\nund da ergab sich, dass sie nicht aus List\nund nicht aus Angst in sich so leise waren,\n\nsondern aus Hören. Brüllen, Schrei, Geröhr\nschien klein in ihren Herzen. Und wo eben\nkaum eine Hütte war, dies zu empfangen,\n\nein Unterschlupf aus dunkelstem Verlangen\nmit einem Zugang, dessen Pfosten beben,—\nda schufst du ihnen Tempel im Gehör.",
+    "title": "Die Sonette an Orpheus, Erster Teil, I",
+    "work": "Die Sonette an Orpheus. Geschrieben als ein Grab-Mal für Wera Ouckama Knoop",
+    "year": "1923"
+  },
+  "radar": [
+    {
+      "date": "2026-10-29",
+      "note": "Radio and transmitter-based sound sculptures from Urstad's archive, opening with Ekko festival and running to 12 December.",
+      "title": "Maia Urstad: Tidslommer, Lydgalleriet Bergen",
+      "url": "https://www.lydgalleriet.no/archive/tidslommer"
+    },
+    {
+      "date": "2026-11-08",
+      "note": "Applications for 2027–28 eight-week residencies in Québec close at 11:59 p.m.",
+      "title": "Est-Nord-Est residency deadline",
+      "url": "https://estnordest.org/en/artist-residency/artist-residency-regular/"
+    },
+    {
+      "date": "2026-11-26",
+      "note": "An immersive audiovisual installation built on Soundwalk's field recordings, with Fondation Cartier, until 7 March 2027.",
+      "title": "Soundwalk Collective & Patti Smith: Correspondences, Triennale Milano",
+      "url": "https://triennale.org/en/events/correspondences-soundwalk-patti-smith"
+    },
+    {
+      "note": "This edition's theme is »Process...ing«; first names include Kali Malone and Kaitlyn Aurelia Smith.",
+      "title": "CTM Festival 2027, Berlin",
+      "url": "https://www.ctm-festival.de/festival-2027/welcome",
+      "when": "22–31 Jan 2027"
+    }
+  ],
+  "range": "21–28 October 2026",
+  "seed": {
+    "kind": "concept",
+    "note": "Chladni figures are the patterns that appear when a thin plate, usually metal, is sprinkled with sand and made to vibrate in one of its natural modes. The vibrating areas throw the sand off, and it collects along the nodal lines, where the plate stays still. Each pattern is a picture of one mode, and which patterns appear depends on the plate's shape, how it is held and the frequency that drives it.\n\nThe German physicist and musician Ernst Chladni described the technique in 1787 in Entdeckungen über die Theorie des Klanges, bowing the edge of sand-covered plates with a violin bow. In 1808 he showed the figures at the Paris Academy, and Napoleon set a prize for a mathematical explanation; Sophie Germain's entry was the only one with the right approach. Today a loudspeaker and signal generator usually replace the bow, and the method is still used to tune the tops of violins, guitars and cellos.",
+    "source": {
+      "label": "Wikipedia: Ernst Chladni",
+      "url": "https://en.wikipedia.org/wiki/Ernst_Chladni"
+    },
+    "text": "Chladni figures"
+  }
+}

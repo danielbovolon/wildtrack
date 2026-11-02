@@ -1,0 +1,310 @@
+{
+  "crossover": {
+    "body": "In 1816 at the Hôpital Necker in Paris, René Laennec rolled a quire of paper into a tube to listen to a patient's heart, remembering that a pin scratch is clearly heard through a length of wood. The heart sounded clearer than with his ear on the chest. He developed the tube into the stethoscope, called the method mediate auscultation, and in his 1819 treatise De l'auscultation médiate was the first to classify chest sounds such as rales, rhonchi, crepitance and egophony: diagnosis by a vocabulary of listening.",
+    "field": "Medicine",
+    "source": "Wikipedia: René Laennec",
+    "title": "Laennec and mediate auscultation",
+    "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Laennec"
+  },
+  "generated": "2026-10-24T07:30:00+02:00",
+  "headline": "Listening to data and whales",
+  "items": [
+    {
+      "cat": "tools",
+      "date": "2026-10-23",
+      "deep": "Built-in sources cover weather, ocean, space, biodiversity, economics and sustainability data, and the plugins can also turn spreadsheets, images, text, audio, video, typed numbers and hand-drawn shapes into material. Data Synth reads data as waveforms or partials, Data FX uses it to drive effect parameters, and Data Path plays it out as MIDI with Euclidean patterns and Scala tunings. There are 47 generative maths algorithms, and Data Tap streams phone motion, touch, camera and GPS over OSC.\n\nSonification has mostly needed custom Max, Pd or Python code. Putting it into ordinary plugins means a recordist can pair a field recording with the weather or tide data from the same place inside any DAW. Individual plugins cost $49–$99, Data Tap is free, and the tools are screen-reader accessible.",
+      "free": false,
+      "signal": 3,
+      "source": "KVR Audio",
+      "take": "Manifest Audio's Sonification Tools now run as AU, VST3 and CLAP plugins on macOS, Windows and Linux, not only inside Ableton Live. The bundle has Data Synth, Data FX and Data Path, plus a Live extension and an iPhone sensor app. It is $169 at the introductory price until 8 November.",
+      "title": "Sonification Tools v3 leaves Max for Live",
+      "url": "https://www.kvraudio.com/news/manifest-audio-release-sonification-tools-v3---turning-real-world-data-into-synthesis-sequences-and-effects-vst3-au-clap-for-macos-windows-69277"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-22",
+      "deep": "The team tags whales with suction-cup biologgers that log depth, movement and heart rate, and records them with hydrophones from boats, with gliders in development. Machine learning detects and sorts the clicks and separates which whale is vocalising; biologists check the annotations, and the acoustic data is matched against behaviour. Giovanni Petri of Northeastern University London is one of the lead researchers.\n\nThe article stresses that the work is early and that no coda has been decoded. What it shows is a method: sound treated as structured data tied to what the animal does next. For anyone recording underwater, it is a reminder of how much depends on the metadata recorded alongside the audio.",
+      "free": false,
+      "signal": 3,
+      "source": "Northeastern Global News",
+      "take": "Project CETI researchers working off Dominica report that a run of about eight to ten codas, the rhythmic click patterns of sperm whales, can predict whether a whale is about to start a deep foraging dive. They have also identified two vowel-like sound types whose meanings are unknown.",
+      "title": "Whale codas that predict a dive",
+      "url": "https://news.northeastern.edu/2026/10/22/how-to-speak-whale/"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-24",
+      "deep": "The work sets Ray Bradbury's science fiction against silent film from the Prelinger Archives, shot by foreign travellers in the 1950s and 1960s. Topographic drawings layer Tséyiʼ (Canyon de Chelly) over Valles Marineris on Mars. The piece deals with how territories are renamed and seen by outsiders.\n\nChacon is a composer who won the Pulitzer Prize for music, and here the sound is the part he made himself, while the images are found. It is a useful case of field recording and electronics used to re-read archival footage across seven screens rather than to illustrate it. Entry is included in general admission.",
+      "free": false,
+      "signal": 3,
+      "source": "SFMOMA",
+      "take": "Composer Raven Chacon's first West Coast solo show opens at SFMOMA today and runs until 7 November 2027. Its centrepiece is The Naming of Names, a new seven-channel video installation with a soundtrack of his field recordings and electronic music.",
+      "title": "Raven Chacon's The Naming of Names at SFMOMA",
+      "url": "https://www.sfmoma.org/exhibition/new-work-raven-chacon/"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-21",
+      "deep": "Only control data crossed the internet. An SSL System T flypack at the cathedral, with two redundant engines, handled about 120 inputs at 96 kHz, and the link used roughly 40 Mbps. Five connections were available as backup: the venue's internet, two bonded Starlink terminals and two 4G boosters. Producer Antony Shaw of Spiritland put the delay between fader and ear at 30–40 ms.\n\nThe set-up keeps the audio local and moves only the mixer's controls, which avoids the cost of an outside-broadcast truck. For live score recordings in churches or other awkward spaces, it shows that the mix engineer no longer has to be in the building.",
+      "free": false,
+      "signal": 3,
+      "source": "Mix",
+      "take": "Max Richter performed his Hamnet score with an orchestra and the Tenebrae choir at Southwark Cathedral, while engineer Rupert Coulson mixed it from an SSL control surface at Abbey Road, where the stereo master was cut straight to vinyl.",
+      "title": "Hamnet mixed live from six miles away",
+      "url": "https://www.mixonline.com/recording/music-production/hamnet-remotely-cut-to-vinyl-at-abbey-road"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-22",
+      "free": false,
+      "signal": 2,
+      "source": "Bluetooth SIG",
+      "take": "The Bluetooth SIG says Sonova, Demant, GN, WS Audiology and Starkey, together about 90% of the market, now all sell hearing aids that support Auracast broadcast audio. Venues already using it include Stadium Taranaki and Christchurch's Isaac Theatre Royal in New Zealand and MOVIX cinemas in Japan. The post is from the standards body itself.",
+      "title": "Auracast reaches all five big hearing-aid makers",
+      "url": "https://bluetooth.com/blog/a-new-milestone-for-auracast-broadcast-audio-and-what-it-means-for-hearing-aid-users"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-23",
+      "free": false,
+      "signal": 2,
+      "source": "La Biennale di Venezia",
+      "take": "Caterina Barbieri's Biennale Musica, A Child of Sound, ends in Venice today. Attendance rose 4% on the previous edition, with 40% of the audience from abroad. The final evening at the Teatro alle Tese has Clarissa Connelly's eight-voice Canons, ONCEIM playing Ellen Arkbro and Barbieri, and a Singeli night with DJ Travella and Jay Mitta.",
+      "title": "Biennale Musica closes with audiences up 4%",
+      "url": "https://www.labiennale.org/it/news/si-conclude-domani-la-biennale-musica-2026-pubblico-aumento-del-4"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-23",
+      "free": true,
+      "signal": 2,
+      "source": "Bedroom Producers Blog",
+      "take": "SoundMorph's free First Contact library has more than 100 WAV files (1.16 GB): impacts, whooshes, risers, servo and DVD-drive mechanisms, forest rain and robotic footsteps, drawn from its Sinematic, WATER and Robotic Lifeforms 2 collections plus unreleased material. It needs an account and newsletter sign-up, and the licence allows commercial use without credit.",
+      "title": "SoundMorph gives away First Contact",
+      "url": "https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-23",
+      "free": true,
+      "signal": 2,
+      "source": "Synth Anatomy",
+      "take": "Erica Synths has published the firmware of the LXR-02, the six-voice digital drum synth it developed with Julian Schmidt of Sonic Potions, on GitHub. The instrument stays in production and the official firmware can be restored, but custom builds are unsupported and a damaged bootloader means a paid repair.",
+      "title": "Erica Synths opens the LXR-02 firmware",
+      "url": "https://synthanatomy.com/2026/10/erica-synths-lxr-02-is-now-open-source-drum-synth-developed-with-sonic-potions.html"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-23",
+      "free": false,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Imaginando's COLAPSO is an additive synth whose partials come from 422 measured emission lines of 22 chemical elements. You can morph between two elements on one note, trade time precision against frequency precision, and use 'plasma' controls to split partials or push towards notched noise. It runs standalone or as a plugin on macOS and Windows.",
+      "title": "COLAPSO builds sounds from atomic spectra",
+      "url": "https://www.synthtopia.com/content/2026/10/23/imaginando-colapso-synthesizer-generates-sounds-from-atomic-spectra/"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-22",
+      "free": false,
+      "signal": 2,
+      "source": "Production Expert",
+      "take": "Sparks Audio's ClipMap reads Pro Tools session files directly, so you can play the mix, audition and search clips, and drag them into a session with their fades. The Pro version adds synced video, an inspector and dialogue search by transcription. It runs on Mac and Windows without Pro Tools installed, with a perpetual licence and no iLok.",
+      "title": "ClipMap browses Pro Tools sessions without opening them",
+      "url": "https://www.production-expert.com/production-expert-1/sparks-audio-releases-clipmap-should-you-pay-for-a-pro-tools-session-browser"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-21",
+      "free": true,
+      "signal": 2,
+      "source": "Earth Species Project",
+      "take": "Earth Species Project released ROOTS, a set of 44 million audio-text pairs from 6.5 million animal-sound clips, and BEANS-Next, a four-level benchmark for models that describe animal sounds. Both are free on Hugging Face. Part of ROOTS is synthetic audio and machine-written text, which the post states.",
+      "title": "Earth Species Project opens ROOTS and BEANS-Next",
+      "url": "https://earthspecies.org/2026/10/21/broadening-audio-language-capabilities-for-bioacoustics-introducing-beans-next-and-roots/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-22",
+      "free": true,
+      "signal": 2,
+      "source": "Podnews",
+      "take": "Serial Productions and The New York Times launched METRO, a narrative podcast about New York City hosted by Sarah Koenig, with Julie Snyder as executive producer. It mixes investigations, personal stories, essays and interviews made with the Times Metro desk. Two episodes are out, with new ones every other Thursday.",
+      "title": "Sarah Koenig's METRO launches",
+      "url": "https://podnews.net/press-release/metro-sarah-keonig"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-22",
+      "free": false,
+      "signal": 2,
+      "source": "e-flux",
+      "take": "KCCC in Klaipėda, Lithuania, shows composer-artist Andrius Arutiunian and filmmaker Saodat Ismailova until 31 December. Arutiunian's works include The Black Banquet (2026), an installation engulfed in bitumen, and Seven Common Ways of Disappearing from the 2022 Armenia Pavilion; he also did the sound for their joint film 18,000 Worlds.",
+      "title": "Arutiunian and Ismailova's Recurse in Klaipėda",
+      "url": "https://www.e-flux.com/announcements/6788417/andrius-arutiunian-saodat-ismailovarecurse"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-23",
+      "free": true,
+      "signal": 1,
+      "source": "Bedroom Producers Blog",
+      "take": "D16 Group's free Echolite delay has a pre-delay, tempo-synced or free delay times up to 400 ms, stereo spread and feedback up to 110%, so echoes can grow rather than fade. A resonant post filter with op-amp emulation sits after the loop. VST2, VST3, AU and AAX, no account needed.",
+      "title": "D16 Echolite, a free stereo delay",
+      "url": "https://bedroomproducersblog.com/2026/10/23/d16-group-echolite/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-24",
+      "free": true,
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "Full Bucket Music's free Matriq-Six emulates the Oberheim Matrix-6R's original CPU and hardware, running Bob Grieb's alternative 2.15 ROM. The developer says plainly that it does not sound like the hardware and the filters are weak; it keeps the original button interface and imports patches only by SysEx.",
+      "title": "Matriq-Six, a rough free Matrix 6R",
+      "url": "https://synthanatomy.com/2026/10/full-bucket-music-matriq-six-a-free-oberheim-matrix-6r-emulation-with-crappy-filters.html"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-23",
+      "free": false,
+      "signal": 1,
+      "source": "Synthtopia",
+      "take": "Producer Alexander Gaddis has proposed OPEN-1, a low-cost keyboard synth where firmware is chosen from a menu, with an open SDK and a browser emulator so developers can write engines before hardware exists. It would launch with ports of the FM-1 community firmwares. It is a concept only, with no production plan.",
+      "title": "OPEN-1, a synth designed for any firmware",
+      "url": "https://www.synthtopia.com/content/2026/10/23/open-1-promises-to-be-one-synth-for-every-firmware/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-22",
+      "free": false,
+      "signal": 1,
+      "source": "Bandcamp Daily",
+      "take": "Christian Askin's scene report follows musicians who run old instruments through new tools: Gregailh's hurdy-gurdy through effects and a Béarn string drum, MC KER·6's synthetic hurdy-gurdy with 808 kicks, Milkweed's banjos on warped cassettes, and Cocanha's Occitan polyphony.",
+      "title": "The medieval underground on Bandcamp",
+      "url": "https://daily.bandcamp.com/scene-report/contemporary-medieval-music-scene-report"
+    },
+    {
+      "cat": "space",
+      "date": "2026-10-21",
+      "free": false,
+      "signal": 1,
+      "source": "Dezeen",
+      "take": "Takero Shimazaki Architects have turned Hackney Wick's makeshift 2011 warehouse theatre into a permanent venue, with the original room at 110 seats and a new 224-seat curved theatre in a former brewery. Gillieron Scott Acoustic Design was the acoustic consultant.",
+      "title": "The Yard Theatre gets a permanent home",
+      "url": "https://www.dezeen.com/2026/10/21/yard-theatre-revamp-takero-shimazaki-architects-london/"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-17",
+      "free": false,
+      "signal": 1,
+      "source": "Wallpaper*",
+      "take": "Lighting designers Tobias Rylander and Michael Straun describe The Hayley Williams Show: the band on one low island stage, light projected on white drapes instead of an upstage video wall, few visible fixtures, and camera images held back. They tested the look from the back lawn of the Hollywood Bowl.",
+      "title": "Making a stadium show feel small",
+      "url": "https://www.wallpaper.com/art/music/lighting-designers-tobias-rylander-and-michael-straun-interview"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-14",
+      "free": true,
+      "signal": 1,
+      "source": "Cities and Memory",
+      "take": "Cities and Memory invites anyone to take one recording from its archive of almost 200 sounds and make a 2–20 minute piece that keeps some element of the original. AI is not allowed in the music or the text. Join by email; the deadline is the end of Sunday 13 December.",
+      "title": "Cities and Memory Autumn Project",
+      "url": "https://citiesandmemory.substack.com/p/open-call-join-the-2026-autumn-project"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-05-20",
+      "free": false,
+      "signal": 1,
+      "source": "GAI – Giovani Artisti Italiani",
+      "take": "A six-month residency at Castello Aldobrandesco in Arcidosso, Tuscany, for six artists and one curator under 36, with sound art and digital arts among the disciplines. Eligibility rules on employment and study are narrow. The second call is open from 1 to 30 November 2026, for a residency from February to July 2027.",
+      "title": "Il Castello dei Mutamenti residency, under 36",
+      "url": "https://www.giovaniartisti.it/concorsi/call-artists-curators-under-36"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-09-10",
+      "free": false,
+      "signal": 1,
+      "source": "Res Artis",
+      "take": "A five-week visual arts residency at Banff, 17 May–18 June 2027, on how places 'sing', drawing on acoustic ecology and listening to land. It is fee-based with a partial scholarship and a $65 application fee. Deadline 18 November 2026.",
+      "title": "Banff Centre: Sounding Like a Mountain",
+      "url": "https://resartis.org/open-call/visual-arts-sounding-like-a-mountain/"
+    }
+  ],
+  "key": "2026-10-24",
+  "label": "Sat 24 Oct 2026",
+  "lead": "Manifest Audio moved its Sonification Tools out of Max for Live and into every major DAW, with live weather, ocean and biodiversity data as sources. Project CETI reported that a short run of sperm-whale codas can predict a deep foraging dive. Raven Chacon opened a seven-channel installation with his own field recordings at SFMOMA, and Max Richter's Hamnet score was mixed from Abbey Road while the orchestra played six miles away. Biennale Musica closes in Venice today with audiences up 4%.",
+  "listen": {
+    "artist": "Éliane Radigue",
+    "url": "https://en.wikipedia.org/wiki/%C3%89liane_Radigue",
+    "why": "Kyema is the first part of Radigue's Trilogie de la Mort, about three hours of music made with the ARP 2500 modular synthesizer and tape. It follows the six intermediate states of consciousness described in the Tibetan Bardo Thodol and was first performed at New Langton Arts, San Francisco, in 1988. It was issued by Phill Niblock's Experimental Intermedia, and the full trilogy followed in 1998.",
+    "work": "Kyema (Intermediate States)",
+    "year": "1988"
+  },
+  "photo": {
+    "alt": "The concrete acoustic sound mirrors at Denge, near Dungeness in Kent, England.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Sound_Mirrors_at_Denge.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sound_Mirrors_at_Denge.jpg",
+    "title": "Sound mirrors at Denge"
+  },
+  "poem": {
+    "author": "Giacomo Leopardi",
+    "lang": "Italian",
+    "note": "Written by Leopardi in Recanati, probably in autumn 1819, and later collected in his Canti. This is Liber Liber's transcription of the second autograph manuscript, whose spelling differs slightly from the printed text (for example 'interminato Spazio' and 'Infinità'); the poem is in the public domain.",
+    "source": {
+      "label": "Liber Liber (Progetto Manuzio), L'infinito",
+      "url": "https://linux.studenti.polito.it/static_resources/liberliber/biblioteca/l/leopardi/l_infinito/pdf/l_infi_p.pdf"
+    },
+    "text": "Sempre caro mi fu quest'ermo colle,\nE questa siepe, che da tanta parte\nDe l'ultimo orizzonte il guardo esclude.\nMa sedendo e mirando, interminato\nSpazio di là da quella, e sovrumani\nSilenzi, e profondissima quiete\nIo nel pensier mi fingo, ove per poco\nIl cor non si spaura. E come il vento\nOdo stormir tra queste piante, io quello\nInfinito silenzio a questa voce\nVo comparando: e mi sovvien l'eterno,\nE le morte stagioni, e la presente\nE viva, e 'l suon di lei. Così tra questa\nInfinità s'annega il pensier mio:\nE 'l naufragar m'è dolce in questo mare.",
+    "title": "L'infinito",
+    "work": "Canti",
+    "year": "1819"
+  },
+  "radar": [
+    {
+      "date": "2026-10-30",
+      "note": "Sound installation exhibition at Lydgalleriet, Bergen, until 12 December.",
+      "title": "Maia Urstad, Tidslommer",
+      "url": "https://billiesear.substack.com/p/the-sound-of-autumn-2026"
+    },
+    {
+      "date": "2026-11-08",
+      "note": "Manifest Audio's $169 bundle price runs until 8 November.",
+      "title": "Sonification Tools v3 intro price ends",
+      "url": "https://www.kvraudio.com/news/manifest-audio-release-sonification-tools-v3---turning-real-world-data-into-synthesis-sequences-and-effects-vst3-au-clap-for-macos-windows-69277"
+    },
+    {
+      "date": "2026-11-18",
+      "note": "Applications for the 2027 acoustic-ecology residency close.",
+      "title": "Banff 'Sounding Like a Mountain' deadline",
+      "url": "https://resartis.org/open-call/visual-arts-sounding-like-a-mountain/"
+    },
+    {
+      "date": "2026-12-13",
+      "note": "Last day to submit a reworked archive recording.",
+      "title": "Cities and Memory Autumn Project deadline",
+      "url": "https://citiesandmemory.substack.com/p/open-call-join-the-2026-autumn-project"
+    }
+  ],
+  "range": "17–24 October 2026",
+  "seed": {
+    "kind": "photo",
+    "note": "The concrete acoustic mirrors at Denge, near Dungeness on the Kent coast, were built in the late 1920s and early 1930s as an experimental early-warning system for incoming aircraft. They were developed by William Sansome Tucker. There are three: a dish about 20 ft (6 m) across, a deeper dish about 30 ft (9 m) across that still has its metal microphone pole, and a near-vertical curved wall about 200 ft (60 m) long, one of only two of its kind (the other is in Malta).\n\nEach mirror concentrated sound arriving from the sea onto a focal point where a microphone was placed, so slow aircraft could be heard before they were seen. Faster aircraft and the difficulty of telling planes from ships limited them, and radar made them obsolete. They are now scheduled monuments on an island in an RSPB reserve, reached by a swing bridge on open days.",
+    "photo": {
+      "alt": "The concrete acoustic sound mirrors at Denge, near Dungeness in Kent, England.",
+      "credit": "via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File:Sound_Mirrors_at_Denge.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sound_Mirrors_at_Denge.jpg",
+      "title": "Sound mirrors at Denge"
+    },
+    "source": {
+      "label": "Wikipedia: RAF Denge",
+      "url": "https://en.wikipedia.org/wiki/RAF_Denge"
+    },
+    "text": "The sound mirrors at Denge, Kent"
+  }
+}

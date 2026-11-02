@@ -98,3 +98,17 @@ Sections for `items[].cat`: `sounddesign`, `music`, `field`, `synthesis`, `tools
 ## Privacy
 
 There's no tracking and no sign-in. Pins, the journal, the last-opened tab and the "made something" log are stored only in each visitor's browser.
+
+## Free daily edition (no AI, no subscription)
+
+`.github/workflows/daily.yml` runs every morning on GitHub Actions (free) and calls `scripts/free_daily.py`. If today's seed file doesn't exist yet, it builds one:
+
+- **Seed:** rotates concept, word and photo. Concepts are Wikipedia articles, words are Wiktionary entries, photos come from Wikimedia Commons. The note is quoted from the source and linked.
+- **Photograph:** a real camera photograph from Wikimedia Commons. Only JPEGs with camera EXIF data are used, and files in drawing, illustration or AI-generated categories are skipped. The author and licence come from Commons.
+- **Poem:** a short public-domain poem from PoetryDB (texts from Project Gutenberg).
+- **Listen / crossover:** Wikipedia summaries of works and ideas listed in `data/bank/`.
+- **News:** the newest stories from the sources' RSS feeds, with the outlets' own titles and summaries.
+
+`data/bank/` holds only titles to look up (Wikipedia articles, Wiktionary words, Commons categories), never written text. Add or remove lines there to change what can come up. Picks rotate so nothing repeats within 30 days.
+
+A seed written by a Claude run is never overwritten. If a Claude run pushes a file for a day the free job already filled, the Claude version replaces it. To run the job by hand: **Actions → Free daily edition → Run workflow**. The log lists any feed or lookup that failed.

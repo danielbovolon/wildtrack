@@ -1,0 +1,283 @@
+{
+  "crossover": {
+    "body": "On La Gomera in the Canary Islands, Castilian Spanish is also spoken by whistling. Two whistles stand in for the five Spanish vowels and four for the consonants, told apart by pitch and by whether the sound is continuous or broken. UNESCO inscribed Silbo Gomero on its Representative List of the Intangible Cultural Heritage of Humanity in 2009; it has been taught in the island's schools since 1999 and is understood by almost all islanders.",
+    "field": "Linguistics",
+    "source": "UNESCO Intangible Cultural Heritage",
+    "title": "Silbo Gomero: Spanish carried by a whistle",
+    "url": "https://ich.unesco.org/en/RL/whistled-language-of-the-island-of-la-gomera-canary-islands-the-silbo-gomero-00172"
+  },
+  "generated": "2026-11-02T07:30:00+01:00",
+  "headline": "Birdsong, binaural theatre and data pianos",
+  "items": [
+    {
+      "cat": "nature",
+      "date": "2026-10-29",
+      "deep": "Logan James and colleagues (McGill University and the University of Texas at Austin) argue that the shared patterns come from how bodies make sound, through common motor and vocal mechanisms, rather than from vocal learning alone. An accompanying Perspective by Kazuo Okanoya of Teikyo University cautions that ideas borrowed from linguistics should guide experiments, not stand in for data.\n\nFor anyone who edits or composes with birdsong, this is evidence that phrase shape and timing are not just a human way of hearing birds. Slight pitch steps, an even pulse and a lengthened final note are measurable features across a very wide range of species, which gives a concrete vocabulary for cutting, looping and comparing field recordings.",
+      "free": true,
+      "signal": 3,
+      "source": "EurekAlert! (AAAS)",
+      "take": "A study in Science compared songs from 367 bird species with human speech and song in 52 languages. Three traits turn up across hundreds of species: small pitch changes, regular syllable timing and longer sounds at the ends of phrases. They appear in birds that learn their songs and in birds that do not.",
+      "title": "Birdsong shares three patterns with human speech and music",
+      "url": "https://sciencesources.eurekalert.org/news-releases/1149107"
+    },
+    {
+      "cat": "art",
+      "date": "2026-11-01",
+      "deep": "The work opens the Musikverein's series of events around Jelinek. Neuwirth's score draws on Schubert motifs, and the images show a raft at sea in front of melting polar ice. The closing scenes come from her opera Monster's Paradise: two actresses, Sylvie Rohrer and Ruth Rosenfeld, play four hands at a piano, and a computer-controlled piano fed with earthquake data gradually takes over their playing.\n\nIt is a compact example of data steering an acoustic instrument inside a theatrical frame, with spoken voice, live hands and machine playing all audible on the same piano. Showings are listed for 2, 3 and 4 November in the Metallener Saal, a few hours from Bolzano by train.",
+      "free": false,
+      "signal": 3,
+      "source": "VOL.AT / APA",
+      "take": "Olga Neuwirth and Elfriede Jelinek's 'Ghosts & Vampires' is a 40-minute literary sound installation playing on a loop in the Musikverein, Vienna, until 4 November. Birgit Minichmayr speaks Jelinek's text over Neuwirth's music, with visuals by Lillevan.",
+      "title": "Neuwirth and Jelinek turn the Musikverein's Metallener Saal into a sound installation",
+      "url": "https://www.vol.at/jelinek-neuwirth-klanginstallation-bei-wien-modern/10603814"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-30",
+      "deep": "Greenberg cites Netflix's figure that close to half of US viewing hours involve subtitles, and uses Warner Bros. Stage 10 as an example of a large mix room. He states plainly that the article is not an argument against big stages, and that the data does not prove a direct link between room size and intelligibility.\n\nHis practical proposal is a calibrated near-field room as the main reference, a last check at living-room distance (about 7.5 to 8.5 feet for a 55-inch TV) and a blind comparison between stage, near-field and home playback with captions off. It is a useful framework for any freelance mixer whose dialogue work ends up on televisions and laptops rather than in cinemas.",
+      "free": true,
+      "signal": 3,
+      "source": "Production Expert",
+      "take": "Mike Greenberg asks whether mixing streaming drama on large stages adds to viewers' complaints about unclear dialogue at home. He finds no evidence that room size alone causes the problem and points instead to monitoring level, dynamic range, playback limits and downmixing.",
+      "title": "Are dubbing stages too big for streaming mixes?",
+      "url": "https://www.production-expert.com/production-expert-1/are-we-mixing-in-rooms-that-are-too-big"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-31",
+      "deep": "Airwindows Consolidated was assembled for the desktop by BaconPaul of the Surge XT team, who put Johnson's catalogue into a single plugin. The iOS version keeps the built-in browser with search and curated picks, and every effect carries its full description inside the plugin. The range covers dynamics, filters, amp emulations, delays, reverbs and many of Johnson's odder original designs, each with only a few controls.\n\nOn an iPad this becomes a large, documented processing library that can sit next to a field recorder or a live rig at no cost. Because the code is open, the same effects behave the same way on desktop and mobile, which helps when sketches move from a session on the road into a studio project.",
+      "free": true,
+      "signal": 3,
+      "source": "Synth Anatomy",
+      "take": "Sveinbjorn Palsson has ported Airwindows Consolidated, more than 500 effects by Chris Johnson, to iOS as a free standalone app and AUv3 plugin. The effects themselves are open source under the MIT licence.",
+      "title": "Airwindows Consolidated arrives free on iPhone and iPad",
+      "url": "https://synthanatomy.com/2026/10/airwindows-consolidated-by-sveinbjorn-palsson-brings-500-audio-effects-to-ios-as-a-free-app.html"
+    },
+    {
+      "cat": "space",
+      "date": "2026-11-01",
+      "free": false,
+      "signal": 2,
+      "source": "kunst:mag",
+      "take": "Janet Cardiff's 2001 installation places 40 loudspeakers in an oval, each carrying one singer from Thomas Tallis's Spem in Alium. Visitors can stand by a single voice or in the middle of the whole choir. It runs at Kunstmuseum Ravensburg until 15 November.",
+      "title": "Last two weeks of Janet Cardiff's Forty Part Motet in Ravensburg",
+      "url": "https://www.kunst-mag.de/2026/11/01/janet-cardiff-ausstellung-ravensburg/"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-31",
+      "free": true,
+      "signal": 2,
+      "source": "BroadwayWorld",
+      "take": "A BroadwayWorld explainer traces headphone theatre from Clément Ader's 1881 Théâtrophone to current shows. It covers A Ghost in Your Ear at Audible's Minetta Lane Theatre, running through 12 December, and Gareth Fry's binaural work, including The Encounter, which won him and Pete Malkin a Special Tony Award in 2017.",
+      "title": "How binaural sound is changing theatre",
+      "url": "https://www.broadwayworld.com/article/What-Is-Binaural-Sound-What-to-Know-About-the-Technology-Changing-How-Theater-Is-Heard-20261031"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-11-01",
+      "free": true,
+      "signal": 2,
+      "source": "A Sound Effect",
+      "take": "Airwiggles is running Noisevember, a month of daily prompts for music, sound design, synth patches or interactive audio. Entries are posted in daily threads and each one earns a raffle ticket for Kilohearts licences. It needs a free Airwiggles account.",
+      "title": "Noisevember 2026: a daily sound prompt for the whole month",
+      "url": "https://www.asoundeffect.com/airwiggles-noisevember-2026/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-27",
+      "free": true,
+      "signal": 2,
+      "source": "RadioToday",
+      "take": "AudioUK has published the shortlist for its Audio Production Awards, with the ceremony on 26 November at BFI Southbank, London. The Sound Design category includes Iain Meadows (Big Finish), Melvin Rickarby, Damien St John and teams from Peanut & Crumb and Strange Boy Productions; the Audio Drama list includes Eloise Whitmore and Tony Churnside of Naked Productions.",
+      "title": "Audio Production Awards 2026 shortlist",
+      "url": "https://radiotoday.co.uk/2026/10/audiouk-reveals-audio-production-awards-shortlist/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Synthtopia looks at a run of hardware makers opening their firmware or offering SDKs, from the M-Vave FM-1's browser workbench to Erica Synths open-sourcing the LXR-02 firmware and Korg's logue user oscillators. The piece weighs longer hardware life and custom workflows against bugs, bricked units and unclear support.",
+      "title": "Is open firmware the next big trend in instruments?",
+      "url": "https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-10-30",
+      "free": true,
+      "signal": 2,
+      "source": "Kill Screen",
+      "take": "The Processing Foundation has shown early demos of Processing 5, still in research and development. They include glTF animation, rigid-body physics, direct GPU programming and a compute shader running a flocking simulation of 20,000 birds at interactive frame rates. There is no release date yet.",
+      "title": "First look at Processing 5",
+      "url": "https://www.killscreen.com/processing-foundation-shares-first-look-at-processing-5/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-27",
+      "free": true,
+      "signal": 2,
+      "source": "On the Move",
+      "take": "The European Hybrid Intelligence Network offers residencies of about a year from February 2027 with partners including ZKM, LABoral and Kersnikova, focused on hybrid intelligence, biocomputing and living systems. Each residency carries up to €25,000 for fee and production. Deadline 4 December 2026, 23:59 CET; check the applicant guide for eligibility.",
+      "title": "Dirty Lab residencies 2027: up to €25,000, deadline 4 Dec",
+      "url": "https://on-the-move.org/news/european-hybrid-intelligence-network-dirtly-lab-residencies-2027-belgium-croatia-germany"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-27",
+      "free": true,
+      "signal": 2,
+      "source": "Sound and Music",
+      "take": "Grafenegg Festival's composer-conductor workshop takes up to five composers of any nationality and age, coached by Steve Reich and David Robertson, who then conduct their own new orchestral piece with the Tonkünstler Orchestra. It is fully funded and has no application fee. Deadline 25 November 2026.",
+      "title": "Ink Still Wet 2027 with Steve Reich: deadline 25 Nov",
+      "url": "https://soundandmusic.org/opportunities/listing/ink-still-wet-2027-composer-conductor-workshop-with-steve-reich/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-31",
+      "free": true,
+      "signal": 1,
+      "source": "KVR Audio",
+      "take": "rncbc.org has updated its Linux multitrack sequencer Qtractor with CLAP and VST3 fixes and a dockable session overview. The Vee One instruments (synthv1, samplv1, drumkv1, padthv1) gain a crop view and envelope guides in the samplers. Both are GPL.",
+      "title": "Qtractor 1.6.5 and Vee One Suite 1.5.1 for Linux",
+      "url": "https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-6-5-and-vee-one-suite-to-v1-5-1-for-linux-69517"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-11-01",
+      "free": false,
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "The Lair reverb gets two new modes in a free update for owners: Cascade, built from reshapeable clusters of echoes, and Swarm, a granular mode of fragmented repeats set by density, speed and lifespan. It also adds a parallel mode, a dry-triggered gate and native Linux builds.",
+      "title": "Aberrant DSP Lair 1.5 adds granular Swarm mode and Linux",
+      "url": "https://synthanatomy.com/2026/11/aberrant-dsp-lair.html"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-30",
+      "free": false,
+      "signal": 1,
+      "source": "Synth Anatomy",
+      "take": "Japanese developer Light Reft has released DZA.grain, granular software for the 3DS and PSP with grain speed and density controls and a live view of the grains. It can record through the consoles' built-in microphones. It is sold on Bandcamp with a three-track EP.",
+      "title": "DZA.grain turns a Nintendo 3DS or PSP into a granular sampler",
+      "url": "https://synthanatomy.com/2026/10/light-reft-dza-grain-turns-your-nintendo-3ds-and-sony-psp-into-a-granular-sampler.html"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-30",
+      "free": false,
+      "signal": 1,
+      "source": "Bandcamp Daily",
+      "take": "Bandcamp Daily's Essential Releases features 'When The Sandbox Has No Edge'. The duo recorded in a London bedroom with two SP-404 samplers, then Eomac reshaped the material in Ireland, with textures from Seraphim and a distorted guitar solo by Che Chen.",
+      "title": "Saint Abdullah and Eomac build an album from two SP-404s",
+      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-30-2026"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-11-01",
+      "free": false,
+      "signal": 1,
+      "source": "Derivative",
+      "take": "Function Store and TheTouchLab have opened a beta of TDXCollab, which syncs operators, wires, parameters and DATs between several TouchDesigner users on separate machines in real time. Applications for the beta are open.",
+      "title": "TDXCollab: several people patching one TouchDesigner network live",
+      "url": "https://derivative.ca/community-post/asset/tdxcollab-realtime-native-collaboration-anywhere-world-beta/75619"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-29",
+      "free": false,
+      "signal": 1,
+      "source": "No(R)eruns",
+      "take": "Audible's November slate includes Exoplanet, written by Benjamin Percy with Andy Weir as executive producer and a cast led by Anthony Mackie. Audible credits immersive sound design to Skywalker Sound and the score to Rob Cairns. It premieres on 5 November.",
+      "title": "Skywalker Sound designs Audible's full-cast drama Exoplanet",
+      "url": "https://noreruns.net/2026/10/29/audible-announces-new-content-for-november-2026/"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-26",
+      "free": false,
+      "signal": 1,
+      "source": "BroadwayWorld",
+      "take": "Temple University's theatres now offer WatchWord Live smart glasses, which show script lines cued live by an operator over Wi-Fi. Wearers set caption size, colour, brightness and position. Unlike open-captioned shows, the glasses can be requested for any performance.",
+      "title": "Caption glasses for deaf and hard-of-hearing theatre audiences",
+      "url": "https://www.broadwayworld.com/article/Temple-University-Debuts-Caption-Glasses-for-Deaf-and-Hard-of-Hearing-Audiences-20261026"
+    },
+    {
+      "cat": "field",
+      "date": "2026-10-29",
+      "free": true,
+      "signal": 1,
+      "source": "CineD",
+      "take": "In CineD's Focus Check podcast, Sony audio specialist Markus Warlich compares 2.4 GHz and UHF wireless systems and discusses the shrinking spectrum for wireless audio. The episode also questions marketing around '32-bit' recording, noting that no 32-bit A/D converter exists.",
+      "title": "Sony's Markus Warlich on wireless audio and 32-bit float",
+      "url": "https://www.cined.com/wireless-audio-demystified-sonys-markus-warlich-on-2-4-ghz-vs-uhf-real-32-bit-float-and-the-shrinking-spectrum-focus-check-ep140/"
+    }
+  ],
+  "key": "2026-11-02",
+  "label": "Mon 2 Nov 2026",
+  "lead": "A study in Science finds three features of human speech and music in the songs of hundreds of bird species. In Vienna, Olga Neuwirth and Elfriede Jelinek let earthquake data take over a piano in a sound installation at the Musikverein. Production Expert asks whether big dubbing stages suit mixes heard on home TVs. And Airwindows' library of more than 500 open-source effects is now free on iOS.",
+  "listen": {
+    "artist": "Olivier Messiaen",
+    "url": "https://en.wikipedia.org/wiki/Catalogue_d%27oiseaux",
+    "why": "Thirteen piano pieces in seven books, written between October 1956 and September 1958 and premiered by Yvonne Loriod at the Salle Gaveau, Paris, on 15 April 1959. Each piece is named after a bird of a French province and sets its song among the songs of its neighbours, the landscape and the changing hours of day and night.",
+    "work": "Catalogue d'oiseaux",
+    "year": "1956–58"
+  },
+  "photo": {
+    "alt": "The central switchboard of the Paris théâtrophone service, from which opera and theatre feeds were distributed to telephone subscribers, as photographed for Scientific American in 1925.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Theatrophone_central_switchboard_(1925).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Theatrophone_central_switchboard_(1925).jpg",
+    "title": "Théâtrophone central switchboard, Paris, 1925"
+  },
+  "poem": {
+    "author": "Thomas Hardy",
+    "lang": "English",
+    "note": "Dated December 1900 by Hardy and collected in Poems of the Past and the Present (1901, dated 1902). Hardy died in 1928, so the poem is in the public domain; the text follows Project Gutenberg's edition of the book.",
+    "source": {
+      "label": "Project Gutenberg: Poems of the Past and the Present",
+      "url": "https://www.gutenberg.org/cache/epub/3168/pg3168.txt"
+    },
+    "text": "I leant upon a coppice gate\nWhen Frost was spectre-gray,\nAnd Winter's dregs made desolate\nThe weakening eye of day.\nThe tangled bine-stems scored the sky\nLike strings from broken lyres,\nAnd all mankind that haunted nigh\nHad sought their household fires.\n\nThe land's sharp features seemed to be\nThe Century's corpse outleant,\nHis crypt the cloudy canopy,\nThe wind his death-lament.\nThe ancient pulse of germ and birth\nWas shrunken hard and dry,\nAnd every spirit upon earth\nSeemed fervourless as I.\n\nAt once a voice outburst among\nThe bleak twigs overhead\nIn a full-hearted evensong\nOf joy illimited;\nAn aged thrush, frail, gaunt, and small,\nIn blast-beruffled plume,\nHad chosen thus to fling his soul\nUpon the growing gloom.\n\nSo little cause for carollings\nOf such ecstatic sound\nWas written on terrestrial things\nAfar or nigh around,\nThat I could think there trembled through\nHis happy good-night air\nSome blessed Hope, whereof he knew\nAnd I was unaware.\n\nDecember 1900.",
+    "title": "The Darkling Thrush",
+    "work": "Poems of the Past and the Present",
+    "year": "1901"
+  },
+  "radar": [
+    {
+      "note": "Fourteen light and sound installations on the theme of time at Schloss Eggenberg and around the city.",
+      "title": "Klanglicht, Graz",
+      "url": "https://www.leadersnet.at/news/105064,klanglicht-2026-ist-eroeffnet-schloss-eggenberg-im-zeichen-der.html",
+      "when": "Until 7 Nov 2026"
+    },
+    {
+      "date": "2026-11-20",
+      "note": "Four days of electronic music and digital art at MoN Takanawa, 20–23 November.",
+      "title": "MUTEK.JP Edition 11, Tokyo",
+      "url": "https://tokyo.mutek.org/en/news/mutek-jp-2026-edition-11"
+    },
+    {
+      "date": "2026-11-25",
+      "note": "Applications for the Steve Reich composer-conductor workshop close.",
+      "title": "Ink Still Wet 2027 deadline",
+      "url": "https://soundandmusic.org/opportunities/listing/ink-still-wet-2027-composer-conductor-workshop-with-steve-reich/"
+    },
+    {
+      "date": "2026-11-30",
+      "note": "Temporary outdoor works across the Massif du Sancy, France, €8,000 per selected project; check whether sound works qualify.",
+      "title": "Horizons 2027 Arts-Nature call closes",
+      "url": "https://on-the-move.org/news/sancy-tourist-office-horizons-2027-arts-nature-public-art-france"
+    }
+  ],
+  "range": "26 October – 2 November 2026",
+  "seed": {
+    "kind": "concept",
+    "note": "The théâtrophone grew out of a system Clément Ader demonstrated at the 1881 International Exposition of Electricity in Paris. Telephone transmitters were placed across the front of the stage of the Paris Opera, and visitors more than two kilometres away listened through two receivers, one at each ear. Wikipedia describes it as the first two-channel audio system, a form of binaural stereo.\n\nFrom 1890 the Compagnie du Théâtrophone sold it as a service in Paris: coin-operated receivers in hotels and cafés, and home subscriptions over the telephone network. Marcel Proust subscribed in 1911. By 1925 Scientific American described a central exchange that amplified the feeds from the Opéra, the Opéra-Comique and other theatres for subscribers. The company closed in 1932, overtaken by radio and the phonograph.",
+    "source": {
+      "label": "Wikipedia: Théâtrophone",
+      "url": "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2trophone"
+    },
+    "text": "Théâtrophone"
+  }
+}

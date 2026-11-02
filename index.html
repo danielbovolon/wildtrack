@@ -136,6 +136,7 @@ button { font: inherit; color: inherit; }
 .archive { margin-left: auto; }
 .archive select { font: inherit; font-family: var(--f-mono); font-size: 12px; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 4px 6px; max-width: 46vw; }
 
+.entry .take.auto::before { content: "From the source — "; color: var(--muted); }
 .lead { margin-top: 16px; font-size: 18px; line-height: 1.5; max-width: 62ch; }
 .lead::first-line { font-weight: 700; }
 .lead.more-p { margin-top: 10px; }
@@ -422,7 +423,7 @@ button { font: inherit; color: inherit; }
     for (let k = 1; k <= 3; k++) { const b = el("i"); if (k <= (it.signal || 1)) b.className = "on"; sig.appendChild(b); }
     meta.appendChild(sig); li.appendChild(meta);
     li.appendChild(el("h3", null, it.title));
-    if (it.take) li.appendChild(el("p", "take", it.take));
+    if (it.take) li.appendChild(el("p", "take" + (it.auto ? " auto" : ""), it.take));
     const tryText = it.try || it.todo;
     if (it.deep || tryText) {
       const expanded = top || state.open[id];
@@ -639,7 +640,7 @@ Date: ${it.date || ""}`;
       });
       main.appendChild(ul);
     }
-    main.appendChild(el("p", "sources", "Each story links to its source. Briefs are researched and written with AI, then checked against the linked sources. Seeds, photographs, quotations and poems are real material, credited and linked to where they were found."));
+    main.appendChild(el("p", "sources", doc.auto ? "This edition is assembled automatically, with no AI. The seed, listening and crossover notes are quoted from Wikipedia and Wiktionary, the photograph comes from Wikimedia Commons and the poem from PoetryDB, each credited and linked. News titles and summaries are the outlets' own; each story links to the full article." : "Each story links to its source. Briefs are researched and written with AI, then checked against the linked sources. Seeds, photographs, quotations and poems are real material, credited and linked to where they were found."));
   }
 
   function renderArchive(main) {

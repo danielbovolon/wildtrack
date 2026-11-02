@@ -1,0 +1,275 @@
+{
+  "crossover": {
+    "body": "In his 1967 master's thesis in city planning at MIT, published in 1969 as 'The Sonic Environment of Cities' in Environment and Behavior, Michael Southworth took participants along a set route through Boston, some with their sight or hearing restricted and moved in wheelchairs. He argued that city design had been visually prejudiced and that places rich in both sound and visual information were perceived as having a stronger identity. The paper is often cited as one of the first uses of the word soundscape and as a forerunner of the soundwalk.",
+    "field": "Urban planning",
+    "source": "Screenworks: Sound Stack, Soundwalk, Southworth",
+    "title": "Michael Southworth's sonic environment of cities",
+    "url": "https://www.screenworks.org.uk/archive/volume-15-1/sound-stack-soundwalk-southworth"
+  },
+  "generated": "2026-10-23T07:40:00+02:00",
+  "headline": "Venice closes, firmware lives on",
+  "items": [
+    {
+      "cat": "music",
+      "date": "2026-10-19",
+      "deep": "The festival has about 130 artists and 23 new works, 18 of them world premieres; Keiji Haino received the Golden Lion and Sarah Davachi the Silver Lion. Nardelli singled out Laraaji's sound bath Alignment as poorly served by its open-air Arsenale setting, and judged the PMCE programme of Bach and Webern transcriptions, Morricone and Davachi's Chanters weak.\n\nThe review matters because Barbieri is a synthesist and composer running a major contemporary music institution, and most coverage so far has repeated the press material. Its questions about drone, repetition and venue acoustics apply to anyone staging long-form electronic work in non-concert spaces.",
+      "free": false,
+      "signal": 3,
+      "source": "Il Giornale della Musica",
+      "take": "Il Giornale della Musica's Stefano Nardelli reviewed 'A Child of Sound', Caterina Barbieri's Biennale Musica, which runs in Venice until 24 October. He found the programme closer to a playlist than a curatorial line, and questioned whether reduction and repetition had become ends in themselves. Keiji Haino's tightly structured set and the Tallis Scholars at San Marco were the high points.",
+      "title": "A critical look at Barbieri's Biennale Musica",
+      "url": "https://www.giornaledellamusica.it/recensioni/il-favoloso-mondo-di-caterina"
+    },
+    {
+      "cat": "field",
+      "date": "2026-10-20",
+      "deep": "The recordings include snow melting off a ponderosa pine in the San Jacinto Mountains, a Mojave wind turbine recorded from beneath its blades, Terminal Geyser, a drumming woodpecker and wind moving through grass. The story does not name the equipment.\n\nIt is a clear example of a long-form, place-based archive presented so that a general audience can explore it by location rather than by playlist. It also shows a public broadcaster treating field recording as an artistic practice in its own right, and sits in a line with Annea Lockwood's river maps.",
+      "free": true,
+      "signal": 3,
+      "source": "NPR via WHRO",
+      "take": "NPR profiled recordist Tom Kelly, who walked the 2,600-mile Pacific Crest Trail, around six million steps, and made hundreds of recordings along the way. They are published as a free interactive map on his website.",
+      "title": "A sound map of the Pacific Crest Trail",
+      "url": "https://www.whro.org/2026-10-20/6-million-steps-hundreds-of-recordings-creating-a-sound-map-of-the-pacific-crest-trail"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-22",
+      "deep": "OP1-Workshop lets owners choose add-ons from several developers: wavetable, phase distortion, drawbar organ, drone, granular and subharmonic engines, ports of Mutable Instruments Beads and Clouds, scale and chord modes, a quad LFO, a MIDI sequencer and six-channel USB audio. OP1-mod adds a Bell engine built from ring modulation into four tuned strings and a Keys engine with tine piano, reed and clav. A Braids port is in progress. Installation is at the owner's risk.\n\nThe story fits a wider trend: Synthtopia reported on 17 October on a YouTuber's call with Elektron about the surge in unofficial firmware for its instruments. Open-source DSP is now extending the life of closed hardware after its makers move on.",
+      "free": true,
+      "signal": 3,
+      "source": "Synth Anatomy",
+      "take": "Teenage Engineering stopped OP-1 development in December 2022, but free community firmware now adds new engines and effects. Synth Anatomy rounded up hundekraft's OP1-Workshop, Justin Joe's OP1-mod and Opus, a rebuilt virtual analogue engine.",
+      "title": "Community firmware revives the OP-1",
+      "url": "https://synthanatomy.com/2026/10/hundekraft-op1-mod-other-custom-firmwares-supercharge-the-teenage-engineering-op-1.html"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-20",
+      "deep": "The station began in 2002 as BBC 7, became Radio 7 in 2008 and Radio 4 Extra in 2011. It is built on the BBC's archive of radio comedy and drama and reached about two million weekly listeners in the mid-2010s. Earlier in October, RadioToday reported cuts of at least 10% to BBC Speech from April 2027, including the end of Open Country, Thinking Allowed and Free Thinking.\n\nRadio 4 Extra has been the main broadcast home for archive audio drama in the UK. Moving it to on-demand only changes how that repertoire is discovered and may affect how much new drama is commissioned and repeated.",
+      "free": false,
+      "signal": 3,
+      "source": "RadioToday",
+      "take": "The BBC will close Radio 4 Extra's linear service as part of cuts aiming at £500m savings by 2028; its programmes stay on BBC Sounds. No closure date was given.",
+      "title": "BBC Radio 4 Extra to end as a broadcast station",
+      "url": "https://radiotoday.co.uk/2026/10/bbc-radio-4-extra-to-close-as-a-broadcast-service/"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-21",
+      "free": false,
+      "signal": 2,
+      "source": "Mix",
+      "take": "Montreal production mixer Philippe Mercier describes shooting up to 17 pages a day on the medical series STAT with few takes and little ADR budget. He chooses shotguns that hold up at any distance because he rarely controls mic-to-actor distance, and post teams borrow his mics so ADR matches production sound.",
+      "title": "One-take dialogue on a fast Québec drama",
+      "url": "https://www.mixonline.com/the-wire/philippe-mercier-cas-captures-explosive-drama-and-fast-paced-action-for-quebecois-medical-series-stat"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-16",
+      "free": false,
+      "signal": 2,
+      "source": "Unsound",
+      "take": "Unsound's New York edition opened on 20 October and runs into November, with concerts in Alice Tully Hall and Geffen Hall including Actress, FUJI|||TA with Ka Baird, claire rousay with Martyna Basta, and Hania Rani with Sinfonia Varsovia. On 27 October Kode9 and Bogna Konior speak at e-flux on sound, perception and deception in conflict.",
+      "title": "Unsound New York moves into Lincoln Center",
+      "url": "https://www.unsound.pl/en/news/unsound-new-york-2026-announces-further-music-and-discourse-programme-additions-festival-starts-this-tuesday"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-20",
+      "free": true,
+      "signal": 2,
+      "source": "Bedroom Producers Blog",
+      "take": "Session Loops released PitchNet, a free, open-source note-based vocal editor that shows detected notes in a piano roll for editing pitch, timing and pitch curves. It exports audio or MIDI, supports ARA, and runs on Windows, macOS and Linux; edited vocals are rebuilt with AI resynthesis.",
+      "title": "PitchNet, a free open-source pitch editor",
+      "url": "https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-23",
+      "free": false,
+      "signal": 2,
+      "source": "Synth Anatomy",
+      "take": "Blinksonic's first plugin, by microKORG2 interface designer Sylvain Stoppani, has eight slots with granular engines that take samples or live input, plus an FFT engine that resynthesises sound as up to 4096 sine partials. A Journey control crossfades across the slots and can be driven by gesture recording, LFO, sequencer or XY pad.",
+      "title": "Holodrift, granular and spectral textures",
+      "url": "https://synthanatomy.com/2026/10/blinksonic-holodrift-a-wild-experimental-trip-through-granular-and-spectral-synthesis.html"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-16",
+      "free": false,
+      "signal": 2,
+      "source": "Podnews",
+      "take": "The first SONARR (Sound and Narrative) Awards in Sydney gave 33 awards across podcast, radio, audiobook and voice-over, two thirds to independents. Caddie Brain's A Cyclone for Christmas won both Sound Design and Atmosphere and the overall prize, and there was a separate award for original sonic identity.",
+      "title": "SONARR awards treat sound design as a category",
+      "url": "https://podnews.net/press-release/sonarr-winners-2026"
+    },
+    {
+      "cat": "space",
+      "date": "2026-10-22",
+      "free": false,
+      "signal": 2,
+      "source": "Dezeen",
+      "take": "Studio Boris Acket and Maison the Faux built 'Everything Moist Seems Alive' at MU in Eindhoven around Astrida Neimanis's idea of hydrofeminism. Singers from Dutch National Opera and Ballet perform choral pieces in the space several times a day; Dutch Design Week runs until 25 October.",
+      "title": "Choral ritual in a Dutch Design Week installation",
+      "url": "https://www.dezeen.com/2026/10/22/hydrofeminism-everything-moist-seems-alive-installation/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-18",
+      "free": true,
+      "signal": 2,
+      "source": "NASA Science",
+      "take": "NASA's Astronomy Picture of the Day presented a sonification of the Eagle Nebula's pillars, combining Hubble and Chandra data. A line scans left to right, and stars and dust it crosses become sound, with vertical position mapped to pitch. Credits include Kimberly Arcand, Matt Russo and Andrew Santaguida.",
+      "title": "NASA features a sonified Eagle Nebula",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-30",
+      "free": true,
+      "signal": 2,
+      "source": "Sound and Music",
+      "take": "The Daphne Oram Trust invites projects inspired by any part of Oram's work, artistic or research, from UK and international applicants. Four people will present on 21 November at the National Science and Media Museum in Bradford, with travel bursaries up to £200. Deadline 30 October, 23:59.",
+      "title": "Daphne Oram at 100: project call",
+      "url": "https://soundandmusic.org/opportunities/listing/daphne-oram-at-100-pioneer-of-electronic-music-and-sound-project-call-out/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-06",
+      "free": true,
+      "signal": 2,
+      "source": "EMAP",
+      "take": "EMAP offers two-month production residencies in 2027 at partner hosts including MEET Milan and Ars Electronica, with €4,000 for the artist, €2,000 for a collaborator and a €4,000 production budget, plus travel and accommodation. Applicants must be EU residents or taxpayers (or from listed countries) and apply with a collaborator. Deadline 6 November, 14:00 CET.",
+      "title": "European Media Art Platform residencies 2027",
+      "url": "https://call.emare.eu"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-21",
+      "free": true,
+      "signal": 1,
+      "source": "Gearnews",
+      "take": "Erica Synths' free firmware 1.3 for the Perkons HD-01 drum machine adds a chord mode, custom samples per bank and a real-time chromatic voice quantiser, along with dotted delay divisions and extended parameter locks.",
+      "title": "Perkons HD-01 learns chords",
+      "url": "https://www.gearnews.com/erica-synths-perkons-hd-01-drum/"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-21",
+      "free": false,
+      "signal": 1,
+      "source": "CDM",
+      "take": "Go Outside's first hardware is a pedal-sized, unpowered patch bay and multiple that mixes 1/4-inch and 3.5mm jacks to route, split and combine signals between synths, pedals, Eurorack and tape. It costs $175.",
+      "title": "Mulch Box, a passive patch bay",
+      "url": "https://cdm.link/mulch-box-patch-bay-and-multiplier/"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-20",
+      "free": true,
+      "signal": 1,
+      "source": "Podnews",
+      "take": "Dean Smyth's indie horror audio drama, told through emergency broadcasts with survival instructions, began a six-episode second season. Smyth writes, directs, edits and sound designs the show himself.",
+      "title": "National Emergency returns for season two",
+      "url": "https://podnews.net/press-release/national-emergency"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-21",
+      "free": false,
+      "signal": 1,
+      "source": "Hearing Health & Technology Matters",
+      "take": "SoundInvest Fund II, linked to Sound Hub Denmark's accelerator, reached a first close of €2.9 million with Bang & Olufsen among its backers. It plans 24 convertible loans of DKK 1 million each for music tech, audio infrastructure and hearing-related applications; the accelerator's 2027 cohort takes applications until 6 November.",
+      "title": "Bang & Olufsen backs a sound-tech fund",
+      "url": "https://hearinghealthmatters.org/hearing-technologies/2026/ban-olufsen-funding-soundinvest/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-01",
+      "free": true,
+      "signal": 1,
+      "source": "SURF",
+      "take": "The Sanford Underground Research Facility in South Dakota offers a 2027 residency for artists in all media, musicians included: a $5,000 stipend, up to $5,000 for the work, and travel and housing for a four-week stay in summer 2027 plus an installation visit in October. The page does not say whether non-US artists are eligible. Deadline 1 November.",
+      "title": "Artist residency at an underground physics lab",
+      "url": "https://sanfordlab.org/programs/SURFAiR"
+    },
+    {
+      "cat": "stage",
+      "date": "2026-10-16",
+      "free": false,
+      "signal": 1,
+      "source": "Live Design",
+      "take": "'Es Devlin: Other Worlds' at London's Design Museum, open until 4 April 2027, shows 30 years of the stage designer's notebooks, models and films around a circular '30-Year Desk'.",
+      "title": "Es Devlin retrospective at the Design Museum",
+      "url": "https://www.livedesignonline.com/staging/londons-design-museum-presents-es-devlin-other-worlds"
+    }
+  ],
+  "key": "2026-10-23",
+  "label": "Fri 23 Oct 2026",
+  "lead": "Biennale Musica under Caterina Barbieri ends in Venice tomorrow, drawing a sceptical review for its playlist-like breadth. Community firmware is keeping the discontinued OP-1 alive with ports of Mutable Instruments effects. The BBC will end Radio 4 Extra as a broadcast station, moving archive drama and comedy to BBC Sounds only. A field recordist's 2,600-mile sound map of the Pacific Crest Trail reached national public radio.",
+  "listen": {
+    "artist": "Annea Lockwood",
+    "url": "https://www.dramonline.org/albums/annea-lockwood-a-sound-map-of-the-hudson-river/notes",
+    "why": "Lockwood recorded the flow of the Hudson at 15 sites between April and December 1982, from Lake Tear of the Clouds on Mount Marcy, the river's source, down to Great Kills Beach on Staten Island. It was commissioned by the Hudson River Museum in Yonkers as an installation and released on CD by Lovely Music in 1989 (LCD 2081).",
+    "work": "A Sound Map of the Hudson River",
+    "year": "1982"
+  },
+  "photo": {
+    "alt": "An aeolian harp standing outdoors in the grounds of Tre-Ysgawen Hall on the Isle of Anglesey, Wales, photographed in December 2007. The strings sound when the wind blows from a particular direction.",
+    "credit": "Tim Stuart (geograph.org.uk)",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Aeolian_harp_at_Tre-Ysgawen_Hall_-_geograph.org.uk_-_918337.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aeolian_harp_at_Tre-Ysgawen_Hall_-_geograph.org.uk_-_918337.jpg",
+    "title": "Aeolian harp at Tre-Ysgawen Hall, Anglesey"
+  },
+  "poem": {
+    "author": "Eduard Mörike",
+    "lang": "German",
+    "note": "Complete poem, addressed to a wind harp, from Mörike's Gedichte; the text follows the 1910 selection edited by J. Loewenberg (pp. 33–34), which prints it without the Horace motto found in early editions. Mörike died in 1875 and the poem is in the public domain.",
+    "source": {
+      "label": "Project Gutenberg, Auswahl aus den Dichtungen Eduard Mörikes (1910)",
+      "url": "https://www.gutenberg.org/ebooks/56641.html.images"
+    },
+    "text": "Angelehnt an die Efeuwand\nDieser alten Terrasse,\nDu, einer luftgebornen Muse\nGeheimnisvolles Saitenspiel,\nFang an,\nFange wieder an\nDeine melodische Klage!\n\nIhr kommet, Winde, fern herüber\nAch! von des Knaben,\nDer mir so lieb war,\nFrisch grünendem Hügel.\nUnd Frühlingsblüten unterwegs streifend,\nÜbersättigt mit Wohlgerüchen,\nWie süß bedrängt ihr dies Herz\nUnd säuselt her in die Saiten,\nAngezogen von wohllautender Wehmut,\nWachsend im Zug meiner Sehnsucht\nUnd hinsterbend wieder.\n\nAber auf einmal,\nWie der Wind heftiger herstößt,\nEin holder Schrei der Harfe\nWiederholt, mir zu süßem Erschrecken,\nMeiner Seele plötzliche Regung,\nUnd hier – die volle Rose streut, geschüttelt,\nAll ihre Blätter vor meine Füße.",
+    "title": "An eine Äolsharfe",
+    "work": "Gedichte",
+    "year": "1838"
+  },
+  "radar": [
+    {
+      "date": "2026-10-24",
+      "note": "Last day of Caterina Barbieri's 'A Child of Sound'.",
+      "title": "Biennale Musica closes, Venice",
+      "url": "https://www.labiennale.org/en/news/biennale-musica-2026-child-sound"
+    },
+    {
+      "date": "2026-10-24",
+      "note": "Opens with The Naming of Names, a video installation with Chacon's soundtrack of field recordings and electronics; until 7 Nov 2027.",
+      "title": "Raven Chacon: New Work, SFMOMA",
+      "url": "https://www.sfmoma.org/exhibition/new-work-raven-chacon/"
+    },
+    {
+      "date": "2026-10-27",
+      "note": "Free Unsound talk on sound, perception and deception in conflict.",
+      "title": "Kode9 and Bogna Konior at e-flux, New York",
+      "url": "https://www.unsound.pl/en/news/unsound-new-york-2026-announces-further-music-and-discourse-programme-additions-festival-starts-this-tuesday"
+    },
+    {
+      "date": "2026-10-30",
+      "note": "Project proposals due 23:59.",
+      "title": "Daphne Oram at 100: deadline",
+      "url": "https://soundandmusic.org/opportunities/listing/daphne-oram-at-100-pioneer-of-electronic-music-and-sound-project-call-out/"
+    }
+  ],
+  "range": "16–23 Oct 2026",
+  "seed": {
+    "kind": "word",
+    "lang": "German",
+    "note": "Rauschen is the noun formed from the German verb rauschen. Duden defines the verb as making an even, sustained, muffled sound, like the leaves of trees moving strongly in the wind; its examples include the sea, the forest and a brook, wind in the branches, the silk of a dress, and the surf. The same entry gives the figurative example of a radio from which only a Rauschen could be heard.\n\nThe word covers both natural murmur and technical noise. DWDS lists compounds such as Meeresrauschen (the roar of the sea), Wasserrauschen and Bildrauschen (image noise), and the fixed expression weißes Rauschen, white noise.",
+    "source": {
+      "label": "Duden: rauschen; DWDS: Rauschen",
+      "url": "https://www.duden.de/rechtschreibung/rauschen"
+    },
+    "text": "Rauschen"
+  }
+}

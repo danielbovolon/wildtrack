@@ -1,0 +1,300 @@
+{
+  "crossover": {
+    "body": "Under the EU Environmental Noise Directive 2002/49/EC, member states must draw strategic noise maps every five years for major roads, railways, airports and urban areas of more than 100,000 people, and then adopt action plans based on them. The maps show long-term averaged A-weighted levels as contour bands 5 dB wide, with exposure reported from Lden 55 dB and Lnight 50 dB. They are mostly computed rather than measured: propagation models (many based on ISO 9613) are fed with traffic counts, speeds, sound power and terrain, and measurements are used mainly to check the results.",
+    "field": "Cartography",
+    "source": "European Environment Agency: Noise policy; Wikipedia: Noise map",
+    "title": "Strategic noise maps",
+    "url": "https://noiseportaleionet.eea.europa.eu/noise-policy"
+  },
+  "generated": "2026-10-29T07:20:00+01:00",
+  "headline": "Krause moves his archive abroad",
+  "items": [
+    {
+      "cat": "field",
+      "date": "2026-10-28",
+      "deep": "Krause wants the recordings held beyond the reach of political decisions, because many of them document habitats whose soundscapes have since thinned or vanished. He has long argued that a recording of a rainforest or reef is evidence of its ecological health, not just atmosphere. The originals stay with him; Paris holds the copy.\n\nFor field recordists the piece is a prompt to think about where their own archives live. Personal libraries often sit on a few drives in one place, with no plan for metadata, succession or institutional backup. Krause's choice of an art foundation, rather than a science archive, also shows that collections of this kind can find homes outside academic repositories.",
+      "free": true,
+      "signal": 3,
+      "source": "Mongabay",
+      "take": "In a Mongabay commentary, the soundscape ecologist says he has copied his whole field collection, thousands of hours, to the Fondation Cartier pour l'art contemporain in Paris. Over more than 50 years he has gathered over 5,000 hours of marine and land recordings. He started planning in 2017, when US research funding was cut and public datasets were taken down.",
+      "title": "Bernie Krause sends a copy of his archive to Paris",
+      "url": "https://news.mongabay.com/2026/10/why-i-sent-my-archive-of-natures-sounds-to-france-commentary"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-28",
+      "deep": "Frequency mattered as much as direction. At 1 kHz the 50% detection distance was only about 100 m, which the authors attribute to ground effects; 4–6 kHz tones stayed reliably detectable to about 250 m, while 8 kHz lost some range to air absorption. Higher humidity improved detection.\n\nThe numbers give unattended recording a measured basis: which way the unit points, which band the target occupies and the weather all change what reaches the file. That applies as much to someone leaving recorders out overnight for ambiences as to a monitoring survey, and it is a reminder that a recorder's 'detection space' is far from a circle.",
+      "free": true,
+      "signal": 3,
+      "source": "BioScience (on PLOS One)",
+      "take": "A PLOS One study led by Prabhat Sharma played pure tones from 1 to 8 kHz at 50–300 m to four Song Meter Micro recorders in fallow rice paddies in India's Western Ghats. Recorders facing the source detected 81% of tones; at 90° the figure fell to 31%, at 180° to 14% and at 270° to 12%. The authors propose a five-stage calibration framework before deployment.",
+      "title": "Recorders miss most sounds when they face away",
+      "url": "https://www.bioscience.com.pk/en/subject/ecology/sound-advice-a-calibration-framework-for-defining-detection-space-in-passive-acoustic-monitoring"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-28",
+      "deep": "Until now Reaper came with almost no instruments of its own. Because these ports are JSFX, Reaper's scripting format, their source opens in a text editor inside the DAW and can be changed and recompiled on the spot, with no build tools.\n\nThat makes them useful study material as well as sound sources: a working FM synth, a tonewheel organ model and a drum synth whose DSP you can read and modify line by line. For sound designers who already build JSFX utilities, they are templates for custom instruments that travel with the project file.",
+      "free": false,
+      "signal": 3,
+      "source": "Bedroom Producers Blog",
+      "take": "Cockos' Reaper 7.83 includes 39 JSFX instruments and effects ported from open-source projects by Christopher Hampson (chmaha). They include Jexed (from Dexed), JamSynth (amSynth), Dr Nine Drum Synthesiser (9W9), Synthy McSynthface (the MDA Piano, ePiano, JX10 and DX10) and Lord of the Rinks (setBfree organ). Reaper has a 60-day free evaluation.",
+      "title": "Reaper 7.83 ships 39 open-source instruments",
+      "url": "https://bedroomproducersblog.com/2026/10/28/reaper-now-has-instruments-reaper-7-83-includes-ports-of-various-open-source-instruments/"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-28",
+      "deep": "The guide is useful as an index of methods rather than a single article. It points to techniques such as a custom rattle rig for layered vibrations in Weapons, a metal vocalist recorded for an infected scream in 28 Years Later, and room tone with a hidden unsettling element in Hereditary.\n\nIt also collects practical Foley tricks: an umbrella opened and shut for bat wings, a toilet-tank lid slid across a surface for a stone coffin, and metal pressed on dry ice for creature voices. For anyone cutting genre work, it is a quick way into many first-hand accounts of how specific scary sounds were built.",
+      "free": true,
+      "signal": 3,
+      "source": "A Sound Effect",
+      "take": "A Sound Effect has collected its horror interviews and tutorials into one guide covering more than 70 films, series and games. It links new pieces on IT: Welcome to Derry, Scream 7 and The Long Walk alongside older talks with Johnnie Burn, Paula Fairfield and Erik Aadahl. Newsletter subscribers can download a free Jump Scares pack (344 sounds, 100 files, 96 kHz) until 31 October.",
+      "title": "A Sound Effect gathers its horror sound interviews",
+      "url": "https://www.asoundeffect.com/ultimate-guide-horror-sound/"
+    },
+    {
+      "cat": "film",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 2,
+      "source": "Tonebenders",
+      "take": "Tonebenders episode 382 was recorded at the console in Goldcrest's Theatre One in London while the mix of Laika's stop-motion feature Wildwood was still under way. Guests include re-recording mixers Mike Prestwood Smith and Gilbert Lake, supervising sound editors Luke Gentry and Ben Meechan, and sound designer Chris Howard. The episode covers ADR, Foley and design technique.",
+      "title": "Tonebenders: mixing Laika's Wildwood",
+      "url": "https://tonebenderspodcast.com/382-wildwood/"
+    },
+    {
+      "cat": "nature",
+      "date": "2026-10-27",
+      "free": true,
+      "signal": 2,
+      "source": "NorthEast Now",
+      "take": "Researchers from MIT World Peace University's Urban Owl Project surveyed 33 one-square-kilometre cells in Guwahati, Assam, eight times each between November 2023 and July 2025, by sight and sound. They found eight owl species in 24 cells, but detection was very low, around 3% for the barn owl. Ambient noise was the most consistent factor reducing detection; the study is in Urban Ecosystems.",
+      "title": "Traffic noise hides city owls from surveys",
+      "url": "https://nenow.in/north-east-news/assam/assam-study-records-eight-owl-species-in-guwahati-identifies-urban-noise-as-key-detection-barrier.html"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-27",
+      "free": true,
+      "signal": 2,
+      "source": "Podnews",
+      "take": "Podnews reports that the hosting platform Spreaker allowed users to copy well-known podcasts, host them and sell ads in them with few checks. It found more than 1,700 duplicated shows, including programmes from Vox Media, Goalhanger and SiriusXM. One affected host, Lisa Lacy, saw a copy of her show charting within five days. The report carried no response from Spreaker.",
+      "title": "Copied podcasts hosted and monetised on Spreaker",
+      "url": "https://podnews.net/update/podcast-host-copy-shows"
+    },
+    {
+      "cat": "radio",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 2,
+      "source": "The Art Newspaper",
+      "take": "Los Angeles artist Ian James has launched KHLZ, an unlicensed, itinerant radio station broadcasting from a converted caravan near Joshua Tree. It went on air at sunset on 24 October and runs overnight, from 5pm to 9am, playing New Age music from the 1970s onwards. It also streams online and is planned to travel for pop-up events.",
+      "title": "An artist's pirate station in a desert caravan",
+      "url": "https://www.theartnewspaper.com/2026/10/28/ian-james-pirate-radio-station-khlz-caravan-joshua-tree"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 2,
+      "source": "Synthtopia",
+      "take": "Push and Groove has released MICRONIX, a free monophonic synth for Mac and Windows built on Mutable Instruments' MIT-licensed Plaits code. It offers 24 models, from virtual analogue and FM to granular, physical modelling and percussion, each with Harmonics, Timbre and Morph controls. It adds LFOs, a four-row mod matrix and a choice of ADSR or a Plaits-style low-pass gate. The developer is not affiliated with Mutable Instruments.",
+      "title": "MICRONIX puts Plaits in a free plugin",
+      "url": "https://www.synthtopia.com/content/2026/10/28/free-micronix-synthesizer-brings-24-plaits-based-synthesis-models-to-your-daw/"
+    },
+    {
+      "cat": "tools",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 2,
+      "source": "KVR Audio",
+      "take": "After receiving 44 developer applications in 48 hours, KVR Audio will send product news from new, unapproved developers to a separate forum instead of its front page. Accounts registered before 1 January 2026 are treated as approved for now. KVR says it accepts responsible use of AI, but a person must review finished work and take responsibility for it.",
+      "title": "KVR tightens news rules for new developers",
+      "url": "https://www.kvraudio.com/news/kvr-audio-ai-policies-upcoming-changes-to-our-news-coverage-and-guidelines-for-developers-69478"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 2,
+      "source": "MusicRadar",
+      "take": "In MusicRadar, Si Truss looks at Behringer's planned $150 Kick sampler, whose firmware was posted on GitHub before release with an invitation to extend it using AI tools. He credits open projects such as VCV Rack and Surge XT, but argues that open firmware can shift the job of fixing and updating instruments from makers to users. He also warns of a flood of untested, AI-written firmware.",
+      "title": "Open firmware, and who does the work",
+      "url": "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware"
+    },
+    {
+      "cat": "sounddesign",
+      "date": "2026-10-26",
+      "free": false,
+      "signal": 2,
+      "source": "Production Expert",
+      "take": "NUGEN Audio's VisLM 3 adds a Loudness-to-Dialogue Ratio (LDR) reading: the gap between programme loudness and dialogue loudness, which flags dynamic mixes likely to cause intelligibility complaints. One instance can now monitor stems alongside the full mix, and loudness QC reports can be exported. It supports formats up to 9.1.6 and costs $499.",
+      "title": "VisLM 3 measures dialogue against programme",
+      "url": "https://www.production-expert.com/production-expert-1/nugen-vislm-3-adds-stem-monitoring-ldr-measurement-and-qc-reports"
+    },
+    {
+      "cat": "art",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 1,
+      "source": "designboom",
+      "take": "Designer and artist Duyi Han's exhibition 'it's raining outside, it's raining inside' runs at VILLA tbh, a Shanghai residence, until 22 November. Developed during a multi-week residency, it builds a rain-themed 'Listening Garden' from custom textiles, embroidery and sound inside a domestic interior.",
+      "title": "Duyi Han's rain listening garden",
+      "url": "https://www.designboom.com/art/duyi-han-rain-inspired-textile-listening-garden-shanghai-villa/"
+    },
+    {
+      "cat": "music",
+      "date": "2026-10-27",
+      "free": false,
+      "signal": 1,
+      "source": "Bandcamp Daily",
+      "take": "Bandcamp Daily profiles the Seoul band LEENALCHI, whose debut SUGUNGGA adapts one of the five classic pansori stories and is being reissued by Luaka Bop. The line-up of two bass guitars, drums and voices echoes pansori's singer-and-drummer format, keeping harmony sparse. The instruments play in four while the voices phrase in three, so the pulse seems to shift.",
+      "title": "LEENALCHI: pansori for two basses and drums",
+      "url": "https://daily.bandcamp.com/features/leenalchi-sugungga-feature"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-28",
+      "free": false,
+      "signal": 1,
+      "source": "CDM",
+      "take": "Dutch instrument builder Gijs Gieskes has made HAND, a module shaped like a hand that walks and plays a Halloween song. A gate input switches it on and off, its audio output is 8 V peak to peak, and it runs on three AAA batteries. Price and availability were not given.",
+      "title": "Gieskes builds a crawling Eurorack hand",
+      "url": "https://cdm.link/hand-for-eurorack/"
+    },
+    {
+      "cat": "visual",
+      "date": "2026-10-27",
+      "free": false,
+      "signal": 1,
+      "source": "KVR Audio",
+      "take": "VGTrumpet's VG Windscape pairs a pad and texture instrument with visuals that run in Chrome from the same MIDI: breath moves a brush, and notes place it and set its colour, painting from bundled or user photos. Scenes change on a timer or note, there is a projector mode, and sound and image can be recorded together. It costs $59 for Mac and Windows; the visuals can be tried free in a browser.",
+      "title": "VG Windscape paints with breath",
+      "url": "https://www.kvraudio.com/news/vgtrumpet-releases-vg-windscape-audiovisual-instrument---vst-au-standalone-app-69453"
+    },
+    {
+      "cat": "synthesis",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 1,
+      "source": "gearnews",
+      "take": "Firmware 1.2 for SOMA's screenless Warp effects box adds a Lo-Fi Mode to seven reverb, granular and micro-loop algorithms. It halves the sample rate of the spatial processing from 48 kHz to 24 kHz for a grainier tail. Owners can update from SOMA's site; newer units ship with it.",
+      "title": "SOMA Warp gets a lo-fi mode",
+      "url": "https://www.gearnews.com/soma-warp-synth/"
+    },
+    {
+      "cat": "access",
+      "date": "2026-10-28",
+      "free": true,
+      "signal": 1,
+      "source": "Hearing Health & Technology Matters",
+      "take": "Eighteen audiology experts have updated the 2020 recommendations for adults with severe or profound sensorineural hearing loss, published in Seminars in Hearing. Hearing-aid fitting advice includes multichannel wide dynamic range compression, output limiting and verified fittings. New topics include cochlear implant candidacy, bimodal hearing, Auracast broadcast audio and sign language support.",
+      "title": "New guidelines for severe and profound hearing loss",
+      "url": "https://hearinghealthmatters.org/hearing-news-watch/2026/guidelines-severe-profound-hearing-loss/"
+    },
+    {
+      "cat": "space",
+      "date": "2026-10-26",
+      "free": true,
+      "signal": 1,
+      "source": "The National",
+      "take": "Abu Dhabi's culture department has set up Youth Orchestra Abu Dhabi, opening in January 2027 in a building by the late Frank Gehry in Mina Zayed. It has a 600-seat concert hall and 18 rehearsal and practice rooms. Children aged six to nine get free tuition and instruments in Western classical and Arabic traditions.",
+      "title": "Gehry-designed home for an Abu Dhabi youth orchestra",
+      "url": "https://www.thenationalnews.com/arts-culture/music-stage/2026/10/26/abu-dhabi-announces-new-youth-orchestra-with-free-music-education/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-10-30",
+      "free": true,
+      "signal": 2,
+      "source": "Sound and Music",
+      "take": "The Daphne Oram Trust is choosing four people to give ten-minute presentations of a project or work in progress at its centenary day at the National Science and Media Museum, Bradford, on 21 November. It is open internationally to over-18s who can attend, with a travel bursary of up to £200. Applications close Friday 30 October at 23:59.",
+      "title": "Daphne Oram at 100: presenters wanted, deadline 30 October",
+      "url": "https://soundandmusic.org/opportunities/listing/daphne-oram-at-100-pioneer-of-electronic-music-and-sound-project-call-out/"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-11-21",
+      "free": false,
+      "signal": 1,
+      "source": "Totem contemporain",
+      "take": "The third Totem Electroacoustic Competition asks for a fixed-media work of at least seven minutes, stereo or up to eight channels, built from up to 50 sounds chosen from a bank of about 1,600. Prizes are CAD 2,500, 1,500 and 1,000, with residencies and a CD release. Registration closes 21 November and works are due 21 December; entry costs CAD 45, which can be waived.",
+      "title": "Totem electroacoustic competition: register by 21 November",
+      "url": "https://totemcontemporain.com/en/totem-electroacoustic-competition"
+    },
+    {
+      "cat": "calls",
+      "date": "2026-12-02",
+      "free": true,
+      "signal": 1,
+      "source": "MUTEK",
+      "take": "The 11th Atelier Grand Nord XR is a development workshop for virtual, augmented and mixed reality projects, held 9–14 April 2027 in Quebec's Eastern Townships. It is open to French-speaking teams from France, Switzerland, Luxembourg and Québec. Applications close 2 December 2026.",
+      "title": "MUTEK and SODEC open Atelier Grand Nord XR",
+      "url": "https://montreal.mutek.org/en/news/call-for-projects-11th-edition-of-atelier-grand-nord-xr"
+    }
+  ],
+  "key": "2026-10-29",
+  "label": "Thu 29 Oct 2026",
+  "lead": "Bernie Krause, who founded soundscape ecology, has copied his field recording collection to the Fondation Cartier in Paris to keep it out of reach of US politics. A PLOS One study shows how much a passive recorder misses when it faces the wrong way, and an urban survey in Guwahati found traffic noise hiding owls from researchers. Reaper 7.83 now ships 39 open-source instruments and effects as editable JSFX. A Sound Effect gathered its horror sound interviews into one guide, with a free jump-scare pack until 31 October.",
+  "listen": {
+    "artist": "Francisco López",
+    "url": "https://aeinews.org/aeiarchive/writings/lopezlaselvanotes.html",
+    "why": "A single long piece built from recordings made in La Selva, a lowland rainforest reserve in Costa Rica, edited into the shape of one day of the rainy season, from night to night. López states that the recordings were not processed, mixed or added to, and that human sounds were avoided or edited out. In his liner essay he argues for 'blind' listening to sound matter rather than documentary representation, and writes that what is on the disc is not La Selva. It was released by V2_Archief in the Netherlands.",
+    "work": "La Selva",
+    "year": "1998"
+  },
+  "photo": {
+    "alt": "A close-up of part of Daphne Oram's Oramics Machine, the drawn-sound synthesiser she built from the late 1950s and now held by the Science Museum, London.",
+    "credit": "via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Oramics_Machine_-_details_2.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Oramics_Machine_-_details_2.jpg",
+    "title": "Oramics Machine, detail"
+  },
+  "poem": {
+    "author": "Alfred Tennyson",
+    "lang": "English",
+    "note": "First printed in 1830 in Poems, Chiefly Lyrical. Tennyson died in 1892, so the poem is in the public domain; the text follows John Churton Collins's edition of The Early Poems, as transcribed by Project Gutenberg.",
+    "source": {
+      "label": "Project Gutenberg: The Early Poems of Alfred Lord Tennyson",
+      "url": "https://www.gutenberg.org/cache/epub/8601/pg8601.html"
+    },
+    "text": "When cats run home and light is come,\nAnd dew is cold upon the ground,\nAnd the far-off stream is dumb,\nAnd the whirring sail goes round,\nAnd the whirring sail goes round;\nAlone and warming his five wits,\nThe white owl in the belfry sits.\n\nWhen merry milkmaids click the latch,\nAnd rarely smells the new-mown hay,\nAnd the cock hath sung beneath the thatch\nTwice or thrice his roundelay,\nTwice or thrice his roundelay;\nAlone and warming his five wits,\nThe white owl in the belfry sits.",
+    "title": "Song—The Owl",
+    "work": "Poems, Chiefly Lyrical",
+    "year": "1830"
+  },
+  "radar": [
+    {
+      "date": "2026-11-21",
+      "note": "Talks, workshops and presentations at the National Science and Media Museum, 11am to 6pm.",
+      "title": "Daphne Oram centenary day, Bradford",
+      "url": "https://www.daphneoram.org/centenary-celebrations/"
+    },
+    {
+      "date": "2026-11-22",
+      "note": "Kingsley Ng and Angel Hui's Biennale collateral show about the pauses between sounds ends its run at Campo della Tana.",
+      "title": "Fermata: Hong Kong in Venice closes",
+      "url": "https://www.e-flux.com/announcements/6788495/fermata-hong-kong-in-venice"
+    },
+    {
+      "note": "The Kraków festival's London edition runs over four days.",
+      "title": "Unsound London",
+      "url": "https://www.unsound.pl/en/news/unsound-london-program-announced-taking-place-november-25-28",
+      "when": "25–28 Nov 2026"
+    }
+  ],
+  "range": "26–29 October 2026",
+  "seed": {
+    "by": "Daphne Oram",
+    "kind": "quote",
+    "note": "Daphne Oram (31 December 1925 – 5 January 2003) was a British composer and electronic musician. In 1956 she wrote a report to BBC managers proposing a dedicated, experimental electronic workshop, setting out what the new sonic means could offer a composer; this line comes from that report. The BBC gave Oram and Desmond Briscoe a budget to set up the BBC Radiophonic Workshop in early 1958.\n\nOram left the BBC soon after and went on to develop Oramics, a drawn-sound technique she designed in 1957: shapes painted on strips of 35 mm film were read by the machine and turned into pitch, timbre and loudness. The Daphne Oram Trust is marking her centenary with a day of talks and workshops at the National Science and Media Museum, Bradford, on 21 November 2026.",
+    "source": {
+      "label": "Daphne Oram Trust: biography",
+      "url": "https://daphneoram.org/?p=4264"
+    },
+    "text": "Timbres have no registration and theoretically any sound, musical or otherwise, is within his grasp.",
+    "work": "Report to BBC managers proposing an electronic music workshop",
+    "year": "1956"
+  }
+}
