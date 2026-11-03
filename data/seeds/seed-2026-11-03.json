@@ -1,0 +1,289 @@
+{
+ "key": "2026-11-03",
+ "label": "Tue 3 Nov 2026",
+ "range": "1 November – 3 November 2026",
+ "generated": "2026-11-03T12:01:25+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Tape loop",
+  "note": "In music, tape loops are loops of magnetic tape used to create repetitive, rhythmic musical patterns or dense layers of sound when played on a tape recorder. Originating in the 1940s with the work of Pierre Schaeffer, they were used among contemporary composers of 1950s and 1960s, such as Éliane Radigue, Steve Reich, Terry Riley, and Karlheinz Stockhausen, who used them to create phase patterns, rhythms, textures, and timbres. Popular music authors of 1960s and 1970s, particularly in psychedelic, progressive and ambient genres, used tape loops to accompany their music with innovative sound effects.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Tape loop",
+   "url": "https://en.wikipedia.org/wiki/Tape_loop"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2025_Ko%C5%82obrzeg_kataryniarz_01.jpg/1920px-2025_Ko%C5%82obrzeg_kataryniarz_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2025_Ko%C5%82obrzeg_kataryniarz_01.jpg",
+  "title": "2025 Kołobrzeg kataryniarz 01",
+  "alt": "Kataryniarz przy plaży w Kołobrzegu w 2025 roku",
+  "credit": "Zala",
+  "licence": "CC BY-SA 4.0",
+  "category": "Barrel organs"
+ },
+ "listen": {
+  "artist": "Mort Garson",
+  "work": "Mother Earth's Plantasia",
+  "why": "Mother Earth's Plantasia is an electronic album by Mort Garson released in 1976.",
+  "url": "https://en.wikipedia.org/wiki/Mother_Earth's_Plantasia",
+  "quoted": true,
+  "year": "1976"
+ },
+ "crossover": {
+  "field": "Film editing",
+  "title": "The Kuleshov effect",
+  "body": "The Kuleshov effect is a film editing (montage) effect demonstrated by Russian filmmaker Lev Kuleshov in the 1910s and 1920s. It is a cognitive phenomenon by which viewers derive more meaning from the interaction of two sequential shots than from a single shot in isolation. Prior to the 1960s, the phenomenon was sometimes known as the Pudovkin effect and the Mozzhukhin experiment.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kuleshov_effect",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 12 sources over the last 48 hours, including A Sound Effect, Production Expert, CDM, Synthtopia, Synth Anatomy and 7 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Mixxx could unlock free and open standalone DJing — but, like, stable",
+   "take": "Daniel Schürmann of the long-running libre/free DJ software project Mixxx has a compelling proposal for uniting efforts to develop their DJ software on embedded hardware, from emerging cheap \"open\" hardware to DIY projects.",
+   "source": "CDM",
+   "url": "https://cdm.link/mixxx-could-unlock-free-and-open-standalone-djing/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "DROIDS: How a Lucasfilm team invented the DAW – go behind Matteo Milani’s new book (and get it for free!)",
+   "take": "Matteo Milani takes you behind his new book + shares stories behind synthesized arrows for Indiana Jones, washing-machine-sized hard disks - and how Hollywood reacted to seeing sound for the first time:",
+   "source": "A Sound Effect",
+   "url": "https://www.asoundeffect.com/droids-book/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "ARA Plugins In 2026 - What’s Available And Why You Should Care",
+   "take": "Since its beginnings in the early 2010s, ARA has since become the plugin format to be reckoned with. With an ever expanding pool of processors that can access the tech, here we roundup not only what’s out there, but also what ARA-enabled magic means for you and your timeline.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/ara-plugins-in-2026-whats-available-and-why-you-should-care"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "MONAD turns the Maschine MK3 MIDI controller into an 8-part sampling groovebox",
+   "take": "MONAD is a personal project by Shift Sync that turns the Maschine MK3 MIDI controller into an 8-part sampling groovebox with multiple engines. Over the past few weeks, many music tech products have been turned [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/monad-turns-the-maschine-mk3-midi-controller-into-an-8-part-sampling-groovebox.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "BangZilla releases Wave Theory, a MIDI plugin that turns waveforms into melodies",
+   "take": "BangZilla has released Wave Theory, a MIDI sequencer that turns the shape of a waveform into melodies for your software and hardware instruments. Created with UK instrument makers Boxed Ear, Wave Theory costs $59 / €49 / £49.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/02/bangzilla-wave-theory/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "Behringer Teases $200 Polykeys 61 MIDI Controller With Polyphonic Aftertouch",
+   "take": "The POLYKEYS 61 will offer 61 mini keys with polyphonic aftertouch, plus a ribbon controller.… Read More Behringer Teases $200 Polykeys 61 MIDI Controller With Polyphonic Aftertouch",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/02/behringer-teases-200-polykeys-61-midi-controller-with-polyphonic-aftertouch/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "XLN Audio RC-20 Retro Color v2 Update: A Wide World of New Effects!",
+   "take": "Now in version 2, XLN Audio RC-20 Retro Color expands with a range of different effects across its various modules and an improved workflow.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/xln-audio-rc-20-retro-color-studio/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence",
+   "take": "As celebrations of Daphne Oram's centenary culminate with an all-day celebration in Bradford, Claire Biddles speaks to a host of artists, from her contemporaries to previous Oram Award winners, to get a measure of her immense contribution to electronic music Photo © Daphne Oram Trust The pioneering…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/news/daphne-oram-at-100-bradford-influence-hannah-peel-annea-lockwood/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Edu Request - Chalalai Konggiatnarong",
+   "take": "Derivative Username Glow_Nun Full name Chalalai Konggiatnarong Academic email chalalai.kon@student.mahidol.ac.th Address 119 สุขุมวิท 62 แยก 1 City พระโขนง State / Province กรุงเทพมหานคร Zip code 10260 Country Thailand Phone number 0810651450 Educational Institution Mahidol University Phone Number…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-chalalai-konggiatnarong/75623"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "The Components for Life May Not Have Arrived By Comet",
+   "take": "When it comes to abiogenesis, i.e. the formation of the first biological cells on Earth, there are many theories on how this got kickstarted. One of the more popular theories …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/03/the-components-for-life-may-not-have-arrived-by-comet/"
+  },
+  {
+   "cat": "art",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "Ana Mendieta's Lasting Imprint on Art",
+   "take": "A major survey at Tate Modern asks us to take notice of the earth, the power of the female body, and the artist’s remarkable practice.",
+   "source": "Hyperallergic",
+   "url": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "Nikon Raises Profit Forecast by 50% – but Cuts Its Camera Sales Plan for the Holiday Half",
+   "take": "Nikon just raised its full-year profit forecast by 50%, and if you only read the headline number, that sounds like great news for a company that lost more than ¥100 billion last year.",
+   "source": "CineD",
+   "url": "https://www.cined.com/nikon-raises-profit-forecast-by-50-but-cuts-its-camera-sales-plan-for-the-holiday-half/"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "12 great new sound effects libraries: Cinematic explosions, barking dogs, Roman ambiences, jungles of Laos & more",
+   "take": "Explore 12 new sound effects libraries, including cinematic explosions, dogs barking across a Spanish valley, Roman ambiences, the jungles of Laos, and more.",
+   "source": "A Sound Effect",
+   "url": "https://www.asoundeffect.com/12-new-sound-effects-libraries-explosions-dog-barks/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-01",
+   "title": "The techno originator, Juan Atkins, has died at 64",
+   "take": "It's a loss that's beyond words. Juan Atkins, who coined the term \"techno\" and is often called \"the originator,\" has died at 64. My deepest condolences to friends, family, and so many people I know who worked with and were inspired by this singular human being.",
+   "source": "CDM",
+   "url": "https://cdm.link/the-techno-originator-juan-atkins-has-died-at-64/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "How Bogren A-Class Vocal Recreates Type-A Vocal Sheen",
+   "take": "Hoping to summon the elixir of noise-reduction hardware used with a twist, Bogren’s latest foray into the world of plugin effects for any instrument promises big studio sheen for voices and more. Here we strap A-Class Vocal across our tracks to see if its aeriated signature can deliver.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/how-bogren-a-class-vocal-recreates-type-a-vocal-sheen"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "Polyend Tracker family now open-source and community update with major new features",
+   "take": "Polyend has announced that its entire Tracker family (OG, + and Mini) is going open source, and they released a community update 1.0 with major new features. AI has turned the music-tech market upside down, [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/polyend-tracker-family-now-open-source-and-community-update-with-major-new-features.html"
+  },
+  {
+   "cat": "space",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "Detroit Techno Pioneer & Electronic Music Visionary Juan Atkins Has Died At The Age Of 64",
+   "take": "Juan Atkins, a founding architect of Detroit techno, has died at 64, leaving behind a body of work that helped transform electronic music into a global movement.… Read More Detroit Techno Pioneer & Electronic Music Visionary Juan Atkins Has Died At The Age Of 64",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/02/detroit-techno-pioneer-electronic-music-visionary-juan-atkins-has-died-at-the-age-of-64/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "PSP Audioware releases ClassicQlite, a FREE British-style EQ plugin",
+   "take": "PSP Audioware has released PSP ClassicQlite, a free British-style equalizer plugin for macOS and Windows, inspired by classic console designs, including early Neve EQs.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/02/psp-audioware-releases-classicqlite-a-free-british-style-eq-plugin/",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Steven Slate Audio VSX Horizon One: A Major Update for the Flexible VSX Ecosystem",
+   "take": "The Steven Slate Audio VSX Horizon One expands the popular VSX headphone range, alongside the release of MSX for AirPods Pro and VSX 8.0.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/steven-slate-audio-vsx-horizon-one-studio/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Marta Salogni & Stefano Pilia – Phren",
+   "take": "Marta Salogni & Stefano Pilia Phren Spooky sounds from two Italian masters of modern electro-acoustic composition Phren by Marta Salogni & Stefano Pilia Marta Salogni and Stefano Pilia’s Phren is music of accretion.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/marta-salogni-stefano-pilia-phren-review/"
+  },
+  {
+   "cat": "space",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Edu Request - 김 민서",
+   "take": "Derivative Username KIMMINSEOddd Full name 김 민서 Academic email ysc9356@khu.ac.kr Address 105, Gulp-ro, Bupyeong-gu, Incheon, Republic of Korea, Building 101, Unit 705, Samsan Town 1 Complex City Incheon State / Province Incheon Zip code 21328 Country South Korea Phone number +82-10-8971-3365…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-%EA%B9%80-%EB%AF%BC%EC%84%9C/75622"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "RME Control 3.5 Puts TotalMix FX Volume, Dim And Mono Controls In The Mac Menu Bar",
+   "take": "A developer on RME’s user forum has released RME Control 3.5, a third-party macOS menu bar app that controls RME audio interfaces through TotalMix FX.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/rme-control-35-puts-totalmix-fx-volume-dim-and-mono-controls-in-the-mac-menu-bar"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-02",
+   "title": "4Pockets SpectraPad: a spectral synth (iPadOS/macOS) built for hands-on sound design",
+   "take": "4Pockets SpectraPad is a new spectral Synthesizer for iPadOS and macOS with an immediate, hands-on operating concept made for everyone. Additive, spectral, and resynthesis-based synthesizers are enjoying a major renaissance in 2026. More new desktop [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/4pockets-spectrapad-a-spectral-synth-ipados-macos-built-for-hands-on-sound-design.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-01",
+   "title": "Craig Padilla – Surface Ascent (Live Performance)",
+   "take": "Ambient/space music artist Craig Padilla shared this live performance of Surface Ascent, an extended electronic instrumental piece, in four parts. … Read More Craig Padilla – Surface Ascent (Live Performance)",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/01/craig-padilla-surface-ascent-live-performance/"
+  }
+ ]
+}
