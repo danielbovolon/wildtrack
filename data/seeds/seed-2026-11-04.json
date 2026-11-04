@@ -1,0 +1,248 @@
+{
+ "key": "2026-11-04",
+ "label": "Wed 4 Nov 2026",
+ "range": "2 November – 4 November 2026",
+ "generated": "2026-11-04T14:04:09+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "sussurro",
+  "lang": "Italian",
+  "note": "Italian noun. Wiktionary gives: (1) whisper , rustle , murmur",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: sussurro",
+   "url": "https://en.wiktionary.org/wiki/sussurro#Italian"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Atrapar_el_sonido_Fundaci%C3%B3n_Telef%C3%B3nica_02_Fonoaut%C3%B3grafo.jpg/1920px-Atrapar_el_sonido_Fundaci%C3%B3n_Telef%C3%B3nica_02_Fonoaut%C3%B3grafo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Atrapar_el_sonido_Fundaci%C3%B3n_Telef%C3%B3nica_02_Fonoaut%C3%B3grafo.jpg",
+  "title": "Atrapar el sonido Fundación Telefónica 02 Fonoautógrafo",
+  "alt": "Fonoautógrafo en la muestra Atrapando el Sonido de la Fundación Telefónica.",
+  "credit": "Sergio Moises Panei Pitrau",
+  "licence": "CC BY-SA 4.0",
+  "category": "Phonographs"
+ },
+ "listen": {
+  "artist": "Luciano Berio",
+  "work": "Sinfonia",
+  "why": "Sinfonia is a 1968 work by the Italian composer Luciano Berio commissioned by the New York Philharmonic and dedicated to Leonard Bernstein. The \"singing voices\" are not incorporated classically but rather speak, whisper and shout excerpts from texts in order to paint in sound an abstract and distorted history of culture. They are usually amplified.",
+  "url": "https://en.wikipedia.org/wiki/Sinfonia_(Berio)",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Museum and exhibition design",
+  "title": "Hornbostel–Sachs classification",
+  "body": "Hornbostel–Sachs or Sachs–Hornbostel is a system of musical instrument classification devised by Erich Moritz von Hornbostel and Curt Sachs. This system was first published in the Zeitschrift für Ethnologie in 1914. An English translation was published in the Galpin Society Journal in 1961, which is the most widely used system for classifying musical instruments by ethnomusicologists and organologists. The system was updated in 2011 as part of the work of the Musical Instrument Museums Online (MIMO) Project.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "20 new stories from 8 sources over the last 48 hours, including Production Expert, Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews and 3 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Steven Slate Audio Releases VSX Horizon One Headphones And VSX 8.0",
+   "take": "Steven Slate Audio has released the VSX Horizon One reference headphone and VSX 8.0 software, which adds a Room control and works with existing VSX headphones. We have the details.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/steven-slate-audio-releases-vsx-horizon-one-headphones-and-vsx-80"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Old Blood Noise Endeavors IOTA: a wavetable synth in a TV monitor guitar pedal",
+   "take": "The Old Blood Noise Endeavors IOTA resembles a classic guitar pedal, but it has no input—instead, it’s a standalone Synthesizer. The American developer Old Blood Noise Endeavors—or OBNE for short—is best known for its guitar [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/old-blood-noise-endeavors-a-wavetable-synth-in-a-tv-monitor-guitar-pedal.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "How To ‘Vibe Code’ Your Own Firmware For The M-Vave FM-1 Synthesizer",
+   "take": "In his latest video, synthesist Floyd Steinberg looks at the alternate firmware revolution of the M-Vave FM-1 synthesizer. … Read More How To ‘Vibe Code’ Your Own Firmware For The M-Vave FM-1 Synthesizer",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/03/how-to-vibe-code-your-own-firmware-for-the-m-vave-fm-1-synthesizer/"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Black Salt Audio offers Low Control bass processor FREE until November 12",
+   "take": "Black Salt Audio is offering Low Control, its $79 low-end compressor and harmonic enhancer for macOS and Windows, for free until November 12. This one is pretty useful if you work with a lot of heavy bass, whether for sound design or electronic music.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/",
+   "free": true
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Steinberg Cubase 16: Exciting New Creative Production Features",
+   "take": "In Steinberg Cubase 16, the professional DAW offers intelligent upgrades across the board, from audio and MIDI editing to flexible processing tools.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/steinberg-cubase-daw-studio/"
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Edu Request - Ewan Cass-Kavanagh",
+   "take": "Derivative Username Ewanck2 Full name Ewan Cass-Kavanagh Academic email Ecass002@gold.ac.uk Address 7 Park Close City LONDON State / Province Middlesex Zip code E9 7LF Country United Kingdom Phone number 07776370339 Educational Institution Goldsmiths, University of London Phone Number of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-ewan-cass-kavanagh/75636"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Andy Ingamells – Vanity Project",
+   "take": "Andy Ingamells Vanity Project The solo debut album by the British composer-performer is full of fun – and no shortage of questions “Search for fun, types of fun, source of fun, apply for fun, awarded fun, get fun, have fun,” enumerates Andy Ingamells in the opener of his first solo album Vanity…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/andy-ingamells-vanity-project/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Americans Place “I Voted” Stickers on Memorials to ICE Victims",
+   "take": "Voting stickers appeared across memorials dedicated to Lorenzo Salgado Araujo and Alex Pretti, both of whom were killed by ICE agents earlier this year.",
+   "source": "Hyperallergic",
+   "url": "https://hyperallergic.com/americans-place-i-voted-stickers-on-memorials-to-ice-victims/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "What Makes a Foley Session Perfect? Perspectives from Industry Pros",
+   "take": "Tom Soumm is a Foley artist and co-owner of the Foley Makers studio. With every new project, he learns more about this craft. Naturally, he is personally interested in what a perfect Foley session looks like in clients' eyes.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/what-makes-a-foley-session-perfect-perspectives-from-industry-pros"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Synthux Academy Audrey III: the evolution of the feedback-driven Synthesizer",
+   "take": "Synthux Academy Audrey III is the third version of the unique feedback-driven horroscape Synthesizer, now with three engines and more. Many synthesizers are out there, but some stand out—making the market diverse and interesting. The [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/synthux-academy-audrey-iii-the-evolution-of-the-feedback-driven-synthesizer.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Expressive E GForce Collection Offers 500 MPE Presets For Expressive Synthesis",
+   "take": "Expressive E's new GForce Collection combines two GForce software synthesizers with 500 MPE presets designed for expressive, multidimensional performance.… Read More Expressive E GForce Collection Offers 500 MPE Presets For Expressive Synthesis",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/03/expressive-e-gforce-collection-offers-500-mpe-presets-for-expressive-synthesis/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Expetri is a petri-dish synth with a FREE version, but I still much prefer regular synths",
+   "take": "Expetri is an experimental synthesizer for macOS and Windows with a free version that lets you build sounds by stirring cells in a virtual petri dish. Simply put, Expetri swaps the usual panel of synth knobs for drifting cells that split and blend into each other’s waveforms.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/03/expetri-neural-synth/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Blackstar Beam Control: Wireless Footswitch for the Beam Series, Plus a New Rig!",
+   "take": "With Beam Control, you get a wireless, Bluetooth-powered footswitch for the Blackstar Beam Mini. And there's a new rig, too!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/blackstar-beam-control-guitar/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Edu Request - Lin Guan-Ming",
+   "take": "Derivative Username guanming Full name Lin Guan-Ming Academic email guanming@gm.hfu.edu.tw Address No.1, Huafan Rd. City New Taipei City State / Province N/A Zip code 223 Country Taiwan Phone number +886-963-333-388 Educational Institution Huafan University Phone Number of Educational Institution…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-lin-guan-ming/75635"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "Dreadbox Dysphonia, Antiphon & Hypnosis synths & multi-FX are back as limited time reissues",
+   "take": "Dreadbox has released reissues of its Eurorack-compatible Dysphonia and Antiphon analog synthesizers and of the Hypnosis multi-FX processor Today, Dreadbox released the Alecto, a new drum synthesizer in the same format as the Hades, Erebus, [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/dreadbox-dysphonia-antiphon-hypnosis-synths-multi-fx-are-back-as-limited-time-reissues.html"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "iZotope Photon Brings GPU Stem Separation And Dialogue Cleanup To ARA2",
+   "take": "iZotope Photon splits mixes into drum, dialogue and speaker stems on your GPU from $349. We weigh it against RX 12 Advanced and SpectraLayers Pro 12.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/izotope-photon-brings-gpu-stem-separation-and-dialogue-cleanup-to-ara2"
+  },
+  {
+   "cat": "calls",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "New Video Competition Offering Three Continuum Synthesizers As Prizes",
+   "take": "Show off how you play, and you could win one of three high-end Continuum synthesizers!… Read More New Video Competition Offering Three Continuum Synthesizers As Prizes",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/03/new-video-competition-offering-three-continuum-synthesizers-as-prizes/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-03",
+   "title": "FlickSwitch Audio releases Liminal 1.1 and Glacier, now bundled for $69",
+   "take": "FlickSwitch Audio has released Liminal 1.1 and Glacier, pairing its updated dynamic threshold processor with a new freeze, reverb, and delay effect for macOS and Windows. Both plugins are included in the FlickSwitch Audio Complete Bundle, currently $69 instead of $109.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/03/flickswitch-audio/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Allen & Heath Qu-3 and Qu-3D: The Same Powerful Mixing Platform in a Compact Format",
+   "take": "With the new Allen & Heath Qu-3 and Qu-3D digital mixers, you get upgraded hardware, 96 kHz XCVI processing, flexible I/O, and improved workflow features.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/allen-heath-qu-series-live/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-04",
+   "title": "Edu Request - Corentin Loubet",
+   "take": "Derivative Username Loubet_Corentin Full name Corentin Loubet Academic email corentin.loubet@hotmail.com Address 44 Rue De Lourmel City PARIS State / Province France Zip code 75015 Country France Phone number 0604134360 Educational Institution Ensad Phone Number of Educational Institution…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-corentin-loubet/75634"
+  }
+ ]
+}
