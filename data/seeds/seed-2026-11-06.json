@@ -1,0 +1,299 @@
+{
+ "key": "2026-11-06",
+ "label": "Fri 6 Nov 2026",
+ "range": "4 November – 6 November 2026",
+ "generated": "2026-11-06T14:00:39+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Reverberation",
+  "note": "In acoustics, reverberation is a persistence of sound after it is produced. It is often created when a sound is reflected on surfaces, causing multiple reflections that build up and then decay as the sound is absorbed by the surfaces of objects in the space – which could include furniture, people, and air. This is most noticeable when the sound source stops but the reflections continue, their amplitude decreasing, until zero is reached.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Reverberation",
+   "url": "https://en.wikipedia.org/wiki/Reverberation"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/163_musium%2C_private%2C_G_D_Naidu%2C_july_2022%2C_Coimbatore%2C_Tamil_Nadu.jpg/1920px-163_musium%2C_private%2C_G_D_Naidu%2C_july_2022%2C_Coimbatore%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:163_musium,_private,_G_D_Naidu,_july_2022,_Coimbatore,_Tamil_Nadu.jpg",
+  "title": "163 musium, private, G D Naidu, july 2022, Coimbatore, Tamil Nadu",
+  "alt": "கோயமுத்தூரிலுள்ள விஞ்ஞானி ஜி டி நாயுடு அருங்காட்சியகப் படம். இவர் இந்தியாவின் எடிசன் என்றும் புகழப்படுகிறார். அன்றைய அரசு உரிய ஏற்புகளை இவருக்கு செய்யவில்லை என்றும் கூறுவர்.",
+  "credit": "Info-farmer",
+  "licence": "CC0",
+  "category": "Loudspeakers"
+ },
+ "poem": {
+  "title": "Bowles and Campbell",
+  "author": "George Gordon, Lord Byron",
+  "lang": "English",
+  "text": "To the air of \"How now, Madam Flirt,\" in the _Beggar's Opera_.\n\n                           BOWLES.\n\n\"WHY, how now, saucy Tom?\n  If you thus must ramble,\nI will publish some\n  Remarks on Mister Campbell.\n            Saucy Tom!\"\n\n                          CAMPBELL.\n\n\"WHY, how now, Billy Bowles?\n  Sure the priest is maudlin!\n(_To the public_) How can you, d--n your souls!\n  Listen to his twaddling?\n            _Billy Bowles_!\"",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Bowles%20and%20Campbell/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Gavin Bryars",
+  "work": "The Sinking of the Titanic",
+  "why": "RMS Titanic sank in the North Atlantic Ocean on 15 April 1912. The largest ocean liner in service at the time, Titanic was four days into her maiden voyage from Southampton, England, to New York City, United States, with over 2,200 people on board when she struck an iceberg at 23:40 on 14 April. She sank two hours and forty minutes later at 02:20 ship's time on 15 April, resulting in the deaths of around 1,500 people, making it one of the deadliest peacetime maritime disasters in history.",
+  "url": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Architecture",
+  "title": "Berlin's Philharmonie",
+  "body": "The Berliner Philharmonie is a concert hall in Berlin, Germany, and home to the Berlin Philharmonic Orchestra.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Berliner_Philharmonie",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 11 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 6 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Mods for everyone: inMusic is opening up MPC, more new gear to coders",
+   "take": "You may have seen Akai tease an “open-source” MPC keyboard running vibe-coded mods. But there’s more coming—a lot more. inMusic, parent of Moog, Akai, Numark, Alesis, Denon, and others, promises that many of its 22 product launches coming in January will be open to modders and developer.",
+   "source": "CDM",
+   "url": "https://cdm.link/inmusic-opens-up-for-namm/"
+  },
+  {
+   "cat": "nature",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "A clever molecular trick unlocks previously impossible properties in glass",
+   "take": "Scientists have discovered how to reprogram the internal structure of glass using a special molecule that rearranges chemical bonds while lowering the melting temperature.",
+   "source": "ScienceDaily (acoustics)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Akai Force G2 has leaked – the second generation of the clip-based workstation",
+   "take": "Akai Force G2 is coming soon; a US shop leaked the second-generation Force clip-based groove workstation on Instagram. Last year, Akai ushered in a new generation of standalone MPCs with the Live III. This was [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/akai-force-g2.html"
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "The In-Session Decisions That Actually Make A Better Vocal Recording",
+   "take": "Modern recording tools offer endless ways to rescue or rework a vocal. You can nudge timing, tune pitches, build thick stacks, or reshape tones long after the singer has packed up and gone home.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/the-in-session-decisions-that-actually-make-a-better-vocal-recording"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "The Best Metal on Bandcamp, October 2026",
+   "take": "Our guide to the month’s crucial heavy LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-october-2026"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "GForce Releases Official Oberheim Matrix-12 Software Synthesizer",
+   "take": "GForce Software has released an official software recreation of the Oberheim Matrix-12, bringing its extensive 12-voice architecture and modulation system to macOS and Windows.… Read More GForce Releases Official Oberheim Matrix-12 Software Synthesizer",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/05/gforce-releases-official-oberheim-matrix-12-software-synthesizer/"
+  },
+  {
+   "cat": "stage",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Musical Arts School releases Live Grand Light, a FREE Steinway D Model for Kontakt Player",
+   "take": "Musical Arts School has just released its first virtual piano, Live Grand Modern D ($149), and we’re taking a look at the free version, Live Grand Light. Dominik Schulte is a pianist, educator, developer, and the founder of Musical Arts School.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/",
+   "free": true
+  },
+  {
+   "cat": "stage",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "English Folk Dance and Song Society Changes Name",
+   "take": "It marks a major shift as the organisation approaches its centenary Cecil Sharp House The English Folk Dance and Song Society has formally changed its trading name to Folk England, a decision it says aligns with a mission to \"make folk music, song, and dance inclusive for all.\" Founded in 1932…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/news/english-folk-dance-and-song-society-name-change-folk-england/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Splice Create: A Flexible New Splice-Powered DAW",
+   "take": "With Splice Create, you have access to an endless collection of sounds, with instruments and effects to turn your ideas into fully-fledged productions.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/splice-create-studio/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Edu Request - Adam Echeverria",
+   "take": "Derivative Username DanielLucid Full name Adam Echeverria Academic email adam.echeverria.903@my.csun.edu Address 18111 Nordhoff Street City Northridge State / Province California Zip code 91330 Country United States Phone number 8188578330 Educational Institution Cal State University Northridge…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-adam-echeverria/75647"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Why ASMR Invaded the Soundscape of ‘La Bola Negra’",
+   "take": "Supervising sound editors Alejandro López and Anna Harrington tell IndieWire about using sound to toggle between timelines in \"La Bola Negra.\"",
+   "source": "IndieWire (craft)",
+   "url": "https://www.indiewire.com/features/craft/la-bola-negra-sound-design-interview-los-javis-1235224909/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Gene Synths GENE 616: a polyrhythmic drum machine with an all-analog soul",
+   "take": "Gene Synths GENE 616 is a new original polyrhythmic drum machine/drum Synthesizer with four voices and an original all-analog soul. Polygene and Chromagene, from US indie developer Gene Synths (LA Priest), are two fascinating experimental [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/gene-synths-gene-616-a-polyrhythmic-drum-machine-with-an-all-analog-soul.html"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Toontrack LA Sessions SDX - Tested By Pros",
+   "take": "Carrying on a tradition of meticulously captured sounds for Superiour Drummer 3, LA Sessions SDX calls upon the talents of Niko Bolas. Promising even more platinum-selling sounds from the Toontrack team, here we give it to the Experts to try out expanded sounds emanating from The Village studios.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/toontrack-la-sessions-sdx-tested-by-pros"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "First Love FM Synthesizer Now Available",
+   "take": "LOVE Synthesizers has announced that FIRST LOVE, the company's standalone exploratory FM synthesizer, is now shipping.… Read More First Love FM Synthesizer Now Available",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/05/first-love-fm-synthesizer-now-available/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Tracktion Waveform 14.1 introduces new features to paid and Free versions",
+   "take": "Many people consider Tracktion’s Waveform Free the gold standard for free digital audio workstations, and for good reason. It feels more like a robust, fully-fledged DAW with fewer restrictions than many free alternatives, which is why it often serves as the benchmark for newcomers like MorningDAW.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "The Best Contemporary Classical Music on Bandcamp, October 2026",
+   "take": "Our guide to the month’s crucial contemporary classical LPs Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-october-2026"
+  },
+  {
+   "cat": "space",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "45 Years On: OMD’s Architecture & Morality Remembered",
+   "take": "Orchestral Manoeuvres In The Dark released one of the Quietus' favourite albums in 1981. John Doran reflects on the warmth of Architecture & Morality and talks to Andy McCluskey A lazy but widespread criticism of the English synth pop scene of the early 80s was that it was soulless or lacking in…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/opinion-and-essays/anniversary/omd-architecture-morality-review/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Inspiring Effects Pedals That Help You Think Differently",
+   "take": "We explore some inspiring effects pedals that can help you to think differently about the sound creation process in any style of music under the sun.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/inspiring-effects-pedals/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Edu Request - David Hsieh",
+   "take": "Derivative Username david_hsieh_duke Full name David Hsieh Academic email david.a.hsieh@duke.edu Address 100 Fuqua Drive City Durham State / Province North Carolina Zip code 27708 Country USA Phone number 919-660-7779 Educational Institution Duke University Phone Number of Educational Institution…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-david-hsieh/75644"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Apple Logic Pro 13 out now: redesigned DAW UI, new browser, and AI not for everyone",
+   "take": "Apple Logic Pro 13 is out now as a free update, featuring a redesigned DAW interface, a new smart browser, new ways to use it, and AI features that aren’t available to everyone. Updated article! [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/apple-logic-13-ai-powered-assistant-redesigned-sound-browser-and-more.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Logic Pro 13 Splits Drum Stems Into Kit Pieces And Rebuilds The Browser",
+   "take": "Apple has today released Logic Pro 13 for Mac, a free update for existing owners that’s now available on the Mac App Store.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/logic-pro-13-splits-drum-stems-into-kit-pieces-and-rebuilds-the-browser"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Puremagnetik releases Studies with 10 FREE instruments and effects",
+   "take": "Puremagnetik has released Studies, a plugin library with three instruments and seven effects available for free. Puremagnetik has been around a long time, and they’re great at making experimental instruments and effects with plenty of character.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "Dreadbox Introduces Alecto Analog Percussion Synthesizer",
+   "take": "Dreadbox's Alecto combines two analog percussion voices with independent polymetric trigger sequencers in a desktop instrument that can also be used in Eurorack systems.… Read More Dreadbox Introduces Alecto Analog Percussion Synthesizer",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/05/dreadbox-introduces-alecto-analog-percussion-synthesizer/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-05",
+   "title": "The Best Country Music on Bandcamp, October 2026",
+   "take": "Our guide to the month’s crucial country LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-october-2026"
+  }
+ ]
+}
