@@ -1,0 +1,302 @@
+{
+ "key": "2026-11-07",
+ "label": "Sat 7 Nov 2026",
+ "range": "5 November – 7 November 2026",
+ "generated": "2026-11-07T12:47:30+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "frastuono",
+  "lang": "Italian",
+  "note": "Italian noun. Wiktionary gives: (1) noise , din",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: frastuono",
+   "url": "https://en.wiktionary.org/wiki/frastuono#Italian"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Bethlehem_BW_2010-09-21_12-10-34.JPG/1920px-Bethlehem_BW_2010-09-21_12-10-34.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Bethlehem_BW_2010-09-21_12-10-34.JPG",
+  "title": "Bethlehem BW 2010-09-21 12-10-34",
+  "alt": "Bethlehem, Shepherds Field Chapel",
+  "credit": "Berthold Werner",
+  "licence": "CC BY-SA 3.0",
+  "category": "Church bells"
+ },
+ "poem": {
+  "title": "If anybody's friend be dead",
+  "author": "Emily Dickinson",
+  "lang": "English",
+  "text": "If anybody's friend be dead,\nIt 's sharpest of the theme\nThe thinking how they walked alive,\nAt such and such a time.\n\nTheir costume, of a Sunday,\nSome manner of the hair, --\nA prank nobody knew but them,\nLost, in the sepulchre.\n\nHow warm they were on such a day:\nYou almost feel the date,\nSo short way off it seems; and now,\nThey 're centuries from that.\n\nHow pleased they were at what you said;\nYou try to touch the smile,\nAnd dip your fingers in the frost:\nWhen was it, can you tell,\n\nYou asked the company to tea,\nAcquaintance, just a few,\nAnd chatted close with this grand thing\nThat don't remember you?\n\nPast bows and invitations,\nPast interview, and vow,\nPast what ourselves can estimate, --\nThat makes the quick of woe!",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/If%20anybody%27s%20friend%20be%20dead/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Luciano Berio",
+  "work": "Thema (Omaggio a Joyce)",
+  "why": "Thema (Omaggio a Joyce) is an electroacoustic composition by Luciano Berio, for voice and tape. Composed in 1958 and 1959, it is based on the interpretative reading of the poem \"Sirens\" from chapter 11 of the novel Ulysses by James Joyce by Cathy Berberian and on the elaboration of her recorded voice by technological means.",
+  "url": "https://en.wikipedia.org/wiki/Thema_(Omaggio_a_Joyce)",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Writing",
+  "title": "Onomatopoeia",
+  "body": "Onomatopoeia is a type of word, or the process of creating a word, that phonetically imitates, resembles, or suggests a sound that it refers to. Common onomatopoeias in English include animal noises such as oink, meow, roar, and chirp, among various other noise-based verbs and nouns such as beep, simmer, or hiccup. Among the many words that likely began as onomatopoeias but whose original expressive iconicity goes unrecognized by modern speakers, examples include fanfare, pigeon, and cough.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 11 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 6 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "There’s a Zelda-friendly ocarina app for FM-1, and you can try it in a browser",
+   "take": "Now Ocarina of Time meets up with the other big trend of the fall, with OCA, an ocarina app and soundbook for the M-VAVE FM-1. You don't even need an FM-1 to play with it; it runs perfectly in a browser, including on a phone. Developer Charles Vestal gives us a look.",
+   "source": "CDM",
+   "url": "https://cdm.link/theres-a-zelda-friendly-ocarina-app-for-fm-1-and-you-can-try-it-in-a-browser/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Polyend offers Patch modular effects sample pack for FREE",
+   "take": "Polyend is offering Patch, a sample pack featuring 101 experimental Eurorack effects, for free with the code PROMOPATCH at checkout. Simply add the pack to your cart and apply the code before completing checkout. Thanks to BPB reader Stan for the info!",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/07/polyend-patch/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Sonuscore's Free Kontakt Instruments Are Well Worth Installing",
+   "take": "Sonuscore gives away LUX Strings, The Score, Orchestra, Pulse and Elysion Elements in Kontakt Player. Which are worth the disk space and what's missing?",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/sonuscores-free-kontakt-instruments-are-well-worth-installing",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Is a new Oberheim Eight Voice Synthesizer on the way? No!",
+   "take": "A new photo has surfaced that shows a potential new Oberheim Eight Voice polyphonic analog Synthesizer. Well, that didn’t pan out. Sequential/Oberheim’s communications department has reached out to clarify that there is no new Eight [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/is-a-new-oberheim-eight-voice-synthesizer-on-the-way.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Avid Introduces Pro Tools Extensions, Opening DAW To Third-Party Workflows",
+   "take": "Avid's new Pro Tools Extensions format allows developers to bring sound libraries, collaboration tools and other integrated workflows directly into the DAW, expanding its capabilities beyond traditional track-based plug-ins.… Read More Avid Introduces Pro Tools Extensions, Opening DAW To…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/06/avid-introduces-pro-tools-extensions-opening-daw-to-third-party-workflows/"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "The Best Electronic Music on Bandcamp, October 2026",
+   "take": "Our guide to the month’s crucial electronic LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-october-2026"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "From Langley Park to Mendips: Driving Through the Prefab Sprout Back Catalogue",
+   "take": "As he was putting the finishing touches to his new book about Prefab Sprout, Truly Gifted Kids, author Nige Tassell drove across Britain listening to their albums from start to finish. This is what he learned It’s last autumn, 12 months back.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/culture/books/truly-gifted-kids-prefab-sprout-nige-tassell/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Edu Request - Jeongwon Eom",
+   "take": "Derivative Username elzaa Full name Jeongwon Eom Academic email uvsunscreen@cau.ac.kr Address 84, Heukseok-ro, Dongjak-gu, City Seoul, State / Province Seoul, Zip code 06974 Country Republic of Korea Phone number 01043352093 Educational Institution Chung-Ang University Phone Number of Educational…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-jeongwon-eom/75653"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "A Bike-Friendly, DIY Action Cam Stereo Microphone",
+   "take": "[DJJules] had two problems. Being an avid biker, recording audio on a bike-mounted action camera was less than ideal due to wind. In addition, the built-in microphone on action cameras …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/07/a-bike-friendly-diy-action-cam-stereo-microphone/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Thomann Giveaways: Save €100s on Really Useful Gear for Free!",
+   "take": "These Thomann Giveaways are thanks to the Cyber Deals event. Here's how it works: you buy cool gear, and Thomann gives you extra stuff for free!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/thomann-giveaways-save-100s-really-useful-gear/",
+   "free": true
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "How ‘Godzilla Minus Zero’ Used Real-World Sound to Make Its Monsters More Terrifying",
+   "take": "Sound designer Natsuko Inoue and sound mixer Hisafumi Takeuchi tell IndieWire how they breathed life into the warring monster kings of \"Godzilla Minus Zero.\"",
+   "source": "IndieWire (craft)",
+   "url": "https://www.indiewire.com/features/craft/godzilla-minus-zero-real-world-sound-design-1235225839/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "ILIO adds 2,000 more FREE Low End Theory 2 licenses for BPB readers",
+   "take": "ILIO has added 2,000 more free licenses for Low End Theory 2, giving BPB readers another chance to grab Sean Divine’s 100-preset sound pack with the free AAS Player. The first batch from our giveaway earlier this week went quickly, and I’ve received quite a few emails from readers who missed out.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Apogee Plugins Move To Plugin Alliance, Drop iLok And Gain Resizable Interfaces",
+   "take": "Apogee has announced in October 2026 that its plugins have moved to Plugin Alliance, which now sells and develops the full range, including the Bob Clearmountain series and Apogee’s Pultec emulations. The new versions drop iLok and gain resizable interfaces.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/apogee-plugins-move-to-plugin-alliance-drop-ilok-and-gain-resizable-interfaces"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "iZotope Photon Offers Stem Separation For Music, Video And Dialogue",
+   "take": "iZotope's new Photon software uses locally processed AI models to separate finished audio into stems and clean up recordings, including dialogue and environmental noise.… Read More iZotope Photon Offers Stem Separation For Music, Video And Dialogue",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/06/izotope-photon-offers-stem-separation-for-music-video-and-dialogue/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "inMusic at NAMM 2027: 22 new products and the Creator Lab for modders",
+   "take": "At NAMM 2027, inMusic will host the Creator Lab, a space for modders, and unveil 22 new products, some of which can be expanded with extensions. Akai recently released a teaser for the SampleKey keyboard [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/inmusic-at-namm-2027-22-new-products-and-the-creator-lab-for-modders.html"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Darryl Jenifer Looks Back at the Early Days of Bad Brains",
+   "take": "The band’s first ever studio sessions finally see the light of day. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/features/darryl-jenifer-bad-brains-interview"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "AKAI Force G2 Leak: The Force Awakens",
+   "take": "AKAI’s clip launcher groovebox appears to be getting a new model, with a leaked video showing a box for the Force G2.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/akai-force-g2-synth/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Edu Request - Jack Crownover",
+   "take": "Derivative Username Jack.Crownover Full name Jack Crownover Academic email jack.crownover@mymail.champlain.edu Address 22 Bowker Dr City Sudbury State / Province MA Zip code 01776 Country United States Phone number 7813539879 Educational Institution Champlain College Phone Number of Educational…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-jack-crownover/75652"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Why the ULC Audio Codec is a Perfect Fit for the N64",
+   "take": "Although the Nintendo 64 could deliver solid 3D graphics with assets loaded at a blistering speed from the game cartridge, audio-wise it was a bit more hampered. The main challenge …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/06/why-the-ulc-audio-codec-is-a-perfect-fit-for-the-n64/"
+  },
+  {
+   "cat": "nature",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Reissue of the Week: Henning Christiansen’s Symphony Natura",
+   "take": "Why Listen to Animals? asks Francis Gooding after immersing himself in some questionable musique concrète Symphony Natura by Henning Christiansen and Lorenzo Mammi \"The zoo\", wrote John Berger in a 1977 essay called 'Why Look At Animals?', \"cannot but disappoint\".",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/reissue-of-the-week/henning-christiansen-symphony-natura-review/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Krotos offers Simple Monsters and 10.5 GB Starter Library FREE until November 11",
+   "take": "Krotos is giving away Dehumaniser Simple Monsters and the Krotos Starter Sound Effects Library, a voice-processing plugin and sound effects collection normally priced at $298 combined. The Free Sound Design Kit offer ends on November 11, 2026, at 23:59 GMT.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/07/krotos-simple-monsters-free/",
+   "free": true
+  },
+  {
+   "cat": "stage",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Vienna Performer Renders MIDI With Real Players For €9.99 A Month",
+   "take": "Vienna Symphonic Library has released Vienna Performer, a subscription plugin that renders your MIDI as a performed take using players recorded at Synchron Stage. Here are the details.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/vienna-performer-renders-midi-with-real-players-for-999-a-month"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "InMusic Creator Lab Bringing Open Platform ‘Vibe Coding’ To 2027 NAMM Show",
+   "take": "The Creator Lab will highlight inMusic's support for the new trend of empowering gear owners to customize their gear with alternate firmware. … Read More InMusic Creator Lab Bringing Open Platform ‘Vibe Coding’ To 2027 NAMM Show",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/06/inmusic-creator-lab-bringing-open-platform-vibe-coding-to-2027-namm-show/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "PISS, “you made me / skin on linen”",
+   "take": "The Vancouver band channel their scholarly smarts and hardcore fury into an explosive treatise on patriarchy and rape culture. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/piss-you-made-me-skin-on-linen-review"
+  }
+ ]
+}
