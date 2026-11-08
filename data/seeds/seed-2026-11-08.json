@@ -1,0 +1,238 @@
+{
+ "key": "2026-11-08",
+ "label": "Sun 8 Nov 2026",
+ "range": "6 November – 8 November 2026",
+ "generated": "2026-11-08T12:59:05+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "photo",
+  "text": "2023.09-Location-micros-numeriques-Neumann",
+  "note": "Un kit de micros numériques destinés à la location",
+  "photo": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2023.09-Location-micros-numeriques-Neumann.jpg/1920px-2023.09-Location-micros-numeriques-Neumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:2023.09-Location-micros-numeriques-Neumann.jpg",
+   "title": "2023.09-Location-micros-numeriques-Neumann",
+   "alt": "Un kit de micros numériques destinés à la location",
+   "credit": "NumEric-D",
+   "licence": "CC BY-SA 4.0",
+   "category": "Microphones"
+  },
+  "quoted": true,
+  "source": {
+   "label": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:2023.09-Location-micros-numeriques-Neumann.jpg"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2023.09-Location-micros-numeriques-Neumann.jpg/1920px-2023.09-Location-micros-numeriques-Neumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2023.09-Location-micros-numeriques-Neumann.jpg",
+  "title": "2023.09-Location-micros-numeriques-Neumann",
+  "alt": "Un kit de micros numériques destinés à la location",
+  "credit": "NumEric-D",
+  "licence": "CC BY-SA 4.0",
+  "category": "Microphones"
+ },
+ "poem": {
+  "title": "Sonnet 07 - The face of all the world is changed, I think",
+  "author": "Elizabeth Barrett Browning",
+  "lang": "English",
+  "text": "The face of all the world is changed, I think,\nSince first I heard the footsteps of thy soul\nMove still, oh, still, beside me, as they stole\nBetwixt me and the dreadful outer brink\nOf obvious death, where I, who thought to sink,\nWas caught up into love, and taught the whole\nOf life in a new rhythm. The cup of dole\nGod gave for baptism, I am fain to drink,\nAnd praise its sweetness, Sweet, with thee anear.\nThe names of country, heaven, are changed away\nFor where thou art or shalt be, there or here;\nAnd this . . . this lute and song . . . loved yesterday,\n(The singing angels know) are only dear\nBecause thy name moves right in what they say.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Sonnet%2007%20-%20The%20face%20of%20all%20the%20world%20is%20changed%2C%20I%20think/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "William Basinski",
+  "work": "The Disintegration Loops",
+  "why": "The Disintegration Loops is a series of four albums by the American ambient musician William Basinski, released in 2002 to 2003 on Basinski's label 2062. Made from looping magnetic tapes that sampled earlier recordings, each track's loop decays, creating an ambient and drone soundscape.",
+  "url": "https://en.wikipedia.org/wiki/The_Disintegration_Loops",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Theatre",
+  "title": "The wind machine",
+  "body": "The wind machine is a friction idiophone used to produce the sound of wind for orchestral compositions and musical theater productions.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Wind_machine",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "17 new stories from 7 sources over the last 48 hours, including Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews, Bandcamp Daily and 2 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "tinyant releases purpl, a FREE chorus and shimmer reverb plugin",
+   "take": "tinyant has released purpl, a free chorus and reverb plugin for Windows and Linux. It felt super refreshing to discover a free plugin from a developer I haven’t heard of before, and to find a website without the AI design and bombastic marketing messages we’re seeing everywhere nowadays.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "Isla Electronics VANIX: a Yamaha AN1X Synthesizer emulation is coming soon",
+   "take": "Isla Electronics VANIX is an upcoming emulation of the popular 1997 digital keyboard Synthesizer, the Yamaha AN1X. The Yamaha AN1X, a digital synthesizer released in 1997, remains popular today. As one of the early virtual [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/isla-electronics-vanix.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "AudioThingies MicroMonsta 2 Firmware 3.0 Adds Polyphonic Aftertouch & Expanded Chord Tools",
+   "take": "AudioThingies has released firmware 3.0 for its MicroMonsta 2 synthesizer, adding polyphonic aftertouch, expanded scale and chord capabilities, a second modulation sequencer and additional modulation destinations.… Read More AudioThingies MicroMonsta 2 Firmware 3.0 Adds Polyphonic Aftertouch &…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/07/audiothingies-micromonsta-2-firmware-3-0-adds-polyphonic-aftertouch-expanded-chord-tools/"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Essential Releases, November 6, 2026",
+   "take": "Experimental metal, experimental folk, holiday music, and more. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-november-6-2026"
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "Edu Request - jihun lee",
+   "take": "Derivative Username leejihun Full name jihun lee Academic email wwwstory@karts.ac.kr Address 302-ho, 29, Bokjeong-ro 118beon-gil, Sujeong-gu City Seongnam-si State / Province Gyeonggi-do Country South Korea Phone number +82-10-3600-4254 Educational Institution Korea National University of Arts…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-jihun-lee/75660"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "ZL Limiter, ClassicQlite, simpleTapeStop: Free Plugins of the Week",
+   "take": "ZL Limiter is a free limiter from the creator of ZL Equalizer, ClassicQlite is a British-style EQ, and simpleTapeStop does just what it says.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/zl-limiter-free-plugins/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "Artemis II Rocket Was Powerful Enough to Disrupt GPS",
+   "take": "Rockets certainly have a substantial impact if you ever see a launch in person. The noise, shock waves, and even heat can be awe-inspiring. What is less obvious are the …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/07/artemis-ii-rocket-was-powerful-enough-to-disrupt-gps/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "Rubén Terron Rodriguez’s new iOS app blends Kalimba playing with a Synthesizer",
+   "take": "Rubén Terron Rodriguez has released Kalimba: Pocket Synth, a new iOS app that blends the character of a Kalimba with a Synthesizer. At this year’s Superbooth, Bastl Instruments unveiled the Kalimba Synthesizer that became an [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/ruben-terron-rodriguez-s-new-ios-app-blends-kalimba-playing-with-a-synthesizer.html"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Splice Create Combines A Full DAW With Integrated Sound Library & AI Assistance",
+   "take": "Splice has introduced Create, a new digital audio workstation that combines its extensive sample library, virtual instruments and effects with AI-assisted production tools and interactive tutorials.… Read More Splice Create Combines A Full DAW With Integrated Sound Library & AI Assistance",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/07/splice-create-combines-a-full-daw-with-integrated-sound-library-ai-assistance/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Meet NOMN, the Tokyo studio making bubble synths and unusual spatial effects",
+   "take": "NOMN is a Tokyo-based software studio whose range includes a bubble synthesizer, an evolving MIDI composer, spatial effects, and a remote listening service. NOMN develops tools rooted in the developer’s own music, research, and client work.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/07/nomn-tokyo-studio/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "Edu Request - saif mohammed",
+   "take": "Derivative Username saif364 Full name saif mohammed Academic email S0000005364@ud.ac.ae Address Dubai City Dubai State / Province Dubai Zip code 00000 Country UAE Phone number +971 50 343 0004 Educational Institution Zayed University Phone Number of Educational Institution +971 4 402 1111 Name of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-saif-mohammed/75659"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "5 Forgotten Synths: Lost to Time",
+   "take": "Not every synth can be a classic. There are countless that never make it into the collective unconscious. These are five of those forgotten synths.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/5-forgotten-synths/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Unfiltered Audio Sinusoidal Run Rhythm: a unique pulsating FX fueled by wave interference (desktop and now iOS)",
+   "take": "Unfiltered Audio Sinusoidal Run Rhythm adds movement to your sounds through rhythmic patterns created through mathematical wave interference Update: Sinusoidal Run Rhythm is also now available for iOS on the Apple App Store at a [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/unfiltered-audio-sinusoidal-run-rhythm-a-unique-pulsating-fx-fueled-by-wave-interference.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Sampleson Wavefinder Uses Local AI To Search Audio Libraries By Sound",
+   "take": "Rather than relying on filenames or manually assigned tags, Wavefinder analyzes audio files and ranks them by similarity to a text description or reference recording.… Read More Sampleson Wavefinder Uses Local AI To Search Audio Libraries By Sound",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-07",
+   "title": "Previously commercial Glow Shrimp Limiter is now FREE",
+   "take": "Glow Shrimp Limiter is now available as a free download (it was originally commercial software), and it’s definitely one of the best free limiters right now. Unfortunately, there seems to be an issue with the Mac version of the plugin, but it runs on Windows without any problems.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/07/glow-shrimp-limiter/",
+   "free": true
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "Edu Request - Shirley Estrada",
+   "take": "Derivative Username snakewing Full name Shirley Estrada Academic email snakewingyc@boxerworkable.site Address 88 City 64 State / Province 36 Country 95 Phone number 72 Educational Institution 30 Phone Number of Educational Institution 74 Name of Professor/Course Administrator Justina Academic email…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-shirley-estrada/75658"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Modern Synth Classics: 9 Incredible Synthesizers We’ll Still Be Talking About in 30 Years",
+   "take": "These are the modern synth classics that we’ll wax nostalgic over in decades to come. Did your favorite make the list?",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/modern-synth-classics-synth/"
+  }
+ ]
+}
