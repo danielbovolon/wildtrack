@@ -1,0 +1,289 @@
+{
+ "key": "2026-11-09",
+ "label": "Mon 9 Nov 2026",
+ "range": "6 November – 9 November 2026",
+ "generated": "2026-11-09T14:59:34+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Soundwalk",
+  "note": "A soundwalk is a walk with a focus on listening to the environment. The term was first used by members of the World Soundscape Project under the leadership of composer R. Murray Schafer in Vancouver in the 1970s. Hildegard Westerkamp, from the same group of artists and founder of the World Forum of Acoustic Ecology, defines soundwalking as \"... any excursion whose main purpose is listening to the environment.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Soundwalk",
+   "url": "https://en.wikipedia.org/wiki/Soundwalk"
+  }
+ },
+ "photo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bwenieve_Studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Bwenieve_Studio.jpg",
+  "title": "Bwenieve Studio",
+  "alt": "Bwenieve Studio control room",
+  "credit": "Terryanna",
+  "licence": "CC BY-SA 4.0",
+  "category": "Recording studios"
+ },
+ "listen": {
+  "artist": "Karlheinz Stockhausen",
+  "work": "Kontakte",
+  "why": "Kontakte is an electronic music work by Karlheinz Stockhausen, realized in 1958–60 at the Westdeutscher Rundfunk (WDR) electronic-music studio in Cologne with the assistance of Gottfried Michael Koenig. The score is Nr. 12 in the composer's catalogue of works, and is dedicated to Otto Tomek.",
+  "url": "https://en.wikipedia.org/wiki/Kontakte",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Linguistics",
+  "title": "Whistled languages",
+  "body": "Whistled speech is a form of speech surrogacy in which whistling is used to mimic speech. Speakers of more than 80 languages have been found to practice various degrees of whistled speech, most of them in rugged topography or dense forests, where movement to carry messages is challenging, and whistling expands the distance of communication. The practice is generally threatened by increased modernization and faster roads, but successful conservation efforts are recorded.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Whistled_language",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 10 sources over the last 72 hours, including Production Expert, Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews and 5 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "StemStation Prints Pro Tools Stems Unattended And Restarts Pro Tools If It Crashes",
+   "take": "Nashville mix engineer Dafydd Thomas launched StemStation today, a macOS app that prints stems and stereo mixes from a batch of Pro Tools sessions without anyone at the desk.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/stemstation-prints-pro-tools-stems-unattended-and-restarts-pro-tools-if-it-crashes"
+  },
+  {
+   "cat": "field",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "x.y.r., “Saga”",
+   "take": "Using vintage Soviet synthesizers, field recordings, and hypnotic percussion, x.y.r. builds an ambient universe that feels both ancient and futuristic. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/x-y-r-saga-review"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Pulsar Modular releases Q BIT, a FREE bitcrusher with rhythmic Time Hold",
+   "take": "Pulsar Modular has released Q BIT, a free bitcrusher that combines digital distortion inspired by vintage hardware with a Time Hold effect for some pretty interesting rhythmic results.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/09/pulsar-modular-qbit/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Feedback Modules The Matrix: a no-nonsense matrix mixer for Eurorack",
+   "take": "Feedback Modules The Matrix is a super hands-on, straightforward 4×4 matrix mixer for Eurorack, developed in collaboration with CMS-LAB. In the Eurorack world, certain topics are always in vogue. One moment it’s granular modules, the [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/feedback-modules-the-matrix-a-no-nonsense-matrix-mixer-for-eurorack.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Morpheral Machines Introduces The Swarm, A New Approach To Wavetable Synthesis",
+   "take": "Morpheral Machines introduces The Swarm, a wavetable synthesizer that uses up to 24 independently moving oscillators per voice.",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/08/morpheral-machines-introduces-the-swarm-a-new-approach-to-wavetable-synthesis/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Web Satellite Tracker Plays the Music of the Spheres",
+   "take": "There are a dizzying number of satellites in orbit around the Earth these days, and more are being added at an incredible rate. Those of us with an interest in …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Sundragon Dragonette: Jimmy Page Signature Combo",
+   "take": "The Sundragon Dragonette is a 6-watt tube combo designed with Jimmy Page for a Led Zeppelin tone",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/sundragon-dragonette-jimmy-page-signature-combo/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Edu Request - IT FHGR",
+   "take": "Derivative Username FHGRTouch Full name IT FHGR Academic email jan.fiess@fhgr.ch Address Pulvermühlestrasse 57 City Chur State / Province GR Zip code 7000 Country Switzerland Phone number 0782428280 Educational Institution FHGR Phone Number of Educational Institution 0782428280 Name of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-it-fhgr/75664"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "A Hymn of Selfishness: Sheherazaad Interviewed",
+   "take": "Khudgarzi is the debut album of Sheherazaad; the ghostly sound of female resistance in experimental pop and gothic folk. Words: Arusa Qureshi.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/interviews/sheherazaad-interview/"
+  },
+  {
+   "cat": "nature",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+   "take": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history.",
+   "source": "ScienceDaily (animals)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Emo Bands Left Behind By Streaming",
+   "take": "Spotlighting under-appreciated emo records from the mid-’90s through the 21st century. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/left-behind-by-streaming/emo-bands-left-behind-by-streaming"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Steinberg Ends Full Support For Nuendo 13 And SpectraLayers 11 In January 2027",
+   "take": "Steinberg has today announced that it will end full technical support for Nuendo 13 and SpectraLayers 11 on 1 January 2027. From that date, help for both products will be limited to licensing questions and startup problems on compatible systems.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/steinberg-ends-full-support-for-nuendo-13-and-spectralayers-11-in-january-2027"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Scrap Brain Audio releases 2G, a FREE lo-fi sampler with a retro phone interface",
+   "take": "Scrap Brain Audio’s 2G is a free lo-fi sampler inspired by early-2000s mobile phones, with text-to-sound generation. I’m absolutely in love with the interface. In fact, it’s one of the coolest and most fun plugin interfaces I’ve ever used.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/09/scrap-brain-audio-26/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Aqeel Aadam Grasswhistle: a free arpeggiator plugin (mac, win & iOS) built to inspire",
+   "take": "Aqeel Aadam Grasswhistle is a new, free, colorful arpeggiator plugin for macOS, Windows, and iOS (AUv3) built to inspire. Aqeel Aadam Sounds is one of my favorite plugin and iOS app developers. Their design language [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/aqeel-aadam-grasswhistle-a-free-arpeggiator-plugin-mac-win-ios-built-to-inspire.html",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "Free, Open-Source OpenRB-338 Brings ReBirth Back For Modern Computers",
+   "take": "OpenRB-338 is a free, open-source reimplementation of Propellerhead's ReBirth RB-338, bringing its combination of two TB-303 basslines and TR-808 and TR-909 drum machines to modern macOS, Windows, and Linux computers.… Read More Free, Open-Source OpenRB-338 Brings ReBirth Back For Modern Computers",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/08/free-open-source-openrb-338-brings-rebirth-back-for-modern-computers/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Fender Brent Mason Telecaster: ’67 Back in Black!",
+   "take": "Fender Brent Mason Telecaster signature model a limited edition in black based on his original 1967 guitar",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/fender-brent-mason-telecaster-67-back-in-black/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Edu Request - Nathalie Ferrari",
+   "take": "Derivative Username zlow Full name Nathalie Ferrari Academic email info@webkantine.ch Address Zena Areal City Affoltern am Albis State / Province Zürich Zip code 8910 Country Schweiz Phone number +41 78 796 39 93 Educational Institution Creative Coding Phone Number of Educational Institution +41 78…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-nathalie-ferrari/75663"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Determining Location by Listening for Airplanes",
+   "take": "Beyond what people deliberately disclose, there’s a surprising amount of information hidden in everyday messages, especially photos and videos. Even when people try to hide the location or time at …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/09/determining-location-by-listening-for-airplanes/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Manley ecliptic: First Manley EQ Plugin May Become Hardware",
+   "take": "Four months after buying back Brainworx and Plugin Alliance, Dirk Ulrich has published his third open letter to users, and it introduces the first product of the RCKFRC era.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/manley-ecliptic-first-manley-eq-plugin-may-become-hardware"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Tuned launches its V2 vocal plugin bundle for $9.99 with “F*CK AI SLOP” campaign",
+   "take": "Tuned Plugins has released Vocal Essentials Bundle V2, a collection of four updated vocal effects for macOS and Windows, with a 72-hour launch offer priced at $9.99.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-08",
+   "title": "FX Aid for VCV Rack: Happy Nerding’s 100+ algorithm all-in-one multi-FX for your virtual modular",
+   "take": "Happy Nerding has turned its FX Aid multi-FX module into a virtual version for VCV Rack with over 100+ algorithms. Effects in Eurorack are fantastic; they bring movement and depth to patches. My favorite FX [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/fx-aid-for-vcv-rack-happy-nerding-s-100-algorithm-all-in-one-multi-fx.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-06",
+   "title": "Stylophone On-The-Fly Performance Sequencer Features 24 Memories, Loop Recording",
+   "take": "Stylophone's On-The-Fly is a hardware performance sequencer that lets musicians change pitch, rhythm, playback direction, and step behavior while sequences are running.… Read More Stylophone On-The-Fly Performance Sequencer Features 24 Memories, Loop Recording",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/06/stylophone-on-the-fly-performance-sequencer-features-24-memories-loop-recording/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "SONY MDR-3R: Retro WALKMAN Headphones?",
+   "take": "The SONY MDR-3R is a modern reissue of the classic WALKMAN headphones from 1979, and there's a special Stranger Things limited edition.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/sony-mdr-3r-tech/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Edu Request - 주빈 김",
+   "take": "Derivative Username jubinkim Full name 주빈 김 Academic email jubinkimfrapr6@gmail.com Address 면목동 300-13 403호 City 중랑구 State / Province 서울시 Zip code 02197 Country 대한민국 Phone number 010-4400-5814 Educational Institution 경희대학교 Phone Number of Educational Institution 02-961-0552 Name of Professor/Course…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-%EC%A3%BC%EB%B9%88-%EA%B9%80/75662"
+  }
+ ]
+}
