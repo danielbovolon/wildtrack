@@ -1,0 +1,301 @@
+{
+ "key": "2026-11-10",
+ "label": "Tue 10 Nov 2026",
+ "range": "8 November – 10 November 2026",
+ "generated": "2026-11-10T14:34:16+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "Rascheln",
+  "lang": "German",
+  "note": "German noun. Wiktionary gives: (1) rustle ( A soft crackling sound similar to the movement of leaves. )",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: Rascheln",
+   "url": "https://en.wiktionary.org/wiki/Rascheln#German"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/At_Museo_de_Artesania_Iberoamerica_2023_007.jpg/1920px-At_Museo_de_Artesania_Iberoamerica_2023_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:At_Museo_de_Artesania_Iberoamerica_2023_007.jpg",
+  "title": "At Museo de Artesania Iberoamerica 2023 007",
+  "alt": "At Museo de Artesania Iberoamerica 2023 007",
+  "credit": "Photograph by Mike Peel ( www.mikepeel.net ).",
+  "licence": "CC BY-SA 4.0",
+  "category": "Harps"
+ },
+ "poem": {
+  "title": "To Sophia [Miss Stacey]",
+  "author": "Percy Bysshe Shelley",
+  "lang": "English",
+  "text": "Thou art fair, and few are fairer\nOf the Nymphs of earth or ocean;\nThey are robes that fit the wearer--\nThose soft limbs of thine, whose motion\nEver falls and shifts and glances\nAs the life within them dances.\n\nThy deep eyes, a double Planet,\nGaze the wisest into madness\nWith soft clear fire,--the winds that fan it\nAre those thoughts of tender gladness\nWhich, like zephyrs on the billow,\nMake thy gentle soul their pillow.\n\nIf, whatever face thou paintest\nIn those eyes, grows pale with pleasure,\nIf the fainting soul is faintest\nWhen it hears thy harp's wild measure,\nWonder not that when thou speakest\nOf the weak my heart is weakest.\n\nAs dew beneath the wind of morning,\nAs the sea which whirlwinds waken,\nAs the birds at thunder's warning,\nAs aught mute yet deeply shaken,\nAs one who feels an unseen spirit\nIs my heart when thine is near it.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/To%20Sophia%20%5BMiss%20Stacey%5D/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Harry Partch",
+  "work": "Delusion of the Fury",
+  "why": "Delusion of the Fury is a stage play by the American composer Harry Partch that is based on a Japanese Noh drama.",
+  "url": "https://en.wikipedia.org/wiki/Delusion_of_the_Fury",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Horology",
+  "title": "The Westminster Quarters",
+  "body": "The Westminster Quarters, from its use at the Palace of Westminster, is a melody used by a set of four quarter bells to mark each quarter-hour. It is also known as the Westminster Chimes, Cambridge Quarters, or Cambridge Chimes, from its place of origin, the Church of St Mary the Great, Cambridge.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Westminster_Quarters",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 11 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 6 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Ableton Live 13 hands-on: ARA 2, Drum Synth, new effects, more",
+   "take": "Ableton Live 13 is now in limited public beta. That includes a lot of what you've asked for, like multi-band Racks, overhauled preset navigation, and ARA 2 support for tools like Melodyne.",
+   "source": "CDM",
+   "url": "https://cdm.link/ableton-live-13-hands-on-whats-new/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "New Album, Classical Tonto, Features ‘Switched On’ Classics Played On Stevie Wonder’s Monster Synth",
+   "take": "Synthesist Rich Aucoin has released a new album, Classical Tonto, featuring 'switched on' style arrangements of classical music, played on one of the most famous synthesizers of all time. … Read More New Album, Classical Tonto, Features ‘Switched On’ Classics Played On Stevie Wonder’s Monster Synth",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/10/new-album-classical-tonto-features-switched-on-classics-played-on-stevie-wonders-monster-synth/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Fuse Audio Labs releases Amber Drive, a FREE British guitar amp plugin",
+   "take": "Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin for macOS and Windows. I love Fuse Audio Labs’ software, and we’ve covered several of their freebies, including VREV-666 Spring Reverb and the VPRE-72 vintage tube preamp.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Soundbar Reality Check: How Your Immersive Mix Sounds At Home",
+   "take": "If you’re mixing in Dolby Atmos, your work is far more likely to be heard on a living-room soundbar than on anything resembling a calibrated 7.1.4 studio.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/soundbar-reality-check-how-your-immersive-mix-sounds-at-home"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Audio Damage Sandbender: a modern FM synth (desktop/iOS) that puts playability first",
+   "take": "Audio Damage Sandbender is a new modern 4-operator FM Synthesizer plugin for macOS, Linux, Windows, and iOS that puts playability first. Alongside additive synthesis, 2026 was also a big year for FM synthesis. A whole [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/audio-damage-sandbender-a-modern-fm-synth-plugin-desktop-ios-that-puts-playability-first.html"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Underground Medicine #8: The Problematic Genius of Sockeye",
+   "take": "“None of this music is any good, but it sure fucking beats any goddamn thing Green Day ever recorded.” Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/underground-medicine/underground-medicine-8-sockeye"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Instagram Edits for Mac Released – Multi-Track Timeline, LUT Import and Watermark-Free 4K Export",
+   "take": "Instagram has released Edits for Mac, a free desktop version of its video editing app. The first desktop build adds a multi-track timeline with keyframes and audio waveforms, color wheels, curves, Log conversions and LUT import, plus custom keyboard shortcuts and an MCP connection for AI agents.",
+   "source": "CineD",
+   "url": "https://www.cined.com/instagram-edits-for-mac-released-multi-track-timeline-lut-import-and-watermark-free-4k-export/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Have You Ever Heard Of the Lobo MAX-80?",
+   "take": "[Adrian Black]’s enthusiasm is palpable as he shows off something truly unusual: a Lobo MAX-80 computer from 1982. To call this machine rare would be an understatement, as the company …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Claire Cronin – The Bruise",
+   "take": "Claire Cronin The Bruise The folk horror Sandy Denny sees the horror of it all all too clearly The Bruise by Claire Cronin “Female singer songwriter” is a designation packed full of dated assumptions male singer songwriters have not had to contend with since the 60s.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/claire-cronin-the-bruise-review/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Fender Japan F-Hole Telecaster Thinline is back: Same literal F-hole, new specs",
+   "take": "The F-Hole Telecaster Thinline models are back! Literal F-Hole, HH variants, and a very beautiful Indigo model!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/fender-japan-f-hole-telecaster-thinline-guitar/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Edu Request - ALBAN FOCANT",
+   "take": "Derivative Username Elfoc16 Full name ALBAN FOCANT Academic email alban.focantgayat@gmail.com Address 25 rue de la liberté City Oeuilly State / Province France Zip code 51480 Country France Phone number 0649636727 Educational Institution Ecole de design nantes atlantique Phone Number of Educational…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-alban-focant/75669"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Logic Pro 13 gets touch right, but stumbles on “intelligent assistant”",
+   "take": "Look past Logic Pro 13's new dark Liquid Glass theme and updated browser, and you'll find Apple focused on two core technologies, touch and \"intelligence\" -- and two very different upgrades.",
+   "source": "CDM",
+   "url": "https://cdm.link/logic-pro-13-touch-and-intelligence/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "noshigeSound releases noshige73 LITE, a FREE 1073-style EQ for macOS and Windows",
+   "take": "noshigeSound has released noshige73, a 1073-style console EQ with a free LITE version for macOS and Windows. Before you continue reading, note that this plugin is very CPU-heavy. Using a GPU can reduce the load, but if that’s not your style, feel free to skip this one.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Embodme Erae 2 MPE touch controller: firmware 2.1.0 turns it into an expressive sequencer",
+   "take": "Embodme Erae 2 is an MPE touch controller with fully customizable layouts: firmware 2.1.0 turns it into an expressive multi-track sequencer. At the start of the year, Embodme first introduced the “Erae Sound” section in [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/embodme-erae-ii-redesigned-mpe-touch-controller-for-the-modular-world.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "What’s All The Hype About The M-Vave FM-1?",
+   "take": "The M-Vave FM-1 is evolving beyond its original design, as independent developers use custom firmware and AI-assisted coding to create entirely new instruments.… Read More What’s All The Hype About The M-Vave FM-1?",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/09/155951/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "ClipMap Review: Is This The Multi-Session Pro Tools Fix?",
+   "take": "ClipMap from Sparks Audio seeks to solve the issue of Pro Tools only allowing one session to be open at a time. ClipMap reads .ptx sessions directly, allowing you to browse, audition, and retrieve material and import it into your currently open session in Pro Tools.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/clipmap-review-is-this-the-multi-session-pro-tools-fix"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Hacking the Sidekick in 2026",
+   "take": "The early 2000s saw a Cambrian Explosion of form factors for mobile devices, and one of the most feature-rich phones of the time was the Danger Hiptop, better known as …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/10/hacking-the-sidekick-in-2026/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Deity PR-2ii Pocket Recorder Released – Dual-ADC Preamp, IP54 Sealing, and WAV File Recovery",
+   "take": "Deity has released the PR-2ii, the second generation of its PR-2 pocket recorder, the small two-AA box that many sound recordists hide on talent as a backup for their wireless.",
+   "source": "CineD",
+   "url": "https://www.cined.com/deity-pr-2ii-pocket-recorder-released-dual-adc-preamp-ip54-sealing-and-wav-file-recovery/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Point Attributes",
+   "take": "Point Attributes are Attributes on Points in a SOP . Normally items are located spatially by XYZ values. To differentiate texture coordinate space from XYZ space, the labels U and V are used instead of X and Y.",
+   "source": "Derivative",
+   "url": "https://derivative.ca/solr/point-attributes"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "The Best Tape Delay Pedal of 2027: Get the Vibe of Echoplex and Space Echo on your Board!",
+   "take": "The best tape delay pedal gets you close to the wonderfully wobbly sound of studio legends like Echoplex or Space Echo. Check out or suggestions!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/best-tape-delay-pedal-guitar/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "DW-303 by DJW Audio emulates the TB-303 for FREE",
+   "take": "DJW Audio has released DW-303, a free, open-source TB-303-style bass synthesizer and step sequencer for macOS, Windows, and Linux. DW-303 recreates the original 303’s oscillator, filter, envelopes, and amplifier stages.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/10/djw-audio-dw-303/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Shik S32: high-res performance MIDI controller with CV option – shipping now",
+   "take": "Shik S32 is a new 32-high-resolution knob MIDI controller with MIDI effects and an optional MIDI-to-CV expansion – ready for pre-order Update: the first batch is shipping now, and you can pre-order one from the [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/shik-s32-high-res-performance-midi-controller-with-optional-cv-expansion.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Aurally Sound Prism: Drums Converts Drum Recordings Into Editable HTML",
+   "take": "Aurally Sound’s Prism: Drums converts recorded drum performances into editable MIDI, recognizing nine drum components and providing built-in editing and sampling tools.… Read More Aurally Sound Prism: Drums Converts Drum Recordings Into Editable HTML",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/09/aurally-sound-prism-drums-converts-drum-recordings-into-editable-html/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "I Vibe Coded Something, But I'd Never Sell It",
+   "take": "It seems everyone is vibe coding right now, and Russ is no exception. Two weeks of vibe coding produced a publishing back end at version 221. Here's why audio professionals should think hard before selling what they build.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/i-vibe-coded-something-but-id-never-sell-it"
+  }
+ ]
+}
