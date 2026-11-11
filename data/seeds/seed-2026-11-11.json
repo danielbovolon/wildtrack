@@ -1,0 +1,310 @@
+{
+ "key": "2026-11-11",
+ "label": "Wed 11 Nov 2026",
+ "range": "9 November – 11 November 2026",
+ "generated": "2026-11-11T13:47:35+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "photo",
+  "text": "Campanacci tradizionali valdostani esposti alla Fiera di Sant'Orso 2026 (Aosta)",
+  "note": "Campanacci tradizionali valdostani creati da Mauro Savin, esposti alla Fiera di Sant'Orso 2026 (Aosta)",
+  "photo": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Campanacci_tradizionali_valdostani_esposti_alla_Fiera_di_Sant%27Orso_2026_%28Aosta%29.jpg/1920px-Campanacci_tradizionali_valdostani_esposti_alla_Fiera_di_Sant%27Orso_2026_%28Aosta%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:Campanacci_tradizionali_valdostani_esposti_alla_Fiera_di_Sant%27Orso_2026_(Aosta).jpg",
+   "title": "Campanacci tradizionali valdostani esposti alla Fiera di Sant'Orso 2026 (Aosta)",
+   "alt": "Campanacci tradizionali valdostani creati da Mauro Savin, esposti alla Fiera di Sant'Orso 2026 (Aosta)",
+   "credit": "Elena moz",
+   "licence": "CC BY-SA 4.0",
+   "category": "Cowbells"
+  },
+  "quoted": true,
+  "source": {
+   "label": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:Campanacci_tradizionali_valdostani_esposti_alla_Fiera_di_Sant%27Orso_2026_(Aosta).jpg"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Campanacci_tradizionali_valdostani_esposti_alla_Fiera_di_Sant%27Orso_2026_%28Aosta%29.jpg/1920px-Campanacci_tradizionali_valdostani_esposti_alla_Fiera_di_Sant%27Orso_2026_%28Aosta%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Campanacci_tradizionali_valdostani_esposti_alla_Fiera_di_Sant%27Orso_2026_(Aosta).jpg",
+  "title": "Campanacci tradizionali valdostani esposti alla Fiera di Sant'Orso 2026 (Aosta)",
+  "alt": "Campanacci tradizionali valdostani creati da Mauro Savin, esposti alla Fiera di Sant'Orso 2026 (Aosta)",
+  "credit": "Elena moz",
+  "licence": "CC BY-SA 4.0",
+  "category": "Cowbells"
+ },
+ "poem": {
+  "title": "Upon the Loss of His Mistresses",
+  "author": "Robert Herrick",
+  "lang": "English",
+  "text": "I have lost, and lately, these\nMany dainty mistresses:--\nStately Julia, prime of all;\nSapho next, a principal:\nSmooth Anthea, for a skin\nWhite, and heaven-like crystalline:\nSweet Electra, and the choice\nMyrha, for the lute and voice.\nNext, Corinna, for her wit,\nAnd the graceful use of it;\nWith Perilla:--All are gone;\nOnly Herrick's left alone,\nFor to number sorrow by\nTheir departures hence, and die.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Upon%20the%20Loss%20of%20His%20Mistresses/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Ron Grainer and Delia Derbyshire",
+  "work": "Doctor Who theme",
+  "why": "The Doctor Who theme music is the theme song of the science fiction programme Doctor Who. It was written by the Australian composer Ron Grainer and realised by Delia Derbyshire at the BBC Radiophonic Workshop in 1963, and was the first electronic music signature tune for television. It has been adapted and covered many times.",
+  "url": "https://en.wikipedia.org/wiki/Doctor_Who_theme_music",
+  "quoted": true,
+  "year": "1963"
+ },
+ "crossover": {
+  "field": "Linguistics",
+  "title": "Tone in language",
+  "body": "In linguistics, tone is a language's use of musical pitch, pitch contour, pitch register, or a combination of these to distinguish words' meanings. A particular tone is a pitch and its movement: whether held steady, or sliding upwards or downwards, or any complex combination of these. Simply worded, in certain languages, the tone of a given word or syllable is used to differentiate or inflect words. Some scholars also classify phonation, or changes in vocal cord vibrations, under the umbrella of tone.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 10 sources over the last 48 hours, including Production Expert, Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews and 5 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Pulsar Audio Releases DigiTape, A Free Early Digital Tape Plugin",
+   "take": "Pulsar Audio has released DigiTape, a free plugin combining two early 2000s digital tape algorithms with a modern interface and five tape types. Here are the details.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/pulsar-audio-releases-digitape-a-free-early-digital-tape-plugin",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Larix Elektro Origami Duo: it’s a dual complex oscillator, a synth voice, and more",
+   "take": "Larix Elektro Origami Duo is a dual analog complex oscillator module that is a synth voice, a stereo waveshaper, and more. Some products take longer to develop, and occasionally, they end up being completely overhauled [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/larix-elektro-origami-duo-it-s-a-dual-complex-oscillator-a-synth-voice-and-more.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Universal Audio Plug-In Lets You Record Like You Are At Capitol Studios",
+   "take": "Universal Audio has introduced a room-modeling and reverb plug-in that recreates Capitol Studios A and B, including their microphones, consoles, outboard gear and underground echo chambers… Read More Universal Audio Plug-In Lets You Record Like You Are At Capitol Studios",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/10/universal-audio-plug-in-lets-you-record-like-you-are-at-capitol-studios/"
+  },
+  {
+   "cat": "stage",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Finnish Tango Is Far From Finished",
+   "take": "How jazz, prog, punk, and classical musicians are giving Finland's beloved dance music a thoroughly modern makeover. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/scene-report/finnish-tango-scene-report"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Never Found Audio releases MG-Mini, a FREE MIDI grabber plugin for Windows",
+   "take": "Never Found Audio, a new plugin developer based in Lower Saxony, Germany, has released MG-Mini, a free MIDI grabber plugin for Windows. We recently covered the developer’s debut plugin, VT-Mini, a free vocal tuner.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Universal Audio Cooper Time Cube: The Garden Hose Delay is Now Native!",
+   "take": "It's been a favorite amongst Apollo users for years, and now the Universal Audio Cooper Time Cube plugin is available for all DAW users.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/universal-audio-cooper-time-cube-studio/"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Adobe Premiere 27.0 Released – Color Mode, AI Assistant Panel, and Generative Audio Tools",
+   "take": "Adobe has released Premiere 27.0 with Color Mode, an AI Assistant panel, and tools that generate music, sound effects, and soundscapes in the timeline.",
+   "source": "CineD",
+   "url": "https://www.cined.com/adobe-premiere-27-0-released-color-mode-ai-assistant-panel-and-generative-audio-tools/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Edu Request - ko nakatsukasa",
+   "take": "Derivative Username nakamu Full name ko nakatsukasa Academic email nakamuaonoko555@gmail.com Address 102 F.Carmen 8-2, Miyake 1-chome, Minami-ku, City Fukuoka-shi State / Province Fukuoka Zip code 8111344 Country Japan Phone number 08025601559 Educational Institution Kyushu University Phone Number…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-ko-nakatsukasa/75700"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "It Never Went Away: Radie Peat’s Favourite Albums",
+   "take": "On the verge of her debut solo album, Radie Peat of Lankum and ØXN presents 13 records that have held sway over her life and work, from Nico to Beak > Photo by Dave Smith Radie Peat is rightly known as a generational talent in traditional folk music.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/interviews/bakers-dozen/radie-peat-lankum-oxn-interview-favourite-albums/"
+  },
+  {
+   "cat": "nature",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+   "take": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought.",
+   "source": "ScienceDaily (animals)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "How To Name Mix Versions So Nobody Plays The Wrong One",
+   "take": "Label a mix “final” and the changes start arriving, until you’re sending “Final Final v4” and nobody is sure which one is the last.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/how-to-name-mix-versions-so-nobody-plays-the-wrong-one"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Schmidt Vi: the Schmidt Eightvoice synth as a plugin is out now & final hardware comeback",
+   "take": "Schmidt Vi is out now: an emulation of the Schmidt Eightvoice Synthesizer as a plugin, plus the hardware, makes a final comeback. At Superbooth, hardware synthesizers generally take center stage, though software products have also [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/schmidt-vi-deck-the-flagship-schmidt-synthesizer-as-a-plugin-for-your-daw.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Dawuna, “Love’s Arp”",
+   "take": "Dawuna builds on the triumph of “Glass Lit Dream” with a soulful exploration of love. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/dawuna-loves-arp-review"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "SSL Blitzer compressor is $19.99 at Plugin Boutique until November 30",
+   "take": "Solid State Logic’s SSL Blitzer compressor is on sale for $19.99, down from $99, until November 30. The offer is available at Plugin Boutique, and the great news is that it also qualifies for a free gift.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Oxo Synth2 Revives Classic Synth1 As A Free, Open-Source Software Synthesizer",
+   "take": "Oxo Music has released Oxo Synth2, a free, open-source recreation of Daichi Laboratory’s Synth1 that brings compatibility with its existing patches and banks to modern macOS and iPad systems.… Read More Oxo Synth2 Revives Classic Synth1 As A Free, Open-Source Software Synthesizer",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/09/oxo-synth2-revives-classic-synth1-as-a-free-open-source-software-synthesizer/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Yamaha URX, MGX, and CC1 Update: Deeper Integration and Customization Features",
+   "take": "With this new update, there are new features and improvements for the Yamaha URX audio interfaces, the MGX digital mixers, and the CC1 controllers.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/yamaha-urx-cc1-studio/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Creator Royalties Hit Record €15.5 Billion, Audiovisual Passes €750 Million – CISAC Global Collections Report 2026",
+   "take": "CISAC’s Global Collections Report 2026 is out, and the headline is a record: creators worldwide collected €15.5 billion in royalties in 2025. For filmmakers, the more interesting number is further down in the report.",
+   "source": "CineD",
+   "url": "https://www.cined.com/creator-royalties-hit-record-e15-5-billion-audiovisual-passes-e750-million-cisac-global-collections-report-2026/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Edu Request - Eunkang An",
+   "take": "Derivative Username dmsrkd1039 Full name Eunkang An Academic email dmsrkd1039@gmail.com Address 11, Cheongnyong 8-gil, Gwanak-gu, Seoul, 701 City Seoul State / Province Metropolitan Zip code 08785 Country South Korea Phone number +821065489542 Educational Institution Korea National University of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-eunkang/75699"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Coil – Gold is the Metal (with the Broadest Shoulders)",
+   "take": "Coil Gold is the Metal (with the Broadest Shoulders) Assembled from the discarded off-cuts from Horse Rotorvator and the group's unused Hellraiser score, Coil's third album proves far more than the sum of its parts Gold Is The Metal (With The Broadest Shoulders) by Coil Alchemy.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/coil/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Toontrack Releases Neon Void EKX For EZkeys 2",
+   "take": "Neon Void EKX is a new expansion for EZkeys 2 built around dark synths, heavily processed textures and cinematic effects. It is aimed at producers and composers working across darkwave, synth-driven industrial metal and sci-fi-influenced scoring, where melodic parts and transitional sound design…",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/toontrack-releases-neon-void-ekx-for-ezkeys-2"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Body Synths Laboratory: a dual FX box with a feedback synth twist – available now",
+   "take": "Body Synths Laboratory, announced at SB 2026, is now available: a new patchable hybrid dual-FX processor with four feedback paths that turns into a drone synth. Superbooth took place six months ago, and looking back, [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/body-synths-laboratory-a-dual-fx-box-with-a-feedback-synth-twist.html"
+  },
+  {
+   "cat": "radio",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-09",
+   "title": "Morpheral Machines releases Desense, a FREE lo-fi interference instrument",
+   "take": "Morpheral Machines has released Desense, a free instrument that turns stuff like phone interference, electrical hum, and radio noise into sounds you can play from your keyboard. The developer is a new Berlin studio founded by Renoise creator Eduard Müller.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/09/morpheral-desense/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Valeton VDS Series: 3 Dual-Engine Effects for Pitchshifting, Modulation, and Delay/Reverb",
+   "take": "The three pedals in the new Valeton VDS series each features two effects engines, true stereo, and sonic worlds that shouldn't be this affordable.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/valeton-vds-series-guitar/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Far Beyond & Non-Existent: Wipers’ Youth Of America Revisited",
+   "take": "Wipers would have been huge if they hadn't asked so many questions. John Calvert writes about an essential punk album from 45 years ago On Portland Punk Live At The Earth 10-29-79, a live-on-the-night document of local bands released warts'n'all by Wipers' Greg Sage on his own label, Trap, Sage can…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/opinion-and-essays/anniversary/wipers-youth-of-america-review/"
+  }
+ ]
+}
