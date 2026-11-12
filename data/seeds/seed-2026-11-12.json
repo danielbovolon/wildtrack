@@ -1,0 +1,300 @@
+{
+ "key": "2026-11-12",
+ "label": "Thu 12 Nov 2026",
+ "range": "10 November – 12 November 2026",
+ "generated": "2026-11-12T14:50:05+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Graphic notation",
+  "note": "Graphic notation is the representation of music through the use of visual symbols outside the realm of traditional music notation. Graphic notation became popular in the 1950s, and can be used either in combination with or instead of traditional music notation. Graphic notation was influenced by contemporary visual art trends in its conception, bringing stylistic components from modern art into music. Composers often rely on graphic notation in experimental music, where standard musical notation can be ineffective.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Graphic notation (music)",
+   "url": "https://en.wikipedia.org/wiki/Graphic_notation_(music)"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Chetham%27s_Library_2015_21.jpg/1920px-Chetham%27s_Library_2015_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Chetham%27s_Library_2015_21.jpg",
+  "title": "Chetham's Library 2015 21",
+  "alt": "Chetham's Library, Manchester, United Kingdom",
+  "credit": "Photograph by Mike Peel ( www.mikepeel.net ).",
+  "licence": "CC BY-SA 4.0",
+  "category": "Gongs"
+ },
+ "poem": {
+  "title": "Aspens",
+  "author": "Edward Thomas",
+  "lang": "English",
+  "text": "ALL day and night, save winter, every weather,\nAbove the inn, the smithy, and the shop,\nThe aspens at the cross-roads talk together\nOf rain, until their last leaves fall from the top.\n\nOut of the blacksmith's cavern comes the ringing\nOf hammer, shoe, and anvil; out of the inn\nThe clink, the hum, the roar, the random singing--\nThe sounds that for these fifty years have been.\n\nThe whisper of the aspens is not drowned,\nAnd over lightless pane and footless road,\nEmpty as sky, with every other sound\nNot ceasing, calls their ghosts from their abode,\n\nA silent smithy, a silent inn, nor fails\nIn the bare moonlight or the thick-furred gloom,\nIn tempest or the night of nightingales,\nTo turn the cross-roads to a ghostly room.\n\nAnd it would be the same were no house near.\nOver all sorts of weather, men, and times,\nAspens must shake their leaves and men may hear\nBut need not listen, more than to my rhymes.\n\nWhatever wind blows, while they and I have leaves\nWe cannot other than an aspen be\nThat ceaselessly, unreasonably grieves,\nOr so men think who like a different tree.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Aspens/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Iannis Xenakis",
+  "work": "Metastaseis",
+  "why": "Metastasis is the spread of a pathogenic agent from an initial or primary site to a different or secondary site within the host's body; the term is typically used when referring to metastasis by a cancerous tumor. The newly pathological sites, then, are metastases (mets). It is generally distinguished from cancer invasion, which is the direct extension and penetration by cancer cells into neighboring tissues.",
+  "url": "https://en.wikipedia.org/wiki/Metastasis",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Ritual",
+  "title": "The adhan",
+  "body": "The adhan is the Islamic call to prayer, usually recited by a muezzin, traditionally from the minaret of a mosque, shortly before each of the five obligatory daily prayers.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Adhan",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 10 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 5 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Reading Rainbow, the Buchla synth’s “MARF,” and a prototype’s live debut",
+   "take": "Hold on for a wormhole between different nerd universes. Steve Horelick, the prolific composer behind the music for Reading Rainbow, meets the classic Buchla 200, meets a new prototype of an official recreation of the Multiple Arbitrary Function Generator (MARF). Also, Star Trek.",
+   "source": "CDM",
+   "url": "https://cdm.link/reading-rainbow-buchla-marf-steve-horelick/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Void Enemy releases Plenitude, a FREE synthesizer for macOS and Windows",
+   "take": "Void Enemy has released Plenitude, a free virtual analog synthesizer with three oscillators, a modulation matrix, and built-in effects for macOS and Windows. Plenitude started during Covid as Marco’s personal project, mostly out of boredom.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/12/void-enemy-plenitude/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Why Cloning Pro Tools Is Not a Protest: Our Verdict",
+   "take": "Open-source clones of Pro Tools and Adobe apps are being celebrated. We examine the ethics, the copyright questions, and what professionals are paying for.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/why-cloning-pro-tools-is-not-a-protest-our-verdict"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Elastic OSC: iOS/Android polysynth with MI algorithms: update 2.2 with mod animations, better MIDI & more",
+   "take": "Elastic OSC is the latest Synthesizer app from developer Oliver Greschke that takes the Mutable Instruments algorithms on a wild, modulating trip. Elastic OSC is one of my favorite synthesizers on iOS from the last [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/elastic-osc-review-ios-polysynth-takes-the-mutable-instruments-algorithms-on-a-wild-trip.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Schmidt Eight Voice Polyphonic Software Synthesizer Now Available",
+   "take": "Schmidt Synthesizer has introduced Schmidt Vi, a software recreation of its flagship analog synthesizer, bringing its four-oscillator architecture, five-filter signal path and extensive modulation capabilities to digital music production.… Read More Schmidt Eight Voice Polyphonic Software…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/11/schmidt-eight-voice-polyphonic-software-synthesizer-now-available/"
+  },
+  {
+   "cat": "radio",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Celebrating 50 Years of 3RRR, Melbourne’s Iconic Community Radio Station",
+   "take": "Melbourne's raucous, seminal, and signal-boosting community radio station celebrates five decades of boosting independent music. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/features/3rrr-50th-anniversary-feature"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Tone King Royce: AC-voiced Tube Preamp",
+   "take": "The Tone King Royce is a dual channel tube preamp based on the classic '60s AC amp tone",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/tone-king-royce-ac-voiced-tube-preamp/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Spydergum – Spydergum",
+   "take": "Spydergum Spydergum Featuring Concepción Huerta and Luka Aron among others, this large improvising ensemble contains multitudes Spydergum by Spydergum It is sticky and it penetrates the skin. That tingling feeling is tortuously triggering. Attentive listening is what is calling for Spydergum.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/spydergum-spydergum-review/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Edu Request - Hayden Kints",
+   "take": "Derivative Username Hayden_Motion Full name Hayden Kints Academic email hkints@c.ringling.edu Address 1709 N Tamiami Trl City Sarasota State / Province Florida Zip code 34234 Country United States Phone number 9413749667 Educational Institution Ringling College of Art and Design Phone Number of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-hayden-kints/75708"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "CHIP 8: The Pong Game’s Afoot!",
+   "take": "Writing a computer game has always been hard. It is only the nature of the difficulty that changes. A modern game is as much about graphics, sound, and storytelling as …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/11/chip-8-the-pong-games-afoot/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Analog Obsession releases MasterTone, a FREE Baxandall EQ plugin",
+   "take": "Analog Obsession has released MasterTone, a free Baxandall EQ plugin for macOS and Windows. Here’s a developer who was delivering quality freebies long before the current AI wave.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/12/analog-obsession-mastertone/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Pittsburgh Modular Microvolt 3901: the 3900 semi-modular synth returns as a plugin (desktop/iPadOS)",
+   "take": "Pittsburgh Modular goes software with the Microvolt 3901, a desktop and iPadOS emulation of the Microvolt 3900 semi-modular synth plus extras. Update: out now for iPadOS! Pittsburgh Modular, led by Richard Nicol, is a US-based [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/pittsburgh-modular-microvolt-3901-the-3900-semi-modular-synth-returns-as-a-plugin-desktop-ipados.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Audio Damage Introduces Sandbender, A Four-Operator FM Synth With Wavefolding & MPE",
+   "take": "Audio Damage's new Sandbender synthesizer combines four-operator FM synthesis with wave shaping, wavefolding, extensive modulation, and a low-pass gate, offering a different approach to programming and performing FM sounds.… Read More Audio Damage Introduces Sandbender, A Four-Operator FM Synth…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/11/audio-damage-introduces-sandbender-a-four-operator-fm-synth-with-wavefolding-mpe/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Kaizen Audio Axis Upmixer And Vortex Downmixer First Look",
+   "take": "Kaizen Audio offer a range of plug-ins and tools for audio post. Among them are AXIS Upmixer and Vortex Downmixer. Designed to upmix stereo to 9.1.6 Dolby Atmos, AXIS creates upmixes which Kaizen claim fold back down to stereo with a perfect null.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/kaizen-audio-axis-upmixer-and-vortex-downmixer-first-look"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Chastity Belt, “All My Friends”",
+   "take": "The drawn out dreaminess of the band's sixth album creates an insular and occasionally conversational world. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/chastity-belt-all-my-friends-review"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Epiphone EDS-1275 Doubleneck: Back & Upgraded for 2026",
+   "take": "The Epiphone EDS-1275 Doubleneck is back and has been upgraded for the latest release",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/epiphone-eds-1275-doubleneck/"
+  },
+  {
+   "cat": "radio",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "The Low Culture Podcast: The Walker Brothers’ Nite Flights",
+   "take": "In this month’s pod, John Doran and Luke Turner listen to a pioneering record in which Scott Walker bade farewell to his brothers in song Make it easy on yourself: brew a fine mahogany-toned cup of tea, fetch a virgin packet of garibaldis from the pantry, nudge the thermostat up another degree…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/subscriber-area/low-culture-podcast/the-low-culture-podcast-the-walker-brothers-nite-flights/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Test:OP Info Channels Common Page",
+   "take": "Common Operator Info Channels Page URL: https://docs.derivative.ca/Test:OP_Info_Channels_Common_Page",
+   "source": "Derivative",
+   "url": "https://derivative.ca/solr/testop-info-channels-common-page"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Roland GALAXIAS 1.9.4: new update brings redesigned arp/chord sections and more",
+   "take": "Roland GALAXIAS is a new instrument plugin that lets you turn your Cloud plugins into a four-part, multi-layer super instrument: update 1.9.4 out now GALAXIAS is a kind of “super-instrument” from Roland. It doesn’t have [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/roland-galaxias-turn-your-cloud-plugins-into-a-multi-layer-super-instrument.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Krakli Updates Its Free Synthesizer Collection With Mac Support",
+   "take": "Krakli has expanded its freeware synthesizer collection to macOS and introduced KXTRA, a new hybrid FM instrument with an expandable operator architecture.… Read More Krakli Updates Its Free Synthesizer Collection With Mac Support",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/11/krakli-updates-its-free-synthesizer-collection-with-mac-support/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "Reasonable Audio releases Preamble, a FREE preamp distortion plugin",
+   "take": "Reasonable Audio has released Preamble, a free preamp distortion plugin for macOS, Windows, and Linux. Preamble emulates a bucket-brigade delay pedal’s input stage, without the delay itself.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/11/reasonable-audio-preamble/",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-11",
+   "title": "The Tape Label Report, October 2026",
+   "take": "5 tape labels to know and love from October. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-october-2026"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-10",
+   "title": "Soundly Brings Smarter Sound Design to Pro Tools",
+   "take": "Soundly’s free Pro Tools extension brings AI-driven sound search and Find Similar to your timeline while leaving every creative decision with the editor.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/soundly-makes-ai-sound-design-that-professionals-should-love"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-12",
+   "title": "Teenage Engineering EP BC-1 CD Player Leaked!",
+   "take": "Whether it happened strategically or not, the Teenage Engineering EP BC-1 CD Player has been leaked, and it's such an exciting-looking piece of kit.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/teenage-engineering-ep-bc-1-dj/"
+  }
+ ]
+}
