@@ -1,0 +1,287 @@
+{
+ "key": "2026-11-14",
+ "label": "Sat 14 Nov 2026",
+ "range": "12 November – 14 November 2026",
+ "generated": "2026-11-14T13:16:33+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "photo",
+  "text": "A concert hall - Flickr - odako1",
+  "note": "w/ Nikon 1 V1 +11mm",
+  "photo": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/A_concert_hall_-_Flickr_-_odako1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "page": "https://commons.wikimedia.org/wiki/File:A_concert_hall_-_Flickr_-_odako1.jpg",
+   "title": "A concert hall - Flickr - odako1",
+   "alt": "w/ Nikon 1 V1 +11mm",
+   "credit": "Koichi Oda",
+   "licence": "CC BY-SA 2.0",
+   "category": "Concert halls"
+  },
+  "quoted": true,
+  "source": {
+   "label": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:A_concert_hall_-_Flickr_-_odako1.jpg"
+  }
+ },
+ "photo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/A_concert_hall_-_Flickr_-_odako1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:A_concert_hall_-_Flickr_-_odako1.jpg",
+  "title": "A concert hall - Flickr - odako1",
+  "alt": "w/ Nikon 1 V1 +11mm",
+  "credit": "Koichi Oda",
+  "licence": "CC BY-SA 2.0",
+  "category": "Concert halls"
+ },
+ "listen": {
+  "artist": "Pierre Schaeffer and Pierre Henry",
+  "work": "Symphonie pour un homme seul",
+  "why": "Symphonie pour un homme seul is a musical composition by Pierre Schaeffer and Pierre Henry, composed in 1949–1950. It is an important early example of musique concrète.",
+  "url": "https://en.wikipedia.org/wiki/Symphonie_pour_un_homme_seul",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Product/UX",
+  "title": "The Macintosh startup chime",
+  "body": "The startup sequence for Apple's Macintosh computers includes hardware tests and diagnostics which can trigger the startup chimes, or other instances of success or failure or both of the startup routines.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Macintosh_startup",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "23 new stories from 11 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 6 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Harps with flowers that bloom and more fanciful creations of Monique Evette",
+   "take": "If you don't know her work, computer scientist Monique \"Evette\" Byars has built spectacular, animated instruments, merging digital modeling and fabrication techniques. Flowers bloom. Guitars are reimagined as koi ponds. Sounds get transformed into wearable resin structures.",
+   "source": "CDM",
+   "url": "https://cdm.link/fanciful-creations-of-monique-evette/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Is Protility The Best Free Utility Plugin In 2026?",
+   "take": "Mike came across Protility, a versatile tool for gain staging, stereo width control, and phase correction. Designed to streamline essential mix tasks, Protility helps producers achieve a clean, balanced, professional sound, and it struck him that Protility would replace the favourite utility plugin…",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/is-protility-the-best-free-utility-plugin-in-2026",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Behringer Opens New AQ64L 64-Pad MIDI Controller To Custom Firmware",
+   "take": "Behringer’s AQ64L is an 8×8 RGB clip-launch controller with dedicated Ableton Live and FL Studio integration. Music Tribe has also published a developer kit for creating and installing custom firmware.… Read More Behringer Opens New AQ64L 64-Pad MIDI Controller To Custom Firmware",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/13/behringer-opens-new-aq64l-64-pad-midi-controller-to-custom-firmware/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Xfer Records Shrub: little Serum as a free plugin for mac, Linux and Windows",
+   "take": "Xfer Records Shrub is also a free mini Serum wavetable Synthesizer plugin for macOS, Linux, Windows, and hardware with a VST3 host. This evening, Steve Duda released the Shrub custom firmware for the M-VAVE FM-1 [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/xfer-record-shrub-little-serum-as-a-free-plugin-for-mac-linux-and-windows.html",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "The Tragic Life and Outsized Legacy of Bill Evans",
+   "take": "He was one of the 20th century's greatest jazz pianists, leaving behind a discography of essential recordings and live performances. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/lists/bill-evans-album-guide"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "StereoGhost releases PhaseKicker, an automatic kick-bass phase alignment plugin",
+   "take": "StereoGhost has released PhaseKicker, a plugin that automatically adjusts the phase relationship between your kick and bass on every kick hit. The Swiss developer is offering PhaseKicker for $35/€39 during its introductory sale, advertised to run until November 30, 2026.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/13/stereoghost-releases-phasekicker-an-automatic-kick-bass-phase-alignment-plugin/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Reverse Engineering Score Perfect to Rescue its Files",
+   "take": "There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Edu Request - Mohammad Reza Galehdaripoor",
+   "take": "Derivative Username ashkan.galehdari Full name Mohammad Reza Galehdaripoor Academic email ashkan.galehdaripoor@student.ahk.nl Address Roosje Vosstraat 51 City Amsterdam State / Province North Holland Zip code 1069 RA Country Netherlands Phone number +31 684087939 Educational Institution Amsterdamse…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-mohammad-reza-galehdaripoor/75716"
+  },
+  {
+   "cat": "stage",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "The Sadness of Things: The Life And Art Of Ryuichi Sakamoto",
+   "take": "The English publication of Ryuichi Sakamoto's memoir, Music Sets you Free, coincides with an exhition at Hamburger Bahnhof in Berlin. Together, they prove a fitting testament to one of the great musical minds of the twentieth century Portrait of Ryuichi Sakamoto © 2020 KAB Inc.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/culture/art/the-sadness-of-things-the-life-and-art-of-ryuichi-sakamoto/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Iconic Synths: 10 Game-Changing Synthesizers",
+   "take": "These are the iconic synths that made the biggest impact on music - and how you can get their sound even today.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/iconic-synths-1/"
+  },
+  {
+   "cat": "radio",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
+   "take": "After a stroke left him unable to do the voice of the Witcher series' main character anymore, Jacek Rozenek consented to using AI for Witcher 3's next expansion.",
+   "source": "Game Developer",
+   "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "DJW Audio Intros DW-303, a Free Open-Source TB-303-Style Synthesizer",
+   "take": "DJW Audio's DW-303 is a free, open-source TB-303-style bass synthesizer featuring circuit-modeled sound generation, a 16-step sequencer, 64 patterns and support for multiple plugin formats and operating systems.… Read More DJW Audio Intros DW-303, a Free Open-Source TB-303-Style Synthesizer",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/13/djw-audio-intros-dw-303-a-free-open-source-tb-303-style-synthesizer/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Xfer Records Shrub: the little “Serum” brother for M-VAVE FM-1 is available now (beta)",
+   "take": "Steve Duda of Xfer Records is working on Shrub, a stripped-down version of Serum for the M-VAVE FM-1 Synthesizer, available now: beta! At the end of October, Steve Duda of Xfer Records—the developer behind Serum—announced [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/xfer-records-shrub-serum-for-m-vave-fm-1-before-gta-6.html"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Surround Client Reviews Without the Room: Source-Nexus 2026",
+   "take": "Source Elements added a real-time surround downmixer to Source-Nexus Review in Source-Nexus Suite 1.6. In this article we look at why you might want to run a remote review session, and how Source-Nexus takes most of the work out of it.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/remote-surround-review-source-nexus-downmix-session"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Essential Releases, November 13, 2026",
+   "take": "Experimental dub, psychedelic pop, and more. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-november-13-2026"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Edu Request - Luna Jones",
+   "take": "Derivative Username Captivated Full name Luna Jones Academic email corehoof@gmail.com Address 4409 Guadalupe st., Apt 8 City Austin State / Province TX Zip code 78751 Country United States Phone number 5406563918 Educational Institution UT Austin Phone Number of Educational Institution 512-475-9400…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-luna-jones/75715"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Solar Guitars Type H Guillotine Headless Multiscale Travel Guitars",
+   "take": "Solar Guitars launches two new Type H Guillotine Headless Multiscale Travel Guitars!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/solar-guitars-type-h-guillotine/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Spitfire Audio Releases Eric Whitacre Eternity, Combining Analog Synths, Piano and Processed Choir",
+   "take": "Spitfire Audio's Eric Whitacre Eternity combines recordings of analog synthesizers, a historic family piano and heavily processed choir with more than 200 presets, dual-layer sound design and effects drawn from Whitacre's own studio setup.… Read More Spitfire Audio Releases Eric Whitacre Eternity,…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/13/spitfire-audio-releases-eric-whitacre-eternity-combining-analog-synths-piano-and-processed-choir/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "AudioThing Seconds: Hainbach’s new filter bank plugin lets you dig into the sonic unknown",
+   "take": "AudioThing Seconds: Hainbach’s new filter bank plugin uses per-band filtering and ring modulation to help you dig into the sonic unknown. The Berlin-based musician Hainbach has a strong fondness for filter banks. Together with Bram [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/audiothing-seconds-hainbachs-new-filter-bank-plugin-lets-you-dig-into-the-sonic-unknown.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Quiet Art WaveRider v5 Adds Dialog Mode And VST/AU Support",
+   "take": "Quiet Art has today announced WaveRider v5, a full overhaul of its long-running dialogue levelling plugin, alongside Dialog Mode, a neural speech detection feature that also comes to WaveRider TG v2 and LoudnessGracious v1.1.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/quiet-art-waverider-v5-adds-dialog-mode-and-vst/au-support"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Donwill & The Expert, “EXPERTISE”",
+   "take": "A rap scholar shows off the joy he finds in the craft. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/donwill-the-expert-expertise-review"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Edu Request - Benoît Mariot",
+   "take": "Derivative Username Bernuald Full name Benoît Mariot Academic email 1ben@bluewin.ch Address 13 chemin de la bergerie 1236 Cartigny City Genève State / Province Genève Country Suisse Phone number 079 898 19 79 Educational Institution Manufacture Phone Number of Educational Institution 21 557 41 60…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-beno%C3%AEt-mariot/75714"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Helpful Guitar Gear: 5 Accessories I Couldn’t Live Without",
+   "take": "Helpful guitar gear can be the make-or-break of any guitarist's setup. From capos to cloths, here's what I'd recommend to every player.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/helpful-guitar-gear-5-accessories/"
+  }
+ ]
+}
