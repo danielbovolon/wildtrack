@@ -1,0 +1,196 @@
+{
+ "key": "2026-11-15",
+ "label": "Sun 15 Nov 2026",
+ "range": "13 November – 15 November 2026",
+ "generated": "2026-11-15T13:49:37+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Critical band",
+  "note": "In audiology and psychoacoustics the concept of critical bands, introduced by Harvey Fletcher in 1933 and refined in 1940, describes the frequency bandwidth of the \"auditory filter\" created by the cochlea, the sense organ of hearing within the inner ear. Roughly, the critical band is the band of audio frequencies within which a second tone will interfere with the perception of the first tone by auditory masking.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Critical band",
+   "url": "https://en.wikipedia.org/wiki/Critical_band"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Child_receiving_medical_care_with_doctor_using_ultrasound_device_in_a_medical_setting.jpg/1920px-Child_receiving_medical_care_with_doctor_using_ultrasound_device_in_a_medical_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Child_receiving_medical_care_with_doctor_using_ultrasound_device_in_a_medical_setting.jpg",
+  "title": "Child receiving medical care with doctor using ultrasound device in a medical setting",
+  "alt": "A child sits on an examination bed while a doctor uses an ultrasound device on her arm. The room has medical equipment and the child holds a stuffed toy.",
+  "credit": "Shixart1985",
+  "licence": "CC BY 2.0",
+  "category": "Ultrasound"
+ },
+ "listen": {
+  "artist": "Raymond Scott",
+  "work": "Soothing Sounds for Baby",
+  "why": "Soothing Sounds for Baby (1964) is a three-volume set of ambient electronic music by American composer, musician, and inventor Raymond Scott. Scott originally intended to lull infants to sleep with the music, but later generations have found value in the music for its minimalist aspects, often comparing it to the works of Brian Eno, Kraftwerk and Tangerine Dream.",
+  "url": "https://en.wikipedia.org/wiki/Soothing_Sounds_for_Baby",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Writing",
+  "title": "Sound poetry",
+  "body": "Sound poetry is an artistic form bridging literary and musical composition, in which the phonetic aspects of human speech are foregrounded instead of more conventional semantic and syntactic values; \"verse without words\". By definition, sound poetry is intended primarily for performance.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Sound_poetry",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "15 new stories from 5 sources over the last 48 hours, including Synthtopia, Synth Anatomy, Gearnews, Derivative, Hackaday. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "Imaginando Colapso: an additive Synthesizer straight out of an atomic lab – now for iPadOS",
+   "take": "Imaginando Colapso is an atomic additive Synthesizer plugin for macOS and Windows that turns the light of chemical elements into evolving sounds. Update: now also for iPadOS at an introductory price of $ 19.99. DRC, [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/imaginando-colapso-an-additive-synthesizer-straight-out-of-an-atomic-lab.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Yamaha Updates VOCALOID With More Expressive AI Singing, Five New Voicebanks",
+   "take": "Yamaha has released VOCALOID7, the latest version of its singing voice synthesis software, featuring a second-generation AI engine, new vocal expression controls, improved Cubase integration and five new voicebanks.… Read More Yamaha Updates VOCALOID With More Expressive AI Singing, Five New…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/14/yamaha-updates-vocaloid-with-more-expressive-ai-singing-five-new-voicebanks/"
+  },
+  {
+   "cat": "space",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "An MP3 Player, Implemented As A Factorio Blueprint",
+   "take": "Factorio is a factory simulation game that leads its players into many happy hours of building ever more complex factories, but it comes with a snag. Its built-in music is …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/"
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "Edu Request - junho song",
+   "take": "Derivative Username junmae Full name junho song Academic email junmae72@cau.ac.kr Address 동호로 11길 84 City seoul Capital Metropolitan City State / Province seoul Capital Metropolitan City Zip code 04599 Country south korea Phone number 821063421071 Educational Institution chung-ang university Phone…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-junho-song/75725"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "Purpl, Plenitude, Sublime: Free Plugins of the Week",
+   "take": "This week’s roundup of the best free plugins brings you two free synths and a strong contender for best reverb of the year: Purpl, Plenitude, Sublime.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/purpl-plenitude-sublime-free-plugins/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "KOMA Elektronik Haloplane: an electromagnetic micro-loop sampler and synth: ready to pre-order",
+   "take": "KOMA Elektronik Haloplane is a new electromagnetic micro-loop sampler and wavetable synth made with Passpartout Duo. Available for pre-order! Superbooth 2026 saw the unveiling of a great deal of new gear. Tucked away in the [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/koma-elektronik-haloplane-an-electromagnetic-micro-loop-sampler-with-passpartout-duo.html"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Cinescapes Pro Turns iPhone and iPad Into Cinematic Ambient Instruments",
+   "take": "Cinescapes Pro is a generative instrument for ambient music, sound design and film scoring. Its iOS release adapts the desktop instrument for mobile use, with a free three-scene version and optional full unlock.… Read More Cinescapes Pro Turns iPhone and iPad Into Cinematic Ambient Instruments",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/14/cinescapes-pro-turns-iphone-and-ipad-into-cinematic-ambient-instruments/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "Reverse Engineer that USB Device in Style",
+   "take": "Proprietary device drivers, dedicated applications, and their ilk are the bane of the open-source hacker. If only we could snoop on every device out there, recording the “secret” USB transactions …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "Edu Request - Romain",
+   "take": "Derivative Username GN.motion Full name Romain Academic email gn.romain@gmail.com Address 13 rue Poullain Duparc City Rennes State / Province Brittany (Ille-et-Vilaine) Zip code 35000 Country France Phone number +33 7 56 89 98 16 Educational Institution LISAA School of Art & Design Rennes…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-romain/75724"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "maggots for brains: Why do I Actually Like this 2026 Song?",
+   "take": "maggots for brains is one of Olivia Rodrigo's latest hits. Usually, I'd hate this kind of music. But as a guitarist, there's actually a lot to like.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/maggots-for-brains-why-do-i-like-this-song/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "Bastl Instruments 1999: the Neo Trinity mod hub gets an expansion to the MIDI world",
+   "take": "Bastl Instruments 1999 is a new expander for the Neo Trinity, integrating the flexible 6-channel modulation hub into your MIDI setup. In early 2024, Bastl Instruments released the Neo Trinity module, a versatile modulation hub [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/bastl-instruments-1999-the-neo-trinity-mod-hub-gets-an-expansion-to-the-midi-world.html"
+  },
+  {
+   "cat": "field",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Living Sky Combines Convolution Reverb, 3D Positioning & Modulation For Immersive Audio",
+   "take": "MNTRA's Living Sky combines GPU-powered convolution processing, 3D sound positioning and recordings of real acoustic spaces in a spatial mixing and reverb environment supporting stereo, binaural, surround and Ambisonics formats.… Read More Living Sky Combines Convolution Reverb, 3D Positioning &…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/14/living-sky-combines-convolution-reverb-3d-positioning-modulation-for-immersive-audio/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "Edu Request - Brennan Whitfield",
+   "take": "Derivative Username swixxballs Full name Brennan Whitfield Academic email bwhitfield11@gmail.com Address 605 South Buckner Street City Derby State / Province Kansas Zip code 67037 Country United States Phone number 3164691679 Educational Institution Wichita State University Phone Number of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-brennan-whitfield/75723"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "DIVINER: Occult Synth Firmware for the Cardputer",
+   "take": "We see some strange software around these parts, but this is probably the strangest. DIVINER is a firmware for the M5 Cardputer, which is an interesting device in its own …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-13",
+   "title": "Audient iD Desktop Range: Enhanced with DSP and Monitor Correction",
+   "take": "It's a late drop! The new fully-featured 3rd-generation Audient iD Desktop range is here with four audio interfaces to replace the old ones.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/audient-id-desktop-range-studio/"
+  }
+ ]
+}
