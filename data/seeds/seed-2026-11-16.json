@@ -1,0 +1,253 @@
+{
+ "key": "2026-11-16",
+ "label": "Mon 16 Nov 2026",
+ "range": "13 November – 16 November 2026",
+ "generated": "2026-11-16T14:45:30+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "estruendo",
+  "lang": "Spanish",
+  "note": "Spanish noun. Wiktionary gives: (1) bang (2) racket , din , roar",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: estruendo",
+   "url": "https://en.wiktionary.org/wiki/estruendo#Spanish"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ear_Trumpet_Louth.jpg/1920px-Ear_Trumpet_Louth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Ear_Trumpet_Louth.jpg",
+  "title": "Ear Trumpet Louth",
+  "alt": "Ear trumpet belonging to Miss Grantham of Louth, Louth Museum.",
+  "credit": "Catlemur",
+  "licence": "CC BY-SA 4.0",
+  "category": "Ear trumpets"
+ },
+ "poem": {
+  "title": "Mithridates",
+  "author": "Ralph Waldo Emerson",
+  "lang": "English",
+  "text": "I cannot spare water or wine,\nTobacco-leaf, or poppy, or rose;\nFrom the earth-poles to the Line,\nAll between that works or grows,\nEvery thing is kin of mine.\n\nGive me agates for my meat,\nGive me cantharids to eat,\nFrom air and ocean bring me foods,\nFrom all zones and altitudes.\n\nFrom all natures, sharp and slimy,\nSalt and basalt, wild and tame,\nTree, and lichen, ape, sea-lion,\nBird and reptile be my game.\n\nIvy for my fillet band,\nBlinding dogwood in my hand,\nHemlock for my sherbet cull me,\nAnd the prussic juice to lull me,\nSwing me in the upas boughs,\nVampire-fanned, when I carouse.\n\nToo long shut in strait and few,\nThinly dieted on dew,\nI will use the world, and sift it,\nTo a thousand humors shift it,\nAs you spin a cherry.\nO doleful ghosts, and goblins merry,\nO all you virtues, methods, mights;\nMeans, appliances, delights;\nReputed wrongs, and braggart rights;\nSmug routine, and things allowed;\nMinorities, things under cloud!\nHither! take me, use me, fill me,\nVein and artery, though ye kill me;\nGod! I will not be an owl,\nBut sun me in the Capitol.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Mithridates/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Karlheinz Stockhausen",
+  "work": "Gesang der Jünglinge",
+  "why": "Gesang der Jünglinge is an electronic music work by Karlheinz Stockhausen. It was realized in 1955–56 at the Westdeutscher Rundfunk studio in Cologne and is Work Number 8 in the composer's catalog. The vocal parts were supplied by 12-year-old Josef Protschka.",
+  "url": "https://en.wikipedia.org/wiki/Gesang_der_J%C3%BCnglinge",
+  "quoted": true,
+  "year": "1956"
+ },
+ "crossover": {
+  "field": "Architecture",
+  "title": "Architectural acoustics",
+  "body": "Architectural acoustics is the science and engineering of achieving a good sound within a building and is a branch of acoustical engineering. The first application of modern scientific methods to architectural acoustics was carried out by the American physicist Wallace Sabine in the Fogg Museum lecture room. He applied his newfound knowledge to the design of Symphony Hall, Boston.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Architectural_acoustics",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "19 new stories from 7 sources over the last 72 hours, including Production Expert, Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews and 2 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "radio",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+   "take": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior.",
+   "source": "ScienceDaily (acoustics)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "GullDSP Phathom is a FREE bass preamp and distortion plugin for Windows",
+   "take": "GullDSP offers Phathom, a free and open-source bass guitar preamp plugin for Windows, designed for fuzzy, growling, and clanky modern bass tones. We previously covered the developer’s Circulate phase smearing plugin.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Apogee Symphony I/O MK I Revived For Modern Macs By Free Open-Source Drivers",
+   "take": "Independent developer Daniel Raffel has released free, open-source drivers and a replacement control app for Apogee’s original Symphony I/O, after Apogee gave him access to its legacy source code. Apogee’s support for the 2010 interface ended with macOS 14 Sonoma.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/apogee-symphony-i/o-mk-i-revived-for-modern-macs-by-free-open-source-drivers",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Lifeforms Voltage Lab V: Pittsburgh Modular’s West-Coast semi-modular synth as a plugin (iPadOS)",
+   "take": "Lifeforms Voltage Lab V is an emulation of Pittsburgh Modular’s West Coast semi-modular Synthesizer from 2019, available as an iPadOS AUv3 plugin. Pittsburgh Modular recently released the Microvolt 3901 plugin—an emulation of their Microvolt 3900 [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/lifeforms-voltage-lab-v-pittsburgh-modulars-west-coast-semi-modular-synth-as-a-plugin-ipados.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Deluge 1.3 ‘Derbyshire’ Firmware Hands-On Demo",
+   "take": "The Deluge Community Firmware 1.3 “Derbyshire” update adds expanded modulation, new effects, a substantially enhanced arpeggiator, pattern saving and improved MIDI/CV control.… Read More Deluge 1.3 ‘Derbyshire’ Firmware Hands-On Demo",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/15/deluge-1-3-derbyshire-firmware-hands-on-demo/"
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Edu Request - livius koehn",
+   "take": "Derivative Username dino030 Full name livius koehn Academic email livius.koehn@student.htw-berlin.d> Address Hufelandstraße 11 City Berlin State / Province Berlin Zip code 10407 Country Germany Phone number 017645614945 Educational Institution HTW Phone Number of Educational Institution +49 30…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-livius-koehn/75739"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "A Complete Gig-Ready Guitar Rig Under €1,000: Guitar, Amp, and Everything Else You Need to Plug and Play",
+   "take": "Looking to step it up and play shows regularly? Then you might need a gig-ready guitar rig. Check out these suggestions for under 1,000 euros.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/gig-ready-guitar-rig-under-1000-guitar/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "In Session Audio offers Dyad: Solo Kalimba FREE for Kontakt Player",
+   "take": "In Session Audio is offering Dyad: Solo Kalimba, a kalimba sample library for the free Kontakt Player, as a free download through November 25. We’ve previously covered their Fruit Shake giveaways, which focused on sequenced shaker performances.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/16/dyal-solo-kalimba/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "INSEKTIQ TONIQ Converts Audio To MIDI Inside Pro Tools Using ARA 2",
+   "take": "INSEKTIQ has announced TONIQ, an audio-to-MIDI plugin that works directly on clips in the Pro Tools timeline through ARA 2. It converts chords, vocals, drums and full mixes to MIDI on the computer, and the free version has no length limit or watermark.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/insektiq-toniq-converts-audio-to-midi-inside-pro-tools-using-ara-2"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Steve Duda’s Free Shrub Brings Serum Wavetable Synthesizer To The M-VAVE FM-1",
+   "take": "Xfer Records developer Steve Duda has released Shrub, a free, stripped-down version of Serum designed for the M-VAVE FM-1.",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/15/steve-dudas-free-shrub-brings-serum-wavetable-synthesizer-to-the-m-vave-fm-1/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "The Signal Supply Gigantic: a former NI employee reimagines the OG Massive synth",
+   "take": "The Signal Supply Gigantic, by a former NI employee, reimagines the OG Massive synth with a new modern UI, features, and more. At the end of October, Native Instruments released the Massive XL Synthesizer, while [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/the-signal-supply-gigantic-a-former-ni-employee-reinvents-the-og-massive-synth.html"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Edu Request - Ed Triplett",
+   "take": "Derivative Username EdTriplett Full name Ed Triplett Academic email edward.triplett@duke.edu Address 411 North English Hill Lane City Hillsborough State / Province NC Zip code 27278 Country United States Phone number 4105337974 Educational Institution Duke University Phone Number of Educational…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-ed-triplett/75738"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Xfer Records Shrub: Serum for Free?!",
+   "take": "Xfer Records Shrub is a free version of Serum that runs in your DAW as a VST and also the M-Wave FM-1. But is this really Serum? Like really?",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/xfer-records-shrub-serum-synth/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Soundtrap adds VST instrument support and partners with Arturia",
+   "take": "Soundtrap has added VST instrument support to its cloud-based music production platform, with Arturia’s Pigments synth and Efx MOTIONS joining the launch. The update lets producers bring virtual instruments into their Soundtrap projects alongside third-party effects.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/16/soundtrap-arturia-partnership/"
+  },
+  {
+   "cat": "access",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "How To Get A Professional Hearing Assessment: A Practical Guide for Audio Engineers",
+   "take": "In our article on tinnitus, we discussed the importance of audio professionals getting regular hearing tests. In this article, we look in much greater detail at what we need from a hearing test as audio professionals and how to find and ask for the right kind of tests and care.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/how-to-get-a-professional-hearing-assessment-a-practical-guide-for-audio-engineers"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "AudioThing & Hainbach Release Seconds, A 48-Band Spectral Sound Design Effect",
+   "take": "AudioThing and experimental musician Hainbach have released Seconds, a spectral sound design plugin built around 48 bandpass filters.",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/14/audiothing-hainbach-release-seconds-a-48-band-spectral-sound-design-effect/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-14",
+   "title": "Fred’s Lab Octane: an 8-in/8-out TRS MIDI interface with open-source hardware and firmware",
+   "take": "Fred’s Lab Octane is a new, freely configurable 8-in/8-out TRS MIDI interface with open-source hardware and firmware, now on Kickstarter More compact synthesizers and electronic music products now use 3.5mm TRS MIDI. To connect them [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/freds-lab-octane-an-8-in-8-out-trs-midi-interface-with-open-source-hardware-and-firmware.html"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Edu Request - Ava Muntner",
+   "take": "Derivative Username asm1104 Full name Ava Muntner Academic email muntner@umich.edu Address 128 Baker Hill Road City Great Neck State / Province New York Zip code 11023 Country United States Phone number 5163178176 Educational Institution University of Michigan - Ann Arbor Phone Number of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-ava-muntner/75734"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-15",
+   "title": "The 5 Virtual Analogue Synths That Kick Started a Revolution",
+   "take": "We look at 5 of the pioneering synthesizers that blazed the trail for virtual analogue technology and how they stack up today.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/5-virtual-analogue-revolution-synths/"
+  }
+ ]
+}
