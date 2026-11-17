@@ -1,0 +1,309 @@
+{
+ "key": "2026-11-17",
+ "label": "Tue 17 Nov 2026",
+ "range": "15 November – 17 November 2026",
+ "generated": "2026-11-17T15:36:17+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "photo",
+  "text": "30WarkworthManufPlate",
+  "note": "The manufacturers plate propped agaist the prime focus assembly inside the base at the end of the wave guide.",
+  "photo": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/30WarkworthManufPlate.JPG/1920px-30WarkworthManufPlate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:30WarkworthManufPlate.JPG",
+   "title": "30WarkworthManufPlate",
+   "alt": "The manufacturers plate propped agaist the prime focus assembly inside the base at the end of the wave guide.",
+   "credit": "Sdweston",
+   "licence": "CC BY-SA 3.0",
+   "category": "Radio telescopes"
+  },
+  "quoted": true,
+  "source": {
+   "label": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:30WarkworthManufPlate.JPG"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/30WarkworthManufPlate.JPG/1920px-30WarkworthManufPlate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:30WarkworthManufPlate.JPG",
+  "title": "30WarkworthManufPlate",
+  "alt": "The manufacturers plate propped agaist the prime focus assembly inside the base at the end of the wave guide.",
+  "credit": "Sdweston",
+  "licence": "CC BY-SA 3.0",
+  "category": "Radio telescopes"
+ },
+ "poem": {
+  "title": "Song on May Morning",
+  "author": "John Milton",
+  "lang": "English",
+  "text": "Now the bright morning Star, Dayes harbinger,\nComes dancing from the East, and leads with her\nThe Flowry May, who from her green lap throws\nThe yellow Cowslip, and the pale Primrose.\nHail bounteous May that dost inspire\nMirth and youth, and warm desire,\nWoods and Groves, are of thy dressing,\nHill and Dale, doth boast thy blessing.\nThus we salute thee with our early Song,\nAnd welcom thee, and wish thee long.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Song%20on%20May%20Morning/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Traditional (Sámi)",
+  "work": "Joik",
+  "why": "A joik or yoik is a traditional form of song in Sámi music performed by the Sámi people of Sápmi in Northern Europe. A performer of joik is called a joikaaja, a joiker or jojkare. Originally, joik referred to only one of several Sami singing styles, but in English the word is often used to refer to all types of traditional Sami singing.",
+  "url": "https://en.wikipedia.org/wiki/Joik",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Automotive sound",
+  "title": "Electric vehicle warning sounds",
+  "body": "Electric vehicle warning sounds are sounds designed to alert pedestrians to the presence of electric drive vehicles such as hybrid electric vehicles (HEVs), plug-in hybrid electric vehicles (PHEVs), and battery electric vehicles (BEVs) travelling at low speeds. Warning sound devices were deemed necessary by some government regulators because vehicles operating in all-electric mode produce less noise than traditional combustion engine vehicles and can make it difficult for pedestrians and cyclists to be aware of their presence. This is a particular problem for those with visual impairments. Warning sounds may be activated by the driver or turn on automatically at low speeds.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Electric_vehicle_warning_sounds",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 11 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 6 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Ryo Fujimoto, performing live in Tokyo, asks how to be in an age of violence",
+   "take": "The masterful artist Ryo Fujimoto works in electronics not just as a passive actor behind machines, but fully embodied in physicality, voice, and sometimes screams.",
+   "source": "CDM",
+   "url": "https://cdm.link/ryo-fujimoto-live-in-tokyo/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Forever 89 miniFM: an FM Synthesizer that is as immediate as a Minimoog",
+   "take": "Forever 89 miniFM is a new FM Synthesizer plugin that promises to be as immediate and hands-on as a 1970 Moog Minimoog. When you think of FM synthesizers—or FM synthesis in general—terms like “operators” and [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/forever-89-minifm-an-fm-synthesizer-that-is-as-immediate-as-a-minimoog.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Get UAD Vibe Analog Machines for $10, plus a FREE Plugin Boutique gift",
+   "take": "Universal Audio’s Vibe Analog Machines is available for $10 at Plugin Boutique, with a free gift included with the purchase. Plugin Boutique has reduced the price from $99 to $10 through November 30.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/17/uad-vibe-analog-machines/",
+   "free": true
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Modulo Offers Eight Switchable FX Racks & 16-Step Effect Sequencing",
+   "take": "W. A. Production’s Modulo is a sequencer-driven multi-effects plugin featuring 10 independent effect lanes, 16-step sequencing, eight switchable effect racks and tools for creating rhythmic, glitch-oriented and evolving audio processing.… Read More Modulo Offers Eight Switchable FX Racks & 16-Step…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/17/modulo-offers-eight-switchable-fx-racks-16-step-effect-sequencing/"
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "WaveMachine Labs ReSpace Removes And Replaces Reverb - Our Reaction",
+   "take": "WaveMachine Labs ReSpace claims to strip the recorded reverb from audio parts and replace it with one of 500 MoReVoX rooms. Find out more.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/wavemachine-labs-respace-removes-and-replaces-reverb-on-single-tracks-and-full-mixes"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Healing Sounds Picked By Sound Healer IKSRE (I Keep Seeing Rainbows Everywhere)",
+   "take": "Australian producer Phoebe Dubar speaks about her water-inspired latest record and shares her recs for relaxing sounds. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/big-ups/iksre-big-ups"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Panasonic LUMIX AU-SHX1 Announced – 6K Full-Frame Box Camera, OLPF, Blackmagic RAW Recording to SSD, ARRI LogC3 Pre-installed",
+   "take": "Panasonic has announced the LUMIX AU-SHX1, a compact box-style cinema camera that brings its LUMIX and professional AV lines together in one body.",
+   "source": "CineD",
+   "url": "https://www.cined.com/panasonic-lumix-au-shx1-announced-6k-full-frame-box-camera-olpf-blackmagic-raw-recording-to-ssd-arri-logc3-pre-installed/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Edu Request - Tara Lee",
+   "take": "Derivative Username iasomie Full name Tara Lee Academic email tjlee@hku.hk Address 735 Run Run Shaw Tower, HKU City Hong Kong State / Province Hong Kong Country Hong Kong SAR Phone number +852 55268701 Educational Institution The University of Hong Kong Phone Number of Educational Institution +852…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-tara-lee/75746"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Gibson Billy Gibbons Pearly Gates Les Pauls: $20k Murphy Lab & USA Standard",
+   "take": "Gibson has announced two Billy Gibbons Pearly Gates Les Pauls. A high-end $20k version and a Standard USA model",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/gibson-billy-gibbons-pearly-gates-les-pauls/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Feedbacker: Rock Music for November by JR Moores",
+   "take": "Before rounding up some new rock releases – including a rancid new offering from \"false redneck\" Kid Rock – JR Moores praises the veteran Queen drummer, Roger Taylor Clutter, photo by Dan Kendall I realise this space would be better used to champion the kind of upcomin’, geetar abusin’, consensus…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/rock/roger-taylor-kid-rock-rangers-dabda-new-rock-music-review-november-2026/"
+  },
+  {
+   "cat": "games",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
+   "take": "Nintendo's early game director, creative fellow, and most famous face is named as the first Legend Award winner at the 30th annual D.I.C.E. awards.",
+   "source": "Game Developer",
+   "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "HoRNet TrackUtility is FREE again until November 19",
+   "take": "HoRNet is offering TrackUtility, its gain, stereo, and metering utility plugin for macOS and Windows, for free again until November 19, 2026, with the code TRACKFREE. We covered the previous TrackUtility giveaway in March, so this is another chance to grab it if you missed that offer.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/17/hornet-trackutility-free-again/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "The Experts’ Favourite New Plugins And Gear: November 2026",
+   "take": "Following October 2026’s roundup of brand new gear and plugins, we decided to expand on some of our top choices as well as throw in a few new ones.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/the-experts-favourite-new-plugins-and-gear-november-2026"
+  },
+  {
+   "cat": "space",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Decent Sampler makes custom instrument building easier with auto-sampler, preset editor & more",
+   "take": "Decent Sampler, the popular free sampler plugin, makes it easier to build your own instruments with an auto-sampler, preset editor, and more. In recent years, Decent Sampler has become an excellent free alternative to Native [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/decent-sampler-makes-custom-instrument-building-easier-with-auto-sampler-preset-editor-more.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "discoDSP Updates OB-Xd and Retromulator With New Hardware-Inspired Features",
+   "take": "discoDSP has released OB-Xd 4, a major update modeled against a real Oberheim OB-X8, and Retromulator 2.4, which adds Nord Lead 2 and MiniD recreations, plus support for multi-core instrument racks.… Read More discoDSP Updates OB-Xd and Retromulator With New Hardware-Inspired Features",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/16/discodsp-updates-ob-xd-and-retromulator-with-new-hardware-inspired-features/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "The Best Metal on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial heavy LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Edu Request - Farizah Masturah",
+   "take": "Derivative Username paarii Full name Farizah Masturah Academic email farizah.masturah.ahmad@student.mmu.edu.my Address Multimedia University, Cyberjaya City Sepang State / Province Selangor Zip code 43900 Country Malaysia Phone number 60173354387 Educational Institution Multimedia University Phone…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-farizah-masturah/75745"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Martin D-28 Robbie Robertson: A €26,999 Reimagining of Robbie’s 1951 Classic",
+   "take": "The D-28 Robbie Robertson honors 50 years of The Last Waltz, The Band's legendary farewell concert from 1976.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/martin-d-28-robbie-robertson-guitar/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Nikon Z8 Firmware Mod NikonFirmwarePatch Adds 8.3K Open-Gate N-RAW, More ProRes Options and S-Log3",
+   "take": "NikonFirmwarePatch is a community firmware mod for the Nikon Z8 that adds 3:2 open-gate N-RAW recording in 8.3K, two more N-RAW quality levels, ProRes 422, LT and Proxy, lower H.265 bitrates, S-Log3 and Log3G10 recording, RAW pre-capture and in-camera pixel-shift merging.",
+   "source": "CineD",
+   "url": "https://www.cined.com/nikon-z8-firmware-mod-nikonfirmwarepatch-8-3k-open-gate-n-raw-prores-s-log3/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Online DAW Soundtrap Adds Arturia Virtual Instruments",
+   "take": "Online DAW Soundtrap has announced that it's joining forces with Arturia to bring Pigments and Efx MOTIONS plug-in to Soundtrap users.… Read More Online DAW Soundtrap Adds Arturia Virtual Instruments",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/16/online-daw-soundtrap-adds-arturia-virtual-instruments/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Drey Andersson Vitaleon brings the free Vital wavetable synth to the Akai MPC",
+   "take": "Drey Andersson has released Vitaleon, a fork of the popular free wavetable Synthesizer Vital for the Akai MPC. Vital is the top choice if you are looking for a free alternative to Serum and other [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/drey-andersson-vitaleon-brings-the-free-vital-wavetable-synth-to-the-akai-mpc.html",
+   "free": true
+  },
+  {
+   "cat": "field",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Blackmagic Ambisonic Microphone Records 7th Order Ambisonics From 108 Capsules Over USB-C",
+   "take": "Blackmagic Design has announced the Blackmagic Ambisonic Microphone, a 7th-order ambisonic microphone with 108 MEMS microphone capsules and a built-in spatial encoder, connected and powered over a single USB-C cable.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/blackmagic-ambisonic-microphone-records-7th-order-ambisonics-from-108-capsules-over-usb-c"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Dystopian Waves releases RHETON Free and DBot, two FREE MIDI plugins",
+   "take": "Dystopian Waves has released RHETON Free and DBot MIDI Humanizer, two free MIDI plugins that turn block chords into performances and add variation to programmed parts. RHETON Free is the free version of the developer’s Generative Performance Engine.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Howlin’ Rain, “Watermelon”",
+   "take": "A covers record of lesser-known numbers and obscure artists as cohesively fulfilling as any of the bands originals. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/howlin-rain-watermelon"
+  }
+ ]
+}
