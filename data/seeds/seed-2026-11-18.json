@@ -1,0 +1,287 @@
+{
+ "key": "2026-11-18",
+ "label": "Wed 18 Nov 2026",
+ "range": "16 November – 18 November 2026",
+ "generated": "2026-11-18T15:12:35+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Live coding",
+  "note": "Live coding, sometimes referred to as on-the-fly programming, is a performing art form and creativity technique where source code is written in an improvised way, often for creating music, imagery, and light art; sometimes combining improvised dance, poetry, and kinds of performance outside the code itself. It is particularly prevalent in computer music, combining elements of human and algorithmic composition.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Live coding",
+   "url": "https://en.wikipedia.org/wiki/Live_coding"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Rosales_Organ%2C_Opus_11.jpg/1920px-Rosales_Organ%2C_Opus_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Rosales_Organ,_Opus_11.jpg",
+  "title": "Rosales Organ, Opus 11",
+  "alt": "Rosales Organ, Opus 11, located at Trinity Episcopal Cathedral in Portland, Oregon. Constructed in 1986.",
+  "credit": "Aremyers",
+  "licence": "CC0",
+  "category": "Pipe organs"
+ },
+ "listen": {
+  "artist": "Aphex Twin",
+  "work": "Selected Ambient Works Volume II",
+  "why": "Selected Ambient Works Volume II is a studio album by the British electronic music artist and producer Aphex Twin. It was released on 7 March 1994 through Warp Records. Its title follows James's ambient techno debut Selected Ambient Works 85–92, but Volume II largely features purely ambient music.",
+  "url": "https://en.wikipedia.org/wiki/Selected_Ambient_Works_Volume_II",
+  "quoted": true,
+  "year": "1994"
+ },
+ "crossover": {
+  "field": "Psychology",
+  "title": "Earworms",
+  "body": "An earworm or brainworm, also described as sticky music or stuck song syndrome, is a catchy or memorable piece of music or saying that continuously occupies a person's mind even after it is no longer being played or spoken about. Involuntary Musical Imagery (INMI) is most common after earworms, but INMI as a label is not solely restricted to earworms; musical hallucinations also fall into this category, although they are not the same thing. Earworms are considered to be a common type of involuntary cognition. Some of the phrases often used to describe earworms include \"musical imagery repetition\" and \"involuntary musical imagery\".",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Earworm",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 11 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 6 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "stage",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Berlin’s largest electronic music venue, now a stage for debuting military AI",
+   "take": "Berlin Kraftwerk, the former power plant in Berlin Mitte associated with Tresor and Ohm, was the venue last week for Helsing's launch of new agentic technology, Clarity.",
+   "source": "CDM",
+   "url": "https://cdm.link/berlin-clarity-launch-at-kraftwerk/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Pikoto Four-Operator FM Groovebox For iOS, Android",
+   "take": "Pikoto is a new FM groovebox for iPhone, iPad and Android. It pairs a four-operator FM synth with a four-track step sequencer, inspired by the Elektron Digitone, OP-Z, Volca FM, and Akemie’s Castle, rolled into an interface drawn like a handheld game cartridge.",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/18/pikoto-four-operator-fm-groovebox-for-ios-android/"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Track Pin In Pro Tools For Audio Post",
+   "take": "The larger a Pro Tools session gets, the more scrolling you inevitably have to do in order to locate the tracks you need to work on. This is especially a problem in large post-production sessions where track counts can easily run into the hundreds and beyond.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/track-pin-in-pro-tools-for-audio-post"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "AARMTEC ADEPT: a multi-playhead hardware MIDI/CV sequencer playground",
+   "take": "AARMTEC ADEPT, a multi-playhead hardware MIDI/CV sequencer playground with eleven different sequencer types, is now on Kickstarter: Hardware MIDI-to-CV sequencers are found in many studios. Most of them are based on sequencing notes in a [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/aarmtec-adept-a-multi-playhead-hardware-midi-cv-sequencer-playground.html"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "MTHRBORD releases ACL2500, a FREE API 2500-style bus compressor",
+   "take": "MTHRBORD.STUDIO has released ACL2500, a free stereo VCA bus compressor for macOS and Windows, modeled from measurements and recordings of a real API 2500. The developer measured how the hardware responds across different threshold, ratio, attack, release, and knee settings.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "The Best Hip-Hop on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial rap LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "field",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Shure MV360: A Plug-and-Play Spatial Mic for Any Situation",
+   "take": "The Shure MV360 is a versatile ambisonic microphone for creators that delivers clarity and realism with a straightforward capture workflow.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/shure-mv360-tech/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "MFA, MA, and PhD Programs to Apply for by Early 2027",
+   "take": "A list of arts-related graduate programs to explore and apply to before deadlines close.",
+   "source": "Hyperallergic",
+   "url": "https://hyperallergic.com/mfa-ma-and-phd-programs-to-apply-for-by-early-2027/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Final Cut Pro 13 First Look – The MotionVFX Library Is Why I Am Subscribing to Apple Creator Studio",
+   "take": "Final Cut Pro 13 is out today, and I had early access to it before Apple’s embargo lifted. The headline is the full MotionVFX toolkit built right into the app: seven pro plug-ins for rotoscoping, tracking, flares and film looks, plus a library of thousands of templates and elements.",
+   "source": "CineD",
+   "url": "https://www.cined.com/final-cut-pro-13-first-look-the-motionvfx-library-is-why-i-am-subscribing-to-apple-creator-studio/"
+  },
+  {
+   "cat": "games",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "This year's video game Grammy nominations reveal Academy's potential favor against songs with vocals",
+   "take": "The Grammys are celebrating a suite of stellar video game soundtracks—but one indie dev says the academy rejected their score for being heavy on vocals.",
+   "source": "Game Developer",
+   "url": "https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Edu Request - Ghinwa Yassine",
+   "take": "Derivative Username Ghinwa Full name Ghinwa Yassine Academic email info@ghinwayassine.com Address 3131 Main St City Vancouver State / Province BC Country Canada Phone number 6043969758 Educational Institution Emily Carr University of Art and Design Phone Number of Educational Institution (604)…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-ghinwa-yassine/75742"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "LinkEffekt Lets You Route Audio & MIDI Between iPhone, iPad & Mac",
+   "take": "LinkEffekt 2.1 expands its audio-routing system with MIDI controller sharing, virtual MIDI ports and MIDI clock distribution, connecting iPhone, iPad and Mac music setups with Ableton Link synchronization.… Read More LinkEffekt Lets You Route Audio & MIDI Between iPhone, iPad & Mac",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/17/linkeffekt-lets-you-route-audio-midi-between-iphone-ipad-mac/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Nektar Launches Impact GX49 And GX61 mk3 MIDI Controllers",
+   "take": "Nektar has today announced the Impact GX49 mk3 and Impact GX61 mk3, the third generation of its compact USB MIDI controller keyboards.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/nektar-launches-impact-gx49-and-gx61-mk3-midi-controllers"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Magerit Laniakea Pro: multi-engine polyphonic Synthesizer for standalone and Eurorack",
+   "take": "Magerit Laniakea Pro is a new multi-engine polyphonic Synthesizer that works as a battery-powered standalone instrument or as a Eurorack module. In 2022, the Spanish company Magerit released the digital Laniakea synth voice for Eurorack, [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/magerit-laniakea-pro-multi-engine-polyphonic-synthesizer-for-standalone-and-eurorack.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "zc devices releases thicket modular synth at a $99 intro price",
+   "take": "zc devices has released thicket, a polyphonic modular synthesizer for Windows, macOS, and Linux, with a $99 introductory price through November (regularly $159). We covered thicket’s free open beta back in October.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/17/zc-devices-thicket-2/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Pharaoh Overlord, “7”",
+   "take": "The Finnish band supplement their experimental metal with pop hooks and far-gone synths. Somehow, it works. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/pharaoh-overlord-7-review"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Epiphone Joe Bonamassa Skinnerburst: Another ’59 Les Paul Standard!",
+   "take": "New Epiphone Joe Bonamassa Skinnerburst '59 Les Paul Standard limited run signature model",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/epiphone-joe-bonamassa-skinnerburst/"
+  },
+  {
+   "cat": "art",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Beer With a Painter: Ouattara Watts",
+   "take": "The Ivorian-born painter works only at night, when the veil with the spiritual realm is thinnest and the outside voices of the physical world are quietest.",
+   "source": "Hyperallergic",
+   "url": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "DelaunayPOP Class",
+   "take": "This class inherits from the POP class . It references a specific Delaunay POP . Contents 1 Members 2 Methods 3 POP Class 3.1 Members 3.2 Methods 4 OP Class 4.1 Members 4.1.1 General 4.1.2 Parameters 4.1.3 Common Flags 4.1.4 Appearance 4.1.5 Connection 4.1.6 Cook Information 4.1.7 Type 4.2 Methods…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/solr/delaunaypop-class"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "SynthMaker Returns As A Modular Synthesis & Circuit Simulation Environment For Mac & Your Web Browser",
+   "take": "The creator of the original SynthMaker has introduced a new browser-based music environment combining modular synthesis, electronic circuit simulation, visual patching, code-based DSP development and music production.… Read More SynthMaker Returns As A Modular Synthesis & Circuit Simulation…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/17/synthmaker-returns-as-a-modular-synthesis-circuit-simulation-environment-for-mac-your-web-browser/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Eventide SplitEQ 2 Review: Does It Live Up To Its Claims?",
+   "take": "Five years ago, Eventide’s SplitEQ was unique for its ability to separate and sculpt the transient and tonal parts of a sound. With the latest version offering a raft of enhancements, here we call upon SplitEQ 2 to fix sounds in yet more ways that could leave conventional EQs far behind.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/eventide-spliteq-2-review-does-it-live-up-to-its-claims"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-17",
+   "title": "Taika Systems Photophore 2: the 100-oscillator swarm synth from 2014 returns to iOS",
+   "take": "Taika Systems Photophore 2 brings back its 2014 swarm Synthesizer to iOS, now with AUv3 support, a redesigned interface, an improved engine, and more. I’ve been active on the iOS platform for over 10 years, [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/taika-systems-photophore-2-the-100-oscillator-swarm-synth-from-2014-returns-to-ios.html"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-16",
+   "title": "Vocal Pockets releases VIPA, a MIDI chord generator that uses images",
+   "take": "Vocal Pockets has released VIPA, a MIDI chord generator for macOS and Windows that uses pictures to suggest chords for your next track. The starting point in VIPA is a collection of images called Moodscapes.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "PRS Custom 24 Maple Burl: New Limited Run!",
+   "take": "PRS Custom 24 Maple Burl a highly limited run of only 300 guitars in three striking finishes!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/prs-custom-24-maple-burl-new-limited-run/"
+  }
+ ]
+}
