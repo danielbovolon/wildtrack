@@ -1,0 +1,299 @@
+{
+ "key": "2026-11-19",
+ "label": "Thu 19 Nov 2026",
+ "range": "17 November – 19 November 2026",
+ "generated": "2026-11-19T15:29:54+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "gorgoglio",
+  "lang": "Italian",
+  "note": "Italian noun. Wiktionary gives: (1) gurgle , gurgling",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: gorgoglio",
+   "url": "https://en.wiktionary.org/wiki/gorgoglio#Italian"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2025-03-16_Regio-Messe_L%C3%96_020.jpg/1920px-2025-03-16_Regio-Messe_L%C3%96_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2025-03-16_Regio-Messe_L%C3%96_020.jpg",
+  "title": "2025-03-16 Regio-Messe LÖ 020",
+  "alt": "Regio-Messe Lörrach 2025 - Klangschalen",
+  "credit": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+  "licence": "CC BY-SA 4.0",
+  "category": "Singing bowls"
+ },
+ "poem": {
+  "title": "Song II: Have No Thought for Tomorrow",
+  "author": "William Morris",
+  "lang": "English",
+  "text": "Love is enough: have no thought for to-morrow\nIf ye lie down this even in rest from your pain,\nYe who have paid for your bliss with great sorrow:\nFor as it was once so it shall be again.\nYe shall cry out for death as ye stretch forth in vain\n\nFeeble hands to the hands that would help but they may not,\nCry out to deaf ears that would hear if they could;\nTill again shall the change come, and words your lips say not\nYour hearts make all plain in the best wise they would\nAnd the world ye thought waning is glorious and good:\n\nAnd no morning now mocks you and no nightfall is weary,\nThe plains are not empty of song and of deed:\nThe sea strayeth not, nor the mountains are dreary;\nThe wind is not helpless for any man's need,\nNor falleth the rain but for thistle and weed.\n\nO surely this morning all sorrow is hidden,\nAll battle is hushed for this even at least;\nAnd no one this noontide may hunger, unbidden\nTo the flowers and the singing and the joy of your feast\nWhere silent ye sit midst the world's tale increased.\n\nLo, the lovers unloved that draw nigh for your blessing!\nFor your tale makes the dreaming whereby yet they live\nThe dreams of the day with their hopes of redressing,\nThe dreams of the night with the kisses they give,\nThe dreams of the dawn wherein death and hope strive.\n\nAh, what shall we say then, but that earth threatened often\nShall live on for ever that such things may be,\nThat the dry seed shall quicken, the hard earth shall soften,\nAnd the spring-bearing birds flutter north o'er the sea,\nThat earth's garden may bloom round my love's feet and me?",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Song%20II%3A%20Have%20No%20Thought%20for%20Tomorrow/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Krzysztof Penderecki",
+  "work": "Threnody to the Victims of Hiroshima",
+  "why": "Threnody to the Victims of Hiroshima, also translated as Threnody for the Victims of Hiroshima, is a musical composition for 52 string instruments composed in 1961 by Krzysztof Penderecki. Dedicated to the residents and hibakusha who were killed or wounded in Hiroshima during the first-ever wartime usage of an atomic weapon, Penderecki's threnody won the Tribune Internationale des Compositeurs UNESCO prize in 1961.",
+  "url": "https://en.wikipedia.org/wiki/Threnody_to_the_Victims_of_Hiroshima",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Game design",
+  "title": "iMUSE: music that follows the player",
+  "body": "iMUSE is an interactive music system used in a number of LucasArts video games. The idea behind iMUSE is to synchronize music with the visual action in a video game so that the audio continuously matches the on-screen events and transitions from one musical theme to another are done seamlessly. iMUSE was developed in the early 1990s by composers Michael Land and Peter McConnell while working at LucasArts. The iMUSE system was patented by LucasArts in 1994, after being added to the fifth version of the SCUMM game engine in 1991.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/IMUSE",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 12 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 7 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Seek sick sets from SITKA, Zuggamasta, hellocatfood, in cables and code",
+   "take": "It may seem the world is closing in, the internet is dying, tides of slop are rising -- don't believe it. The underground shares signs of hope, from Kyiv's SITKA to Köln's Zuggamasta to Earth's hellocatfood. It's got modules. It's got (entirely human!) coding. It's got trippy visuals.",
+   "source": "CDM",
+   "url": "https://cdm.link/seek-sick-sets-from-sitka-zuggamasta-hellocatfood/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "KeySolutions Sounds Releases Voyages, a Traveler Soundbank Supporting the Bob Moog Foundation",
+   "take": "KeySolutions Sounds has released Voyages, a collection of 215 presets for its Traveler synthesizer created by eight sound designers.",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/19/keysolutions-sounds-releases-voyages-a-traveler-soundbank-supporting-the-bob-moog-foundation/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Spitfire Audio LABS Discontinued, 2 Packs Left Behind In The Move To Splice INSTRUMENT",
+   "take": "Spitfire Audio has discontinued its free LABS plugin and the LABS+ subscription, which stopped receiving updates, content and support on 31 October 2026. LABS content now lives in Splice INSTRUMENT, the plugin from Spitfire’s owner, Splice.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/spitfire-audio-labs-discontinued-2-packs-left-behind-in-the-move-to-splice-instrument"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Audiolatry releases UZAT, a FREE lo-fi multi-effect plugin for Windows and macOS",
+   "take": "Audiolatry has released UZAT, a free lo-fi multi-effect plugin for Windows and macOS that adds movement, worn textures, and digital degradation to your audio. I’ll start with the obvious here.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/19/audiolatry-uzat/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "UDO Audio DMNO ON is available now: desktop version of the DMNO synth with a twist",
+   "take": "UDO Audio DMNO ON is the desktop version of its dual-layer DMNO hybrid Synthesizer, expandable in controls with the ON System. Update: good news, the DMNO ON is available now at Thomann! A year ago, [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/udo-audio-dmno-on-the-hybrid-synth-gets-a-desktop-unit-with-the-on-system.html"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Soup Activists, “Where the Rubbish Goes”",
+   "take": "Martin Meyer's instinct may be to scurry away from growing interest in his music—but he's made one of the best noisy pop records of the year. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/soup-activists-where-the-rubbish-goes-review"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Sonicware CyDrums’ – Powerful Digital Drum Synth Reimagined",
+   "take": "Sonicware's new CyDrums' puts their unashamedly digital drum synth into a more traditional groovebox format, but does it translate?",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/sonicware-cydrums-groovebox-synths/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "How Apple’s HomeView Actively Resists Repairs",
+   "take": "Over the past years there have been hopeful noises about Apple devices becoming easier to service and repair, but as [iFixit] found with their teardown of the new HomeView devices, …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/19/how-apples-homeview-actively-resists-repairs/"
+  },
+  {
+   "cat": "art",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Recovering Edward Said’s Voice",
+   "take": "Moustafa Bayoumi on a new documentary about the legendary Palestinian critic and activist; plus, can contemporary art make us laugh?",
+   "source": "Hyperallergic",
+   "url": "https://hyperallergic.com/recovering-edward-saids-voice/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Inner Rebellion: Lorenzo Senni Interviewed",
+   "take": "Ahead of the release of his latest album for Warp Records, All Ages, the Italian artist discusses the skateboarding and hardcore music culture that inspired him as a teenager, and the act of rebellion he took against himself in making the new LP Photo by Jim C.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/interviews/inner-rebellion-lorenzo-senni-interviewed/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Edu Request - Agata Siek",
+   "take": "Derivative Username agatadzi Full name Agata Siek Academic email agatasiekk@gmail.com Address batalionu ak parasol 3 City warsaw State / Province mazowieckie Zip code 01-120 Country POLAND Phone number 663646302 Educational Institution University of Warsaw Phone Number of Educational Institution…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-agata-siek/75762"
+  },
+  {
+   "cat": "nature",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
+   "take": "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures.",
+   "source": "ScienceDaily (animals)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Exquis+ Combines Expressive MIDI Control With a Built-In Composition Environment",
+   "take": "Intuitive Instruments' Exquis+ updates its isomorphic MPE controller with a revised enclosure and silicone key mat, while retaining the original instrument's expressive MIDI and CV control, harmony tools and companion composition software.… Read More Exquis+ Combines Expressive MIDI Control With a…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/19/exquis-combines-expressive-midi-control-with-a-built-in-composition-environment/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Spitfire Audio LABS sails off into the sunset. What happens now?",
+   "take": "Spitfire Audio LABS is no more! Spitfire Audio initially launched LABS instruments for Kontakt as a donationware project. In 2018, the company reformatted LABS as a completely free entity with a dedicated plugin, and it quickly became a must-have for hordes of bedroom producers.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/19/spitfire-audio-labs-farewell/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "AI Plugin Clones: What Vibe Coding Means For Indie Devs",
+   "take": "We have talked about AI here on Production Expert. Recently, we came across an article on the Audio Damage blog where Chris Randall likens the impact of AI-assisted vibe coding and Big Tech on small plugin developers.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/ai-plugin-clones-what-vibe-coding-means-for-indie-devs"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "4 new Sinevibes oscillator plugins for the Korg NTS-1 mkII: Dense, Groove, Node, and Odds",
+   "take": "Sinevibes has ported its 4 new oscillator plugins, Dense, Groove, Node, and Odds, to the Korg NTS-1 mkII SDK-powered Synthesizer. For Korg SDK-based “logue” synthesizers, a wide range of commercial and free oscillator plugins is [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/4-new-sinevibes-oscillators-for-the-korg-nts-1-mkii-dense-groove-node-odds.html"
+  },
+  {
+   "cat": "art",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "TELLUS Took Downtown Around the World",
+   "take": "The audio magazine threw Downtown culture onto an easily-replicated mix picked up by college DJs and museum curators alike. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/features/tellus-the-audio-cassette-magazine-feature"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Verstaerker VORM FB01 Dualfilter: A FREE Plugin Version of the Famous Sherman Filterbank",
+   "take": "The Verstaerker VORM FB01 Dualfilter is a donationware plugin recreation of the Sherman Filterbank, a piece of gear that has achieved cult status over the years.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/verstaerker-vorm-fb01-dualfilter-studio/",
+   "free": true
+  },
+  {
+   "cat": "calls",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Organic Intelligence LXII: C64 Game Soundtracks",
+   "take": "In this month’s antidote to the algorithm, Juliet Jacques explores the playful and experimental soundtracks to games on the popular tape-based home computer I spent my first year at the University of Manchester in halls of residence.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Edu Request - junho jeon",
+   "take": "Derivative Username sinseonjaegon Full name junho jeon Academic email jeonjunho614@cau.ac.kr Address 경기도 안성시 대덕면 서동대로 4726 City 안성 State / Province 경기도 Zip code 17546 Country south korea Phone number 010-2372-9612 Educational Institution chung-ang university Phone Number of Educational Institution…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-junho-jeon/75761"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Tracking Down a Mystery Beep By Giving a Coding Agent a Few Ears",
+   "take": "[Simon Willison] recently used a coding agent in an unusual way. A software system temporarily used the microphones on devices scattered around the room to triangulate the source of a …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Soundmachines DYNAMO Adds Pressure-Sensitive Control To Vintage Synth",
+   "take": "Soundmachines DYNAMO uses four force-sensing pods placed beneath an instrument to convert playing pressure and movement into MIDI, CV, triggers and expression control, with built-in stereo analog processing.… Read More Soundmachines DYNAMO Adds Pressure-Sensitive Control To Vintage Synth",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/18/soundmachines-dynamo-adds-pressure-sensitive-control-to-vintage-synth/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Avid Releases Pro Tools 2026.11.1 And Eucon 2026.11",
+   "take": "Following the release of Pro Tools 2026.11, Avid has released two updates in quick succession. The first is Pro Tools 2026.11.1, which supports macOS 27 Golden Gate, and the second is Eucon 2026.11. We have the details.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/avid-pro-tools-2026111-with-macos-golden-gate-support-and-eucon-202611"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Imaginando FRMS 2: the granular FM Synthesizer gets a wavetable upgrade",
+   "take": "Imaginando FRMS 2 is a major upgrade to its granular FM Synthesizer plugin, with a new dual-wavetable engine, drag-and-drop modulation, and more. In March 2020, the Portuguese developers at Imaginando released FRMS 2, a Synthesizer [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/imaginando-frms-2-the-granular-fm-synthesizer-gets-a-wavetable-upgrade.html"
+  }
+ ]
+}
