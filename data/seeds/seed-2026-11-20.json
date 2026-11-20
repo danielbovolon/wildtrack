@@ -1,0 +1,311 @@
+{
+ "key": "2026-11-20",
+ "label": "Fri 20 Nov 2026",
+ "range": "18 November – 20 November 2026",
+ "generated": "2026-11-20T15:07:11+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "photo",
+  "text": "2024 Grape and Wine Festival Parade 39",
+  "note": "York Lions Steel Band at the Grape and Wine Festival Parade",
+  "photo": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2024_Grape_and_Wine_Festival_Parade_39.jpg/1920px-2024_Grape_and_Wine_Festival_Parade_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:2024_Grape_and_Wine_Festival_Parade_39.jpg",
+   "title": "2024 Grape and Wine Festival Parade 39",
+   "alt": "York Lions Steel Band at the Grape and Wine Festival Parade",
+   "credit": "Hannah Clover",
+   "licence": "CC BY-SA 4.0",
+   "category": "Steelpans"
+  },
+  "quoted": true,
+  "source": {
+   "label": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:2024_Grape_and_Wine_Festival_Parade_39.jpg"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2024_Grape_and_Wine_Festival_Parade_39.jpg/1920px-2024_Grape_and_Wine_Festival_Parade_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2024_Grape_and_Wine_Festival_Parade_39.jpg",
+  "title": "2024 Grape and Wine Festival Parade 39",
+  "alt": "York Lions Steel Band at the Grape and Wine Festival Parade",
+  "credit": "Hannah Clover",
+  "licence": "CC BY-SA 4.0",
+  "category": "Steelpans"
+ },
+ "poem": {
+  "title": "The Tree",
+  "author": "Anne Kingsmill Finch",
+  "lang": "English",
+  "text": "Fair tree! for thy delightful shade\n'Tis just that some return be made;\nSure some return is due from me\nTo thy cool shadows, and to thee.\nWhen thou to birds dost shelter give,\nThou music dost from them receive;\nIf travellers beneath thee stay\nTill storms have worn themselves away,\nThat time in praising thee they spend\nAnd thy protecting pow'r commend.\nThe shepherd here, from scorching freed,\nTunes to thy dancing leaves his reed;\nWhilst his lov'd nymph, in thanks, bestows\nHer flow'ry chaplets on thy boughs.\nShall I then only silent be,\nAnd no return be made by me?\nNo; let this wish upon thee wait,\nAnd still to flourish be thy fate.\nTo future ages may'st thou stand\nUntouch'd by the rash workman's hand,\nTill that large stock of sap is spent,\nWhich gives thy summer's ornament;\nTill the fierce winds, that vainly strive\nTo shock thy greatness whilst alive,\nShall on thy lifeless hour attend,\nPrevent the axe, and grace thy end;\nTheir scatter'd strength together call\nAnd to the clouds proclaim thy fall;\nWho then their ev'ning dews may spare\nWhen thou no longer art their care,\nBut shalt, like ancient heroes, burn,\nAnd some bright hearth be made thy urn.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/The%20Tree/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "John Cage",
+  "work": "4′33″",
+  "why": "4′33″ is a modernist composition by American experimental composer John Cage. It was composed in 1952 for any instrument or combination of instruments; the score instructs performers not to play their instruments throughout the three movements. It is divided into three movements, lasting 30 seconds, 2 minutes and 23 seconds, and 1 minute and 40 seconds, respectively, although Cage later stated that the movements' durations can be determined by the musician.",
+  "url": "https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3",
+  "quoted": true,
+  "year": "1952"
+ },
+ "crossover": {
+  "field": "Medicine",
+  "title": "Medical ultrasound",
+  "body": "Medical ultrasound includes diagnostic techniques using ultrasound, as well as therapeutic applications of ultrasound. In diagnosis, it is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs, to measure some characteristics or to generate an informative audible sound. The usage of ultrasound to produce visual images for medicine is called medical ultrasonography or simply sonography. Sonography using ultrasound reflection is called echography.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Medical_ultrasound",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 9 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 4 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Korg’s phase8 acoustic synthesizer adds companion app, updated firmware",
+   "take": "Korg's phase8 remains an acoustic, resonating fascination, just at a time when everything seems lost in a sea of software.",
+   "source": "CDM",
+   "url": "https://cdm.link/korgs-phase8-update-companion/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "RiverFlux Audio adds RF-201 FREE tape echo and spring reverb to Relic",
+   "take": "RiverFlux Audio has released RF-201, a free tape echo with spring reverb, as part of the Relic 0.4.8 update for macOS, Windows, and Linux. The collection is now up to eighteen free plugins, just days after the RF-BUS compressor joined the bundle.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/20/riverflux-audio-rf-201/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Phase Fiasco Kazu: a sequenceable multi-FX plugin from the Tape Fiasco 2 creator – now for iPadOS",
+   "take": "Phase Fiasco Kazu is a new, powerful, sequenceable multi-FX plugin for macOS, Linux, Windows, and now for iPadOS, from the creator of the Tape Fiasco 2 plugin. Update: out now for iPadOS on the App [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/phase-fiasco-kazu-a-sequenceable-multi-fx-plugin-from-the-tape-fiasco-2-creator.html"
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "How To Get The Best From Pro Tools Pre And Post Roll For Music",
+   "take": "Handing engineers powerful command over Pro Tools’ transport behaviour for recording, the workstation’s Pre and Post roll functions have much to offer. Here we highlight all of the ways to harness Pre and Post roll for better punch-ins and more.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/how-to-get-the-best-from-pro-tools-pre-and-post-roll-for-music"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "The Best Punk on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial punk releases. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Magerit Introduces Laniakea Pro Eight-Voice Synthesizer For Eurorack & Standalone Use",
+   "take": "Magerit's Laniakea Pro combines five digital synthesis engines, five sound-shaping algorithms and three reverbs in an eight-voice instrument that operates as either a 20HP Eurorack module or a battery-powered standalone synthesizer.… Read More Magerit Introduces Laniakea Pro Eight-Voice Synthesizer…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/18/magerit-introduces-laniakea-pro-eight-voice-synthesizer-for-eurorack-standalone-use/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Edu Request - Chaeyoung Park",
+   "take": "Derivative Username chaengee Full name Chaeyoung Park Academic email chaengee21@gmail.com Address 21, Seongsan-ro 14-gil City Seoul State / Province Seodaemun-gu Zip code 03727 Country Republic of Korea Phone number +821032737363 Educational Institution Konkuk University Phone Number of Educational…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-chaeyoung-park/75768"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Church Of Sounds Launches Label, Releases Compilation Featuring Recording of Final Tony Allen Performance",
+   "take": "Clapton Hymns, Vol. 1 collects 12 live performance recordings captured at the London event series Photo by Joe Hart Church Of Sounds has launched a record label, and its first release is a compilation made up of live performance recordings captured at the London event series.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/news/church-of-sounds-launches-label-releases-compilation-featuring-recording-of-final-tony-allen-performance/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Hip-Hop Sampling: 3 Tools That Make Beat Creation More Fun",
+   "take": "As an art form, Hip-Hop Sampling goes back decades and has evolved from performance-based turntable techniques to precise DAW workflows.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/hip-hop-sampling-synth-studio/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "AudioKit Pro Super 909 Drums for iOS/macOS: a free TR-909 emulation for everyone",
+   "take": "AudioKit Pro Super 909 Drums is a new free, hybrid-synthesis TR-909 emulation for iOS and macOS and probably the best you can get. Last August, Matthew Fecher from AudioKit Pro released the excellent Super 606 [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/audiokit-pro-super-909-drums-for-ios-macos-a-free-tr-909-emulation-for-ios-and-macos.html",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "The Best Ambient Music on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial ambient LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Exploring fMusic Extension Organisation For Pro Tools",
+   "take": "Bringing a new way to organise sessions automatically, the fMusic Extension brings existing Forte functions directly into Pro Tools. Here we look at how its virtual assistance can let engineers prep imports, reorganise existing sessions, and oversee deliverables.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/exploring-fmusic-extension-organisation-for-pro-tools"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "13x Audio releases LOFT, a FREE vintage reverb with drawable envelopes",
+   "take": "13x Audio has released LOFT, a free vintage reverb plugin for macOS, Windows, and Linux that lets you draw how the tail moves over time. We’ve previously covered the developer’s Aurora dynamic EQ and Colony multi-effect.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/19/13x-audio-loft/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "New FAC Shifter Multiband Frequency Shifter AUv3 Plugin",
+   "take": "Developer Fred Anton Corvest has introduced FAC Shifter AUv3 Plugin, a multiband stereo frequency shifter. … Read More New FAC Shifter Multiband Frequency Shifter AUv3 Plugin",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/18/new-fac-shifter-multiband-frequency-shifter-auv3-plugin/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Edu Request - IT Department",
+   "take": "Derivative Username umprum Full name IT Department Academic email postprodukce-sw@umprum.cz Address nam. Jana Palacha 80/3 City Praha State / Province Praha Zip code 11693 Country Czech republic Phone number +420251098333 Educational Institution Vysoká škola uměleckoprůmyslová v Praze / Academy of…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-it-department/75767"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Reissue of the Week: Hi Scores by Boards of Canada",
+   "take": "BOC’s Hi Scores was the original portal opening up to give us an early glimpse of future possibilities says Gerry Valle Hi Scores by Boards of Canada Like many, I fell in love with Boards of Canada when I first listened to 1998’s Music Has The Right To Children.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/reissue-of-the-week/boards-of-canada-hi-scores-review/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "The Top 5 Best-Rated Standalone DJ Controllers: All Hands on Decks",
+   "take": "In the market for a new controller but can’t make up your mind? Check out these best-rated standalone DJ controllers.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/the-top-5-best-rated-standalone-dj-controllers-dj/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "KB Live Solutions param8: small, fully customizable MIDI controller with screen – available now",
+   "take": "param8 by KB Live Solutions is a new small, fully customizable MIDI controller with two screens for Ableton Live and other MIDI gear. Update: it’s available now until November 30th, 2026. You can get 15% [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/kb-live-solutions-param8-small-fully-customizable-midi-controller.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "CoordN8 announces Path, a MIDI morphing app for Ableton Live",
+   "take": "CoordN8 has announced Path, an upcoming macOS app that lets you morph between two MIDI clips in Ableton Live and play the variations in real time. Path is a standalone companion app with a Max for Live device connecting it to your session.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/19/coordn8-path/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Costa Rica’s Never-Ending Death Metal Renaissance, Mapped",
+   "take": "Exploring one of Central America's most historic—and overlooked— scenes, launched in the mid-’80s and still going strong. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/scene-report/costa-rica-death-metal-scene-report"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Steinberg's Free Chromaspheres Builds Synths From Your Samples",
+   "take": "Steinberg has announced Chromaspheres, a free instrument for HALion and HALion Sonic that turns any sample dropped onto it into a playable sound.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/steinbergs-free-chromaspheres-builds-synths-from-your-samples",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-18",
+   "title": "Free Drumlabooh Features Synthesized Drum Kits Alongside Sample Playback",
+   "take": "Drumlabooh 14.0 adds a procedural synthesis engine to its free drum machine, combining formula-based drum generation with sample playback, three new kits, faster loading and an updated effects architecture.… Read More Free Drumlabooh Features Synthesized Drum Kits Alongside Sample Playback",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/18/free-drumlabooh-features-synthesized-drum-kits-alongside-sample-playback/",
+   "free": true
+  },
+  {
+   "cat": "nature",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Energy Flowing, Energy Growing: Martin Gore & Cliff Damavandi Interviewed",
+   "take": "Our man in San Francisco Ned Raggett hears about joint single 'Cross Whisper', birds as harbinger of the beyond and the problem of long patch cables...",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/interviews/martin-gore-interview/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Edu Request - Russell Cooper",
+   "take": "Derivative Username russ_cooper Full name Russell Cooper Academic email rcoope94@pratt.edu Address 48 Mayer Drive City Suffern State / Province NY Zip code 10901 Country United States Phone number 914-584-2027 Educational Institution Pratt Institute Phone Number of Educational Institution (718)…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-russell-cooper/75766"
+  }
+ ]
+}
