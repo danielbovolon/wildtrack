@@ -1,0 +1,272 @@
+{
+ "key": "2026-11-21",
+ "label": "Sat 21 Nov 2026",
+ "range": "19 November – 21 November 2026",
+ "generated": "2026-11-21T14:32:56+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Sound map",
+  "note": "",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Sound map",
+   "url": "https://en.wikipedia.org/wiki/Sound_map"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Diapason_Wittner_%C3%A0_branches_carr%C3%A9es_%C3%A0_440_Hz.jpg/1920px-Diapason_Wittner_%C3%A0_branches_carr%C3%A9es_%C3%A0_440_Hz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Diapason_Wittner_%C3%A0_branches_carr%C3%A9es_%C3%A0_440_Hz.jpg",
+  "title": "Diapason Wittner à branches carrées à 440 Hz",
+  "alt": "440 Hz (A440) Wittner chromed tuning fork with square branches.",
+  "credit": "Édouard Hue ( User:EdouardHue )",
+  "licence": "CC BY-SA 3.0",
+  "category": "Tuning forks"
+ },
+ "poem": {
+  "title": "The Sea and the Skylark",
+  "author": "Gerard Manley Hopkins",
+  "lang": "English",
+  "text": "On ear and ear two noises too old to end\n  Trench—right, the tide that ramps against the shore;\n  With a flood or a fall, low lull-off or all roar,\nFrequenting there while moon shall wear and wend.\nLeft hand, off land, I hear the lark ascend,\n  His rash-fresh re-winded new-skeinèd score\n  In crisps of curl off wild winch whirl, and pour\nAnd pelt music, till none 's to spill nor spend.\n\nHow these two shame this shallow and frail town!\n  How ring right out our sordid turbid time,\nBeing pure! We, life's pride and cared-for crown,\n\n  Have lost that cheer and charm of earth's past prime:\nOur make and making break, are breaking, down\n  To man's last dust, drain fast towards man's first slime.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/The%20Sea%20and%20the%20Skylark/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Kraftwerk",
+  "work": "Autobahn",
+  "why": "Autobahn is the fourth studio album by German electronic music band Kraftwerk, released in November 1974 by Philips Records. The album marked several personnel changes in the band, which was initially a duo consisting of Florian Schneider and Ralf Hütter; later, the group added Klaus Röder on guitar and flute, and Wolfgang Flür on percussion. The album also completed the group's transition from the experimental krautrock style of their earlier work to an electropop sound consisting mostly of synthesizers and drum machines.",
+  "url": "https://en.wikipedia.org/wiki/Autobahn_(album)",
+  "quoted": true,
+  "year": "1974"
+ },
+ "crossover": {
+  "field": "Linguistics",
+  "title": "Click consonants",
+  "body": "Click consonants, or clicks, are speech sounds that occur as consonants in many languages of Southern Africa and in three languages of East Africa. Examples familiar to English-speakers are the dental click of the tut-tut or tsk! tsk! used to express disapproval or pity, the lateral click of the tchick! used to spur on a horse, and the alveolar click of the clip-clop! sound children make with their tongue to imitate a horse trotting. However, these paralinguistic sounds in English are not full click consonants, as they only involve the front of the tongue, without the release of the back of the tongue that is required for clicks to combine with vowels and form syllables.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "21 new stories from 10 sources over the last 48 hours, including Production Expert, CDM, Synth Anatomy, Bedroom Producers Blog, Gearnews and 5 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Nine Inch Nails fans can now stream nearly 2000 live recordings",
+   "take": "NIN fans, it's a momentous week. For nearly 20 years, the Nine Inch Nails archive has been compiling live shows from 1988 to today; that's now nearly 2000 recordings of over 1200 concerts. The site is a pleasure to navigate now, and this week came big news: streaming, on demand.",
+   "source": "CDM",
+   "url": "https://cdm.link/nin-live-streaming/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "Never Found Audio releases VF-Mini, a FREE reverse riser plugin for vocals",
+   "take": "The latest release from the developer Never Found Audio is the VF-Mini, a free reverse riser plugin for vocals. Like Never Found Audio’s previous Mini series FX plugins, VF-Mini is the free version of a paid product: VF-Pro.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "7 Free Plugins From Lydtrold That Support AAX DSP",
+   "take": "Lydtrold has a free collection of 16 plug-ins, and all of them support AAX Native. Seven also support AAX DSP, which is good news for Pro Tools users with HDX cards and for Avid Carbon users.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/7-free-plugins-from-lydtrold-that-support-aax-dsp",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "j0kerpack InfeKt-FM1: Access Virus-inspired VA synth firmware for the M-VAVE FM-1",
+   "take": "j0kerpack InfeKt-FM1 is a new custom virtual analog synth firmware for the M-VAVE FM-1, modeled after the Access Virus B/C synthesizers. Last week, Steve Duda released the “Shrub” firmware for the M-VAVE FM-1, effectively packing [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/j0kerpack-infekt-fm1-acess-virus-inspired-va-synth-firmware-for-the-m-vave-fm-1.html"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "FREER Records and the Art of Liberation",
+   "take": "Founded to give incarcerated musicians a voice, the pioneering nonprofit label has become a powerful advocate for artistic expression, dignity, and second chances. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/features/freer-records-label-profile"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "A Departure: Joni Mitchell’s Hejira at 50",
+   "take": "Kat Lister looks at a radical shift in the 'open road' narrative as exemplified in Joni Mitchell's relatively overlooked eighth album In October of this year, a 17-person expedition voyaged 2,500 miles from the coastline of Papua New Guinea, to a remote Pacific lagoon, looking for Amelia Earhart’s…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/opinion-and-essays/anniversary/joni-mitchell-hejira-review/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Old FireWire Audio Interface Gets USB C Upgrade",
+   "take": "[bonsembiante] had a PreSonus Firestudio Project on hand. It’s a very capable audio interface with 8 inputs and 8 outputs, along with MIDI to boot. However, it’s got one problem—it …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/20/old-firewire-audio-interface-gets-usb-c-upgrade/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Edu Request - HARUKA ITO",
+   "take": "Derivative Username KobayashiRyutaro Full name HARUKA ITO Academic email 2501310077ow@cyber-u.ac.jp Address 2-37 Midorigaoka City Toyota State / Province Aichi Zip code 471-0838 Country Japan Phone number +81 90-7020-0104 Educational Institution Cyber University Phone Number of Educational…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-haruka-ito/75769"
+  },
+  {
+   "cat": "games",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Ubisoft misses forecast and bets big on AI development",
+   "take": "The French publisher plunges on first-half year earnings, though has a few bright spots in its portfolio.",
+   "source": "Game Developer",
+   "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "5 of the Best Pad Machines: Atmospheric Synths",
+   "take": "Ease into the sound bath and let the chords take you away with the best pad machine hardware synthesizers available.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/5-of-the-best-pad-machines-synth/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "Minimal Audio Static is FREE again with 180 dubstep samples",
+   "take": "Minimal Audio is offering Static, a collection of 180 samples inspired by underground bass music, as a free download again. We previously covered Static’s giveaway in December 2024, so check if you already have it before downloading it again.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/21/minimal-audio-static-free/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Teenage Engineering EP/BC-1: the EP series gets a CD player with hidden talents",
+   "take": "Teenage Engineering EP/BC-1 is the latest addition to the EP series: a performance CD player with creative features. Almost a month ago, Teenage Engineering released the EP-35—a portable amp for the EP series that offers [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/teenage-engineering-ep-bc-1-the-ep-series-gets-a-cd-player-with-hidden-talents.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "3 Ways To Control Vocal Vibrato In AutoTune Advanced",
+   "take": "Created in the image of an industry titan of tuning, Antares’ AutoTune Advanced features a raft of functions to help vocal producers. Following on from our exploration of advanced earlier this year, here we revisit the plugin to explore its brand new functionality for all-things vibrato-based.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/3-ways-to-control-vocal-vibrato-in-autotune-advanced"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Essential Releases, November 20, 2026",
+   "take": "Neo-soul, experimental pop, indie rock, and more. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/essential-releases/essential-releases-november-20-2026"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Guitar String Changes: 7 Essential Steps for a Guitar Glow Up",
+   "take": "Guitar string changes are one of the most therapeutic and productive things that any player can do. Here's what I like to use.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/guitar-string-changes-7-essential-steps/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Lottie Brazier – On Course But No-One There To Salute You",
+   "take": "Lottie Brazier On Course But No-One There To Salute You Partly recorded at the studios of 4AD, the debut album from the Suffolk songwriter is less sunburst and snowblind than wind-battered and rain-sodden On Course but No-one There to Salute You by Lottie Brazier There’s an atmospheric,…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/lottie-brazier-on-course-but-no-one-there-to-salute-you-review/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Edu Request - Trevor Kinna",
+   "take": "Derivative Username trevorthepickle Full name Trevor Kinna Academic email trevor.kinna@artun.ee Address Narva mnt 16-30 City Tallinn State / Province Harjumaa Zip code 10120 Country Estonia Phone number +3725157935 Educational Institution Estonian Academy of Arts Phone Number of Educational…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-trevor-kinna/75765"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Plugin Boutique adds Roland JUNO-60 Chorus and UAD Cooper Time Cube to its FREE gifts",
+   "take": "Plugin Boutique has expanded its November gifts with Roland JUNO-60 Chorus and UAD Cooper Time Cube Delay, both free with qualifying purchases. Since our previous Plugin Boutique freebies roundup, JUNO-60 Chorus has joined the options available with any paid purchase.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "RÓIS, “MO LÉAN”",
+   "take": "The Irish artist's electronic reframing of the caoineadh, a style of funeral song undertaken by veiled women, makes for extraordinary emotional songcraft. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/rois-mo-lean-review"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Virsyn Tera Pro: free major update 3.2 makes the modular synth (iOS/macOS) even more powerful",
+   "take": "Virsyn Tera Pro: the free major update 3.2 for its wireless modular synth (iOS/macOS) brings oscillator upgrades like a spectrum mode, vocoder, and more Virsyn Tera Pro is powerful—that’s indisputable. Harry Gohs, the mind behind [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/virsyn-tera-pro-modular-polyphonic-synthesizer-for-ipad-with-auv3.html",
+   "free": true
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-19",
+   "title": "Edu Request - Gerardo Díaz",
+   "take": "Derivative Username color6 Full name Gerardo Díaz Academic email gedigon@gmail.com Address Avda Campanar 31 City Valencia State / Province Valencia Zip code 49006 Country España Phone number +34 659681170 Educational Institution Laba Valencia Phone Number of Educational Institution 638 97 51 13…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-gerardo-d%C3%ADaz/75764"
+  }
+ ]
+}
