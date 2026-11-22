@@ -1,0 +1,222 @@
+{
+ "key": "2026-11-22",
+ "label": "Sun 22 Nov 2026",
+ "range": "20 November – 22 November 2026",
+ "generated": "2026-11-22T14:25:37+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "Geräusch",
+  "lang": "German",
+  "note": "German noun. Wiktionary gives: (1) noise , sound",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: Geräusch",
+   "url": "https://en.wiktionary.org/wiki/Ger%C3%A4usch#German"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Acoustic_mirror_Sunderland_nr_Fulwell_Mill_2021.jpg/1920px-Acoustic_mirror_Sunderland_nr_Fulwell_Mill_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Acoustic_mirror_Sunderland_nr_Fulwell_Mill_2021.jpg",
+  "title": "Acoustic mirror Sunderland nr Fulwell Mill 2021",
+  "alt": "Acoustic mirror built circa 1914 in Fulwell, Sunderland. To detect German aircraft and Zeppelins.",
+  "credit": "Stanley John James",
+  "licence": "CC BY 4.0",
+  "category": "Acoustic mirrors"
+ },
+ "listen": {
+  "artist": "Traditional (Inuit)",
+  "work": "Katajjaq",
+  "why": "Inuit throat singing, or katajjaq, is a distinct type of throat singing uniquely found among the Inuit. It is a form of musical performance, traditionally consisting of two women who sing duets in a close face-to-face formation with no instrumental accompaniment, in an entertaining contest to see who can outlast the other; however, one of the genre's most famous practitioners, Tanya Tagaq, performs as a solo artist.",
+  "url": "https://en.wikipedia.org/wiki/Inuit_throat_singing",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Ornithology",
+  "title": "Bird vocalization",
+  "body": "Bird vocalization includes both bird calls and bird songs. In non-technical use, bird songs are the sounds produced by birds that are melodious to the human ear. In ornithology and birding, songs are distinguished by function from calls.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "17 new stories from 7 sources over the last 48 hours, including Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews, Derivative and 2 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "nature",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "A decades-old mystery about light could hold the key to faster internet",
+   "take": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it.",
+   "source": "ScienceDaily (acoustics)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "fedDSP offers KAMI compressor pedal plugin FREE until December 2",
+   "take": "Developer fedDSP is offering KAMI, a compressor pedal plugin for macOS and Windows, free until December 2, 2026. The regular price is $39, but the launch offer gives you a perpetual license with free updates and three activations.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/22/feddsp-kami-free/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Toybox Audio FM Zone: hybrid FM Synthesizer gets major free 3.0 update with new features",
+   "take": "ToyBox Audio FM Zone melts deep FM synthesis and sample playback into a new, easy-to-use Synthesizer plugin for Mac, Windows, and iPad: update 3.0 brings new features! Over the past few months, Toybox Audio has [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/toybox-audio-fm-zone-deep-fm-sample-synthesizer-plugin-for-mac-win-and-ipad.html",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Reverse-Engineered Roland DSP Could Turn ‘Plug-Out’ Synths Into Open Platforms",
+   "take": "A new reverse-engineering project has produced an SDK for developing custom synthesizer engines for Roland SYSTEM-1 and SYSTEM-8 hardware, opening the door to new synthesis architectures and community-developed Plug-Out instruments.… Read More Reverse-Engineered Roland DSP Could Turn ‘Plug-Out’…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/21/reverse-engineered-roland-dsp-could-turn-plug-out-synths-into-open-platforms/"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Potatoes Grow in Simulated Lunar Soil as Well as on Earth",
+   "take": "Popularized by a certain book about a Martian, growing potatoes in very non-Earth-like environments has become somewhat of a meme. Perhaps unsurprisingly, it’s not so far from actual science being …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/22/potatoes-grow-in-simulated-lunar-soil-as-well-as-on-earth/"
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Edu Request - Fukuhara Riku",
+   "take": "Derivative Username Hapticsj Full name Fukuhara Riku Academic email 9913917482@g.ecc.u-tokyo.ac.jp Address Tokyo City Setagaya State / Province Kitazawa Country Japan Phone number 090-9988-7872 Educational Institution The University of Tokyo Phone Number of Educational Institution 03-3812-2111 Name…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-fukuhara-riku/75772"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "LOFT, UZAT, THE_PITCH 2 MINI: Free Plugins of the Week",
+   "take": "LOFT is a reverb with drawable tails, UZAT is a lo-fi multi-effect, and THE_PITCH 2 MINI is a free pitch correction plugin: Free Plugins of the Week!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/loft-uzat-free-plugins/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Mercurial Tones releases Siren, a FREE pitch correction plugin with a note editor",
+   "take": "Mercurial Tones offers Siren, a free vocal pitch correction plugin with automatic tuning and a graphical note editor. I find it hard to believe how many free autotune plugins are out there now compared to just two or three years ago. The options keep adding up, and this week we got two new ones.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "New Memorymoog Plus Firmware ‘Makes It A Whole New Machine’",
+   "take": "The new firmware solves many of the timing issues that plagued the instrument, adds a bunch of new features, and \"makes it a whole new machine.\"… Read More New Memorymoog Plus Firmware ‘Makes It A Whole New Machine’",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/21/new-memorymoog-plus-firmware-makes-it-a-whole-new-machine/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "Roland Plug-Out unlocked: new SDK enables custom synth engines",
+   "take": "Through reverse engineering, enorrmann has unlocked the Roland Plug-Out system and created a new SDK for developing custom plug-outs. In 2014, Roland introduced the SYSTEM-1 Synthesizer, later followed by the SYSTEM-1M and SYSTEM-8. All three [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/roland-plug-out-unlocked-new-sdk-enables-custom-synth-engines.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "A Replacement PCB for the Echo Dot",
+   "take": "The Amazon Echo and other voice-controlled home assistants provide so much promise of a Jetsons style future of machines at your service. They would be a must-have accessory, were it not …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/22/a-replacement-pcb-for-the-echo-dot/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Edu Request - Tyler Perry",
+   "take": "Derivative Username LuminaMusic Full name Tyler Perry Academic email luminamusic.0101@gmail.com Address 18 Driftwood Dr City Charlestown State / Province RI Zip code 02813 Country United States Phone number 218-966-4084 Educational Institution LUMINA Phone Number of Educational Institution…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-tyler-perry/75771"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "Why a Semi-Hollow Guitar belongs in your rig",
+   "take": "This week I talk about my love of semi-hollow electric guitars and why you should try one out in your rig",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/why-a-semi-hollow-guitar/"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Pro Sound Effects offers Odyssey Collection: Design Elements FREE for a limited time",
+   "take": "Pro Sound Effects is offering Odyssey Collection: Design Elements, a cinematic sound effects library normally priced at $149, for free with the code ODYSSEY26 at checkout. I successfully claimed it on November 22, so the code is still working at the time of writing.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/22/pro-sound-effects-odyssey-collection/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "New Firmware, InfeKt-FM1, Turns M-Vave FM-1 Into Access Virus Compatible Synthesizer",
+   "take": "J0KERPACK's free InfeKt-FM1 firmware transforms the M-VAVE FM-1 into a 16-voice virtual analog synthesizer, with Access Virus patch compatibility, dual filters, effects, sequencing and an integrated drum machine.… Read More New Firmware, InfeKt-FM1, Turns M-Vave FM-1 Into Access Virus Compatible…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/21/new-firmware-infekt-fm1-turns-m-vave-fm-1-into-access-virus-compatible-synthesizer/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-21",
+   "title": "Audiomodern Filterstep 2: free rhythmic filter plugin evolves into a multi-FX",
+   "take": "Audiomodern Filterstep 2 is the successor to its free rhythmic filter plugin (Mac, Windows, iOS), evolving into a deeper multi-FX processor. In 2020, Audiomodern released Filterstep, a free rhythmic filter plugin that makes it easy [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/audiomodern-filterstep-2-0-free-rhythmic-filter-plugin-evolves-into-a-multi-fx.html",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Capturing and Mineralizing Atmospheric Carbon Dioxide",
+   "take": "Although the various panicked noises about there being ‘too much’ CO2 in the atmosphere might make one think that we’re pretty much breathing in pure CO2 at this point, Earth’s …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/21/capturing-and-mineralizing-atmospheric-carbon-dioxide/"
+  }
+ ]
+}
