@@ -1,0 +1,308 @@
+{
+ "key": "2026-11-23",
+ "label": "Mon 23 Nov 2026",
+ "range": "20 November – 23 November 2026",
+ "generated": "2026-11-23T17:06:58+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "photo",
+  "text": "2024-04-11 - Cimetière militaire soviétique de Valleroy (F-54) 15",
+  "note": "Cimetière militaire soviétique de Valleroy (F-54)",
+  "photo": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2024-04-11_-_Cimeti%C3%A8re_militaire_sovi%C3%A9tique_de_Valleroy_%28F-54%29_15.jpg/1920px-2024-04-11_-_Cimeti%C3%A8re_militaire_sovi%C3%A9tique_de_Valleroy_%28F-54%29_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:2024-04-11_-_Cimeti%C3%A8re_militaire_sovi%C3%A9tique_de_Valleroy_(F-54)_15.jpg",
+   "title": "2024-04-11 - Cimetière militaire soviétique de Valleroy (F-54) 15",
+   "alt": "Cimetière militaire soviétique de Valleroy (F-54)",
+   "credit": "Paul.schrepfer",
+   "licence": "CC BY-SA 4.0",
+   "category": "Wind chimes"
+  },
+  "quoted": true,
+  "source": {
+   "label": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:2024-04-11_-_Cimeti%C3%A8re_militaire_sovi%C3%A9tique_de_Valleroy_(F-54)_15.jpg"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2024-04-11_-_Cimeti%C3%A8re_militaire_sovi%C3%A9tique_de_Valleroy_%28F-54%29_15.jpg/1920px-2024-04-11_-_Cimeti%C3%A8re_militaire_sovi%C3%A9tique_de_Valleroy_%28F-54%29_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2024-04-11_-_Cimeti%C3%A8re_militaire_sovi%C3%A9tique_de_Valleroy_(F-54)_15.jpg",
+  "title": "2024-04-11 - Cimetière militaire soviétique de Valleroy (F-54) 15",
+  "alt": "Cimetière militaire soviétique de Valleroy (F-54)",
+  "credit": "Paul.schrepfer",
+  "licence": "CC BY-SA 4.0",
+  "category": "Wind chimes"
+ },
+ "poem": {
+  "title": "1819 New Year's Carrier's Address",
+  "author": "Major Henry Livingston, Jr.",
+  "lang": "English",
+  "text": "Believe me, dear patrons, I have wand'red too far,\nWithout any compass, or planet or star;\nMy dear native village I scarcely can see\nSo I'll hie to my hive like the tempest-tost bee.\nHail home! sacred home! to my soul ever dear;\nAbroad may be wonders but rapture is here.\nMy future ambition will never soar higher\nThan the clean brushed hearth and convivial fire;\nHere I lounge at my pleasure, and bask at my ease,\nFull readily sooth'd, and desirous to please,\nAs happy myself as I happy can be,\nI wish all the circle as happy as me.\nBut hark what a clatter! the Jolly bells ringing,\nThe lads and the lasses so jovially singing,\nTis New-Years they shout and then haul me along\nIn the mdist of their merry-make Juvenile throng;\nBut I burst from their grasp: unforgetful of duty\nTo first pay obeisence to wisdom and Beauty,\nMy conscience and int'rest unite to command it,\nAnd you, my kind PATRONS, deserve & demand it.\nOn your patience to trespass no longer I dare,\nSo bowing, I wish you a Happy New Year.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/1819%20New%20Year%27s%20Carrier%27s%20Address/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "La Monte Young",
+  "work": "The Well-Tuned Piano",
+  "why": "The Well-Tuned Piano is an ongoing improvisatory solo piano work begun in 1964 by La Monte Young. Young has never considered the composition or performance of this piece finished, and he has performed it differently several times since its debut in 1974. He has called it \"in a sense, a life's work\".",
+  "url": "https://en.wikipedia.org/wiki/The_Well-Tuned_Piano",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Psychology",
+  "title": "Synesthesia",
+  "body": "Synesthesia or synaesthesia is a perceptual phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary experiences in other sensory or cognitive pathways. Synesthesia can manifest as a bridge between the five traditional senses, though it can also include other perceptions, such as nociception, thermoception, chronoception, and interoception. People with synesthesia are referred to as synesthetes.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "24 new stories from 11 sources over the last 72 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 6 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Photophore 2, a 100-oscillator iOS/AUv3 flock synth twelve years in the making",
+   "take": "Photophore renders a swarm of one hundred oscillators as a flock navigating a three-dimensional habitat. First seen on CDM in 2014, version 2 of Taika Systems' instrument adds AUv3 support on iOS -- and parameters modeling predators, hunger, and fear.",
+   "source": "CDM",
+   "url": "https://cdm.link/photophore-2-auv3/"
+  },
+  {
+   "cat": "visual",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "sonicLAB Updates SSNN With Neural Buffer FM, Expanded Network Controls",
+   "take": "The update introduces Neural Buffer FM, additional network controls and four individual voice outputs, along with improvements to synthesis processing and project recall.… Read More sonicLAB Updates SSNN With Neural Buffer FM, Expanded Network Controls",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/23/soniclab-updates-ssnn-with-neural-buffer-fm-expanded-network-controls/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Conductive Labs Terrain: multi-timbral morphing terrain hardware Synthesizer is now shipping",
+   "take": "Conductive Labs Terrain, unveiled at Knobcon 2025, is a powerful, multi-timbral, morphing terrain hardware Synthesizer- and is now shipping. Over a year ago at Knobcon 2025, Conductive Labs—the creators of the NDLR and MRCC—introduced their [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/conductive-labs-terrain-a-multi-timbral-morphing-hardware-synthesizer-with-terrain-synthesis.html"
+  },
+  {
+   "cat": "field",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "The Best Field Recordings on Bandcamp, November 2026",
+   "take": "Featuring recordings from Bornean rainforests, Belarusian marshes, the Columbia River, and the Pyrenees mountains. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Knightsnare offers KNS16 and Knightverb 2000 reverb plugins for FREE",
+   "take": "Jonathan Knightsnare is offering KNS16 and Knightverb 2000, two free reverb plugins inspired by the AMS RMX16 and Lexicon Model 200. Both plugins mimic the keypad-driven workflow of early digital rack effects.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/23/knightsnare-knightverb-2000/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "PT EDL 3 Adds Multitrack Expand, Dialogue Search And Pro Tools PTX Conform",
+   "take": "Free Range Audio has released PT EDL 3, a substantial rework of Pete Gates' Mac app for reconforming Pro Tools sessions and assembling sound rushes from an edit. It's built for dialogue editors, sound editors, and re-recording mixers who deal with picture recuts and turnovers.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/pt-edl-3-adds-multitrack-expand-dialogue-search-and-pro-tools-ptx-conform"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Edu Request - Bobby Voeten",
+   "take": "Derivative Username bobbysworld Full name Bobby Voeten Academic email bobbyvoeten@gmail.com Address Carrer d'En Garriga 139 City Badalona State / Province Barcelona Zip code 08912 Country Spain Phone number +34627027051 Educational Institution Module Paris Phone Number of Educational Institution…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-bobby-voeten/75781"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Panasonic AU-SHX1 – Newly Added to Camera Database",
+   "take": "New in the CineD Camera Database: Panasonic AU-SHX1 – check and compare Lab Test data and Recording Modes & Times.",
+   "source": "CineD",
+   "url": "https://www.cined.com/camera-database/?camera=AU-SHX1#new_tab"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Guest Playlist: Marina Herlop",
+   "take": "Having delivered one of the most ambitious records of 2026 with last month's Dja Dja, the Catalan composer presents a 20-track playlist of the influences that fed into it, available exclusively for tQ Subscriber Plus tier members Photo by Silvio Deiaco, Danilo Gambara & Christian Kondić Music…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/subscriber-area/playlists/guest-playlist-marina-herlop/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "I Heard There Was a Secret Port…",
+   "take": "TCP specifies 2^16 ports, 65536, much more than are typically used. In fact, the port zero is almost never used, or, as [Acid Vegas] found out, about 0.25% of hosts …read more",
+   "source": "Hackaday",
+   "url": "https://hackaday.com/2026/11/22/i-heard-there-was-a-secret-port/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "The Smells Like Teen Spirit Guitar Tone: Sound like Nirvana with Plugins, Budget Setup, or Studio Gear",
+   "take": "Are you looking for tips on how to get the Smells Like Teen Spirit guitar tone? check out these tips for plugins and gear!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/smells-like-teen-spirit-guitar-tone/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "The Best Contemporary Classical Music on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial contemporary classical LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "RiverFlux Audio releases Spatial EQ, a FREE equalizer plugin",
+   "take": "RiverFlux Audio has released Spatial EQ, a free eight-band equalizer with per-band depth controls for Windows, macOS, and Linux. We recently covered RiverFlux Audio’s RF-201 tape echo and spring reverb.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/23/riverflux-audio-spatial-eq/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Neutone Terra Explores New Territory In Neural Drum Synthesis (Sneak Preview)",
+   "take": "Designed around a map-based interface, Terra features continuously explorable sound spaces covering analog and digital drum machines, FM sounds, Foley, sound effects and other percussive textures.… Read More Neutone Terra Explores New Territory In Neural Drum Synthesis (Sneak Preview)",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/23/neutone-terra-explores-new-territory-in-neural-drum-synthesis-sneak-preview/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Who Trains The Next Mix Engineer When AI Does the Prep Work?",
+   "take": "Over the past few months, more and more people have been asking mixing and mastering engineer Balázs Katona, \" Aren't you afraid that because of AI, mix engineers won't be needed anymore?” It's a timely question, and in this article, Balázs disagrees with the premise.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/who-trains-the-next-mix-engineer-when-ai-does-the-prep-work"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Noise Lab Beat Designer: a Eurorack drum sequencer that does things differently",
+   "take": "Noise Lab Beat Designer is a new Eurorack drum sequencer you don’t program; instead, you work with a beat map. At the beginning of the year, Swedish developer Noise Lab released the Drum Designer, a [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/noise-lab-beat-designer-a-eurorack-drum-sequencer-that-does-things-differently.html"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Edu Request - Shio Khidasheli",
+   "take": "Derivative Username ShioKhidasheli Full name Shio Khidasheli Academic email shio.khidasheli@gipa.ge Address Samtredia 2a City Tbilisi State / Province DIDUBE Zip code 4315 Country Georgia Phone number 555217017 Educational Institution GIPA Phone Number of Educational Institution 555 90 61 89 Name…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-shio-khidasheli/75779"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Robyn Rocket and People You May of Heard Of – Open Doors to Other People’s Worlds",
+   "take": "Robyn Rocket and People You May of Heard Of Open Doors to Other People’s Worlds Featuring guests Seb Rochford, Rozi Plain, Daniel Wakeford and Momoko Gill (among others), Open Doors to Other People’s Worlds is an echo-laden psychedelic epic Open Doors To Other People's worlds by Robyn Rocket and…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/robyn-rocket-and-people-you-may-of-heard-of-open-doors-to-other-peoples-worlds-review/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-20",
+   "title": "Teenage Engineering EP BC-1: Now Available for Pre-Order!",
+   "take": "You can now pre-order the new Teenage Engineering EP BC-1 professional CD player, and it ships next week! Just in time for the holiday season.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/teenage-engineering-ep-bc-1-dj/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Bang on a Can All-Stars, “Sakamoto: 1996”",
+   "take": "Bang on a Can reinvent Sakamoto songs that Sakamoto reinvented first. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/bang-on-a-can-all-stars-sakamoto-1996-review"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Untitled Audio Syndicate releases Khorde, a FREE MIDI chord generator",
+   "take": "Untitled Audio Syndicate has released Khorde, a free MIDI plugin that lets you play full chords with one finger on macOS and Windows. That developer name kinda sounds like an underground organization that decided to get into developing plugins now that everyone else seems to be doing it.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/23/untitled-audio-syndicate-khorde/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Modulaire Maritime D RÊVE: stereo synth voice module squeezes a lot into 6HP",
+   "take": "Modulaire Maritime D RÊVE is a new Eurorack synth voice that packs a lot of synthesis into 6HP, including granular, physical modeling, FM, and wavetable. Yesterday, I reported on another major update to the Antigone [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/modulaire-maritime-d-reve-synth-voice-module-squeezes-a-lot-into-6hp.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-22",
+   "title": "Conductive Labs Terrain Synth Audio Demo By Jexus",
+   "take": "The sound library offers a preview of the range of sonic possibilities available on the Terrrain Synth. … Read More Conductive Labs Terrain Synth Audio Demo By Jexus",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/22/conductive-labs-terrain-synth-audio-demo-by-jexus/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Edu Request - Kristýna Pozlerová",
+   "take": "Derivative Username TimeBasedMedia Full name Kristýna Pozlerová Academic email studio.time.based@gmail.com Address Pasteurová 9 City Ústí nad Labem State / Province Ústecký kráj Zip code 40001 Country Czech republic Phone number +420 720400547 Educational Institution Fakulta umění a designu…",
+   "source": "Derivative",
+   "url": "https://derivative.ca/educational-package/edu-request-krist%C3%BDna-pozlerov%C3%A1/75778"
+  }
+ ]
+}
