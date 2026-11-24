@@ -1,0 +1,279 @@
+{
+ "key": "2026-11-24",
+ "label": "Tue 24 Nov 2026",
+ "range": "22 November – 24 November 2026",
+ "generated": "2026-11-24T16:57:55+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Acousmatic music",
+  "note": "Acousmatic music is a form of electroacoustic music that is specifically composed for presentation using speakers, as opposed to a live performance. It stems from a compositional tradition that dates back to the origins of musique concrète in the late 1940s. Unlike acoustic or electroacoustic musical works that are realized from scores, compositions that are purely acousmatic often exist solely as fixed media audio recordings.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Acousmatic music",
+   "url": "https://en.wikipedia.org/wiki/Acousmatic_music"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2020-01-09_Opening_ceremony_at_2020_Winter_Youth_Olympics_%28Martin_Rulsch%29_236.jpg/1920px-2020-01-09_Opening_ceremony_at_2020_Winter_Youth_Olympics_%28Martin_Rulsch%29_236.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:2020-01-09_Opening_ceremony_at_2020_Winter_Youth_Olympics_(Martin_Rulsch)_236.jpg",
+  "title": "2020-01-09 Opening ceremony at 2020 Winter Youth Olympics (Martin Rulsch) 236",
+  "alt": "Opening ceremony at the 2020 Winter Youth Olympics in Lausanne on 9 January 2020.",
+  "credit": "Martin Rulsch , Wikimedia Commons",
+  "licence": "CC BY-SA 4.0",
+  "category": "Alphorns"
+ },
+ "poem": {
+  "title": "Happy As the Day Is Long",
+  "author": "Edward Taylor",
+  "lang": "English",
+  "text": "I take the long walk up the staircase to my secret room.\nToday's big news: they found Amelia Earhart's shoe, size 9.\n1992: Charlie Christian is bebopping at Minton's in 1941.\nToday, the Presidential primaries have failed us once again.\nWe'll look for our excitement elsewhere, in the last snow\nthat is falling, in tomorrow's Gospel Concert in Springfield.\nIt's a good day to be a cat and just sleep.\nOr to read the Confessions of Saint Augustine.\nJesus called the sons of Zebedee the Sons of Thunder.\nIn my secret room, plans are hatched: we'll explore the Smoky Mountains.\nThen we'll walk along a beach: Hallelujah!\n(A letter was just delivered by Overnight Express--\nit contained nothing of importance, I slept through it.)\n(I guess I'm trying to be \"above the fray.\")\nThe Russians, I know, have developed a language called \"Lincos\"\ndesigned for communicating with the inhabitants of other worlds.\nThat's been a waste of time, not even a postcard.\nBut then again, there are tree-climbing fish, called anabases.\nThey climb the trees out of stupidity, or so it is said.\nWho am I to judge? I want to break out of here.\nA bee is not strong in geometry: it cannot tell\na square from a triangle or a circle.\nThe locker room of my skull is full of panting egrets.\nI'm saying that strictly for effect.\nIn time I will heal, I know this, or I believe this.\nThe contents and furnishings of my secret room will be labeled\nand organized so thoroughly it will be a little frightening.\nWhat I thought was infinite will turn out to be just a couple\nof odds and ends, a tiny miscellany, miniature stuff, fragments\nof novelties, of no great moment. But it will also be enough,\nmaybe even more than enough, to suggest an immense ritual and tradition.\nAnd this makes me very happy.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/Happy%20As%20the%20Day%20Is%20Long/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "John Cage",
+  "work": "Williams Mix",
+  "why": "Williams Mix (1951–1953) is a 4'16\" electroacoustic composition by John Cage for eight simultaneously played independent quarter-inch magnetic tapes. The first piece of octophonic music, the piece was created by Cage with the assistance of Earle Brown, Morton Feldman, David Tudor, and Bebe and Louis Barron using many recorded sound sources on tape and a graphic score by the composer.",
+  "url": "https://en.wikipedia.org/wiki/Williams_Mix",
+  "quoted": true
+ },
+ "crossover": {
+  "field": "Graphic design",
+  "title": "Graphic notation",
+  "body": "Graphic notation is the representation of music through the use of visual symbols outside the realm of traditional music notation. Graphic notation became popular in the 1950s, and can be used either in combination with or instead of traditional music notation. Graphic notation was influenced by contemporary visual art trends in its conception, bringing stylistic components from modern art into music. Composers often rely on graphic notation in experimental music, where standard musical notation can be ineffective.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Graphic_notation_(music)",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "22 new stories from 9 sources over the last 48 hours, including Production Expert, Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews and 4 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "The Best Jazz on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial jazz LPs Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Waldorf Attack 3 review: classic drum Synthesizer plugin taken to 2026 – now for iPad",
+   "take": "Review: With Attack 3, Waldorf brings its percussive Synthesizer plugin back into focus with smoother control, expanded synthesis, and greater flexibility: now for iPadOS At the beginning of the year, Waldorf released the Attack 3 [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/waldorf-attack-3-review-classic-drum-synthesizer-plugin-taken-to-2026.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "New iPad Drum Synth Features Dual Oscillators, FM And A Modulation Sequencer",
+   "take": "Liljeholmen DSP has released Trumsynt-16 for iPad, an analog-modeled percussion synthesizer featuring dual oscillators, FM, hard sync and a 16-step sequencer with independently configurable modulation lanes.… Read More New iPad Drum Synth Features Dual Oscillators, FM And A Modulation Sequencer",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/24/new-ipad-drum-synth-features-dual-oscillators-fm-and-a-modulation-sequencer/"
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "HEDDphone DX Open-Back Headphones, 50mm Carbon Driver - Announced",
+   "take": "HEDD Audio's HEDDphone DX is £999 / $1,199, with 20Hz bass output claimed and a 310g headband. How it stacks up against the D1, Neumann NDH 30 and HD 800 S.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/heddphone-dx-open-back-headphones-50mm-carbon-driver-announced"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "InnerMost47 releases GRM Guitar, a FREE physically modeled acoustic guitar for Windows and Linux",
+   "take": "Developer InnerMost47 has released GRM Guitar, a free physically modelled acoustic guitar for Windows and Linux. GRM Guitar is a free, open-source, physically modelled acoustic guitar instrument available in VST3 and Standalone formats for Windows and Linux.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/",
+   "free": true
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "TIDAL to Delete and Ban Fully AI-Generated Music",
+   "take": "Over the past 90 days, 43% of all tracks distributed to the platform have been detected as wholly AI-generated, the streaming service revealed TIDAL has confirmed plans to delete and ban music that has been fully created using artificial intellignece tools.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/news/tidal-to-delete-and-ban-fully-ai-generated-music/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Kemper Profiler Native: Play all your Kemper profiles in your DAW",
+   "take": "Kemper Profiler Native lets you play and modify Kemper profiles from all generations of the modeler in your DAW - or standalone.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/kemper-profiler-native-guitar/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Nikon ZR Firmware 2.00 Now Available – Log3G10 in H.265, Selectable High ISO NR and 3D LUT over HDMI",
+   "take": "Nikon has released firmware version 2.00 for the Nikon ZR, the first major update for its full-frame cinema camera. The free download brings RED’s Log3G10 to H.265 recording, selectable High ISO noise reduction, 3D LUT output over HDMI, and more assignable controls. Caution!",
+   "source": "CineD",
+   "url": "https://www.cined.com/nikon-zr-firmware-2-00-now-available-log3g10-in-h-265-selectable-high-iso-nr-and-3d-lut-over-hdmi/"
+  },
+  {
+   "cat": "sounddesign",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "How Sound Design Helps ‘Minotaur’ Get Away with Murder",
+   "take": "Director Andrey Zvyagintsev tells IndieWire about using sound to have the world crash in on its main character.",
+   "source": "IndieWire (craft)",
+   "url": "https://www.indiewire.com/features/craft/andrey-zvyagintsev-minotaur-sound-design-1235230040/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Rosetta, “Temporal Lapse”",
+   "take": "The veteran post-rock band bid farewell—for now—with their most phenomenal LP to date. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/rosetta-temporal-lapse-review"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Iftah Sting 2: the brilliant, inspiring acid line generator for mac, linux, win, M4L and now iOS",
+   "take": "Iftah Sting 2 is an expressive and improvisational acid line generator for Ableton M4L and now also a plugin for macOS, Linux, Windows, and iOS. In September, Berlin-based musician and former Skinnerbox member Iftah Gabbai—known [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/iftah-sting-2-an-expressive-acid-line-generator-for-ableton-max-for-live-and-push.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "20CC TXX-1 Spectron Brings Classic Mellotron Sounds To Eurorack",
+   "take": "20CC has released the TXX-1 Spectron, a dual-oscillator Eurorack module that transforms vintage tape-instrument recordings into continuously tunable oscillators, with FM, sync, CV-controlled tape selection and built-in modulation.… Read More 20CC TXX-1 Spectron Brings Classic Mellotron Sounds To…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/24/20cc-txx-1-spectron-brings-classic-mellotron-sounds-to-eurorack/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Luma Audio offers Luma and Luma FX bundle for $99 until December 1",
+   "take": "Luma Audio is offering Luma and Luma FX, its textural instrument and audio effect plugins, together for $99 during Black Friday. The Luma bundle offer ends on December 1, 2026. The two plugins normally cost $228 when purchased separately, while the bundle will cost $149 after the promotion.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/24/luma-audio-bundle/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "DAW Stem Separators Tested - Listen Here",
+   "take": "Being capable of things that were thought impossible only a few years ago, in the 2020s engineers can press a button to deconstruct a mix in seconds. With stem separation built right into many DAWs, here we present their results for you to compare side by side. Which sounds best? Listen and decide…",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/daw-stem-separators-tested-listen-here"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Fender Godzilla Black Paisley Telecaster: 2 Monsters Revealed!",
+   "take": "Fender launches Godzilla Black Paisley Telecaster and limited run Custom Shop edition. With monstrous specifications and looks!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/fender-godzilla-black-paisley-telecasters-2-monsters-revealed/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Posthumous D’Angelo Song Released on Grand Theft Auto VI Soundtrack",
+   "take": "The late artist approved use of the song in the long-anticipated game before his death last year A previously unreleased song by D'Angelo has been released as a standalone single after it appeared in the soundtrack for the much-anticipated new game Grand Theft Auto VI.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/news/posthumous-dangelo-song-released-on-grand-theft-auto-vi-soundtrack/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Liquid Sky XEN FX LAB: feature-richer sequel to ZEN Delay, free upgrade & now for iPadOS",
+   "take": "Liquid Sky XEN FX Lab is a free upgrade and is the sequel to the Zen Delay plugin with new features for macOS, Windows, and now iPadOS. Good news: after a long wait in the [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/liquid-sky-xen-fx-lab-feature-richer-sequel-to-zen-delay-free-upgrade-soon-for-ipados.html",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Universal Audio opens signups to get a UAD plugin for $1 this Thanksgiving",
+   "take": "Universal Audio is bringing back its pick-one plugin promotion, with a $1 UAD plugin offer launching on Thursday, November 26. I received a notification about this from a BPB reader via email this morning, and I don’t know which plugins are covered by the promotion.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/24/universal-audio-dollar-thanksgiving/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Free Firmware Turns M-VAVE FM-1 Into An Elektron Monomachine-Inspired Groovebox",
+   "take": "MONO2K is an open-source firmware for the M-VAVE FM-1 that transforms the compact synthesizer into a groovebox inspired by Elektron's Monomachine, with six synthesis engines, four drum machines, parameter locks and a 64-step sequencer.… Read More Free Firmware Turns M-VAVE FM-1 Into An Elektron…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/23/free-firmware-turns-m-vave-fm-1-into-an-elektron-monomachine-inspired-groovebox/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-23",
+   "title": "Kaizen Infinity Rack Review: 54 Processors In One Plugin",
+   "take": "Ten inserts sounds like plenty, and for many purposes it is. However, if you build a complex effects chain you can end up bouncing tracks, spilling onto auxes, or juggling plugin windows just to see what’s going on. Kaizen Audio’s Infinity Rack takes a different approach.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/kaizen-infinity-rack-review-54-processors-in-one-plugin"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "HEDDphone DX: The Flagship Gets a Major Upgrade",
+   "take": "The HEDDphone DX expands on the design of the popular D1 open-back headphone with new drivers and a more comfortable frame for extended hours.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/heddphone-dx-studio/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Rockfort! French Music for November, Reviewed by David McKenna",
+   "take": "In his final French dispatch of 2026, David McKenna examines the pioneering legacy of the Saravah label as it turns 60 under bittersweet circumstances, and presents 10 essential new records from folk to hip hop Elizabeth Vogler and donkey friends by Albane Barrau 2026 marks 60 years since the…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/quietus-international/best-new-french-music-review-saravah-elizabeth-vogler-omerta-ino-casablanca/"
+  }
+ ]
+}
