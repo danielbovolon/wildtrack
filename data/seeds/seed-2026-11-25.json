@@ -1,0 +1,293 @@
+{
+ "key": "2026-11-25",
+ "label": "Wed 25 Nov 2026",
+ "range": "23 November – 25 November 2026",
+ "generated": "2026-11-25T16:44:44+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "vacarme",
+  "lang": "French",
+  "note": "French noun. Wiktionary gives: (1) noise , din , uproar , racket",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: vacarme",
+   "url": "https://en.wiktionary.org/wiki/vacarme#French"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/20081227444.jpg/1920px-20081227444.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:20081227444.jpg",
+  "title": "20081227444",
+  "alt": "from inside the studio Abdullah chemo Khartoum - Sudan's Arab market building formerly Tourism and Hotels - Building Hijaz intersection of freedom and municipal",
+  "credit": "Abdallashommo",
+  "licence": "CC BY-SA 3.0",
+  "category": "Tape recorders"
+ },
+ "poem": {
+  "title": "The Moon",
+  "author": "William Topaz McGonagall",
+  "lang": "English",
+  "text": "Beautiful Moon, with thy silvery light,\nThou seemest most charming to my sight;\nAs I gaze upon thee in the sky so high,\nA tear of joy does moisten mine eye.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the Esquimau in the night;\nFor thou lettest him see to harpoon the fish,\nAnd with them he makes a dainty dish.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the fox in the night,\nAnd lettest him see to steal the grey goose away\nOut of the farm-yard from a stack of hay.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the farmer in the night,\nand makes his heart beat high with delight\nAs he views his crops by the light in the night.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the eagle in the night,\nAnd lettest him see to devour his prey\nAnd carry it to his nest away.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the mariner in the night\nAs he paces the deck alone,\nThinking of his dear friends at home.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the weary traveller in the night;\nFor thou lightest up the wayside around\nTo him when he is homeward bound.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the lovers in the night\nAs they walk through the shady groves alone,\nMaking love to each other before they go home.\n\nBeautiful Moon, with thy silvery light,\nThou cheerest the poacher in the night;\nFor thou lettest him see to set his snares\nTo catch the rabbit and the hares.",
+  "note": "Public-domain text from PoetryDB, which draws its poems from Project Gutenberg. Chosen automatically.",
+  "source": {
+   "label": "PoetryDB",
+   "url": "https://poetrydb.org/title/The%20Moon/author,title,lines"
+  }
+ },
+ "listen": {
+  "artist": "Laurie Anderson",
+  "work": "O Superman",
+  "why": "\"O Superman\" (parenthetically known as \"O Superman (For Massenet)\" in tribute to Jules Massenet) is the 1981 debut single by American artist Laurie Anderson. A pop song rooted in minimalist and electronic music, the song became a surprise hit in the United Kingdom after it was championed by DJ John Peel, rising to number 2 on the UK Singles Chart in 1981. Prior to the success of this song, Anderson was little known outside the art world.",
+  "url": "https://en.wikipedia.org/wiki/O_Superman",
+  "quoted": true,
+  "year": "1981"
+ },
+ "crossover": {
+  "field": "Film editing",
+  "title": "The split edit",
+  "body": "In film editing, a split edit is a film transition from one shot to another in which transition of the audio and video happen at different times. This is often done to enhance the aesthetics or flow of the film, allowing the audience to see context either before or after of speaking rather than simply the speaking itself. Without split edit, a conversation between two people can feel like a tennis match.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Split_edit",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "23 new stories from 9 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 4 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "stage",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Jamaica Suk, producer, DJ, and friend, has died",
+   "take": "We lost Jamaica Suk yesterday, the singular musical force. To say this hits close to home is an understatement; few people have been a better friend or a greater inspiration. My thoughts are with her family, in particular, right now.",
+   "source": "CDM",
+   "url": "https://cdm.link/jamaica-suk-producer-dj-and-friend-has-died/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Tootable Instruments eureka! Brings Mutable Instruments Ambika Back As Free Virtual Instrument",
+   "take": "Tootable Instruments eureka! runs the Mutable Instruments Ambika firmware as a six-part software synth, adding modeled filters, stereo panning, modulation options and support for Ambika presets on macOS and Windows.… Read More Tootable Instruments eureka!",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/25/tootable-instruments-eureka-brings-mutable-instruments-ambika-back-as-free-virtual-instrument/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "The Synth Palace is a FREE collection of nine vintage synths for macOS and Windows",
+   "take": "Synth Palace has released The Synth Palace, a free instrument featuring nine vintage-inspired synthesizers for macOS and Windows. First of all, until this year, a free plugin on this scale was almost unimaginable.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/25/the-synth-palace-collection/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Elektron Tonverk 1.5: 16-track performance sampler gets new machines, FXs and more",
+   "take": "Elektron Tonverk is a new 16-track performance polyphonic sampler with multi-samples and the potential to be the spiritual successor to the Octatrack: Firmware 1.5 out now! Amid the rush for hardware and software deals this [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/elektron-tonverk-a-polyphonic-multi-sampler-with-the-potential-to-be-a-spiritual-octatrack.html"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Underground Medicine #9",
+   "take": "Ingrid Kerr of legendary '80s/'90s DIY punk collective Konkurrent and hardcore punk band Nog Watt tells all. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/underground-medicine/underground-medicine-9"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Kraxton Labs Master QC Runs Delivery Checks On Audio And Picture",
+   "take": "Kraxton Labs has launched MasterQC, a macOS app that checks printmasters, stems, M&E and Atmos ADM masters against your delivery specification. Here are the details.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/kraxton-labs-master-qc-runs-delivery-checks-on-audio-and-picture"
+  },
+  {
+   "cat": "art",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Huge Wings Trying To Fly: Aleksandra Słyż Interviewed",
+   "take": "Ahead of a performance of Ruiny/ Ruins as part of Unsound London, the Polish sound artist speaks to Claire Sawers about the fragility of memory and the use of old tech.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/interviews/aleksandra-slyz-interview/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "FL Studio 2026.2 Update: New Plugins and Workflow Features",
+   "take": "In the latest FL Studio 2026.2 update, you can find two new plugins and some exciting new workflow enhancements and improvements to the mixer.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/fl-studio-daw-software/"
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "The Extraordinary Music Worthy of an Extraordinary Life in ‘W.E.B. Du Bois: Rebel with a Cause’",
+   "take": "Composer Kathryn Bostic and director Rita Coburn tell IndieWire how they drew from Du Bois' own encounters with a broad array of musical influences to shape their film's score.",
+   "source": "IndieWire (craft)",
+   "url": "https://www.indiewire.com/features/craft/web-du-bois-rebel-with-a-cause-score-kathryn-bostic-1235230057/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "FieldSynth Brings Generative Particle Synthesis To iPhone, iPad & Desktop",
+   "take": "FieldSynth is a generative synthesizer that turns particle and cursor movement into evolving melodies and rhythms. It combines FM and subtractive synthesis, modulation, effects and MIDI, with desktop, iOS and browser versions.… Read More FieldSynth Brings Generative Particle Synthesis To iPhone,…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/25/fieldsynth-brings-generative-particle-synthesis-to-iphone-ipad-desktop/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "The Best Latin Music on Bandcamp, November 2026",
+   "take": "Maria Barrios rounds up the best Latin music releases from November, including new records from Daga Voladora, Joyce Moreno, and more. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Valhalla Supermassive 6.0 adds Helios mode to the FREE reverb and delay plugin",
+   "take": "Valhalla DSP has updated Valhalla Supermassive to version 6.0.0, adding the new Helios mode to its free reverb and delay plugin for macOS and Windows. We covered the Sirius update last year, and Supermassive is also the top pick in our free reverb plugins list.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/25/valhalla-supermassive-helios/",
+   "free": true
+  },
+  {
+   "cat": "stage",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Sound Radix POWAIR 2 And MuteØmatic Studio Arrive With Radical Bundle 5: What Existing Owners Should Check",
+   "take": "Sound Radix has announced POWAIR 2, a rebuild of its loudness leveller and compressor that adds a true-peak brick-wall limiter, a clipper and saturator stage, and a new ducking mode called Delta Duck.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/sound-radix-powair-2-and-mutematic-studio-arrive-with-radical-bundle-5-what-existing-owners-should-check"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Full Bucket Music goes MPC: MPS Synth and FB Phaser kick off its plugin lineup",
+   "take": "Full Bucket Music goes MPC and has launched MPS Synth and FB Phaser, the first two plugins for the MPC platform. On November 12, 2026, a new era began for the MPC platform. Akai released [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/full-bucket-music-goes-mpc-mps-synth-and-fb-phaser-kick-off-its-plugin-lineup.html"
+  },
+  {
+   "cat": "access",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Deaf Jams: George Clarke of Deafheaven’s Favourite Songs",
+   "take": "Following the release of a scorching new EP, the Deafheaven vocalist takes Dan Franklin through his favourite 13 songs, from a longstanding love of hip hop to Nina Simone's most metal moment Photo by Liam Stewart When I speak to George Clarke, frontman of Deafheaven, he is in the sanctum of his…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/interviews/bakers-dozen/deaf-jams-george-clarke-of-deafheavens-favourite-songs/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Way Huge Smalls Green Rhino Overdrive: ’95 Style!",
+   "take": "The Way Huge Smalls Green Rhino Overdrive takes us back to 1995 and offers classic drive tones in a modern compact package",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/way-huge-smalls-green-rhino-overdrive/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "The Best Electronic Music on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial electronic LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Soundroll releases Fuzz, a FREE fuzz plugin for macOS",
+   "take": "Soundroll has released Soundroll Fuzz, an advanced free fuzz effect for macOS with three circuits, separate input and output EQs, and a built-in noise gate. We’re getting three different fuzz circuits here: Germanium, Silicon, and Tube.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "We Couldn't Find Our Own Articles. So We Rebuilt The Site",
+   "take": "Tens of thousands of articles since 2008, and even we couldn't find them. Meet Fletcher, plus the new tools built to get audio pros answers fast.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/we-couldnt-find-our-own-articles-so-we-rebuilt-the-site"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Valhalla Supermassive 6.0: Valhalla DSP’s epic free delay/reverb plugin goes Helios",
+   "take": "With version 6.0, the Valhalla Supermassive, the epic free delay/reverb plugin, has received another free update that adds a new Helios mode. Black Friday isn’t just a celebration of the deals available on hardware and [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/valhalla-supermassive-6-0-valhalla-dsp-s-epic-free-delay-reverb-plugin-goes-helios.html",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "Tubbutec TR-8oh8 Upgrade Adds MIDI, 11 Instruments And New Sequencer Tools To The Roland TR-808",
+   "take": "Tubbutec's TR-8oh8 replaces the Roland TR-808's CPU, adding MIDI, 11 additional instruments, expanded pattern and track sequencing, and performance tools while retaining the original analog sound circuits.… Read More Tubbutec TR-8oh8 Upgrade Adds MIDI, 11 Instruments And New Sequencer Tools To The…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/24/tubbutec-tr-8oh8-roland-tr-808-upgrade/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Kogumaza – You Found Yourself Where You Found Yourself",
+   "take": "Kogumaza You Found Yourself Where You Found Yourself Formed in Nottingham in 2009, the drone and ambient rock trio’s first album since 2019’s Fugues is a gorgeous exploration of mantric repetition that hits the ear like a welcome draft of cool but invigorating air You Found Yourself Where You Found…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/kogumaza-you-found-yourself-where-you-found-yourself-review/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "5 of the Best-Selling Synths of All Time",
+   "take": "What makes a synth a top seller? Here are five of the best-selling synths that are still on the market after 10-plus years.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/5-of-the-best-selling-synths/"
+  }
+ ]
+}
