@@ -1,0 +1,288 @@
+{
+ "key": "2026-11-26",
+ "label": "Thu 26 Nov 2026",
+ "range": "24 November – 26 November 2026",
+ "generated": "2026-11-26T16:25:47+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "photo",
+  "text": "Chinese.Zither.Zheng.Guzheng",
+  "note": "Zither Zheng (or \"Guzheng\") is a traditional Chinese string instrument with more than 2500 years of history. This is a modern version of Chinese zither, which has 21 strings and it is 160 cm long.",
+  "photo": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chinese.Zither.Zheng.Guzheng.jpg/1920px-Chinese.Zither.Zheng.Guzheng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:Chinese.Zither.Zheng.Guzheng.jpg",
+   "title": "Chinese.Zither.Zheng.Guzheng",
+   "alt": "Zither Zheng (or \"Guzheng\") is a traditional Chinese string instrument with more than 2500 years of history. This is a modern version of Chinese zither, which has 21 strings and it is 160 cm long.",
+   "credit": "Mojmir Churavy",
+   "licence": "CC BY-SA 4.0",
+   "category": "Zithers"
+  },
+  "quoted": true,
+  "source": {
+   "label": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:Chinese.Zither.Zheng.Guzheng.jpg"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Chinese.Zither.Zheng.Guzheng.jpg/1920px-Chinese.Zither.Zheng.Guzheng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese.Zither.Zheng.Guzheng.jpg",
+  "title": "Chinese.Zither.Zheng.Guzheng",
+  "alt": "Zither Zheng (or \"Guzheng\") is a traditional Chinese string instrument with more than 2500 years of history. This is a modern version of Chinese zither, which has 21 strings and it is 160 cm long.",
+  "credit": "Mojmir Churavy",
+  "licence": "CC BY-SA 4.0",
+  "category": "Zithers"
+ },
+ "listen": {
+  "artist": "György Ligeti",
+  "work": "Atmosphères",
+  "why": "Atmosphères is a piece for orchestra, composed by György Ligeti in 1961. It is noted for eschewing conventional melody and metre in favor of dense sound textures. After Apparitions, it was the second piece Ligeti wrote to exploit what he called a \"micropolyphonic\" texture.",
+  "url": "https://en.wikipedia.org/wiki/Atmosph%C3%A8res",
+  "quoted": true,
+  "year": "1961"
+ },
+ "crossover": {
+  "field": "Urban planning",
+  "title": "Noise barriers",
+  "body": "A noise barrier is an exterior structure designed to protect inhabitants of sensitive land use areas from noise pollution. Noise barriers are the most effective method of mitigating roadway, railway, and industrial noise sources – \nother than cessation of the source activity or use of source controls.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Noise_barrier",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "23 new stories from 9 sources over the last 48 hours, including Production Expert, CDM, Synthtopia, Synth Anatomy, Bedroom Producers Blog and 4 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Laurie Spiegel’s cosmic sounds of Kepler passed one light day from Earth",
+   "take": "Earlier this month, NASA's Voyager 1 spacecraft traveled beyond 25.902 billion km from Earth, a distance light would travel in 24 hours. Now is a great time to listen to Laurie Spiegel's contribution to that record -- a dizzying sonic model of Kepler's Harmonice Mundi.",
+   "source": "CDM",
+   "url": "https://cdm.link/laurie-spiegel-in-space/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "SampleScience Hush Piano Offers a Felt Piano in Multiple Formats",
+   "take": "SampleScience Hush Piano is a multi-sampled felt piano for ambient, lo-fi and cinematic production, with built-in effects and support for plugin, Kontakt, Decent Sampler, Soundbox and SFZ formats.… Read More SampleScience Hush Piano Offers a Felt Piano in Multiple Formats",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/26/samplescience-hush-piano-offers-a-felt-piano-in-multiple-formats/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Patching Panda Holograms: a dual analog complex oscillator with digital control",
+   "take": "Patching Panda Holograms is a new dual-analog complex oscillator module for Eurorack, with a digital control brain and presets. You typically start your Eurorack adventure with a classic analog or digital oscillator that covers all [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/patching-panda-holograms-a-dual-analog-complex-oscillator-with-digital-control.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Kaleidon Spark is a FREE effects sequencer that can also host plugins",
+   "take": "Dylan Mixer offers Kaleidon Spark, a free effects sequencer for macOS and Windows that turns your existing plugins into rhythmic patterns. Before we continue, please note that this one requires the Pulse Downloader, so if that’s not your style, feel free to skip.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Want To Work In Audio Post Production? Advice From Experienced Professionals",
+   "take": "In this article, our Expert Panel give their wisdom on how best to get started in the audio post-production industry and to make sure the next generation don’t miss out on the advice they wished they had been given. Read, listen and follow their wisdom….",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/want-to-work-in-audio-post-production-advice-from-experienced-professionals"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Purple Pilgrims, “Given To The Night”",
+   "take": "A back-to-nature record from the NZ siblings results in mystic dream pop. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/purple-pilgrims-given-to-the-night-review"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Sterling StingRay 50th Anniversary LTD: Less gold, more bass",
+   "take": "Music Man continues celebrating their most famous bass model with the Sterling StingRay 50th Anniversary LTD. This time, it's less gold!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/sterling-stingray-50th-anniversary-ltd-guitar/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "“If the People Are Out on the Street, Then the Street Is Where We Have to Be” – The Portuguese Musicians Taking on a Housing Crisis",
+   "take": "With Portugal's intensifying housing crisis sparking major protests and encampments – and police brutality – the country’s music scene has become intertwined with the movement.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/quietus-international/portuguese-housing-protest-music-casa-para-viver-scuru-fitchadu-maria-reis/"
+  },
+  {
+   "cat": "nature",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "This 345-million-year-old fossil had scientists fooled for decades",
+   "take": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile.",
+   "source": "ScienceDaily (animals)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "The gentle sounds of a tiny acoustic piano from Denmark",
+   "take": "In northern Europe, it's that time of year that disappears under a thick blanket of cloud, and the hours of daylight seem to melt away into cinder gray. That calls for some cozy comforts. And look at this: some new acoustic instrument engineering, and a tiny acoustic piano.",
+   "source": "CDM",
+   "url": "https://cdm.link/the-gentle-sounds-of-a-tiny-acoustic-piano-from-denmark/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Little Machines Ocarina 3DS Turns Nintendo’s Handheld Into A Wind Synth",
+   "take": "Little Machines Ocarina 3DS is a free Nintendo 3DS and 2DS music app that uses the handheld's buttons and microphone for wind-instrument-style playing, with 23 voices and three loopers.… Read More Little Machines Ocarina 3DS Turns Nintendo’s Handheld Into A Wind Synth",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/26/little-machines-ocarina-3ds-wind-synth/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Nail The Mix offers FreqSniper resonance-removal plugin for FREE",
+   "take": "Nail The Mix is offering FreqSniper, a resonance-removal EQ plugin developed with Joey Sturgis Tones, as a free download. The plugin analyzes your audio and suggests what frequencies to cut, as well as whether to use static or dynamic processing.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/",
+   "free": true
+  },
+  {
+   "cat": "film",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Tidal Will Remove Fully AI-Generated Music From 9 December, Deleting Around 29 Million Tracks",
+   "take": "Tidal has today announced that it will remove all music generated entirely with AI from its streaming service, starting on 9 December. New fully AI-generated uploads will also be rejected. AI-assisted music made by artists stays on the platform.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/tidal-will-remove-fully-ai-generated-music-from-9-december-deleting-around-29-million-tracks"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Behringer CS Mini: the budget-friendly Yamaha CS-inspired analog synth – official info and video",
+   "take": "Behringer CS Mini is a new 1-oscillator mini analog Synthesizer inspired by the legendary Yamaha CS-80: official info and video. For several months, the Behringer CS Mini has been popping up in the media—first in [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/behringer-cs-mini-do-you-want-a-3-voice-cs-80-inspired-portable-analog-synth.html"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "The Best Country Music on Bandcamp, November 2026",
+   "take": "Our guide to the month’s crucial country LPs. Read full story on the Bandcamp Daily .",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-november-2026"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Orange Tiny Terror 20th Anniversary Models in British Racing Green",
+   "take": "Orange Tiny Terror 20th Anniversary a limited run of 1000 in British Racing Green finish, the OG Lunch Box amp!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/orange-tiny-terror-20th-anniversary/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Wired for Sound: One Trip by Factory Floor",
+   "take": "Better than ever before, the latest album by the British electronic trio captures the thrill and spontaneity of their live sets Last month, I exchanged emails with Nik Colk Void about a piece for this website on the enduring influence of Daphne Oram, during which Void wrote eloquently about the…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/album-of-the-week/factory-floor-one-trip-review/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "touski Releases ChanceBloom Generative Slice Sampler",
+   "take": "touski's ChanceBloom is a generative slice sampler for macOS and Windows that turns loops into tempo-synced patterns, with adjustable variation, a step sequencer and drag-and-drop WAV export.… Read More touski Releases ChanceBloom Generative Slice Sampler",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/26/touski-chancebloom-generative-slice-sampler/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Box Of Rules makes BR108 console channel strip plugin FREE",
+   "take": "Box Of Rules has made BR108, its British console channel strip plugin, free to download and use, including in commercial productions. Previously available to paid supporters, BR108 captures the character of a 1980s 24-channel desk.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "7 Of The Best New Features In Fender Studio Pro 8.2",
+   "take": "Following 2026's latest incarnation of Fender's venerable DAW, Studio Pro 8.2 sets out to advance the workstation's pro credentials. With mixing, tuning, navigation improvements, and more, here we walk through the latest functions hoping to keep 8.2 at the cutting edge.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/7-of-the-best-new-features-in-fender-studio-pro-82"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-24",
+   "title": "ThreeTom Modular Super Stereo MS-22: a double dose of MS-20 analog filter madness",
+   "take": "ThreeTom Modular Super Stereo MS-22: two characterful Korg MS-20-based dual filters form a new stereo analog filter with expanded options. The Korg MS-20 is legendary and loved for its aggressive, screaming dual filter, perfect for [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/threetom-modular-super-stereo-ms-22-a-double-dose-of-ms-20-analog-filter-madness.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "UA Universe: A New Developer Platform and Community for LUNA",
+   "take": "Now in public beta, UA Universe lets you create and share custom LUNA workflow tools and enhancements with its JavaScript-based development kit.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/ua-universe-studio/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-25",
+   "title": "Wilder Maker – Smoking The Bunny",
+   "take": "Wilder Maker Smoking The Bunny Partly improvised and partly crooned, the latest from the Brooklyn quartet matches sonic texture to narrative detail Smoking the Bunny by Wilder Maker The last we heard from the reinvigorated Brooklyn outfit Wilder Maker, on their compelling 2025 LP, These Streets…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/wilder-maker-smoking-the-bunny-review/"
+  }
+ ]
+}
