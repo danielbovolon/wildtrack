@@ -1,0 +1,209 @@
+{
+ "key": "2026-11-27",
+ "label": "Fri 27 Nov 2026",
+ "range": "25 November – 27 November 2026",
+ "generated": "2026-11-27T16:13:30+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "concept",
+  "text": "Overtone singing",
+  "note": "Overtone singing, also known as overtone chanting, harmonic singing, polyphonic overtone singing, or diphonic singing, is a singing technique in which the vocalist produces two distinct pitches at the same time.",
+  "quoted": true,
+  "source": {
+   "label": "Wikipedia: Overtone singing",
+   "url": "https://en.wikipedia.org/wiki/Overtone_singing"
+  }
+ },
+ "photo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Draailier%2C_BK-NM-7506.jpg/1920px-Draailier%2C_BK-NM-7506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Draailier,_BK-NM-7506.jpg",
+  "title": "Draailier, BK-NM-7506",
+  "alt": "Identificatie Titel(s): Draailier Objecttype: muziekinstrument snaarinstrument draailier Objectnummer: BK-NM-7506 Omschrijving: Draailier van bruin hout met ebbenhout en ivoor. De hals eindigt in een vrouwenkop.",
+  "credit": "Rijksmuseum",
+  "licence": "CC0",
+  "category": "Hurdy-gurdies"
+ },
+ "listen": {
+  "artist": "Steve Reich",
+  "work": "It's Gonna Rain",
+  "why": "It's Gonna Rain is a tape composition written by American composer Steve Reich in 1965. It lasts about 18 minutes. It was Reich's first major work and is considered a landmark in minimalism and process music.",
+  "url": "https://en.wikipedia.org/wiki/It's_Gonna_Rain",
+  "quoted": true,
+  "year": "1965"
+ },
+ "crossover": {
+  "field": "Engineering",
+  "title": "Active noise control",
+  "body": "Active noise control (ANC), also known as noise cancellation (NC), or active noise reduction (ANR), is a method for reducing unwanted sound by the addition of a second sound specifically designed to cancel the first. The concept was first developed in the late 1930s; later developmental work that began in the 1950s eventually resulted in aviation headsets, with the technology becoming available in the late 1980s. The technology is also used in road vehicles, mobile telephones, earbuds, and headphones.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Active_noise_control",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "16 new stories from 6 sources over the last 48 hours, including Production Expert, Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews and 1 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Dreadbox Nymphes: a compact analog polyphonic Synthesizer says goodbye",
+   "take": "Dreadbox has announced the discontinuation of the Nymphes 6-voice analog polyphonic Synthesizer and says goodbye with a special offer. At Superbooth 2021, the Greek company Dreadbox released Nymphes, a budget-friendly, compact 6-voice analog polysynth. In [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/dreadbox-nymphes-a-compact-analog-polyphonic-synthesizer-says-goodbye.html"
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Get Zero-G Total Bass Drums FREE, exclusively on BPB",
+   "take": "Zero-G is offering Total Bass Drums, a sample library containing 10,750 kick drums, as a free download exclusively for BPB readers until Cyber Monday. The pack normally costs $34.99, but you can get it for free with the coupon code BPBFREEKICKS as an exclusive Black Friday freebie.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/27/zerog-total-bass-drums-free/",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "All The Machines Releases UN/T-02 Semi-Modular FM Drum Machine",
+   "take": "All The Machines’ UN/T-02 is a semi-modular FM drum machine plugin with six FM voices, extensive patch-cord modulation, polymetric sequencing and built-in effects for Windows and macOS.… Read More All The Machines Releases UN/T-02 Semi-Modular FM Drum Machine",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/27/all-the-machines-releases-un-t-02-semi-modular-fm-drum-machine/"
+  },
+  {
+   "cat": "radio",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "AI Voice Production Directly In Pro Tools With VoiceWunder",
+   "take": "Voice generation for voice-over and post-production has increasingly become an online process, with audio typically being generated through a web service before being downloaded and imported into your DAW. Only then can you properly audition it in the context of your project.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/ai-voice-production-directly-in-pro-tools-with-voicewunder"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Behringer CS Mini: Available now!",
+   "take": "Behringer's CS Mini is finally available to order, but has it been worth the wait?",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/behringer-cs-mini-its-a-cs-80-in-a-teeny-tiny-box/"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Music of the Month: The Best Albums and Tracks of November 2026",
+   "take": "tQ's staffers round up everything that's excellent from the last few weeks in music Although End Of Year list season is very nearly upon us, November has been such a sterling month for new music that we couldn't resist one more of our monthly round-ups.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/tq-charts/music-of-the-month/music-of-the-month-the-best-albums-and-tracks-of-november-2026/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Kodamo Essence FM 8.0: major free characterful update for the flagship FM synth",
+   "take": "Kodamo Essence FM 8.0 is out now as a major free update, bringing improved feedback FM and filter, new FX, and more. With the Essence FM, the one-man French company Kodamo offers one of the [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/kodamo-essence-fm-8-0-major-free-characterful-update-for-the-flagship-fm-synth.html",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "BPB Exclusive: SoundMorph DUST for $9.99 and Universe Bundle for $299",
+   "take": "SoundMorph is offering two exclusive Black Friday deals for BPB readers, with DUST for $9.99 and the Universe Bundle for $299 until November 30. You can get DUST for $9.99 using the code BPBDUST, or the Universe Bundle for $299 using BPBUNIVERSE299.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/27/bpb-exclusive-soundmorph/"
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Pine DSP Blox Grain Adds Granular Cloud Processing For $3",
+   "take": "Pine DSP Blox Grain is a granular effect plugin with freeze, pitch, drift and extended grain controls. It is available for macOS and Windows in VST3, AU and AAX formats.… Read More Pine DSP Blox Grain Adds Granular Cloud Processing For $3",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/26/pine-dsp-blox-grain-adds-granular-cloud-processing-for-3/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Neyrinck V-90 Complete Models 24 Yamaha SPX 90 Effects For DAWs And Live Sound",
+   "take": "Neyrinck has released V-90 Complete, a bundle of five plugins that recreates 24 effects from the Yamaha SPX 90, the 1985 rack processor that has been on records and in live sound racks since the mid-1980s.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/neyrinck-v-90-complete-models-24-yamaha-spx-90-effects-for-daws-and-live-sound"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Mooer GTRS Wing 1000: Intelligent Headless Guitar with NAM!",
+   "take": "Mooer GTRS Wing 1000 an intelligent headless guitar that supports Neural Amp Models and a whole lot more!",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/mooer-gtrs-wing-1000/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Laura Cannell – Winter Rites",
+   "take": "Laura Cannell Winter Rites Recorded at the Octagon Unitarian Chapel in Norwich, the English composer and improviser welcomes in the season of Advent WINTER RITES by Laura Cannell Although we do not often think to question it, the church organ is a strange concept.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/laura-cannell-winter-rites-review/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Kate McGill offers 3 FREE vocal toplines exclusively for BPB readers",
+   "take": "Kate McGill Vocals is a free sample pack featuring three full-length female vocal toplines, available exclusively to BPB readers. Kate McGill is a UK vocalist and songwriter who spent ten years fronting indie-folk band Meadowlark before moving into electronic music toplines in 2023.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/27/kate-mcgill-free-vocal-toplines/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Melbourne Instruments Roto-Control 4.0: motorized MIDI controller now supports Cubase and FL Studio",
+   "take": "Melbourne Instruments Roto-Control 4.0: the new free firmware adds native support for Steinberg Cubase and FL Studio. The Roto-Control, a motorized MIDI controller from the Australian company Melbourne, is soon approaching its second anniversary. The [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/melbourne-instruments-roto-control-a-motorized-midi-controller-for-hard-and-software.html"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "SynthMaker Adds Classic ICs As Circuit Components, With Playable Atari Punk Console",
+   "take": "SynthMaker adds logic, synthesizer and audio IC models to its circuit simulator, with datasheet-based connections, part-by-part playback and a playable Atari Punk Console demo in the browser.… Read More SynthMaker Adds Classic ICs As Circuit Components, With Playable Atari Punk Console",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/26/synthmaker-adds-classic-ics-circuit-components-atari-punk-console/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Gift Ideas for Guitarists: Check out These Effects Pedals for Every Budget!",
+   "take": "Looking for gift ideas for guitarists? A loved one, a friend, or even yourself? Check out these pedals. There are suggestions for every budget.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/gift-ideas-for-guitarists-guitar/"
+  }
+ ]
+}
