@@ -1,0 +1,211 @@
+{
+ "key": "2026-11-28",
+ "label": "Sat 28 Nov 2026",
+ "range": "26 November – 28 November 2026",
+ "generated": "2026-11-28T15:18:25+01:00",
+ "auto": true,
+ "seed": {
+  "kind": "word",
+  "text": "bruissement",
+  "lang": "French",
+  "note": "French noun. Wiktionary gives: (1) rustle ; murmur",
+  "quoted": true,
+  "source": {
+   "label": "Wiktionary: bruissement",
+   "url": "https://en.wiktionary.org/wiki/bruissement#French"
+  }
+ },
+ "photo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Berlin-Moabit_Moabiter_Markthalle_Gebetomat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Berlin-Moabit_Moabiter_Markthalle_Gebetomat.jpg",
+  "title": "Berlin-Moabit Moabiter Markthalle Gebetomat",
+  "alt": "Gebetomat in der Moabiter Markthalle in Berlin-Moabit",
+  "credit": "Assenmacher",
+  "licence": "CC BY-SA 3.0",
+  "category": "Sound sculptures"
+ },
+ "listen": {
+  "artist": "Wendy Carlos",
+  "work": "Switched-On Bach",
+  "why": "Switched-On Bach is the debut album by the American composer Wendy Carlos, released in October 1968 by Columbia Records. Produced by Carlos and Rachel Elkind, the album is a collection of pieces by Johann Sebastian Bach performed by Carlos and Benjamin Folkman on a Moog synthesizer. It played a key role in bringing synthesizers to popular music, which had until then been mostly used in experimental music.",
+  "url": "https://en.wikipedia.org/wiki/Switched-On_Bach",
+  "quoted": true,
+  "year": "1968"
+ },
+ "crossover": {
+  "field": "Typography",
+  "title": "Concrete poetry",
+  "body": "Concrete poetry is an arrangement of linguistic elements in which the typographical effect is more important in conveying meaning than verbal significance. It is sometimes referred to as visual poetry, a term that has now developed a distinct meaning of its own. Concrete poetry relates more to the visual than to the verbal arts although there is a considerable overlap in the kind of product to which it refers. Historically, however, concrete poetry has developed from a long tradition of shaped or patterned poems in which the words are arranged in such a way as to depict their subject.",
+  "source": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Concrete_poetry",
+  "quoted": true
+ },
+ "headline": "New across the crafts",
+ "lead": "16 new stories from 6 sources over the last 48 hours, including Production Expert, Synthtopia, Synth Anatomy, Bedroom Producers Blog, Gearnews and 1 more. This edition is assembled automatically from the outlets' own feeds: titles and summaries are theirs. Open a story for the full article.",
+ "items": [
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Ableton Live 13 arrives in early 2027, a major update without AI?",
+   "take": "The upcoming Ableton Live 13 arrives in early 2027; could it be a major update without AI? When Ableton Live first appeared in 2001, it was something of a rebel. It didn’t always adhere to conventional standards, and it bridged the gap between recording and performance.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/28/ableton-live-13-beta/"
+  },
+  {
+   "cat": "radio",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Audiobook Checker - A Free Tool For Audiobook Producers - Is It Worth Using?",
+   "take": "Audiobook Checker is a new free tool which 23audio launched alongside its paid Voice Processor, as a free app and plugin that checks audiobook chapters against ACX's audio requirements. Matt, the developer, has spent nearly 20 years as an audio freelancer in audiobook and voiceover studios.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/audiobook-checker-a-free-checker-for-audio-book-producers",
+   "free": true
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Waveboard iPad Modular Synth Returns as a Free Download",
+   "take": "Luke Bradford has rebuilt Waveboard, the touch-patching iPad modular synth first released in 2012. The app includes 30 editable instruments, a 38-component builder and USB and Bluetooth MIDI support.… Read More Waveboard iPad Modular Synth Returns as a Free Download",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/28/waveboard-ipad-modular-synth-returns-as-a-free-download/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "open-field CF: Teenage Engineering OP-1 Field gets a massive unofficial feature boost",
+   "take": "open-field is a new project by LaP0573 that brings a massive unofficial feature boost to the Teenage Engineering OP-1 Field. In recent months, custom firmwares have dominated the news. Even the original Teenage Engineering OP-1 [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/open-field-cf-teenage-engineering-op-1-field-gets-a-massive-unofficial-feature-boost.html"
+  },
+  {
+   "cat": "music",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Remembering Jean-Claude Vannier",
+   "take": "Serge Gainsbourg biographer Jeremy Allen looks back at the life and times of an inspired French composer. Main portrait by Léo Alestro, with thanks to Ipecac I was lucky enough to meet Jean-Claude Vannier, the French composer who died on Friday 27 November aged 83, on two separate occasions.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/news/remember-them/jean-claude-vannier-obituary/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 2,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "5 of the Most Expensive Synths You Can Buy",
+   "take": "Feeling aspirational? Got money to burn? These are the most expensive synths on the market today.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/5-of-the-most-expensive-synths/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Karanyi Sounds releases Brigade vocal multiplier as a FREE download",
+   "take": "Karanyi Sounds has released Brigade, a vocal multiplier plugin for macOS and Windows, as a free download for Black Friday. We covered the Brigade preregistration offer earlier this month, and the plugin is now finally available to claim.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/28/karanyi-sounds-brigade-free/",
+   "free": true
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Push & Groove Releases Beadscape Core Free Granular Plugin, Based on Mutable Instruments Beads",
+   "take": "Push and Groove’s free BEADSCAPE CORE brings Mutable Instruments Beads-inspired granular processing to a DAW, with live audio input, an internal wave oscillator, tempo-synced grains and four texture modes.… Read More Push & Groove Releases Beadscape Core Free Granular Plugin, Based on Mutable…",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/27/push-groove-releases-beadscape-core-free-granular-plugin-based-on-mutable-instruments-beads/",
+   "free": true
+  },
+  {
+   "cat": "visual",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "HOFA Analyzer V3 Moves Its Filter Bank Analysis To The GPU And Adds A Custom Layout Mode",
+   "take": "HOFA-Plugins released HOFA Analyzer V3 today, the latest version of its spectrum analyser and metering suite for studio and live use. Version 3 moves all processing and graphics to the GPU and doubles the available resolution.",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/hofa-analyzer-v3-moves-its-filter-bank-analysis-to-the-gpu-and-adds-a-custom-layout-mode"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-26",
+   "title": "Tubbutec TR-8oh8 mod supercharges your Roland TR-808 and Din Sync RE-808",
+   "take": "Tubbutec TR-8oh8 is a new hardware mod that supercharges your Roland TR-808 and Din Sync RE-808 with tons of new features & full MIDI support The TR-8oh8 mod is available now & article has been [...]",
+   "source": "Synth Anatomy",
+   "url": "https://synthanatomy.com/2026/11/tubbutec-tr-8oh8-mod-supercharges-your-roland-tr-808-and-din-sync-re-808.html"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Paperback Writers: Why Do Rock Stars Make Terrible Novelists?",
+   "take": "The Go-Betweens' Robert Forster has a novel out – it joins a wretched parade of books by pop musicians hellbent on parlaying their fame in the publishing world Earlier this year, Robert Forster, ex-Go-Between and respected elder-statesman of indie rock, did something only a handful of his peers…",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/culture/books/paperback-writers-why-do-rock-stars-make-terrible-novelists-essay/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Weird Music Videos: Top 5 WTF Moments From Music History",
+   "take": "Weird music videos can sometimes make or break a hit. From one-hit wonders to household names, here are 5 music videos that defied convention.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/weird-music-videos-5-wtf-moments-music-history/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-28",
+   "title": "Akai Professional MPC Sample update brings community-built FX and brand-new features",
+   "take": "It’s been a busy period for Akai Professional, and for MPC users, it feels like Christmas came early. The flagship MPC 3 workflow officially rolled out of beta a few weeks ago, and now it’s time for the MPC Sample to welcome some significant changes.",
+   "source": "Bedroom Producers Blog",
+   "url": "https://bedroomproducersblog.com/2026/11/28/akai-professional-mpc-sample-update/"
+  },
+  {
+   "cat": "tools",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Open-Source MTRX-1K Recreates The Classic Oberheim Matrix-1000",
+   "take": "MTRX-1K recreates the Oberheim Matrix-1000 by running its original firmware, with an expanded patch editor, up to 24-voice polyphony, integrated effects and open-source code.… Read More Open-Source MTRX-1K Recreates The Classic Oberheim Matrix-1000",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/11/27/open-source-mtrx-1k-recreates-the-classic-oberheim-matrix-1000/"
+  },
+  {
+   "cat": "music",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Jean-Claude Vannier has Died, Aged 83",
+   "take": "The French composer was famed for his work on Serge Gainsbourg's Histoire de Melody Nelson Jean-Claude Vannier, the widely respected French composer and arranger whose work lit up Serge Gainsbourg's 1971 concept album Histoire de Melody Nelson, has died at the age of 83.",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/news/jean-claude-vannier-has-died-aged-83/"
+  },
+  {
+   "cat": "synthesis",
+   "signal": 1,
+   "auto": true,
+   "date": "2026-11-27",
+   "title": "Affordable Studio Furniture: Give Your Studio a Glow-Up",
+   "take": "Giving your studio a makeover is easy with the help of affordable studio furniture, and we've chosen a few key items to transform your creative space.",
+   "source": "Gearnews",
+   "url": "https://www.gearnews.com/affordable-studio-furniture/"
+  }
+ ]
+}
